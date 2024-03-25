@@ -56,45 +56,18 @@ permalink: /governance/
 
 <p>Standing Committees are used by the Board as a practical way to manage the work and engagement of the Board. For a description of the different Standing Committees, <a href="https://docs.carpentries.org/topic_folders/governance/board.html#board-of-directors-standing-committees">see the Carpentries' Handbook</a>.</p>
 
-<b>Audit Committee</b>
+{% assign cmtes = site.data.governance.committees %}
 
-{% assign audit = site.data.governance.people | where: "committee_audit", true | sort: "person_name" | reverse %}
-
+{% for c in cmtes %}
+<b>{{ c.committee_name }}</b>
 <ul>
-  {% for person in audit %}
-  <li>{{ person.person_name }}</li>
+  <li><b>Chair:</b> {{ c.chair }}</li>
+  {% assign member_list = c.members | sort: "person_name" | reverse %}
+  {% for m in member_list %}
+  <li>{{ m }}</li>
   {% endfor %}
 </ul>
-
-<b>Governance and Personnel Committee</b>
-
-{% assign governance = site.data.governance.people | where: "committee_governance", true | sort: "person_name" | reverse %}
-
-<ul>
-  {% for person in governance %}
-  <li>{{ person.person_name }}</li>
-  {% endfor %}
-</ul>
-
-<b>Finance Committee</b>
-
-{% assign finance = site.data.governance.people | where: "committee_finance", true | sort: "person_name" | reverse %}
-
-<ul>
-  {% for person in finance %}
-  <li>{{ person.person_name }}</li>
-  {% endfor %}
-</ul>
-
-<b>Program Committee</b>
-
-{% assign program = site.data.governance.people | where: "committee_program", true | sort: "person_name" | reverse %}
-
-<ul>
-  {% for person in program %}
-  <li>{{ person.person_name }}</li>
-  {% endfor %}
-</ul>
+{% endfor %}
 
 <h2 id="bylaws">Carpentries Bylaws and Policies</h2>
 <p><a href="/files/exec_council/carpentries_inc_bylaws.pdf">The Carpentries Bylaws can be found here</a>. As well as our <a href="https://docs.carpentries.org/topic_folders/policies/index_coc.html">Code of Conduct</a>, we have a number of other policies that govern how we operate, <a href="https://docs.carpentries.org/topic_folders/policies/index.html">including our Privacy Policy, our instructor 'no-show' policy and others</a>.</p>

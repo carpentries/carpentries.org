@@ -6,10 +6,6 @@ people:
   country: NZ
   advisory: true
   active: true
-  committee_audit: false
-  committee_governance: true
-  committee_finance: false
-  committee_program: true
   term: Elected 2024
   
 - person_name: Jannetta Steyn
@@ -21,10 +17,6 @@ people:
   country: GB
   advisory: false
   active: true
-  committee_audit: false
-  committee_governance: true
-  committee_finance: false
-  committee_program: true
   term: Elected 2024
 
 - person_name: Mark Crowe
@@ -33,10 +25,6 @@ people:
   linkedin: marklcrowe
   advisory: false
   active: true
-  committee_audit: true
-  committee_governance: false
-  committee_finance: true
-  committee_program: false
   term: Elected 2024
   
 - person_name: Paola Corrales
@@ -48,10 +36,6 @@ people:
   orcid: 0000-0002-8082-1890
   advisory: false
   active: true
-  committee_audit: false
-  committee_governance: false
-  committee_finance: true
-  committee_program: true
   term: Elected 2024
   
 - person_name: John Chodacki
@@ -61,10 +45,6 @@ people:
   country: US
   advisory: false
   active: true
-  committee_audit: true
-  committee_governance: true
-  committee_finance: false
-  committee_program: false
   term: Appointed 2023
   role: President
   
@@ -77,10 +57,6 @@ people:
   country: AR
   advisory: true
   active: true
-  committee_audit: false
-  committee_governance: true
-  committee_finance: false
-  committee_program: true
   term: Appointed 2023
   role: Vice President
   
@@ -93,10 +69,6 @@ people:
   country: US
   advisory: false
   active: true
-  committee_audit: false
-  committee_governance: false
-  committee_finance: true
-  committee_program: true
   term: Appointed 2023
   role: Secretary
   
@@ -105,10 +77,6 @@ people:
   country: US
   advisory: false
   active: true
-  committee_audit: false
-  committee_governance: false
-  committee_finance: true
-  committee_program: false
   term: Appointed 2023
   role: Treasurer
   
@@ -121,10 +89,6 @@ people:
   mastodon: https://fosstodon.org/@tararobertson@mastodon.social
   advisory: false
   active: true
-  committee_audit: false
-  committee_governance: true
-  committee_finance: false
-  committee_program: true
   term: Appointed 2024
   
 - person_name: Eboni Dotson
@@ -133,10 +97,6 @@ people:
   linkedin: drebonidotson
   advisory: false
   active: true
-  committee_audit: true
-  committee_governance: true
-  committee_finance: false
-  committee_program: false
   term: Appointed 2024
   
 - person_name:  Konrad Förstner
@@ -148,9 +108,39 @@ people:
   country: DE
   advisory: true
   active: true
-  committee_audit: true
-  committee_governance: false
-  committee_finance: false
-  committee_program: true
   term: Appointed 2023
-  
+
+committees:
+
+- committee_name: "Audit Committee"
+  chair: Mark Crowe
+  members: 
+    - Konrad Förstner
+    - John Chodacki
+    - Eboni Dotson
+
+- committee_name: "Governance and Personnel Committee"
+  chair: Tara Robertson
+  members: 
+    - Yanina Bellini Saibene
+    - Nisha Ghatak
+    - John Chodacki
+    - Jannetta Steyn
+    - Eboni Dotson
+
+- committee_name: "Finance Committee"
+  chair: Michael Smith
+  members: 
+    - Sarah Stevens
+    - Paola Corrales
+    - Mark Crowe
+
+- committee_name: "Program Committee"
+  chair: Nisha Ghatak
+  members: 
+    - Yanina Bellini Saibene
+    - Tara Robertson
+    - Sarah Stevens
+    - Paola Corrales
+    - Konrad Förstner
+    - Jannetta Steyn
