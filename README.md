@@ -1,15 +1,6 @@
 ## Carpentries project
 
-For now the theme is local so you can simply run:
-
-1.
-```
-npm install
-```
-2.
-```
-hugo serve
-```
+You should have Go installed on your machine for this project to work. (We're using Go Module to import the theme form github.com/carpentries/carpentries-hugo-theme)
 
 ## Info
 
