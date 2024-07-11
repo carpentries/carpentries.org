@@ -1,0 +1,8 @@
+{{ $all_members := getJSON "https://feeds.carpentries.org/all_public_memberships.json" }}
+
+
+<ul>
+{{ range $all_members  }}
+<li><b>{{ .name }}</b>: {{ .country }}</li>
+{{ end }}
+</ul>

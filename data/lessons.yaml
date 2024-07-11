@@ -1,0 +1,451 @@
+---
+-
+    program: SWC
+    name: The Unix Shell
+    description: An introduction to working with the shell, for researchers and others who want to learn how to automate repetitive tasks and easily combine smaller tasks into larger, more powerful workflows.
+    tool: Shell
+    skill: Automating tasks; Tracking versions
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/shell-novice
+-
+    program: SWC
+    name: Version Control with Git
+    description: An introduction to working with Git and GitHub, for researchers and others who want to learn how to track versions of their files and collaborate more easily on projects.
+    tool: Git
+    skill: Collaborating
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/git-novice
+-
+    program: SWC
+    name: Programming with Python
+    description: An introduction to Python built around data analysis, for researchers and others who want to learn how to write programs that perform reproducible analyses.
+    tool: Python
+    skill: Programming
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/python-novice-inflammation
+-
+    program: SWC
+    name: Plotting and Programming in Python
+    description: An introduction to Python that places an emphasis on working with and visualising tabular data.
+    tool: Python
+    skill: Data visualisation; Programming
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/python-novice-gapminder
+-
+    program: SWC
+    name: Programming with R
+    description: An introduction to R built around data analysis, for researchers and others who want to learn how to write programs that perform reproducible analyses.
+    tool: R
+    skill: Programming
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/r-novice-inflammation
+-
+    program: SWC
+    name: R for Reproducible Scientific Analysis
+    description: An introduction to R that places an emphasis on making data analysis reproducible, using examples of data processing and visualisation.
+    tool: R
+    skill: Data visualisation; Programming
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/r-novice-gapminder
+-
+    program: SWC
+    name: La Terminal de Unix
+    description:
+    tool:
+    skill:
+    language: Spanish
+    domain: General
+    url: http://swcarpentry.github.io/shell-novice-es
+-
+    program: SWC
+    name: Control de versiones con Git
+    description:
+    tool:
+    skill:
+    language: Spanish
+    domain: General
+    url: http://swcarpentry.github.io/git-novice-es
+-
+    program: SWC
+    name: R para Análisis Científicos Reproducibles
+    description:
+    tool:
+    skill:
+    language: Spanish
+    domain: General
+    url: http://swcarpentry.github.io/r-novice-gapminder-es
+-
+    program: SWC
+    name: Automation and Make
+    description: An introduction to automation of analysis workflows with Make, for researchers and others who want to perform multi-step analyses on the command line more reproducibly and efficiently.
+    tool: Make
+    skill: Automating tasks
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/make-novice
+-
+    program: SWC
+    name: Programming with MATLAB
+    description: An introduction to MATLAB built around data analysis, for researchers and others who want to learn how to write programs that perform reproducible analyses.
+    tool: MATLAB
+    skill: Data visualisation; Programming
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/matlab-novice-inflammation
+-
+    program: SWC
+    name: Using Databases and SQL
+    description: An introduction to querying and managing relational databases with SQLite, for researchers and others who want to learn how to access, filter and summarise large vlumes of data.
+    tool: SQL; SQLite
+    skill: Accessing data
+    language: English
+    domain: General
+    url: http://swcarpentry.github.io/sql-novice-survey
+-
+    program: LC
+    name: Workshop Overview
+    description: A lesson to introduce Library Carpentry and summarise the lessons that can be taught in a workshop.
+    tool:
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-overview/
+-
+    program: LC
+    name: Introduction to Working with Data (Regular Expressions)
+    description: An introduction to working with data using regular expressions, for people with library- and information-related roles who want to learn how to perform pattern-based searches in large bodies of text.
+    tool: Regular expressions
+    skill: Pattern matching
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-data-intro/
+-
+    program: LC
+    name: The Unix Shell
+    description: An introduction to working with the shell, for people with library- and information-related roles who want to learn how to work with files and folders and automate repetitive tasks from the command line.
+    tool: Shell
+    skill: Automating tasks
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-shell/
+-
+    program: LC
+    name: OpenRefine
+    description: An introduction to working with data in OpenRefine, for people with library- and information-related roles who want to learn how to clean, filter, and transform large volumes of tabular data.
+    tool: OpenRefine
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-open-refine/
+-
+    program: LC
+    name: Introduction to Git
+    description: An introduction to working with Git and GitHub, for people with library- and information-related roles who want to learn how to track versions of their files and share their work in a public repository.
+    tool: Git
+    skill: Tracking versions; Web publishing
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-git/
+-
+    program: LC
+    name: SQL
+    description: An introduction to relational database management with SQLite, for people with library- and information-related roles who want to learn how to summarise and connect information in large volumes of data.
+    tool:
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-sql/
+-
+    program: LC
+    name: Tidy Data for Librarians
+    description: An exploration of good practices in data organisation and wrangling in spreadsheets, for librarians and those in information-related roles.
+    tool:
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-spreadsheets/
+-
+    program: LC
+    name: Introduction to Webscraping
+    description: (will be removed from LC lessons page)
+    tool:
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-webscraping/
+-
+    program: LC
+    name: Introduction to Python for Librarians
+    description: An introduction to programming in Python for librarians with little or no previous programming experience who want to learn how to write programs that can automate the processing of large volumes of information. (alpha)
+    tool: Python
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-python-intro/
+-
+    program: LC
+    name: Introduction to Data for Archivists
+    description: An exploration of good practices and useful skills for working with data, for archivists who want to learn how to work with data and to match patterns in large volumes of text. (alpha)
+    tool: Regular expressions
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-data-intro-archives/
+-
+    program: LC
+    name: Introduction to R for Librarians
+    description: An introduction to programming in R for librarians with little or no previous programming experience who want to learn how to write programs to analyse large volumes of data and visualise the results. (alpha)
+    tool: R
+    skill:
+    language: English
+    domain: Library
+    url: https://librarycarpentry.org/lc-r/
+-
+    program: DC
+    name: Foundations of Astronomical Data Science
+    description: An introduction to core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum is aimed at researchers and others, who want to perform database operations (SQL queries, joins, filtering) and to create publication-quality visualisations with astronomy data.
+    tool: Python
+    skill: Data visualisation; Accessing data; Programming
+    language: English
+    domain: Astronomy
+    url: https://datacarpentry.org/astronomy-python/
+-
+    program: DC
+    name: Ecology Workshop Overview
+    description: A lesson to introduce the Data Carpentry Ecology curriculum.
+    tool:
+    skill:
+    language: English
+    domain: Ecology
+    url: https://datacarpentry.org/ecology-workshop/
+-
+    program: DC
+    name: Data Organization in Spreadsheets for Ecologists
+    description: An exploration of good practices in data organisation and wrangling in spreadsheets, aimed at ecologists who want to learn how to prepare tabular data for downstream analysis.
+    tool: Spreadsheets
+    skill: Data organisation
+    language: English
+    domain: Ecology
+    url: https://datacarpentry.org/spreadsheet-ecology-lesson/
+-
+    program: DC
+    name: Data Cleaning with OpenRefine for Ecologists
+    description: An introduction to the OpenRefine tool, aimed at ecologists who want to clean and format data effectively and automatically track the changes they make.
+    tool: OpenRefine
+    skill:
+    language: English
+    domain: Ecology
+    url: https://datacarpentry.org/OpenRefine-ecology-lesson/
+-
+    program: DC
+    name: Data Management with SQL for Ecologists
+    description: An introduction to relational databases and the SQL language that can be used to query them, for ecologists who want to store and access data effectively.
+    tool: SQL; SQLite
+    skill: Data visualisation; Accessing data
+    language: English
+    domain: Ecology
+    url: https://datacarpentry.org/sql-ecology-lesson/
+-
+    program: DC
+    name: Data Analysis and Visualization in R for Ecologists
+    description: An introduction to R designed for participants with no programming experience, aimed at ecologists who want to load, process, summarise, and visualise data.
+    tool: R
+    skill: Data visualisation; Programming
+    language: English
+    domain: Ecology
+    url: https://datacarpentry.org/R-ecology-lesson/
+-
+    program: DC
+    name: Data Analysis and Visualization in Python for Ecologists
+    description: An introduction to Python designed for participants with no programming experience, aimed at ecologists who want to load, process, summarise, and visualise data.
+    tool: Python
+    skill: Data visualisation; Programming
+    language: English
+    domain: Ecology
+    url: https://datacarpentry.org/python-ecology-lesson/
+-
+    program: DC
+    name: Análisis y visualización de datos usando Python
+    description: (beta)
+    tool:
+    skill:
+    language: Spanish
+    domain: Ecology
+    url: https://datacarpentry.org/python-ecology-lesson-es/
+-
+    program: DC
+    name: Genomics Workshop Overview
+    description: A lesson to introduce the Data Carpentry Genomics curriculum.
+    tool:
+    skill:
+    language: English
+    domain: Genomics
+    url: https://datacarpentry.org/genomics-workshop/
+-
+    program: DC
+    name: Project Organization and Management for Genomics
+    description: An introduction to project and data management, for researchers who want to learn how to access, prepare, organise, and store large volumes of genomic data.
+    tool: Spreadsheets
+    skill: Data organisation
+    language: English
+    domain: Genomics
+    url: https://datacarpentry.org/organization-genomics
+-
+    program: DC
+    name: Introduction to the Command Line for Genomics
+    description: An introduction to working with the shell, for researchers who want to learn how to navigate, organise, and process genomic data from the command line.
+    tool: Shell
+    skill: Automating tasks
+    language: English
+    domain: Genomics
+    url: https://datacarpentry.org/shell-genomics/
+-
+    program: DC
+    name: Data Wrangling and Processing for Genomics
+    description: A walkthrough of a typical variant calling pipeline, for researchers who want to create a genomics analysis pipeline in the shell.
+    tool: Shell
+    skill: Data organisation
+    language: English
+    domain: Genomics
+    url: https://datacarpentry.org/wrangling-genomics/
+-
+    program: DC
+    name: Introduction to Cloud Computing for Genomics
+    description: An introduction to the fundamental concepts of cloud computing, for researchers who want to learn how to access and use on-demand computing resources to fit their needs.
+    tool: Shell
+    skill: Accessing remote computers
+    language: English
+    domain: Genomics
+    url: https://datacarpentry.org/cloud-genomics
+-
+    program: DC
+    name: Intro to R and RStudio for Genomics
+    description: An introduction to using R for novice programmers who want to use the language to perform reproducible analyses of tabular genomics data, and visualise the results. (alpha)
+    tool: R
+    skill: Data visualisation; Programming
+    language: English
+    domain: Genomics
+    url: https://datacarpentry.org/genomics-r-intro/
+-
+    program: DC
+    name: Geospatial Workshop Overview
+    description: A lesson to introduce the Data Carpentry Geospatial curriculum.
+    tool:
+    skill:
+    language: English
+    domain: Geospatial
+    url: https://datacarpentry.org/geospatial-workshop/
+-
+    program: DC
+    name: Introduction to Geospatial Concepts
+    description: An overview of the core concepts of geospatial data, for researchers who want to start working with raster or vector data.
+    tool:
+    skill:
+    language: English
+    domain: Geospatial
+    url: https://datacarpentry.org/organization-geospatial/
+-
+    program: DC
+    name: Introduction to R for Geospatial Data
+    description: An introduction to using R for novice programmers who want to use the language to load and manipulate tabular data.
+    tool: R
+    skill: Programming
+    language: English
+    domain: Geospatial
+    url: https://datacarpentry.org/r-intro-geospatial
+-
+    program: DC
+    name: Introduction to Geospatial Raster and Vector Data with R
+    description: An introduction to working with spatial data in R, for researchers and others who want to open, process, summarise, and plot vector and raster-format spatial data.
+    tool: R
+    skill: Data visualisation; Programming
+    language: English
+    domain: Geospatial
+    url: https://datacarpentry.org/r-raster-vector-geospatial
+-
+    program: DC
+    name: Social Science Workshop Overview
+    description: A lesson to introduce the Data Carpentry Social Science curriculum.
+    tool:
+    skill:
+    language: English
+    domain: Social Sciences
+    url: https://datacarpentry.org/socialsci-workshop/
+-
+    program: DC
+    name: Data Organization in Spreadsheets for Social Scientists
+    description: An exploration of good practices in data organisation and wrangling in spreadsheets, aimed at social scientists who want to learn how to prepare tabular data for downstream analysis.
+    tool: Spreadsheets
+    skill: Data organisation
+    language: English
+    domain: Social Sciences
+    url: https://datacarpentry.org/spreadsheets-socialsci/
+-
+    program: DC
+    name: Data Cleaning with OpenRefine for Social Scientists
+    description: An introduction to the OpenRefine tool, aimed at social scientists who want to clean and format data effectively and automatically track the changes they make.
+    tool: OpenRefine
+    skill:
+    language: English
+    domain: Social Sciences
+    url: https://datacarpentry.org/openrefine-socialsci/
+-
+    program: DC
+    name: Data Analysis and Visualization with R for Social Scientists
+    description: An introduction to R designed for participants with no programming experience, aimed at social scientists who want to load, process, summarise, and visualise data.
+    tool: R
+    skill: Programming; Data visualisation
+    language: English
+    domain: Social Sciences
+    url: https://datacarpentry.org/r-socialsci/
+-
+    program: DC
+    name: Data Analysis and Visualization with Python for Social Scientists
+    description: An introduction to Python designed for participants with no programming experience, aimed at social scientists who want to load, process, summarise, and visualise data. (alpha)
+    tool: Python
+    skill: Programming; Data visualisation
+    language: English
+    domain: Social Sciences
+    url: https://datacarpentry.org/python-socialsci/
+-
+    program: DC
+    name: Data Management with SQL for Social Scientists
+    description: An introduction to relational databases and the SQL language that can be used to query them, for social scientists who want to store and access data effectively. (alpha)
+    tool: SQL
+    skill:
+    language: English
+    domain: Social Sciences
+    url: https://datacarpentry.org/sql-socialsci/
+-
+    program: DC
+    name: Image Processing with Python
+    description: An introduction to the core concepts and fundamental steps of image data processing, for researchers and others who want to use Python to programmatically segment images and extract individual objects for downstream analysis. (beta)
+    tool: Python
+    skill: Data visualisation; Image Processing; Programming
+    language: English
+    domain: Imaging
+    url: https://datacarpentry.org/image-processing/
+-
+    program: DC
+    name: Introduction to Stata for Economics
+    description: (alpha)
+    tool:
+    skill:
+    language: English
+    domain: Economics
+    url: https://datacarpentry.org/stata-economics/
+-
+    program: DC
+    name: Introduction to the Command Line for Economics
+    description: (alpha)
+    tool:
+    skill:
+    language: English
+    domain: Economics
+    url: https://datacarpentry.org/shell-economics/

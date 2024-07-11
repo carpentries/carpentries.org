@@ -1,0 +1,430 @@
+# Top menu for Carpentries & Lesson Programs
+top:
+  - name: The Carpentries
+    url: /
+    weight: 10
+  - name: Data Carpentry
+    url: https://datacarpentry.org/
+    weight: 20
+  - name: Software Carpentry
+    url: https://software-carpentry.org/
+    weight: 30
+  - name: Library Carpentry
+    url: https://librarycarpentry.org/
+    weight: 40
+# About page tabbed menu
+about:
+- name: About us
+  pageRef: /about-us
+  weight: 10
+- name: Impact
+  pageRef: /about-us/impact
+  weight: 20
+- name: Governance
+  pageRef: /about-us/governance
+  weight: 30
+- name: Our team
+  pageRef: /about-us/team
+  weight: 40
+- name: Financials
+  pageRef: /about-us/financials
+  weight: 50
+- name: Publications
+  pageRef: /about-us/publications
+  weight: 60
+- name: Contact us
+  pageRef: /about-us/contact
+  weight: 70
+# Workshops page tabbed menu
+workshops:
+- name: Workshops
+  pageRef: /workshops
+  weight: 10
+- name: Workshops FAQ
+  pageRef: /workshops/workshops-faq
+  weight: 30
+- name: Upcoming workshops
+  pageRef: /workshops/upcoming-workshops
+  weight: 50
+# Instructor Training tabbed menu
+instructor-training:
+- name: Instructor Training
+  pageRef: /instructor-training
+  weight: 10
+- name: Instructor Training FAQ
+  pageRef: /instructor-training/instructor-training-faq
+  weight: 20
+# Trainer Training tabbed menu
+trainer-training:
+- name: Trainer Training
+  pageRef: /trainer-training
+  weight: 10
+- name: Trainer Training FAQ
+  pageRef: /trainer-training/trainer-training-faq
+  weight: 20
+# Host tabbed menu
+host:
+- name: Host a workshop
+  pageRef: /host/host-workshop
+  weight: 10
+- name: Host a training
+  pageRef: /host/host-training
+  weight: 20
+- name: Pricing
+  pageRef: host/pricing
+  weight: 30
+# Community tabbed menu
+community:
+- name: Community
+  pageRef: /community/
+  weight: 10
+- name: Community Events
+  pageRef: /community/events
+  weight: 20
+- name: Get Connected
+  pageRef: /community/get-connected
+  weight: 30
+- name: Get Involved
+  pageRef: /community/get-involved
+  weight: 40
+# Membership tabbed menu
+membership:
+- name: Membership
+  pageRef: /support/membership
+  weight: 10
+- name: Membership FAQ
+  pageRef: /support/membership/membership-faq
+  weight: 20
+- name: Current Members
+  pageRef: /support/membership/member-list/
+# Main menu
+main:
+# Main menu: About
+- identifier: about-us
+  name: About us
+  url: "/about-us/"
+  parent: null
+  weight: 10
+- identifier: about-the-carpentries
+  name: The Carpentries
+  pageRef: "/about-us/"
+  parent: about-us
+  weight: 20
+- identifier: impact
+  name: Impact
+  pageRef: "/about-us/impact/"
+  parent: about-us
+  weight: 30
+- identifier: governance
+  name: Governance
+  pageRef: "/about-us/governance/"
+  parent: about-us
+  weight: 40
+- identifier: team
+  name: Team
+  pageRef: "/about-us/team/"
+  parent: about-us
+  weight: 50
+- identifier: careers
+  name: Careers
+  pageRef: "/about-us/careers/"
+  parent: about-us
+  weight: 60
+- identifier: financials
+  name: Financials
+  pageRef: "/about-us/financials/"
+  parent: about-us
+  weight: 70
+- identifier: publications
+  name: Publications
+  pageRef: "/about-us/publications/"
+  parent: about-us
+  weight: 80
+- identifier: contact-us
+  name: Contact us
+  pageRef: "/about-us/contact-us/"
+  parent: about-us
+  weight: 90
+# Learn Menu
+- identifier: learn
+  name: Learn
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: lessons
+  name: Lessons
+  pageRef: "/lessons/"
+  parent: learn
+  weight: 10
+- identifier: workshops
+  name: Workshops
+  pageRef: "/workshops/"
+  parent: learn
+  weight: 20
+- identifier: instructor-training
+  name: Instructor Training
+  pageRef: "/instructor-training/"
+  parent: learn
+  weight: 30
+- identifier: trainer-training
+  name: Trainer Training
+  pageRef: "/trainer-training/"
+  parent: learn
+  weight: 40
+- identifier: lesson-development
+  name: Lesson Development
+  pageRef: "/lesson-development/"
+  parent: learn
+  weight: 50
+# Volunteer menu
+- identifier: volunteer
+  name: Volunteer
+  url: "#"
+  parent: null
+  weight: 30
+- identifier: community
+  name: Community
+  url: "/community/"
+  parent: volunteer
+  weight: 10
+- identifier: get-involved
+  name: Get Involved
+  url: "/community/get-involved"
+  parent: volunteer
+  weight: 20
+- identifier: handbook
+  name: Handbook
+  url: "https://docs.carpentries.org/"
+  parent: volunteer
+  weight: 30
+- identifier: amy
+  name: AMY
+  url: "https://amy.carpentries.org/"
+  parent: volunteer
+  weight: 50
+# Host menu
+- identifier: host
+  name: Host
+  url: "#"
+  parent: null
+  weight: 40
+- identifier: host-a-workshop
+  name: Host a workshop
+  pageRef: "/host/host-workshop/"
+  parent: host
+  weight: 10
+- identifier: host-a-training
+  name: Host a training
+  url: "/host/host-training/"
+  parent: host
+  weight: 20
+- identifier: pricing
+  name: Pricing
+  url: "/host/pricing/"
+  parent: host
+  weight: 30
+# Support Menu
+- identifier: support
+  name: Support
+  url: "#"
+  parent: null
+  weight: 50
+- identifier: membership
+  name: Membership
+  url: "/support/membership"
+  parent: support
+  weight: 10
+- identifier: sponsorship
+  name: Sponsorship
+  url: "/support/sponsorship"
+  parent: support
+  weight: 20
+- identifier: donate
+  name: Donate
+  url: "https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8"
+  parent: support
+  weight: 30
+# Communications menu
+- identifier: communications
+  name: Communications
+  url: "#"
+  parent: null
+  weight: 60
+- identifier: blog
+  name: Blog
+  url: "/blog/"
+  parent: communications
+  weight: 10
+- identifier: newsletter
+  name: Newsletter
+  pageRef: "/newsletter/"
+  parent: communications
+  weight: 20
+- identifier: mastodon
+  name: Mastodon
+  url: "https://hachyderm.io/@thecarpentries"
+  parent: communications
+  weight: 30
+- identifier: linkedin
+  name: Linkedin
+  url: "https://www.linkedin.com/company/the-carpentries/"
+  parent: communications
+  weight: 40
+footer:
+# Footer menu: Menu 1
+- identifier: about-us
+  name: About us
+  url: "/about-us/"
+  parent: null
+  weight: 10
+- identifier: link-1
+  name: Code of Conduct
+  pageRef: "https://docs.carpentries.org/topic_folders/policies/index_coc.html"
+  parent: about-us
+  weight: 20
+- identifier: link-2
+  name: Our History
+  pageRef: "/about-us/#our-history"
+  parent: about-us
+  weight: 30
+- identifier: link-3
+  name: Our Governance
+  pageRef: "/about-us/governance/"
+  parent: about-us
+  weight: 40
+# Footer menu: Menu 2
+- identifier: workshops
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: link-4
+  name: Workshops FAQ
+  pageRef: "/workshops/workshops-faq/"
+  parent: workshops
+  weight: 20
+- identifier: link-5
+  name: Request a workshop
+  pageRef: "https://amy.carpentries.org/forms/workshop"
+  parent: workshops
+  weight: 30
+- identifier: link-6
+  name: Link 3
+  pageRef: "#"
+  parent: workshops
+  weight: 40
+# Footer menu: Menu 3
+- identifier: volunteers
+  name: Volunteers
+  url: "#"
+  parent: null
+  weight: 30
+- identifier: link-7
+  name: Link 1
+  pageRef: "#"
+  parent: volunteers
+  weight: 20
+- identifier: link-8
+  name: Link 2
+  pageRef: "#"
+  parent: volunteers
+  weight: 30
+- identifier: link-9
+  name: Link 3
+  pageRef: "#"
+  parent: volunteers
+  weight: 40
+# Footer menu: Menu 4
+- identifier: membership
+  name: Membership
+  url: "#"
+  parent: null
+  weight: 40
+- identifier: link-10
+  name: Link 1
+  pageRef: "#"
+  parent: membership
+  weight: 20
+- identifier: link-11
+  name: Link 2
+  pageRef: "#"
+  parent: membership
+  weight: 30
+- identifier: link-12
+  name: Link 3
+  pageRef: "#"
+  parent: membership
+  weight: 40
+# Footer menu: Menu 5
+- identifier: resources
+  name: Resources
+  url: "#"
+  parent: null
+  weight: 50
+- identifier: link-13
+  name: Link 1
+  pageRef: "#"
+  parent: resources
+  weight: 20
+- identifier: link-14
+  name: Link 2
+  pageRef: "#"
+  parent: resources
+  weight: 30
+- identifier: link-15
+  name: Link 3
+  pageRef: "#"
+  parent: resources
+  weight: 40
+# Footer menu: Menu 6
+- identifier: connect
+  name: Connect
+  url: "#"
+  parent: null
+  weight: 60
+- identifier: link-16
+  name: Link 1
+  pageRef: "#"
+  parent: connect
+  weight: 20
+- identifier: link-17
+  name: Link 2
+  pageRef: "#"
+  parent: connect
+  weight: 30
+- identifier: link-18
+  name: Link 3
+  pageRef: "#"
+  parent: connect
+  weight: 40
+socials:
+- name: Slack
+  url: "https://swc-slack-invite.herokuapp.com/"
+  params:
+    img: "/slack-logo.svg"
+  weight: 10
+- name: Twitter
+  url: "https://twitter.com/thecarpentries"
+  params:
+    img: "/twitter-logo.svg"
+  weight: 20
+- name: Facebook
+  url: "https://www.facebook.com/carpentries"
+  params:
+    img: "/facebook-logo.svg"
+  weight: 30
+- name: Youtube
+  url: "https://www.youtube.com/thecarpentries"
+  params:
+    img: "/youtube-logo.svg"
+  weight: 40
+- name: LinkedIn
+  url: "https://www.linkedin.com/company/the-carpentries/"
+  params:
+    img: "/linkedin-logo.svg"
+  weight: 50
+- name: Github
+  url: "https://github.com/carpentries"
+  params:
+    img: "/github-logo.svg"
+  weight: 60

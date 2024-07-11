@@ -1,0 +1,7 @@
+posts: /blog/:year/:month/:filename/
+term:
+  tags: /blog/tag/:slug/
+  authors: /blog/author/:slug
+taxonomy:
+  authors: /blog/posts-by-authors
+  tags: /blog/posts-by-tags

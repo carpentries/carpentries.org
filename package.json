@@ -1,0 +1,26 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@alpinejs/intersect": "project",
+      "@tailwindcss/forms": "project",
+      "@tailwindcss/typography": "project",
+      "alpinejs": "project",
+      "postcss": "project",
+      "postcss-cli": "project",
+      "tailwindcss": "project"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@alpinejs/intersect": "^3.13.7",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.0",
+    "alpinejs": "^3.13.7",
+    "postcss": "^8.4.35",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "name": "carpentries.org",
+  "version": "0.1.0"
+}

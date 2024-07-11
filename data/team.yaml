@@ -1,0 +1,107 @@
+- name: Kari L. Jordan, PhD
+  pronouns: she/ella
+  pic: karijordan.jpg
+  position: Executive Director
+  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
+  email: kariljordan@carpentries.org
+  github: kariljordan
+  twitter: drkariljordan
+  calendly: kariljordan
+  et: true
+  alt_text:
+
+- name: Erin Becker, PhD
+  pronouns: she/her/hers
+  pic: erinbecker.jpg
+  position: Associate Director
+  jobplan: https://docs.google.com/document/d/1E6-36D6JqtLxnuHRARVulYs8vpQFYfEdGiRcAZZnjfQ/edit
+  email: ebecker@carpentries.org
+  github: erinbecker
+  twitter: ErinSBecker
+  calendly: ebecker-1
+  et: true
+  alt_text:
+
+- name: Toby Hodges, PhD
+  pronouns:  he/him/his
+  pic: tobyhodges.jpg
+  position: Director of Curriculum
+  lead: Curriculum Team Lead
+  email: tobyhodges@carpentries.org
+  github: tobyhodges
+  twitter: tbyhdgs
+  calendly: tobyhodges
+  et: false
+
+- name: SherAaron Hurt
+  pic: sheraaronhurt.jpg
+  pronouns: she/her
+  position: Director of Workshops and Training
+  lead: Workshops Team Lead
+  jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
+  email:  sheraaron@carpentries.org
+  github: sheraaronhurt
+  twitter: SherAaronHurt
+  calendly: sheraaron
+  et: false
+  alt_text:
+
+- name: Robert Davey, PhD
+  pic: robertdavey.jpg
+  pronouns: he/him/his
+  position: Director of Technology
+  lead: Technology Team Lead
+  jobplan:
+  email: robertdavey@carpentries.org
+  github: froggleston
+  linkedin: froggleston
+  twitter: froggleston
+  calendly: froggleston
+  orcid: 0000-0002-5589-7754
+  et: false
+  alt_text:
+
+- name: Oscar Masinyana
+  pic: oscarmasinyana.jpg
+  pronouns: he/him/they/them
+  position: Communications Manager
+  email: oscar.masinyana@carpentries.org
+  github: OscarSiba
+  twitter: oscarsibabalwe
+  linkedin: oscar-masinyana
+  calendly: oscar-masinyana-carpentries
+  orcid: 0009-0006-9624-3278
+  et: false
+  alt_text: African male with short dreadlocked hair, wearing reading glasses and smiling.
+
+- name: Maneesha Sane
+  pronouns: Any pronouns will do
+  pic: maneeshasane.jpg
+  position: Associate Director of Technology
+  jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
+  email: maneesha@carpentries.org
+  github: maneesha
+  calendly: maneesha
+  et: false
+  alt_text:
+
+- name: Danielle Sieh
+  pronouns: she/her/hers
+  pic: daniellesieh.jpg
+  position: Workshops and Training Manager
+  github: danielle06
+  email: danielle@carpentries.org
+  calendly: daniellesieh
+  et: false
+  alt_text:
+
+- name: Angelique Trusler, PhD
+  pronouns: Any pronouns will do
+  pic: angeliquetrusler.jpg
+  position: Community Manager
+  email: angelique@carpentries.org
+  github: elletjies
+  twitter: AngeliquePhd
+  calendly: angelique_v
+  et: false
+  alt_text:

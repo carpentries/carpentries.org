@@ -1,0 +1,20 @@
+---
+layout: page
+authors: ["SherAaron Hurt", "Alycia Crall"]
+teaser: "Learn more about the transition and how to be engaged"
+title: "The Instructor Development Committee is Moving and Needs YOUR Help"
+date: 2022-01-10
+time: "09:00:00"
+tags: ["Instructor Development", "Community"]
+---
+
+Since 2019, the Instructor Development Committee (IDC) has supported Instructors as they transitioned from Instructor training to becoming actively engaged in community activities such as teaching and curriculum development. They have supported community discussions and mentoring programs to offer opportunities for Instructors to learn from each other and have identified projects that will support Instructors in their work. Between 2018 and 2021, the committee was led by a number of our community members ([2020-2021 cohort](https://carpentries.org/blog/2020/09/announcing-2020-idc-leaders/), [2019-2020 cohort](https://carpentries.org/blog/2019/04/new-idc-members/)) and supported by a liaison from The Carpentries’ Community Development Team.
+
+Starting in 2022, the IDC will be transitioning from being supported by The Carpentries Community Development Team to the Workshop Administration Team. This is to ensure that Instructors receive necessary guidance as they transition from Instructor training to teaching their first workshop, especially if there is a significant time gap between becoming an Instructor and teaching. This will also allow the Workshop Administration Team to focus on building professional development programming to support our Instructors based on guidance from the IDC.
+
+As part of the transition, there will be a few changes in how the IDC is formed and the work that they will do.  
+- There will be a slight shift in the [governance structure](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html?highlight=instructor%20development%20committee#instructor-development-committee-roles) of the committee. Instead of having all members serve a one-year term, there will be two-year term leadership positions (i.e., Co-Chair, Mentoring Chair, Special Projects Chair) and one-year term positions (i.e., Secretary, Communications Lead, Member-at-Large). Individuals serving in leadership positions will serve in that role during their first year and transition into serving as a Member-at-Large in their second year so they can mentor incoming members who will be taking on that role and can continue to support projects that they are already engaged in.
+- Recruitment for community members to serve on the IDC will occur on an annual cycle. The application period will open in January each year, and members will be selected and onboarded in February. This decision was made so offboarding/onboarding would not conflict as much with religious holidays and other governance transitions for Carpentries community members.
+- Previously, a member of the IDC (Discussion session coordinator) was responsible for managing [Community Discussions](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html?highlight=community%20discussions). This process has been [automated](https://docs.carpentries.org/topic_folders/communications/guides/community_events.html) and will be managed by the Community Development Team moving forward.
+
+We are excited to announce that the [application](https://docs.google.com/forms/d/e/1FAIpQLSf1T8Gja3qMVWh9g4nc2sby_qOFrhlFA1jLamgQAQ6w7MnGew/viewform?usp=sf_link) for new IDC members is now open, and we will be accepting applications until 21 January 2022. If you would like to learn more about the IDC before applying, please join us for a themed community discussion being hosted by members of the Core Team and outgoing members of the IDC on January 18, 14:00 UTC ([see date/time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Development+Commitee&iso=20220128T14&p1=1440&ah=1)) and 23:00 UTC (s[ee date/time in your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Development+Committee&iso=20220111T23&p1=1440&ah=1)).
