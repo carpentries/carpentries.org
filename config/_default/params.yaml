@@ -6,6 +6,12 @@ title: The Carpentries
 git_repo: https://github.com/carpentries/new-site
 handbook_url: https://docs.carpentries.org
 
+logo: carpentries-logo.svg
+logoAlt: The Carpentries
+
+logoFooter: carpentries-logo-footer.svg
+logoFooterAlt: The Carpentries
+
 # General email addresses
 
 team_email: team@carpentries.org

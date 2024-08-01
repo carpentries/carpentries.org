@@ -3,6 +3,8 @@ top:
   - name: The Carpentries
     url: /
     weight: 10
+    params:
+      active: true
   - name: Data Carpentry
     url: https://datacarpentry.org/
     weight: 20

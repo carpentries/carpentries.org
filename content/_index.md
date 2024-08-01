@@ -15,6 +15,7 @@ blocks:
 - layout: hero
   title: Teaching foundational coding and data science workshops to researchers worldwide since 1998.
   image: /images/hero-background.jpg
+  text_color: white
 - layout: stats
   title: Our diverse and global community is comprised of
   stats:
