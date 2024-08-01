@@ -1,6 +1,2 @@
-github.com/carpentries/carpentries-hugo-theme v0.0.0-20240711132816-f427f9b532c8 h1:498E00qXkwZrjmJxn8749RhGFPFYkgEZsGNISQB30aw=
-github.com/carpentries/carpentries-hugo-theme v0.0.0-20240711132816-f427f9b532c8/go.mod h1:folIYik0FmlDRY0TIqSlFfhFi1OV+0mDYhBgsND+4JA=
-github.com/carpentries/carpentries-hugo-theme v0.0.0-20240712132939-2632c8bbb00b h1:b3uNne8ijv+18lHYADCPIXaGwxzA2xBDvaCnsKzxg3w=
-github.com/carpentries/carpentries-hugo-theme v0.0.0-20240712132939-2632c8bbb00b/go.mod h1:folIYik0FmlDRY0TIqSlFfhFi1OV+0mDYhBgsND+4JA=
-github.com/theNewDynamic/carpentries-theme v0.0.0-20240530145900-caf8617804d0 h1:QOtb0eBBRvcTn7bC31uolGozXJCECiWxvFjiZ+UH05A=
-github.com/theNewDynamic/carpentries-theme v0.0.0-20240530145900-caf8617804d0/go.mod h1:S6BW08mJiZmGpkIRntF4eyI/x6Ppg2fZFg5gkHjtZcM=
+github.com/carpentries/carpentries-hugo-theme v0.0.0-20240801144254-63eb880b041d h1:PMLrSI6cy+eLKk9AbJN9K6lTTMTEi/1WMoRPwuUY1N0=
+github.com/carpentries/carpentries-hugo-theme v0.0.0-20240801144254-63eb880b041d/go.mod h1:folIYik0FmlDRY0TIqSlFfhFi1OV+0mDYhBgsND+4JA=
