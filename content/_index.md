@@ -47,10 +47,10 @@ blocks:
 - layout: 2-col-image-text
   image: fifty-fifty-background.jpg
   title: Subscribe to our newsletter
-  subtitle: Get a roundup of events, updates, and tips twice a month.
+  subtitle: Get a roundup of events, updates, and tips every month.
   cta:
     copy: Subscribe to newsletter
-    url: '#'
+    url: '/about-us/newsletter/'
 - layout: logo-grid
   title: Our supporters
   copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
