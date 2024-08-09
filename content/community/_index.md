@@ -20,7 +20,7 @@ The Carpentries is a community of practice made up by various regional and role-
 - [Executive Council](/about-us/governance/) - community members that constitute the - governance and policy arm of The Carpentries
 - [Instructors](/community/instructors) - those who teach and sometimes organise workshops
 - [Lesson maintainers](/community/maintainers) - those who support existing lessons
-- [Regional Coordinators]() - those who coordinate workshops regionally
+- [Regional Coordinators](#) - those who coordinate workshops regionally.  Are we going to keep this page?
 - [Trainers](/community/trainers) - those who prepare our new Instructors
 
 
