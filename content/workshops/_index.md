@@ -5,13 +5,9 @@ cascade:
   nav: workshops
 ---
 
-* Current workshops page: https://carpentries.org/workshops/
-
+* Current workshops page: https://carpentries.org/workshops/ (included here for reference)
 
 ## Why The Carpentries workshops
-
-
-
 
 {{< table features >}}
 <table>
@@ -52,7 +48,7 @@ Join our global community.
 
 By attending a Carpentries Workshop, you are joining a community of instructors, helpers, learners, and more.
 
-[Get Involved](#)
+[Get Involved](/community/get-involved/)
 {.button}
 
 **BUBBLE STATS GO HERE**
