@@ -17,11 +17,11 @@ The Carpentries is a community of practice made up by various regional and role-
 
 - [Curriculum advisors](#) - those who guide development of existing - lessons
 - [Code of Conduct Committee](#) - those who keep our community friendly - and welcoming
-- [Executive Council](#) - community members that constitute the - governance and policy arm of The Carpentries
-- [Instructors](#) - those who teach and sometimes organise workshops
-- [Lesson maintainers](#) - those who support existing lessons
-- [Regional Coordinators](#) - those who coordinate workshops regionally
-- [Trainers](#) - those who prepare our new Instructors
+- [Executive Council](/about-us/governance/) - community members that constitute the - governance and policy arm of The Carpentries
+- [Instructors](/community/instructors) - those who teach and sometimes organise workshops
+- [Lesson maintainers](/community/maintainers) - those who support existing lessons
+- [Regional Coordinators]() - those who coordinate workshops regionally
+- [Trainers](/community/trainers) - those who prepare our new Instructors
 
 
 ## Contact Us
