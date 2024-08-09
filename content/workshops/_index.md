@@ -5,13 +5,9 @@ cascade:
   nav: workshops
 ---
 
-* Current workshops page: https://carpentries.org/workshops/
-
+* Current workshops page: https://carpentries.org/workshops/ (included here for reference)
 
 ## Why The Carpentries workshops
-
-
-
 
 {{< table features >}}
 <table>
