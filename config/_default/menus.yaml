@@ -6,13 +6,13 @@ top:
     params:
       active: true
   - name: Data Carpentry
-    url: https://datacarpentry.org/
+    url: https://dc-new-website.netlify.app/
     weight: 20
   - name: Software Carpentry
-    url: https://software-carpentry.org/
+    url: https://swc-new-website.netlify.app/
     weight: 30
   - name: Library Carpentry
-    url: https://librarycarpentry.org/
+    url: https://lc-new-website.netlify.app/
     weight: 40
 # About page tabbed menu
 about:
