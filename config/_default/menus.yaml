@@ -196,7 +196,7 @@ main:
   weight: 20
 - identifier: handbook
   name: Handbook
-  url: "https://docs.carpentries.org/"
+  url: "https://carpentries-beta-handbook-preview.netlify.app/"
   parent: volunteer
   weight: 30
 - identifier: amy
