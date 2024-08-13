@@ -23,3 +23,12 @@ Because contact information may be used in various places across the site, we us
     * [Youtube]({{< param youtube >}})
     * [Mastodon]({{< param mastodon >}})
     * [Linkedin]({{< param linkedin >}})
+
+
+* By mail:
+
+   The Carpentries\
+   c/o Community Initiatives\
+   1000 Broadway, Suite #480\
+   Oakland, CA 94607\
+   USA
