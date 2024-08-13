@@ -3,7 +3,7 @@ images:
 - thearpentries-opengraph.png
 title: The Carpentries
 
-git_repo: https://github.com/carpentries/new-site
+git_repo: https://github.com/carpentries/new-website
 handbook_url: https://docs.carpentries.org
 
 logo: carpentries-logo.svg
