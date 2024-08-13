@@ -4,7 +4,10 @@ layout: single
 widgets:
 - newsletter
 - sponsors
+- meta
 hideToc: true
+aliases:
+- /contact
 ---
 
 
