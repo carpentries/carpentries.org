@@ -143,8 +143,8 @@ main:
   parent: about-us
   weight: 80
 - identifier: contact-us
-  name: Contact us
-  pageRef: "/about-us/contact-us/"
+  name: Contact
+  pageRef: "/about-us/contact/"
   parent: about-us
   weight: 90
 # Learn Menu
@@ -262,16 +262,11 @@ main:
   pageRef: "/newsletter/"
   parent: communications
   weight: 20
-- identifier: mastodon
-  name: Mastodon
-  url: "https://hachyderm.io/@thecarpentries"
+- identifier: contact
+  name: Contact
+  url: "/about-us/contact/"
   parent: communications
   weight: 30
-- identifier: linkedin
-  name: Linkedin
-  url: "https://www.linkedin.com/company/the-carpentries/"
-  parent: communications
-  weight: 40
 footer:
 # Footer menu: Menu 1
 - identifier: about-us
