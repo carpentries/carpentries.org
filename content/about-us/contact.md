@@ -22,3 +22,4 @@ Because contact information may be used in various places across the site, we us
 * On social media
     * [Youtube]({{< param youtube >}})
     * [Mastodon]({{< param mastodon >}})
+    * [Linkedin]({{< param linkedin >}})
