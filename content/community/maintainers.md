@@ -10,4 +10,4 @@ This page lists Maintainers who have consented to appear on our website. If you 
 
 Maintainers may temporarily or permanently step away from this role. To continue to acknowledge their contributions to The Carpentries, we list them as [Maintainer Alumni](https://carpentries.org/maintainer_alumni/).
 
-{{< persons feed="https://feeds.carpentries.org/all_maintainers.json" >}}
+{{< persons feed="https://feeds.carpentries.org/all_maintainers.json" where="active_status,Active Maintainer" >}}
