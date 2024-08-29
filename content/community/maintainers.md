@@ -8,6 +8,6 @@ Read more about our Maintainers on [The Carpentries website](https://carpentrie
 
 This page lists Maintainers who have consented to appear on our website. If you are a Maintainer who is not listed here but would like to be, please [update your profile in AMY (our internal database)](https://amy.carpentries.org/) and agree to make your profile public. Log in with GitHub and save your changes. If you have difficulty logging in, please [email us](mailto:team@carpentries.org). [Read more about how these profiles are published](https://carpentries.org/community-member-profile-faq/).
 
-Maintainers may temporarily or permanently step away from this role. To continue to acknowledge their contributions to The Carpentries, we list them as [Maintainer Alumni](https://carpentries.org/maintainer_alumni/).
+Maintainers may temporarily or permanently step away from this role. To continue to acknowledge their contributions to The Carpentries, we list them as [Maintainer Alumni](/community/maintainer-alumni).
 
 {{< persons feed="https://feeds.carpentries.org/all_maintainers.json" where="active_status,Active Maintainer" >}}
