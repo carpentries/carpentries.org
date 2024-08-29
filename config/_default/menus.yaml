@@ -31,9 +31,6 @@ about:
 - name: Financials
   pageRef: /about-us/financials
   weight: 50
-- name: Publications
-  pageRef: /about-us/publications
-  weight: 60
 - name: Contact us
   pageRef: /about-us/contact
   weight: 70
@@ -137,11 +134,6 @@ main:
   pageRef: "/about-us/financials/"
   parent: about-us
   weight: 70
-- identifier: publications
-  name: Publications
-  pageRef: "/about-us/publications/"
-  parent: about-us
-  weight: 80
 - identifier: contact-us
   name: Contact
   pageRef: "/about-us/contact/"
