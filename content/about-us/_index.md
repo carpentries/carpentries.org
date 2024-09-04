@@ -79,32 +79,6 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 The Carpentries administration and other essential operations are held together by a small Core Team, but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global Carpentries community consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
 
-{{< grid cols=2 gap=4 >}}
-  {{< card title="Curriculum - Lessons" >}}
-    A 16-hour, hands-on training that covers the basics of educational psychology and evidence-based teaching practices.
-
-    [Go to Lessons](/instructor-training)
-    {.button}
-  {{< /card >}}
-  {{< card title="Instructor Training" >}}
-    A 16-hour, hands-on training that covers the basics of educational psychology and evidence-based teaching practices.
-
-    [Go to Instructor Training](/instructor-training)
-    {.button}
-  {{< /card >}}
-  {{< card title="Trainer Training" >}}
-    A 10-week program, where Trainers learn to teach Instructor Training, while continuing to develop their own teaching skill.
-
-    [Go to Trainer Training](/instructor-training)
-    {.button}
-  {{< /card >}}
-    {{< card title="Workshops" >}}
-    Inclusive and hands-on workshops, empowering students to learn new skills and build confidence in using them in their work.
-
-    [Go to Workshops](/instructor-training)
-    {.button}
-  {{< /card >}}
-{{< /grid >}}
 
 ## Lesson Programs
 
