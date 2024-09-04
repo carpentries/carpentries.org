@@ -75,8 +75,6 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 * * *
 
-Our values were formalized in 2019 by the Values Task Force. For more details, see the complete report here.
-
 {{< table features >}}
 |    | **Empowerment** <br> $150,000 <br>Limit: 2                    | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
 |----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
