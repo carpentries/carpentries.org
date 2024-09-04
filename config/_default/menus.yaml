@@ -219,7 +219,7 @@ main:
   weight: 30
 # Support Menu
 - identifier: support
-  name: Support
+  name: Support us
   url: "#"
   parent: null
   weight: 50
