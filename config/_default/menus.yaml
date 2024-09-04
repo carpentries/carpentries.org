@@ -135,7 +135,7 @@ main:
   parent: about-us
   weight: 70
 - identifier: contact-us
-  name: Contact
+  name: Contact us
   pageRef: "/about-us/contact/"
   parent: about-us
   weight: 90
