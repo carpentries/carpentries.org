@@ -1,8 +1,31 @@
 {{ $all_members := getJSON "https://feeds.carpentries.org/all_public_memberships.json" }}
+{{ $all_members := sort $all_members "name" }}
 
-
+<h2>Platinum Members</h2>
 <ul>
-{{ range $all_members  }}
-<li><b>{{ .name }}</b>: {{ .country }}</li>
+{{ range where $all_members "variant" "eq" "platinum"  }}
+<li><a href="https://{{ .domain }}">{{ .name }}</a> ({{ .country }})</li>
 {{ end }}
 </ul>
+
+<h2>Gold Members</h2>
+<ul>
+{{ range where $all_members "variant" "eq" "gold"  }}
+<li><a href="https://{{ .domain }}">{{ .name }}</a> ({{ .country }})</li>
+{{ end }}
+</ul>
+
+<h2>Silver Members</h2>
+<ul>
+{{ range where $all_members "variant" "eq" "silver"  }}
+<li><a href="https://{{ .domain }}">{{ .name }}</a> ({{ .country }})</li>
+{{ end }}
+</ul>
+
+<h2>Bronze Members</h2>
+<ul>
+{{ range where $all_members "variant" "eq" "bronze"  }}
+<li><a href="https://{{ .domain }}">{{ .name }}</a> ({{ .country }})</li>
+{{ end }}
+</ul>
+
