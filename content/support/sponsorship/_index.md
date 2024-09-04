@@ -7,9 +7,8 @@ The Carpentries Sponsorship Program aims to help The Carpentries partner with li
 With support from sponsors, The Carpentries will continue our efforts to make coding and data skills equitable globally and expand our operations to better meet the needs of our community now and in the future.
 
 
-[Apply to become a sponsor](#)
+[Apply to become a sponsor]({{< param sponsor_form >}})
 {.button} 
-(Note this button will link to the sponsorship form.)
 
 {{< table features >}}
 |    | **Empowerment** <br> $150,000 <br>Limit: 2                    | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
@@ -52,7 +51,6 @@ One mention in The Carpentries newsletters, Carpentries Philanthropy & Carpentri
 
 In addition to the sponsorship program, we value all monetary contributions. Please support The Carpentries’ growing community as an ally by making a donation of any amount.
 
-[Donate](#)
+[Donate]({{< param donation_form >}})
 {.button} 
-(Note this button will link to the donation page.)
 
