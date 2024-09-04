@@ -75,22 +75,6 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 * * *
 
-{{< table features >}}
-|    | **Empowerment** <br> $150,000 <br>Limit: 2                    | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
-|----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
-| Digital supporter badge                            | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Philanthropy recognition                           | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Mention in newsletter                              | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
-| Logo on career page                                | Has Feature  | Has Feature  | Has Feature  |              |              |
-| Social media visibility                            | Has Feature  | Has Feature  |              |              |              |
-| CarpentryCon registration, sponsor table, and recognition | Has Feature  | Has Feature  |              |              |              |
-| Logo on blog                                       | Has Feature  | Has Feature  |              |              |              |
-| Original blog post                                 | Has Feature  |              |              |              |              |
-| Themed community discussion                        | Has Feature  |              |              |              |              |
-| Carpentry workshop                                 | Has Feature  |              |              |              |              |
-| Digital supporter badge                            | Has Feature  |              |              |              |              |
-{{< /table >}}
-
 ## Our Work
 
 The Carpentries administration and other essential operations are held together by a small Core Team, but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global Carpentries community consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
