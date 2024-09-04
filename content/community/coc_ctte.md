@@ -1,5 +1,6 @@
 ---
 title: Code of Conduct Committee
+hideToc: true
 ---
 
 ## The Carpentries Code of Conduct Committee
