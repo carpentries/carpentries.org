@@ -12,7 +12,7 @@ widgets:
 
 ## Introduction
 
-The Carpentries is a mission-driven nonprofit project that teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
+The Carpentries is a mission-driven, registered 501(c)(3) nonprofit project that teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
 
 - A suite of open source, collaboratively-built, community-developed lessons
 - Evidence-based, proven pedagogical training
@@ -75,58 +75,9 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 * * *
 
-Our values were formalized in 2019 by the Values Task Force. For more details, see the complete report here.
-
-{{< table features >}}
-|    | **Empowerment** <br> $150,000 <br>Limit: 2                    | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
-|----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
-| Digital supporter badge                            | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Philanthropy recognition                           | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Mention in newsletter                              | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
-| Logo on career page                                | Has Feature  | Has Feature  | Has Feature  |              |              |
-| Social media visibility                            | Has Feature  | Has Feature  |              |              |              |
-| CarpentryCon registration, sponsor table, and recognition | Has Feature  | Has Feature  |              |              |              |
-| Logo on blog                                       | Has Feature  | Has Feature  |              |              |              |
-| Original blog post                                 | Has Feature  |              |              |              |              |
-| Themed community discussion                        | Has Feature  |              |              |              |              |
-| Carpentry workshop                                 | Has Feature  |              |              |              |              |
-| Digital supporter badge                            | Has Feature  |              |              |              |              |
-{{< /table >}}
-
 ## Our Work
 
 The Carpentries administration and other essential operations are held together by a small Core Team, but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global Carpentries community consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
-
-{{< grid cols=2 gap=4 >}}
-  {{< card title="Curriculum - Lessons" >}}
-    A 16-hour, hands-on training that covers the basics of educational psychology and evidence-based teaching practices.
-
-    [Go to Lessons](/instructor-training)
-    {.button}
-  {{< /card >}}
-  {{< card title="Instructor Training" >}}
-    A 16-hour, hands-on training that covers the basics of educational psychology and evidence-based teaching practices.
-
-    [Go to Instructor Training](/instructor-training)
-    {.button}
-  {{< /card >}}
-  {{< card title="Trainer Training" >}}
-    A 10-week program, where Trainers learn to teach Instructor Training, while continuing to develop their own teaching skill.
-
-    [Go to Trainer Training](/instructor-training)
-    {.button}
-  {{< /card >}}
-    {{< card title="Workshops" >}}
-    Inclusive and hands-on workshops, empowering students to learn new skills and build confidence in using them in their work.
-
-    [Go to Workshops](/instructor-training)
-    {.button}
-  {{< /card >}}
-{{< /grid >}}
-
-## Lesson Programs
-
-The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix and match lesson's to provide the audience with an experience catered to their needs.
 
 ## Our History
 
@@ -135,3 +86,15 @@ We have a rich history that dates back to 1998 when Software Carpentry was found
 In 2014, Data Carpentry was founded with the mission of building communities teaching universal data literacy. Also in 2014, Library Carpentry was founded with the mission of teaching data skills to people working in library- and information-related roles. Each organisation working in tandem and in partnership to develop lessons and build global communities of practice.
 
 In 2018, Software Carpentry and Data Carpentry merged their projects to form a new project called The Carpentries, under the fiscal sponsorship of Community Initiatives, and shortly thereafter welcomed Library Carpentry as a Lesson Program.
+
+## Diversity, Equity, and Inclusion Statement
+
+### Our Community is Our Strength
+
+At The Carpentries, we are committed to building a diverse, equitable, and inclusive community that values all individuals and their unique identities. We prioritise accessibility and inclusivity in our curricula and programs and value transparency, fairness, and honesty to build trust within our community. Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement.
+
+### Accessibility Statement
+
+The Carpentries is committed to providing inclusive and accessible content that enables all individuals, including those with disabilities, to participate and engage fully. We are actively working to increase the accessibility and usability of Carpentries’ content and in doing so adhere to many of the available standards and guidelines including those from the World Wide Web Consortium.
+
+If there are any aspects of our community including the website, community discussions, instruction, or the design of our lessons that result in barriers to your inclusion, please [email us](mailto:{{< param team_email >}}) with as much information as possible including the name, location, and date of the event you attended, or any relevant links that provide context (e.g. Slack, GitHub).
