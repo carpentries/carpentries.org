@@ -255,7 +255,7 @@ main:
   parent: communications
   weight: 20
 - identifier: contact
-  name: Contact
+  name: Contact us
   url: "/about-us/contact/"
   parent: communications
   weight: 30
