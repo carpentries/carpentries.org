@@ -3,7 +3,6 @@ title: Financials
 layout: single
 widgets:
 - newsletter
-- sponsors
 hideToc: true
 ---
 

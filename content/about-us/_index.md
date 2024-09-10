@@ -5,7 +5,6 @@ cascade:
   nav: about
 widgets:
 - newsletter
-- sponsors
 ---
 
 
