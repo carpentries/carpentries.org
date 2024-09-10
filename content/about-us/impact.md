@@ -3,7 +3,6 @@ title: Impact
 layout: single
 widgets:
 - newsletter
-- sponsors
 ---
 
 ## Introduction

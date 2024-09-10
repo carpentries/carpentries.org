@@ -3,7 +3,6 @@ title: Funding
 layout: single
 widgets:
 - newsletter
-- sponsors
 ---
 
 We are grateful to our supporters who help us reach the [mission and vision](#) of The Carpentries. These include our [Member Organisations](#) and those who sponsor [workshops](#) as well as grants and donations. We are in a position to create positive change in the data and software communities and our supporters help us in this endeavour.

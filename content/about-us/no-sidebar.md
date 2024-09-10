@@ -5,7 +5,6 @@ date: 2018-01-30T14:45:08+00:00
 lastmod: 2022-12-11T14:45:08+00:00
 widgets:
 - newsletter
-- sponsors
 ---
 
 ## Introduction

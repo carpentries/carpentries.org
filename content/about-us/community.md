@@ -3,7 +3,6 @@ title: Our Community
 layout: single
 widgets:
 - newsletter
-- sponsors
 ---
 
 ## Meet our community
