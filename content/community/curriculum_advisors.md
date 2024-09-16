@@ -4,7 +4,11 @@ title: Curriculum Advisors
 
 ## How to list Curriculum Advisors?
 
-Currently, Curriculum Advisors are all listed on [The Carpentries site]( https://carpentries.org/curriculum-advisors/).  They are listed in a simple table, not with profiles like we do for other listings.
+Curriculum Advisors provide oversight and guidance on the development and maintenance of a particular set of lessons. Drawing on expertise in the curriculum domain and experience teaching the lessons, Curriculum Advisors collaborate with lesson Maintainers and lesson program Governors to ensure that lessons remain accurate, relevant, and impactful.
 
-Should these be listed in the individual lesson program sites? Library Carpentry lists [Curriculum Advisors on their own page](https://librarycarpentry.org/governance/) (and it does not exactly match the listing on The Carpentries site.)
+Curriculum advisors are listed on the respective lesson program pages:
+
+* [Data Carpentry](https://dc-new-website.netlify.app/curriculum-advisors/)
+* [Library Carpentry](https://lc-new-website.netlify.app/curriculum-advisors/)
+* [Software Carpentry](https://swc-new-website.netlify.app/curriculum-advisors/)
 
