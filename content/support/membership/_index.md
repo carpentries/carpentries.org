@@ -71,9 +71,8 @@ Ideal for organisations that run a lot of Self-Organised workshops and want to k
 
 An option for organisations that want to continue supporting The Carpentries financially, but don't need support with workshop organisation or Instructor Training.
 
-[Become a member](#)
+[Become a member]({{< param membership_form >}})
 {.button} 
-(Note this button will link to the membership form.)
 
 ## Questions?
 
