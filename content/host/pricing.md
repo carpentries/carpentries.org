@@ -49,7 +49,7 @@ Memberships include a bundle of Workshops and Instructor Training seats for orga
 |High Income                      | $3,600 | $8,100 | $16,200 | $13,500  |   $5,000 |
 |Upper-Middle Income              | $2,700 | $6,075 | $12,150 | $10,125  |   $3,570 |
 |Lower-Middle Income              | $1,800 | $4,050 | $8,150  | $6,750   |   $2,500 |
-|Lower Income                     | $900   | $2,025 | $4,050  | $3,375   |   $1,250 |
+|Low Income                       | $900   | $2,025 | $4,050  | $3,375   |   $1,250 |
 {{< /table >}}
 
 Contact Us
