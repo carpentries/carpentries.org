@@ -64,5 +64,5 @@ blocks:
   - logo: r-studio-logo.svg
   cta:
     copy: Become a sponsor
-    url: '/'
+    url: 'https://carpentries.typeform.com/to/EQdv1Qx4'
 ---
