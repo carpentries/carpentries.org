@@ -44,7 +44,7 @@ After attending this training, participants will be able to:
 ### Training structure
 The training takes place in two parts, separated by an extended break where participants test their new lessons.
 
-In the first part, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. Trainees will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench][workbench], the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
+In the first part, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. Trainees will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench]({{< param workbench_link >}}), the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
 
 Trainees will trial part of their new lesson with a real audience during the break between this first part and the conclusion of the training, using this opportunity to gather vital feedback on their lesson design.
 
