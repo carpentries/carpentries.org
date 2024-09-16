@@ -15,12 +15,12 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 
 
 {{< table >}}
-| |Workshop Fee (USD)|
-|---|---|
-|High Income|$3,000|
-|Upper-Middle Income|$2,250|
-|Lower-Middle Income|$1,500|
-|Low Income|$750|
+|                    |Workshop Fee (USD)|
+|------------------- |---------------   |
+|High Income         |$3,000            |
+|Upper-Middle Income |$2,250            |
+|Lower-Middle Income |$1,500            |
+|Low Income          |$750              |
 {{< /table >}}
 
 ## Instructor Training Pricing
@@ -28,12 +28,12 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 Recruit your own trainees and The Carpentries Instructor Training will provide them the skills to teach effective workshops. Through our 16-hour, hands-on training, they will learn the basics of educational psychology and evidence-based teaching practices.
 
 {{< table >}}
-| | Instructor Training Seat |
-|---|---|
-|High Income|$1,500|
-|Upper-Middle Income|$1,125|
-|Lower-Middle Income|$750|
-|Low Income|$375|
+|                    | Instructor Training Seat |
+|--------------------|--------------------------|
+|High Income         |$1,500                    |
+|Upper-Middle Income |$1,125                    |
+|Lower-Middle Income |$750                      |
+|Low Income          |$375                      |
 {{< /table >}}
 
 ## Membership Pricing
@@ -43,7 +43,7 @@ Memberships include a bundle of Workshops and Instructor Training seats for orga
 {{< table >}}
 
 |                                 | Bronze | Silver | Gold    | Platinum | Titanium |
-|-----------------                |--------|--------|---------| ---------| -------- |
+|------------------------         |--------|--------|---------| ---------| -------- |
 |**Centrally-Organised workshops**| 2      | 2      | 1       |          |          |
 |**Instructor Training seats**    | 0      | 5      | 14      | 15       |          |
 |High Income                      | $3,600 | $8,100 | $16,200 | $13,500  |   $5,000 |
