@@ -28,8 +28,8 @@ blocks:
     url: '/community/'
 - layout: 2-col-image-text
   image_alignment: right
-  image_caption: This is an image caption
-  image: fifty-fifty-background.jpg
+  image_caption: 'Credit: Fauxels'
+  image: front-page/fauxels.jpg
   title: Our volunteer-led workshops are small, hands on, and interactive.
   cta:
     copy: Find a workshop
@@ -45,7 +45,8 @@ blocks:
       name: Ethan White 🇺🇸
       copy: Associate Professor and Moore Investigator in the Department of Wildlife Ecology and Conservation and the Informatics Institute at the University of Florida
 - layout: 2-col-image-text
-  image: fifty-fifty-background.jpg
+  image: front-page/jopwell.jpg
+  image_caption: 'Credit: Jopwell'
   title: Subscribe to our newsletter
   subtitle: Get a roundup of events, updates, and tips every month.
   cta:
