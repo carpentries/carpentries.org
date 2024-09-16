@@ -96,6 +96,15 @@ membership:
   weight: 20
 - name: Current Members
   pageRef: /support/membership/member-list/
+# CLDT tabbed menu
+cldt:
+- name: Lesson Development
+  pageRef: /lesson-development
+  weight: 10
+- name: Lesson Development FAQ
+  pageRef: /lesson-development/cldt-faq
+  weight: 20
+
 # Main menu
 main:
 # Main menu: About
