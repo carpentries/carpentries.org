@@ -76,4 +76,4 @@ An option for organisations that want to continue supporting The Carpentries fin
 
 ## Questions?
 
-Still have questions about the membership program? Please consult our Membership FAQ or contact the Membership Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email to membership@carpentries.org.
+Have questions about the membership program? Please consult our [Membership FAQ](/support/membership/membership-faq/) or [contact the Membership Team](mailto:{{< param membership_email >}}).
