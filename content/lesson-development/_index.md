@@ -15,21 +15,11 @@ The Lesson Developer Handbook provides detailed information, resources, and othe
 ## About the training
 
 Collaborative Lesson Development Training teaches essential skills
-and good practices for designing and developing a lesson as an open source project.
-The training will guide you through the design process and initial development of a new lesson,
-prepare you to work with the infrastructure we use to build accessible, open source lesson websites,
-and provide some advice and techniques for effective collaboration on the project.
+and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open source lesson websites, and provide some advice and techniques for effective collaboration on the project.
 
 ### Target audience
 
-Collaborative Lesson Development Training is aimed at
-Carpentries community members who have an idea for a new lesson
-and want to begin developing it into an open source lesson website,
-in collaboration with others.
-[The curriculum][cldt-curriculum] was developed with a focus on
-lessons for short-format training (e.g. two-day workshops),
-but most of the skills and principles taught are applicable to
-all curriculum design.
+Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website,in collaboration with others. [The curriculum][cldt-curriculum] was developed with a focus on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught are applicable to all curriculum design.
 
 ### What will you learn?
 The training teaches fundamental concepts, skills, and good practice in three key areas:
