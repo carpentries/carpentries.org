@@ -36,14 +36,14 @@ blocks:
     url: '/workshops/upcoming-workshops/'
 - layout: quote-slider
   slides:
-    - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      image: ethan-white.png
-      name: Ethan White 🇺🇸
-      copy: Associate Professor and Moore Investigator in the Department of Wildlife Ecology and Conservation and the Informatics Institute at the University of Florida
-    - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      image: ethan-white.png
-      name: Ethan White 🇺🇸
-      copy: Associate Professor and Moore Investigator in the Department of Wildlife Ecology and Conservation and the Informatics Institute at the University of Florida
+    - quote: I went from a learner to an Instructor and completely changed the trajectory of my career. It helped me find my people ❤️
+      image: testimonials/saranya_canchi_testimonial.jpg
+      name: Saranya Canchi
+      copy: Engineering Researcher and Bioinformatics Scientist
+    - quote: I'm pretty sure I wouldn’t be a gainfully employed climate scientist without The Carpentries. Along the winding academic journey from PhD to postdoc to precarious short-term contracts to finally landing a permanent research position, my involvement with The Carpentries and the skills I've gained from being part of the community has been my point of difference.
+      image: testimonials/damien_irving_testimonial.jpg
+      name: Damien Irving
+      copy: Climate Data Scientist
 - layout: 2-col-image-text
   image: front-page/jopwell.jpg
   image_caption: 'Credit: Jopwell'
