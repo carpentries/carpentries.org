@@ -19,6 +19,7 @@ membership_email: membership@carpentries.org
 workshops_email: workshops@carpentrires.org
 instructor_training_email: instructor.training@carpentries.org
 coc_email: coc@carpentries.org
+curriculum_email: curriculum@carpentries.org
 
 # Social media platforms
 
@@ -45,3 +46,9 @@ footer_donate_url: http://give.communityin.org/TheCarpentries
 footer_overview_text: "The Carpentries is a fiscally sponsored project of Community Initiatives, a registered 501(c)3 non-profit organisation based in California, USA. We are a global community teaching foundational computational and data science skills to researchers in academia, industry and government."
 
 membership_form: https://carpentries.typeform.com/to/Hmfe6L
+
+incubator_link: https://carpentries-incubator.org/
+lab_link: https://carpentries-lab.org/ 
+
+cldt_curriculum: https://carpentries.github.io/lesson-development-training/
+workbench_link: https://carpentries.github.io/workbench/

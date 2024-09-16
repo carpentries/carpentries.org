@@ -36,6 +36,17 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 |Low Income          |$375                      |
 {{< /table >}}
 
+## Collaborative Lesson Development Pricing
+
+{{< table >}}
+|                    | Base fee (2 people) | Each additional person |
+|--------------------|---------------------|------------------------| 
+|High Income         |$5,000               | $1000                  |
+|Upper-Middle Income |$3,750               | $750                   |
+|Lower-Middle Income |$2,500               | $500                   |
+|Low Income          |$1,250               | $250                   |
+{{< /table >}}
+
 ## Membership Pricing
 
 Memberships include a bundle of Workshops and Instructor Training seats for organisations seeking to provide computational and data training to their community. Members can add-on additional Workshops and Instructor Training seats to their Membership package at a 40% discount to the prices shown above. For more information about Membership, visit our [Membership page](/support/membership/).
