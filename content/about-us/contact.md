@@ -4,18 +4,13 @@ layout: single
 widgets:
 - newsletter
 - meta
-hideToc: true
 aliases:
 - /contact
 ---
 
+If you you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us on social media, please use the contact details below:
 
-## Contact us
-
-Because contact information may be used in various places across the site, we use site variables here. [See current contact page](https://carpentries.org/contact/).
-
-
-### By email 
+## By email 
 
 * General enquiries: [{{< param team_email >}}](mailto:{{< param team_email >}})
 * Workshop enquiries: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
@@ -23,14 +18,14 @@ Because contact information may be used in various places across the site, we us
 * Instructor Training enquiries: [{{< param instructor_training_email >}}](mailto:{{< param membership_email >}})
 * Code of Conduct Committee: [{{< param coc_email >}}](mailto:{{< param coc_email >}})
 
-### On social media
+## On social media
 
 * [Youtube]({{< param youtube >}})
 * [Mastodon]({{< param mastodon >}})
 * [Linkedin]({{< param linkedin >}})
 
 
-### By mail:
+## By mail:
 
 The Carpentries\
 c/o Community Initiatives\
