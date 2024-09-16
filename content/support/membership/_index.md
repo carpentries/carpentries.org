@@ -75,14 +75,6 @@ An option for organisations that want to continue supporting The Carpentries fin
 {.button} 
 (Note this button will link to the membership form.)
 
-## Financial Support
-
-All non-profit or academic organisations are eligible to apply for financial support. Financial support will be awarded based on previous involvement with The Carpentries, service to underserved populations, and the potential impact of the membership on the applying organisation. Organisations awarded financial support may receive support between 25% - 50% of their tiered price. Financial support will be subject to availability and the amount of support provided will be determined through the application process.
-
-[Apply for financial support](#)
-{.button} 
-(Note this button will link to the financial support form.)
-
 ## Questions?
 
 Still have questions about the membership program? Please consult our Membership FAQ or contact the Membership Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email to membership@carpentries.org.
