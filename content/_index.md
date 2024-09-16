@@ -4,14 +4,14 @@ date: 2023-01-01T08:00:00-07:00
 blocks:
 - layout: select-cta
   options:
-    - copy: Become a volunteer
-      url: /community/get-involved/
-    - copy: Find a resource
-      url: https://docs.carpentries.org
-    - copy: Get Involved
-      url: /community/get-involved/
     - copy: Host a workshop
       url: /host/host-workshop/
+    - copy: Become a member organisation
+      url: /support/membership/
+    - copy: Become a volunteer
+      url: /community/get-involved/
+    - copy: Become an Instructor
+      url: /instructor-training/
 - layout: hero
   title: Teaching foundational coding and data science workshops to researchers worldwide since 1998.
   image: /images/hero-background.jpg
