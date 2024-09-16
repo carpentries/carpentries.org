@@ -416,7 +416,7 @@ socials:
 - name: Zenodo
   url: "https://zenodo.org/communities/carpentries/records"
   params:
-    img: "/twitter-logo.svg"
+    img: "/zenodo-logo.svg"
   weight: 50
 - name: Youtube
   url: "https://www.youtube.com/thecarpentries"
