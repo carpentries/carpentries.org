@@ -71,6 +71,13 @@ An option for organisations that want to continue supporting The Carpentries fin
 [Become a member]({{< param membership_form >}})
 {.button} 
 
+In addition to the benefits above, all Memberships include:
+
+* quarterly reports on benefit usage and trainee progress towards certification,
+* opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply),
+* unlimited self-organised workshops,
+* access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year.
+
 ## Questions?
 
 Have questions about the membership program? Please consult our [Membership FAQ](/support/membership/membership-faq/) or [contact the Membership Team](mailto:{{< param membership_email >}}).
