@@ -5,7 +5,7 @@ cascade:
   nav: membership
 ---
 
-## Become A Member And Bring The Carpentries To Your Organisation!
+## Become A Member
 
 Jump start your local data skills training efforts with a Carpentries Membership. First, we’ll begin with a series of engaging, hands-on workshops on your choice of topics from our 45+ lessons. Then, we’ll train a group of your community members to continue delivering data skills training far beyond your membership end date. Our highly-sought after Instructor Training program will upskill local leaders to lead effective, evidence-based learning experiences for your community. You will also join our global network of 100+ member organisations and connect with peers around challenges and opportunities in data skills training.
 
