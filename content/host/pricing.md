@@ -15,12 +15,12 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 
 
 {{< table >}}
-| |In-Person|Online|
-|---|---|---|
-|High Income|$3,000|$5,000|
-|Upper-Middle Income|$2,250|$3,750|
-|Lower-Middle Income|$1,500|$2,500|
-|Low Income|$750|$1,250|
+| |Workshop Fee (USD)|
+|---|---|
+|High Income|$3,000|
+|Upper-Middle Income|$2,250|
+|Lower-Middle Income|$1,500|
+|Low Income|$750|
 {{< /table >}}
 
 ## Instructor Training Pricing
