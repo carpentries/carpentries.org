@@ -266,132 +266,132 @@ main:
   parent: null 
   weight: 70
 footer:
-# Footer menu: Menu 1
-- identifier: about-us
+# Footer menu: Menu 1 (About us)
+- identifier: about-us-footer
   name: About us
   url: "/about-us/"
   parent: null
   weight: 10
-- identifier: link-1
-  name: Code of Conduct
-  pageRef: "https://docs.carpentries.org/topic_folders/policies/index_coc.html"
-  parent: about-us
+- identifier: mission
+  name: Our mission
+  url: "/about-us/#our-mission"
+  parent: about-us-footer
   weight: 20
-- identifier: link-2
-  name: Our History
-  pageRef: "/about-us/#our-history"
-  parent: about-us
+- identifier: history
+  name: Our history
+  url: "/about-us/#our-history"
+  parent: about-us-footer
   weight: 30
-- identifier: link-3
-  name: Our Governance
-  pageRef: "/about-us/governance/"
-  parent: about-us
+- identifier: values
+  name: Our values
+  url: "/about-us/#our-values"
+  parent: about-us-footer
   weight: 40
 # Footer menu: Menu 2
-- identifier: workshops
-  name: Workshops
+- identifier: community-footer
+  name: Our community
   url: "#"
   parent: null
   weight: 20
-- identifier: link-4
-  name: Workshops FAQ
-  pageRef: "/workshops/workshops-faq/"
-  parent: workshops
+- identifier: volunteers
+  name: Our volunteers
+  url: /community/
+  parent: community-footer
   weight: 20
-- identifier: link-5
-  name: Request a workshop
-  pageRef: "https://amy.carpentries.org/forms/workshop"
-  parent: workshops
+- identifier: governance
+  name: Our governance
+  url: "/about-us/governance/"
+  parent: community-footer
   weight: 30
-- identifier: link-6
-  name: Link 3
-  pageRef: "#"
-  parent: workshops
+- identifier: get-involved
+  name: Get involved
+  url: "/community/get-connected/"
+  parent: community-footer
   weight: 40
 # Footer menu: Menu 3
-- identifier: volunteers
-  name: Volunteers
-  url: "#"
-  parent: null
-  weight: 30
-- identifier: link-7
-  name: Link 1
-  pageRef: "#"
-  parent: volunteers
-  weight: 20
-- identifier: link-8
-  name: Link 2
-  pageRef: "#"
-  parent: volunteers
-  weight: 30
-- identifier: link-9
-  name: Link 3
-  pageRef: "#"
-  parent: volunteers
-  weight: 40
-# Footer menu: Menu 4
-- identifier: membership
+- identifier: membership-footer
   name: Membership
   url: "#"
   parent: null
-  weight: 40
-- identifier: link-10
-  name: Link 1
-  pageRef: "#"
-  parent: membership
-  weight: 20
-- identifier: link-11
-  name: Link 2
-  pageRef: "#"
-  parent: membership
   weight: 30
-- identifier: link-12
-  name: Link 3
-  pageRef: "#"
-  parent: membership
+- identifier: membership-faq
+  name: Membership FAQ
+  url: "/support/membership/membership-faq/"
+  parent: membership-footer
+  weight: 20
+- identifier: current-members
+  name: Current members
+  url: "/support/membership/member-list/"
+  parent: membership-footer
+  weight: 30
+- identifier: become-member
+  name: Become a member
+  url: "/support/membership/"
+  parent: membership-footer
   weight: 40
-# Footer menu: Menu 5
-- identifier: resources
-  name: Resources
+# Footer menu: Menu 4 
+- identifier: workshops-footer
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 40
+- identifier: workshops-faq
+  name: Workshops FAQ
+  url: "/workshops/workshops-faq/"
+  parent: workshops-footer
+  weight: 10 
+- identifier: workshops-upcoming
+  name: Upcoming workshops
+  url: "/workshops/upcoming-workshops/"
+  parent: workshops-footer
+  weight: 20
+- identifier: workshops-request
+  name: Request a workshop
+  url: "/host/host-workshop/"
+  parent: workshops-footer
+  weight: 30
+# Footer menu 5
+- identifier: lessons-footer
+  name: Lessons
   url: "#"
   parent: null
   weight: 50
-- identifier: link-13
-  name: Link 1
-  pageRef: "#"
-  parent: resources
+- identifier: lessons-search
+  name: Search lessons
+  url: "/lessons/"
+  parent: lessons-footer
+  weight: 10
+- identifier: lessons-instructor-training
+  name: Instructor Training
+  url: "/instructor-training/"
+  parent: lessons-footer
   weight: 20
-- identifier: link-14
-  name: Link 2
-  pageRef: "#"
-  parent: resources
+- identifier: lessons-trainer-training
+  name: Trainer Training
+  url: "/trainer-training/"
+  parent: lessons-footer
   weight: 30
-- identifier: link-15
-  name: Link 3
-  pageRef: "#"
-  parent: resources
-  weight: 40
-# Footer menu: Menu 6
-- identifier: connect
-  name: Connect
+# Footer menu 6 
+- identifier: lesson-development-footer
+  name: Lesson Development
   url: "#"
   parent: null
   weight: 60
-- identifier: link-16
-  name: Link 1
-  pageRef: "#"
-  parent: connect
+- identifier: cldt-footer
+  name: Collaborative Lesson Development Training
+  url: "#"
+  parent: lesson-development-footer
+  weight: 10
+- indentifier: incubator-footer
+  name: Carpentries Incubator
+  url: "#"
+  parent: lesson-development-footer
   weight: 20
-- identifier: link-17
-  name: Link 2
-  pageRef: "#"
-  parent: connect
+- identifier: lab-footer
+  name: Carpentries Lab
+  url: "#"
+  parent: lesson-development-footer
   weight: 30
-- identifier: link-18
-  name: Link 3
-  pageRef: "#"
-  parent: connect
-  weight: 40
 socials:
 - name: Slack
   url: "https://swc-slack-invite.herokuapp.com/"
