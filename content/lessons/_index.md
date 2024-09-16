@@ -1,6 +1,7 @@
 ---
 title: The Carpentries Lessons
 layout: lessons
+hideToc: true
 ---
 
 ## About our lessons 
