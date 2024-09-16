@@ -37,14 +37,12 @@ Refer to pricing table here (see [pricing](/host/pricing/#membership-pricing) se
 
 ## Selecting A Membership Level
 
-Note icons will be used for the workshop/IT counts
-
 ### Bronze Membership
 
 - 2 workshops
 {.badges}
 
-Cake marzipan chocolate bar marzipan macaroon chocolate cake sweet roll. Muffin cupcake chocolate liquorice jujubes marzipan cupcake. Dragée cotton candy candy muffin macaroon. Cookie croissant muffin chocolate chocolate bar topping chocolate lemon drops. Jelly beans muffin sugar plum chocolate bar biscuit muffin. Dragée bear claw liquorice danish cupcake biscuit. Gingerbread soufflé lollipop marzipan sweet oat cake sesame snaps sugar plum. Ice cream oat cake halvah marzipan cake croissant oat cake tiramisu biscuit.
+Appropriate for organisations that want to experience The Carpentries teaching model, but do not yet have organisational interest in building up a local Instructor pool.
 
 ### Silver Membership
 
@@ -52,7 +50,26 @@ Cake marzipan chocolate bar marzipan macaroon chocolate cake sweet roll. Muffin 
 - 5 instructor training seats
 {.badges} 
 
-Cake marzipan chocolate bar marzipan macaroon chocolate cake sweet roll. Muffin cupcake chocolate liquorice jujubes marzipan cupcake. Dragée cotton candy candy muffin macaroon. Cookie croissant muffin chocolate chocolate bar topping chocolate lemon drops. Jelly beans muffin sugar plum chocolate bar biscuit muffin. Dragée bear claw liquorice danish cupcake biscuit. Gingerbread soufflé lollipop marzipan sweet oat cake sesame snaps sugar plum. Ice cream oat cake halvah marzipan cake croissant oat cake tiramisu biscuit.
+Our most popular level! Appropriate for organisations that are ready to start building their local Instructor community, but still want some support on workshop administration.
+
+### Gold Membership
+
+- 1 workshop
+- 14 instructor training seats
+{.badges} 
+
+Best for organisations that are ready to scale up their local workshop offerings and start becoming independent of The Carpentries' administrative support.
+
+### Platinum Membership
+
+- 15 instructor training seats
+{.badges}
+
+Ideal for organisations that run a lot of Self-Organised workshops and want to keep growing their local Instructor pool.
+
+### Titanium Membership
+
+An option for organisations that want to continue supporting The Carpentries financially, but don't need support with workshop organisation or Instructor Training.
 
 [Become a member](#)
 {.button} 
