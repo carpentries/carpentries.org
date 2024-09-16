@@ -52,5 +52,5 @@ Memberships include a bundle of Workshops and Instructor Training seats for orga
 |Low Income                       | $900   | $2,025 | $4,050  | $3,375   |   $1,250 |
 {{< /table >}}
 
-Contact Us
+## Contact Us
 Have Questions? Our Team is ready to answer any questions you may have. To reach us, or to find out more, please send us an email to {{< param team_email >}}.
