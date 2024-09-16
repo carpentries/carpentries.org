@@ -9,11 +9,7 @@ aliases:
 - /contact
 ---
 
-
-## Contact us
-
-Because contact information may be used in various places across the site, we use site variables here. [See current contact page](https://carpentries.org/contact/).
-
+If you you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us on social media, please use the contact details below:
 
 ### By email 
 
