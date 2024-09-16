@@ -9,18 +9,6 @@ widgets:
 
 In keeping with one of our [core values](/about-us/#our-values), at The Carpentries we are "Always Learning". We embody the growth mindset we teach using data and community feedback to measure our impact and foster continuous improvement. Find out more about [how we use feedback at The Carpentries](/blog/2020/09/2020-09-04-how-we-use-feedback/). 
 
-{{< grid cols=3 gap=4 >}}
-  {{< stat >}}
-    More than **3,000** volunteers
-  {{< /stat >}}
-  {{< stat >}}
-    About **8,000** learners
-  {{< /stat >}}
-  {{< stat >}}
-    More than **150** countries
-  {{< /stat >}}
-{{< /grid >}}
-
 ## Annual Reports
 
 Our annual reports serve as a high-level summary of The Carpentries work, providing a succinct introduction to our organisation for potential funders, new members, and others joining our community. These reports also serve as a rich resource for our existing community members, showcasing the work and growth of our community and providing a summary of the previous year, and what we plan to achieve in the coming year. Our annual reports also include a short overview of our finances for the year. More information about our finances is avaible on our [Financials page](/about-us/financials). 
