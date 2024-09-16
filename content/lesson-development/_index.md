@@ -1,6 +1,8 @@
 ---
 title: Collaborative Lesson Development
 layout: single
+cascade:
+  nav: cldt
 ---
 
 ## Collaborative Lesson Development Training
