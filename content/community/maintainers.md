@@ -1,5 +1,6 @@
 ---
 title: Our Maintainers
+hideToc: true
 ---
 
 Maintainers are responsible for the day-to-day upkeep of our lessons - making sure they stay accurate, up-to-date, functional, and cohesive.
