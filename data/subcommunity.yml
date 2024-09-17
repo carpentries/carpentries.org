@@ -1,0 +1,1108 @@
+subcommunities:
+
+- name: Carpentries Italia
+  type:
+    - geographic_local: 
+    - geographic_regional: true 
+    - language: true
+    - domain:
+    - interest:
+    - other: 
+  member: false 
+  description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years, we organized three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
+  activities: 
+    - carpentry_connect:
+    - communication: true
+    - prof_dev: 
+    - sow: true 
+    - fundraising: true 
+    - student_programs:
+    - translation: true 
+    - mentoring:
+    - other: 
+  volunteers: true
+  logo:
+  location: Italy
+  country: IT
+  website: https://carpentriesitalia.github.io/ 
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:
+    - events:
+    - governance:
+    - inperson_workshops:
+    - instructor_development:
+    - instructor_training:
+    - internationalisation: true 
+    - membership:
+    - mentoring:
+    - online_workshops: true 
+    - teaching:
+    - other: 
+  contact:
+    - email: 
+    - slack:
+    - mailing_list: https://carpentries.topicbox.com/groups/local-italia
+    - contact_form: https://carpentriesitalia.github.io/ 
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+ 
+- name: The Carpentries in Australia
+  type:
+    - geographic_local:
+    - geographic_regional: true 
+    - language: 
+    - domain:
+    - interest:
+    - other: 
+  member: False
+  description: A subcommunity for Carpentries activity in Australia. We often link our activities with the equivalent subcommunity in New Zealand.
+  activities: 
+    - carpentry_connect: true 
+    - communication: true 
+    - prof_dev: 
+    - sow: true 
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring: true 
+    - other:   
+  volunteers: true 
+  logo:
+  location: Australia
+  country: AU 
+  website: https://carpentries.org/regions_au/
+  tags:
+    - assessment:
+    - carpentry_connect: true 
+    - communication:
+    - community_discussion: true 
+    - curriculum:
+    - events:
+    - governance:
+    - inperson_workshops: true 
+    - instructor_development: true 
+    - instructor_training: true 
+    - internationalisation:
+    - membership:
+    - mentoring: true 
+    - online_workshops: true 
+    - teaching:
+    - other: 
+  contact:
+    - email: admin-au@carpentries.org
+    - slack:
+    - mailing_list: https://carpentries.topicbox.com/groups/local-aunz
+    - contact_form:
+    - contact_person:
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+ 
+- name: PyAOS Carpentry 
+  type:
+    - geographic_local: true
+    - geographic_regional:  
+    - language: 
+    - domain: true 
+    - interest:
+    - other: 
+  member:
+  description: The Python for Atmosphere and Ocean Science (PyAOS) subcommunity focuses on running workshops for those working / studying in the weather, ocean and climate sciences. It does this through maintaining lesson materials and supporting Instructors. 
+  activities: 
+    - carpentry_connect: true 
+    - communication: true 
+    - prof_dev: 
+    - sow: true 
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring: true 
+    - other:   
+  volunteers: true 
+  logo:
+  location:
+  country:
+  website:  https://github.com/carpentries-lab/python-aos-lesson
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum: true 
+    - events:
+    - governance:
+    - inperson_workshops: true 
+    - instructor_development:
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring: true 
+    - online_workshops: true 
+    - teaching:
+    - other: 
+  contact:
+    - email: 
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: pyaos
+ 
+- name: Carpentries Offline
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest: true 
+    - other:  
+  member:
+  description:  CarpentriesOffline aims to provide a solution for Instructors to run workshops in areas where there is no or limited Internet access.
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow: true 
+    - fundraising:
+    - student_programs: 
+    - translation: 
+    - mentoring:
+    - other: Monthly developer meetings
+  volunteers: true 
+  logo:
+  location: Global
+  country:
+  website: https://CarpentriesOffline.org
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops: true 
+    - instructor_development:
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching: true 
+    - other: 
+  contact:
+    - email: 
+    - slack: "Carpentries workspace, #carpentries-offline"
+    - mailing_list:
+    - contact_form: http://carpentriesoffline.org/contactus
+    - contact_person:
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+ 
+- name: Carpentries at Stanford University
+  type:
+    - geographic_local: true
+    - geographic_regional: true
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member: false
+  description: The Carpentries at Stanford are administered by the University Libraries. This group coordinates workshops, events, and other trainings for the needs of the university community. 
+  activities: 
+    - carpentry_connect:
+    - communication: true
+    - prof_dev: true  
+    - sow: true  
+    - fundraising:
+    - student_programs: true
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers: true  
+  logo:
+  location: Stanford, CA
+  country: US
+  website: https://library.stanford.edu/research/carpentries-stanford
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum: true  
+    - events: true
+    - governance:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation:
+    - membership:
+    - mentoring:  
+    - online_workshops: true  
+    - teaching: true
+    - other: 
+  contact:
+    - email: 
+    - slack:
+    - mailing_list: carpentry@lists.stanford.edu
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name:  New Zealand 
+  type:
+    - geographic_local: true
+    - geographic_regional: true
+    - language: 
+    - domain: true 
+    - interest: true
+    - other: 
+  member: true
+  description: The New Zealand subcommunity focuses on building community relationships within the Carpentries community in Aotearoa New Zealand. New Zealand has several Carpentries members and is represented on the Board of Directors of the organisation as well. 
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
+    - sow: true  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: Board of Directors representation 
+  volunteers: true  
+  logo:
+  location: New Zealand
+  country: NZ
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication: true
+    - community_discussion: true
+    - curriculum:  
+    - events: true
+    - governance:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation:
+    - membership:
+    - mentoring: true  
+    - online_workshops: true  
+    - teaching: true
+    - other: 
+  contact:
+    - email:  
+    - slack:  NESI workspace
+    - mailing_list:
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: Midwest (US) Carpentries Community
+  type:
+    - geographic_local:
+    - geographic_regional: true
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: The Midwest (US) Carpentries Community is a regional subcommunity providing space to support workshop Instructors, hosts, and local institution organisers in the region to learn from one another. 
+  activities: 
+    - carpentry_connect:
+    - communication: true
+    - prof_dev: true 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website: https://pad.carpentries.org/local-us-midwest
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion: true
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring: true  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email: 
+    - slack: "Carpentries workspace, #local-us-midwest"
+    - mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:
+
+- name: UW-Madison Carpentries Community
+  type:
+    - geographic_local: true
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member: true
+  description: This local subcommunity of workshop Instructors, helpers, and lesson developers includes research support staff from across the University of Wisconsin-Madison campus, faculty members, and graduate students. 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: true 
+    - sow: true  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring: true
+    - other: 
+  volunteers:  
+  logo:
+  location: Madison, Wisconsin
+  country: US
+  website: https://datascience.wisc.edu/uw-madison-carpentries-community/
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion: true
+    - curriculum: true  
+    - events: true
+    - governance:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation:
+    - membership:
+    - mentoring: true  
+    - online_workshops: true  
+    - teaching: true
+    - other: 
+  contact:
+    - email: facilitator@datascience.wisc.edu
+    - slack: data-science-hubgroup workspace, #uw_carpentries
+    - mailing_list:  carpentries@g-groups.wisc.edu
+    - contact_form:
+    - contact_person:
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+
+
+
+- name: Smithsonian Institution Carpentries 
+  type:
+    - geographic_local: true
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member: true
+  description: The Smithsonian Institution has been a Carpentries member organization since 2017, and a Platinum Member since 2021. 
+  activities: 
+    - carpentry_connect:
+    - communication: true
+    - prof_dev: true
+    - sow: true
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location: Mostly Washington, DC, but also Cambridge, MA (Smithsonian Astrophysical Observatory) and Panama (Smithsonian Tropical Research Institute)
+  country: US
+  website: https://datascience.si.edu/carpentries
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalisation:
+    - membership: true
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email: carpentries@si.edu
+    - slack: Smithsonian workspace, #carpentries-alumni
+    - mailing_list: 
+    - contact_form:
+    - contact_person:
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: Heidelberg Carpentries
+  type:
+    - geographic_local: true
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: The Heidelberg Carpentries subcommunity organises semi-regular, informal meetups for community members in the area. These social events are an opportunity for community members to meet and talk about teaching and other Carpentries-related topics.
+  activities: 
+    - carpentry_connect: true
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers: true  
+  logo:
+  location: Heidelberg
+  country: DE
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events: true
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email: 
+    - slack:
+    - mailing_list:  https://carpentries.topicbox.com/groups/local-heidelberg
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+    
+
+
+- name: University of California Santa Barbara
+  type:
+    - geographic_local: true
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member: true
+  description: The University of California Santa Barbara subcommunity hosts and organises data science workshops for the UCSB community. They also sponsor community members for Instructor certification.
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true 
+    - sow: true  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring: true
+    - other: 
+  volunteers: true 
+  logo:
+  location: Santa Barbara, California
+  country: US
+  website: https://ucsbcarpentry.github.io/
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication:
+    - community_discussion:
+    - curriculum: true  
+    - events:
+    - governance:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation:
+    - membership:
+    - mentoring:  
+    - online_workshops: true  
+    - teaching: true
+    - other: 
+  contact:
+    - email: dreamlab@library.ucsb.edu
+    - slack: ucsbcarpentry workspace
+    - mailing_list: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: HPC Carpentry
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: true
+    - interest:
+    - other: 
+  member:
+  description: HPC Carpentry represents a global community interested in documenting and teaching better practices in cluster-based scientific computing, especially the fundamentals of interacting with a large-scale, parallel, shared computing resource. 
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: 
+    - sow: true
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: developing a lesson program and curriculum 
+  volunteers: true
+  logo:
+  location:
+  country:
+  website: https://www.hpc-carpentry.org
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion: true
+    - curriculum: true
+    - events:
+    - governance: true
+    - inperson_workshops:  
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation: true
+    - membership:
+    - mentoring: true
+    - online_workshops: true
+    - teaching: true
+    - other: 
+  contact:
+    - email: maintainers-hpc@lists.carpentries.org
+    - slack:  "Carpentries workspace, #hpc-carpentry"
+    - mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
+    - contact_form: https://www.hpc-carpentry.org/contact/
+    - contact_person: 
+  social_media: 
+    - twitter: hpccarpentry
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: Carpentries-ja
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: true 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: Carpentries-ja is a subcommunity translating the Carpentries teaching materials into Japanese and conducting workshops in Japanese.
+  activities: 
+    - carpentry_connect:
+    - communication: true
+    - prof_dev: 
+    - sow: true
+    - fundraising:
+    - student_programs:
+    - translation: true
+    - mentoring:
+    - other: 
+  volunteers: true  
+  logo:
+  location: Currently active members are located near Tokyo, Japan, in Australia, and in California, USA.
+  country:
+  website: https://swcarpentry-ja.github.io/
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication: true
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops: true
+    - instructor_development:
+    - instructor_training:
+    - internationalisation: true
+    - membership:
+    - mentoring:  
+    - online_workshops: true
+    - teaching: true
+    - other: 
+  contact:
+    - email: kozo.nishida@gmail.com
+    - slack: "Carpentries workspace, #local-japan"
+    - mailing_list:
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: swcarpentry_ja
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: Carpentry @ UiO
+  type:
+    - geographic_local: true
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member: true
+  description: We are a local community of Instructors, helpers, trainers and fans of The Carpentries. The community grew out of a couple of Instructors in 2015 and found its home at the University of Oslo Library, which became a member institution.
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
+    - sow: true
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring: true
+    - other: study group
+  volunteers: true
+  logo:
+  location: University of Oslo
+  country: Norway
+  website: https://uio-carpentry.github.io/
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events: true
+    - governance:
+    - inperson_workshops: true
+    - instructor_development: true
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring: true
+    - online_workshops:  
+    - teaching: true
+    - other: 
+  contact:
+    - email: contact-us@carpentry.uio.no
+    - slack: "Carpentries workspace, #oslo-community"
+    - mailing_list: 
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+
+- name: The Carpentries in Africa
+  type:
+    - geographic_local:
+    - geographic_regional: true
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring: true
+    - other: 
+  volunteers: true 
+  logo:
+  location: Countries in Africa
+  country:
+  website: https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication:
+    - community_discussion: true
+    - curriculum:  
+    - events: true
+    - governance:
+    - inperson_workshops: true
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation:  true
+    - membership:
+    - mentoring: true
+    - online_workshops: true
+    - teaching: true
+    - other: 
+  contact:
+    - email: 
+    - slack: "Carpentries workspace, #local-africa" 
+    - mailing_list: https://carpentries.topicbox.com/groups/local-africa
+    - contact_form:
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: DACH-Region
+  type:
+    - geographic_local:
+    - geographic_regional: true  
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member: true  
+  description: The DACH Region includes community members in the countries Germany, Austria, and Switzerland.
+  activities: 
+    - carpentry_connect:
+    - communication: true
+    - prof_dev: 
+    - sow:  
+    - fundraising: true
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers: true
+  logo:
+  location: DACH region
+  country: DE, AT, CH
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication: true
+    - community_discussion: true
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email: muellerr@zbmed.de
+    - slack: "Carpentries workspace, #local-dach"
+    - mailing_list: https://carpentries.topicbox.com/groups/local-dach
+    - contact_form:
+    - contact_person:  
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: Carpentries @ VT
+  type:
+    - geographic_local: true
+    - geographic_regional: 
+    - language:
+    - domain:
+    - interest:
+    - other: 
+  member: true 
+  description: Carpentries @ VT is a community of Carpentries Instructors and Trainees connected to Virginia Tech. We organize 8-10 local workshops a year and meet monthly to support pedagogy and engagement with regional and international Carpentries communities. 
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
+    - sow: true 
+    - fundraising:
+    - student_programs:
+    - translation: 
+    - mentoring: true
+    - other: 
+  volunteers: False
+  logo:
+  location: Blacksburg, Virginia
+  country: US
+  website: 
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication:
+    - community_discussion:
+    - curriculum:
+    - events:
+    - governance:
+    - inperson_workshops: true
+    - instructor_development: true
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring: true
+    - online_workshops: true 
+    - teaching: true
+    - other: 
+  contact:
+    - email: ndporter@vt.edu
+    - slack:
+    - mailing_list: 
+    - contact_form: 
+    - contact_person: 
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
+
+- name: Carpentries México
+  type:
+    - geographic_local: true
+    - geographic_regional: 
+    - language:
+    - domain:
+    - interest:
+    - other: 
+  member:  
+  description: The Carpentries community has grown to about 20 instructors in Mexico. We aim to promote good programming practices by strengthening Carpentries' presence within the Spanish-speaking academic community.
+  activities: 
+    - carpentry_connect: true
+    - communication: 
+    - prof_dev: true
+    - sow: true 
+    - fundraising: true
+    - student_programs: true
+    - translation: 
+    - mentoring: 
+    - other: 
+  volunteers: true
+  logo:
+  location: México
+  country: México
+  website: 
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication:
+    - community_discussion:
+    - curriculum: true
+    - events: true
+    - governance:
+    - inperson_workshops: true
+    - instructor_development: 
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring: 
+    - online_workshops: true 
+    - teaching: true
+    - other: 
+  contact:
+    - email: nselem84@gmail.com
+    - slack: "Carpentries workspace"
+    - mailing_list: carpentries-mexico@googlegroups.com
+    - contact_form: 
+    - contact_person: Nelly Sélem
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: 
+ 
+- name: Carpentries US-Northeast
+  type:
+    - geographic_local: 
+    - geographic_regional: true
+    - language:
+    - domain:
+    - interest:
+    - other: 
+  member:  
+  description: The US-Northeast Carpentries subcommunity convenes for semi-regular, informal get-togethers and mentoring opportunities. 
+  activities: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: 
+    - sow: true
+    - fundraising: 
+    - student_programs: 
+    - translation: 
+    - mentoring: true
+    - other: 
+  volunteers: true
+  logo:
+  location: Boston
+  country: USA
+  website: 
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication: true
+    - community_discussion: true
+    - curriculum: 
+    - events: 
+    - governance:
+    - inperson_workshops: true
+    - instructor_development: 
+    - instructor_training:
+    - internationalisation:
+    - membership:
+    - mentoring: true
+    - online_workshops: true 
+    - teaching: true
+    - other: 
+  contact:
+    - email: nrrome@berklee.edu
+    - slack: "Carpentries workspace, #local-us-northeast"
+    - mailing_list: 
+    - contact_form: 
+    - contact_person: Rachel Rome
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: 
+ 
+- name: Carpentries Ukraine
+  type:
+    - geographic_local: 
+    - geographic_regional: 
+    - language: true
+    - domain:
+    - interest:
+    - other: 
+  member:  
+  description: Ukrainian Carpentries is a subcommunity translating the Carpentries teaching materials into Ukrainian language.
+  activities: 
+    - carpentry_connect: 
+    - communication: true
+    - prof_dev: 
+    - sow: true
+    - fundraising: 
+    - student_programs: 
+    - translation: true
+    - mentoring: 
+    - other: 
+  volunteers: true
+  logo:
+  location: 
+  country: 
+  website: 
+  tags:
+    - assessment:
+    - carpentry_connect: 
+    - communication:
+    - community_discussion:
+    - curriculum: 
+    - events: 
+    - governance:
+    - inperson_workshops: 
+    - instructor_development: 
+    - instructor_training:
+    - internationalisation: true
+    - membership:
+    - mentoring: 
+    - online_workshops: true 
+    - teaching: 
+    - other: 
+  contact:
+    - email: obk1@st-andrews.ac.uk
+    - slack: "Carpentries workspace, #local-ukrainian"
+    - mailing_list: 
+    - contact_form: 
+    - contact_person: Olexandr Konovalov
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: 
+    - github: https://github.com/ukrainian-carpentries 
