@@ -46,7 +46,7 @@ A Data Carpentry workshop will vary based on its specific curriculum. It should 
 [Data Carpentry]({{< param dc-website >}})
 {.button}
 
-[Curricula overview](#)
+[Curricula overview](/lessons/curriculum-summary)
 {.button}
 
 [Workshop Curriculum](#)
