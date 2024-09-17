@@ -52,3 +52,8 @@ lab_link: https://carpentries-lab.org/
 
 cldt_curriculum: https://carpentries.github.io/lesson-development-training/
 workbench_link: https://carpentries.github.io/workbench/
+
+# Lesson programs
+dc-website: https://dc-new-website.netlify.app/
+lc-website:  https://lc-new-website.netlify.app/
+swc-website: https://swc-new-website.netlify.app/
