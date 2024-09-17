@@ -1,0 +1,76 @@
+{{ $subcommunities := site.Data.subcommunity.subcommunities }}
+
+{{ range $subcommunities }}
+
+<!-- check for website -->
+{{ if .website }}
+<h3><a href="{{ .website }}">{{ .name }} </a></h3>
+{{ else }}
+<h3>{{ .name }}</h3>
+{{ end }}  
+<!-- end website check -->
+
+<p>{{ .description }}</p>
+
+<!-- check for location -->
+{{ $location := "" }}
+{{ if .location }}
+{{ $location = .location }}
+{{ else }}
+{{ $location = "" }}
+{{ end }}
+<!-- end location  check -->
+
+<!-- list group types  -->
+<div>
+    <b>Group type:</b>
+    {{ range .type }}
+    {{ if .geographic_regional }}Regional Group ({{ $location }}) / {{ end }}
+    {{ if .geographic_local }}Local Group {{ $location }} / {{ end }}
+    {{ if .communications }}Communications / {{ end }}
+    {{ if .language }}Language group / {{ end }}
+    {{ if .domain }}Domain Specific Group / {{ end }}
+    {{ if .interest }}Special Interest Group / {{ end }}
+    {{ end }} <!-- end range type -->
+</div>
+
+<!-- list group activities  -->
+<div>
+    <b>Activities:</b>
+    {{ range .activities }}
+    {{ if .carpentry_connect }}Carpentry Connect / {{ end }}
+    {{ if .communication }}Communication / {{ end }}
+    {{ if .prof_dev }}Professional Development   / {{ end }}
+    {{ if .sow }}Self-Organised Workshops / {{ end }}
+    {{ if .fundraising }}Fundraising  / {{ end }}
+    {{ if .student_programs }} Student Programs / {{ end }}
+    {{ if .translation }}Translation  / {{ end }}
+    {{ if .mentoring }}Mentoring / {{ end }}
+    {{ end }} <!-- end range activities -->
+</div>
+
+<!-- list group contacts  -->
+<div>
+    <b>Contact: </b>
+    {{ range .contact }}
+    {{ if .email }}<a href="mailto:{{ .email }}">Email</a> / {{ end }}
+    {{ if .slack }}Slack: {{ .slack }} / {{ end }}
+    {{ if .mailing_list }}<a href="{{ .mailing_list }}">Mailing list</a> / {{ end }}
+    {{ if .contact_form }}<a href="{{ .contact_form }}">Contact form</a> / {{ end }}
+    {{ if .contact_person }}Contact person: {{ .contact_person }} / {{ end }}
+    {{ end }} <!-- end range contact-->
+</div>
+
+<!-- list group socials  -->
+<div>
+    <b>Connect: </b>
+    <!-- Currently only have twitter & linkedin as these are the only ones that have values. Will update code as we update data -->
+    {{ range .social_media }}
+    {{ if .twitter }}<a href="https://twitter.com/{{ .twitter }}"><i class="fab fa-twitter"></i></a></td> / {{ end }}
+    {{ if .linkedin }}<a href="https://linkedin.com/in/{{ .linkedin }}"><i class="fab fa-linkedin"></i></a></td> / {{ end }}
+    {{ end }} 
+    <!-- end range connect social media -->
+</div>
+
+{{ end }} <!-- end range subcommunities -->
+
