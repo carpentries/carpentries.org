@@ -3,10 +3,14 @@ title: Get Connected
 layout: single
 ---
 
-## Regional Community Overview
-The Carpentries is a global community made up of regional communities. Check out the list below for information on connecting with a regional community.
+## Subcommunities 
 
-{{< toc >}}
+{{< subcommunity >}}
+
+
+## Regional Community Overview
+
+The Carpentries is a global community made up of regional communities. Check out the list below for information on connecting with a regional community.
 
 ### Carpentries in Africa
 
