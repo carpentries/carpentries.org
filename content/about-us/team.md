@@ -3,6 +3,7 @@ title: Our Core Team
 layout: single
 widgets:
 - newsletter
+hideToc: true
 ---
 
 
