@@ -5,7 +5,7 @@ cascade:
   nav: workshops
 ---
 
-* Current workshops page: https://carpentries.org/workshops/ (included here for reference)
+The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. Our certified volunteer [Instructors](/community/instructors/) are [trained in pedagogy]({{< param instructor_training_curriculum >}}) and focus on creating a motivating and engaging environment for learners. Our workshops are inclusive and hands-on, empowering learners to develop new skills and build confidence in using them in their work.
 
 ## Why The Carpentries workshops
 
@@ -33,25 +33,16 @@ cascade:
 
 ## Workshop Curriculum
 
-The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix and match lesson's to provide the audience with an experience catered to their needs.
+* [Data Carpentry workshops]({{< param dc-website >}}/lessons) are for people who work with data in their research and want to learn how to code and organise their projects to work more effectively and reproducibly with data. 
+* [Library Carpentry workshops]({{< param lc-website >}}/lessons) are for people working in library- and information-related roles to build software and data skills. The workshops are domain-agnostic, though the datasets used will be familiar to library staff. 
+* [Software Carpentry workshops]({{< param swc-website >}}/lessons) are for people who are learning to develop software or want to learn best-practices in software development. Lessons are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git. 
 
-Our lessons teach  Unix shell, coding in R or Python, version control using Git, and OpenRefine,
-
-Depending on the lesson, exercises can be generic and for anyone wanting to be more comfortable with coding, and may include datasets that will be familiar to librarian or teach how to use code to work more effectively and reproducibly with data with lessons based in Astronoomy, Ecology, Genomics, Image Processing and Social Sciences. 
+There are many options for you to choose from! To help you decide which Lesson Program is best for your audience, please read the [descriptions of our curricula](#).
 
 [View upcoming workshops](/workshops/upcoming-workshops)
 {.button}
-
-## More than a Workshop.
-
-Join our global community.
-
-By attending a Carpentries Workshop, you are joining a community of instructors, helpers, learners, and more.
-
-[Get Involved](/community/get-involved/)
+[Request a Carpentries Workshop]({{< param amy_workshop_landing >}})
 {.button}
-
-**BUBBLE STATS GO HERE**
 
 ## Contact 
 

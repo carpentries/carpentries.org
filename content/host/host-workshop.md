@@ -5,53 +5,83 @@ cascade:
   nav: host
 ---
 
-## Overview
+## Why The Carpentries Workshops?
 
 The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. Our certified volunteer Instructors focus on creating a motivating and engaging environment while teaching topics like Python, R, Git, Open Refine, and more. Our workshops provide hands-on learning experiences that empower learners and build confidence in using their new skills to support their work.
 
-## Why The Carpentries Workshops?
+[Learn more about our workshops](/workshops/)
 
-* Learners do not needed previous experience. Our workshops target novice learners * with little to no prior experience.
-* Live Coding and Hands-On. Learners get hands-on experience utilizing the tools * taught at the workshop as they code alongside the instructor throughout the * workshop.
-* Real-World Applications. Our workshops include real-world examples that * demonstrate practical skills used in the workplace. The exercises in The * Carpentries lesson are designed to help learners practice skills they can * immediately apply in their work.
-* Broad scope of lessons. We offer a variety of lessons serving various discplines * from librarians to astronomers.
-* Organisation and Planning Support. We will provide support in the organisation * and planning of the workshop.
-* Certified Instructors Recruitment. We will connect your organisation with * Carpentries Certified Instructors to teach and facilitate the workshop.
-* Pre- and Post-Workshop Surveys. The Carpentries workshops include pre- and * post-workshop surveys so you can evaluate the impact of each workshop.
-* Zoom Hosting. We will provide a zoom room for online workshops.
-* Event Registration Provided. Our team will set up an event registration page * that your learners can use to register for the workshop.
-* Workshop Website. Our Instructors will create a website for your workshop that * includes a link to lesson materials, registration, and installation instructions.
-* Genomics Instance Support. We provide AWS instances for genomics workshops.
+## Host a workshop
+
+We have two options for hosting a Carpentries workshop; Self-Organised and Centrally-Organised.
+
+A Self-Organised workshop is a Carpentries workshop where the registration, recruitment of Instructors, and preparation for the workshop are managed by the host. Self-Organised workshops are free of cost to organise and allow for planning in a way that suits the needs of the host and learners. While the majority of planning is dependent on the host and learner needs, we do have a few guidelines that we ask our Self-Organised workshop hosts to follow:
+* Our motto is “never teach alone” and we ask that at least one of the Instructors teaching a Self-Organised workshop is Carpentries certified. 
+* The Carpentries workshop website is an important part of our processes and workflows. Please use the Carpentries template to create the workshop website. This helps us ensure your workshop is entered into our database correctly, allows us to display your workshop on our upcoming workshops page, and assists us in supporting you and your team with workshop surveys and follow-up.
+* Learner surveys help you, your Instructors, and the Core Team better understand the impact of Carpentries workshops. All workshops should utilise the pre and post-workshop surveys that are created automatically on the workshop website.
+* We love to know about Self-Organised workshops! Register your workshop with us to give your Instructors credit, receive the responses to the learner surveys, and help us learn the full impact of Carpentries workshops.
+
+[Request a Carpentries Workshop]({{< param amy_workshop_landing >}})
+{.button}
+
+A Centrally-Organised workshop is an integrative approach to planning a Carpentries event. Collaborate with the Carpentries Workshops and Instruction Team (WIT) to organise your workshop and a member of WIT will do the work to prepare your team for an exceptional workshop experience. Preparation from WIT includes recruitment of certified Instructors, setting up and providing access to Eventbrite for learner registration, arranging a virtual meeting space for online workshops when needed, and a wealth of resources and information to ensure a successful workshop. 
+
+Once confirmed, WIT will introduce you to your team of Instructors who will work with you to create a schedule and get to know your target audience. Instructors assigned to your workshop will also ready a website to supply you and your learners with the information needed to prepare for the workshop. With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
 
 ## Curriculum Options
 
-The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix and match lesson's to provide the audience with an experience catered to their needs.
+The Carpentries has three official lesson programs; Software Carpentry, Data Carpentry, and Library Carpentry. Each lesson program is catered to a specific audience or purpose and traditional workshops focus on lessons from one of the three lesson programs. For an experience catered to the learners' needs, Self-Organised workshops can combine lessons from any of the three lesson programs. 
 
-[Workshop curricula](#)
+Centrally-Organised workshops must teach a lesson program’s core curriculum and can not be mixed with components from another lesson program’s curricula. Below, you will find the workshop requirements for each lesson program:
+
+A Library Carpentry workshop should include any three lessons from the Library Carpentry curriculum  
+[Library Carpentry]({{< param lc-website >}})
 {.button}
 
-[Request a workshop]({{< param amy_workshop_landing >}})
+A Software Carpentry workshop should include The Unix Shell, Version Control with Git, and a programming language (R or Python)  
+[Sofware Carpentry]({{< param swc-website >}})
 {.button}
 
-## What To Expect After Requesting A Workshop
+A Data Carpentry workshop will vary based on its specific curriculum. It should generally include a lesson on one programming language (either R or Python) where applicable, as well as all other lessons outlined in the curriculum.  
+[Data Carpentry]({{< param dc-website >}})
+{.button}
 
-We ask that you submit your workshop request at least 2-3 months before your desired workshop date. Once you've requested a workshop here is what you can expect:
-**Request Review**
-Our Workshop Administration team will review your request or inquiry and follow-up with you. (1-2 Weeks)
-**Recruitment**
-We will work to recruit Certified Instructors that will support and facilitate the workshop. (1-2 Months)
-**Date Confirmed & Instructors Connected**
-Our Workshop Administration team will follow-up to confirm the workshop date and introduce you to the instructors (2 Months)
-**Workshop!**
-Bring a hands-on computational and data skill workshop to your organisation.
+[Curricula overview](#)
+{.button}
 
-For a more detailed review of the process of organising a workshop please review the [Workshop Host Checklist](#).
+[Workshop Curriculum](#)
+{.button}
 
-## Tiered-Pricing Based On Geographic Location
-All fees are dependent on the purchasing organisation's geographic location, according to the World Bank's gross national income categorisation. All fees listed are in USD and represent costs for not-for-profit organisations and academic institutions. Pricing for for-profit organisations is four times the price listed for non-profit organisations.
+## What to know before requesting a Centrally-Organised Workshop
+
+* We offer both in-person and online workshops 
+* In-person workshops are two eight-hour days and online workshops can be broken up over two to four days
+* Please plan for 16 hours total for two and four-day workshops and 15 hours for three-day workshops 
+* Breaks are included in the schedule for all workshops
+* Please request your workshop at least 10 weeks before your proposed workshop dates
+* If we cannot accommodate your preferred dates, we will provide additional options that are as close as possible to your original preference
+
+[Request a Carpentries Workshop]({{< param amy_workshop_landing >}})
+{.button}
+
+## What to Expect After Requesting a Workshop
+
+Once you have requested your workshop, you can expect the following:
+* **Review of request**: the member of WIT who is responsible for workshops in your region will review your request and follow up within 10 business days 
+* **Date confirmed**: workshop dates will be confirmed no less than eight weeks before your workshop starts 
+* **Instructor Recruitment**: we will inform our certified Instructors that a new teaching opportunity is available eight to ten weeks before the workshop (time is dependent upon finalisation of workshop dates)
+* **Instructors Connected**: we will confirm Instructors at least four weeks before the start of the workshop. Because our Instructors are volunteers, there is sometimes a delay in recruiting Instructors. If this happens, we will let you know at least four weeks before the start of the workshop so that ….can be discussed
+* **Workshop**: Instructors will join you and your learners to teach a hands-on, data skills and coding workshop at your organisation!
+
+For a more detailed review of the workshop organisation process, please visit the [Workshop Host Checklist](#).
+
+## Workshop Pricing 
+
+Consult our [pricing page](/host/pricing) for our current fee structure.
 
 ## Travel Expenses for Instructors
-The instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time we require the Host to cover travel expenses (for in-person workshops only). We work to find local instructors and minimize expenses, but we recommend that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the instructors. Once the instructors and workshop date are finalized, you can communicate your process for reimbursement directly with the instructors.
+
+Carpentries Instructors are volunteers and are not paid for their service. To compensate Instructors for their time teaching, we require the Host to cover expenses for travel, food, and accommodation for in-person workshops. To minimise expenses, we prioritse local Instructors when recruiting. However, we recommend estimating $3,000 total for expenses ($1500 per Instructor). Once the Instructors and workshop dates are finalized, you will work with them directly to plan travel, accommodations, and reimbursements. 
 
 ## Contact Us
-Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq) or contact the Workshops and Instruction Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email to {{< param workshops_email >}}.
+We know there is a lot to think about when considering hosting a Carpentries workshop! Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq/) or contact the Workshops and Instruction Team with questions. To connect with us, email [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}).
