@@ -5,19 +5,10 @@ cascade:
   nav: instructor-training
 ---
 
-## Instructor Training
-
-Here is instructor training.
-
-* Current content: https://carpentries.org/become-instructor/
-* Instructor Training curriculum: https://carpentries.github.io/instructor-training/
-
-Will we have additinal pages in this section? 
 
 ## Overview 
 
-Carpentries Instructor Training gives you strategies to teach coding and data workshops. Our 16-hour hands-on training teaches the basics of educational psychology and evidence-based teaching practices. During the training, you will practise these new skills while getting to know others who share your interests.
-After the training, you may complete three "checkout" steps to become a Certified Carpentries Instructor. Certified Instructors can volunteer to teach at our "centrally-organised workshops" with our global community virtually or in-person. They are also able to organise Carpentries workshops for their local community.
+Carpentries Instructor Training provides strategies to teach coding and data workshops. Our 16-hour interactive training teaches the basics of educational psychology and evidence-based teaching practices. During the training, you will practise these new skills while getting to know others who share your interests. After the training, you can become a Certified Carpentries Instructor by completing three “checkout” steps. Certified Instructors can volunteer to teach our “Centrally-Organised workshops” with our global community virtually or in-person. Additionally, they can organise Carpentries workshops for their local community.
 
 ## Why Instructor Training?
 
@@ -62,26 +53,13 @@ After the training, you may complete three "checkout" steps to become a Certifie
 
 ## How To Become An Instructor
 
+The Carpentries workshops are taught by trained and certified volunteer Instructors. This is how you can become a Certified Instructor:
 
-The Carpentries workshops are taught by trained and certified volunteer Instructors. Certified Carpentries Instructors can Self-Organise workshops at home or volunteer to join a workshop at another site through our Centrally-Organised workshops program. We match our Instructors with teaching opportunities that fit their schedules, travel interests, and availability. We have held workshops in over 40 countries on every continent (including Antarctica!).
-This is how you can become a Certified Instructor:
-1. Get Invited or Accepted: There are two ways to access Instructor Training. Apply and be accepted to our Open Instructor Training Program. Optionally, you may receive an invitation via email from a member organisation or other group that has arranged for training.
-1. Attend An Instructor Training Event: The 16-hour training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries.
-1. Complete Certification Steps: After the training, you will be asked to complete 3 checkout steps: Attend a discussion session where you can ask questions about teaching and learn from other instructors; Complete a teaching demonstration, which is a group practice session where you will demonstrate 5-minutes of teaching and receive feedback; and contribute to a Carpentries Lesson. See our [Checkout Instructions page]({{< param checkout_instructions >}}) for more details.
-
-## More than a Training.
-
-### Consider making this a module if we are using it in multiple pages.
-
-Join our global community.
-
-By attending a Carpentries Workshop, you are joining a community of instructors, helpers, learners, and more.
-
-[Get Involved](#)
-{.button}
-
-**BUBBLE STATS GO HERE**
+1. **Attend an Instructor Training event:** The training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. There are two ways to access Instructor Training. 
+    - You may receive an invitation via email from a member organisation or other group that has arranged for training.
+    - Purchase an individual Instructor Training seat. Review [our pricing](/host/pricing#instructor-training-pricing) and  [contact us](mailto:{{< param team_email >}}) to purchase a seat.
+1. Complete Certification Steps: You must complete three short tasks after the training in order to complete certification as a Carpentries Instructor. See our [Checkout Instructions page]({{< param checkout_instructions >}}) for more details.
 
 ## Contact Us
 
-Have Questions? Please consult our [Instructor Training FAQ](/instructor-training/instructor-training-faq) or contact the Instructor Training Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email to {{< param instructor_training_email >}}.
+Have Questions? Please consult our [Instructor Training FAQ](#) or contact the Instructor Training Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email at [{{< param instructor_training_email >}}]({{< param instructor_training_email >}}).
