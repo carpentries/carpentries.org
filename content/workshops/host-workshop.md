@@ -1,8 +1,6 @@
 ---
 title: Host a Workshop
 layout: single
-cascade:
-  nav: host
 ---
 
 ## Why The Carpentries Workshops?
