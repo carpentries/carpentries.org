@@ -75,7 +75,7 @@ For a more detailed review of the workshop organisation process, please visit th
 
 ## Workshop Pricing 
 
-Consult our [pricing page](/host/pricing) for our current fee structure.
+Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Travel Expenses for Instructors
 

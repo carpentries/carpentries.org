@@ -54,7 +54,7 @@ When they return for the second and final part of the training, trainees will re
 
 ## Pricing
 
-Consult our [pricing page](/host/pricing) for our current fee structure.
+Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Register
 
