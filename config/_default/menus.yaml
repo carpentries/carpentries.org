@@ -45,6 +45,8 @@ workshops:
 - name: Upcoming workshops
   pageRef: /workshops/upcoming-workshops
   weight: 50
+- name: Host a workshop
+  url: /workshops/host-workshop
 # Instructor Training tabbed menu
 instructor-training:
 - name: Instructor Training
