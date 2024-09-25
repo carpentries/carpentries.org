@@ -18,12 +18,11 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 	* [Lesson developers](#lesson-developers) - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
 	* [Lesson maintainers](#maintainers) - those who support existing lessons
-	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
 	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
-	*	[CarpentryCon](#carpentrycon) - our annual in-person meetup for our global community
-	*	[CarpentryConnects](#carpentryconnects) - regional community conferences organised by regional coordinators and local community members in The Carpentries
+	*	[CarpentryCon](#carpentrycon) - our in-person meetup for our global community
+	*	[CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
 	*	[Community sessions](#community-events)
 	*	[Mailing lists](https://carpentries.topicbox.com/latest)
 
@@ -43,28 +42,13 @@ More information about our governance and current members is available on [the G
 
 
 ### Instructors
-The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
+The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to levelling up your own technical skills and helps you to become a more effective technical communicator.
 
 * [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
 * [Become an Instructor!](/become-instructor/)
 * [Update]({{site.amy_landing}}) your instructor profile
 * For more information, contact us at [{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}).
 
-### Instructor Development
-
-Instructor development is how our global instructors come together to support each other and develop new teaching and
-technical skills. We create an open and inviting environment through community sessions and project-based small group mentoring.
-
-#### Instructor Development Committee
-
-The Instructor Development Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
-
-* [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/instructor_development_committee.html)
-* [Instructor Development Committee roles]({{site.handbook_url}}/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
-* Join: Join the Instructor Development Committee by attending our monthly meeting.
-* [Upcoming meetings](http://pad.carpentries.org/instructor-development)
-* [Mailing list]({{site.mailing_lists}}/instructor-development)
-* For more information, contact [Sher! Hurt](mailto:sheraaron@carpentries.org).
 
 ### Trainers
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
@@ -79,7 +63,6 @@ Private resources for current Trainers:
 * [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
 * [Mailing list]({{site.mailing_lists}}/trainers) *This list is private to Trainers*
 * [Slack]({{site.slack_invite}}) *This Slack channel is private to Trainers*
-
 
 
 ### Maintainers
@@ -115,14 +98,6 @@ The Carpentries community is committed to a collaborative and open process for l
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
 
-### Regional Coordinators
-
-Regional Coordinators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. They work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
-
-* [Regional Coordinators]({% link pages/regional_coordinators.html %})
-* [Duties]({{site.handbook_url}}/topic_folders/workshop_administration/expectations.html)
-* [Contact](mailto:{{site.contact}})
-
 ### Code of Conduct Committee
 
 The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all.
@@ -133,15 +108,6 @@ The Carpentries is a community-led project. We are committed to creating a frien
 * Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
 * Mailing list: This mailing list is confidential.
 * For more information contact [Karin Lagesen](mailto:karin.lagesen@gmail.com).
-
-### Spanish Translators Team
-
-The Spanish Translators Team translates and maintains Spanish-language lessons for The Carpentries lesson programs. They are a part of The Carpentries en Latinoamérica group.
-
-* To join, sign up for our [mailing list](https://groups.google.com/forum/#!forum/carpentries-traductores).
-* Upcoming meetings - information coming soon!
-* [Meeting minutes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos)
-* For more information contact [The Carpentries](mailto:{{site.contact}})
 
 ### Regional Subcommunities
 
@@ -162,25 +128,6 @@ CarpentryConnects are community convenings, organised to bring together communit
 
 Here is a list of all CarpentryConnect events held in the past: [carpentryconnect.org/case-studies/](https://carpentryconnect.org/case-studies/)
 
-### Champions
-
-<mark>Carpentry Champions are an inactive subcommunity in The Carpentries</mark>. Champions used to meet quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organisations around the world. Come and learn from senior community leaders and get support as you work to build your own local community. Here are resources with information about this inactive group:
-
-* [Activities](https://github.com/carpentries/champions/blob/master/activities.md) - This community holds quarterly meetings.
-* [Mailing list](https://carpentries.topicbox.com/groups/champions)
-* [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
-* [Carpentries Community Cookbook](https://cookbook.carpentries.org/)
-* To get involved, contact our [Team](mailto:{{site.contact}}).
-
-### Assessment Network
-
-<mark>The Assessment Network is an inactive subcommunity in The Carpentries</mark>. It used to bring together those working on assessment within the open source/research computing space to collaborate and share resources. The network meets quarterly to discuss best practices and share resources.Here are resources with information about this inactive group:
-
-* [Activities](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html#about)
-* [Current members](https://github.com/carpentries/assessment/blob/master/assessment-network/README.md#members)
-* [Upcoming meetings](http://pad.carpentries.org/assessment-network)
-* [Meeting minutes](https://github.com/carpentries/assessment/tree/master/assessment-network/minutes)
-* [Contact](mailto:kariljordan@carpentries.org)
 
 ### Lesson Infrastructure
 
@@ -189,17 +136,6 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 * [Past members](https://github.com/carpentries/lesson-infrastructure#members)
 * [Meetings](http://pad.carpentries.org/infrastructure-subcommittee)
 * [Contact](mailto:curriculum@carpentries.org)
-
-#### Mentoring Groups
-
-<mark>This is an inactive subcommunity in The Carpentries</mark>. Mentoring Groups support Instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
-
-* [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html)
-* [Duties]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
-* [Join the #mentoring Slack channel]({{site.slack_invite}})
-* For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
-
-<hr>
 
 ### Community events
 There are many opportunities to join community meetings, subcommittees and debriefing sessions. Find links to them in the Google calendar (link to Community events) to watch all that is going on throughout our community.
