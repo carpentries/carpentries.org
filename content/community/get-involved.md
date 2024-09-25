@@ -26,13 +26,6 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 	*	[Community sessions](#community-events)
 	*	[Mailing lists](https://carpentries.topicbox.com/latest)
 
-* Here are some currently inactive roles that community members have fulfilled in the past:
-	* [Mentors](#mentoring-groups) - those who provide support to other instructors
-	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
-	* [Champions](#champions) - those who work to spread our impact locally
-	* [Assessment Committee](#assessment-network) - those who help us understand our impact
-	* [Lesson infrastructure Committee](#lesson-infrastructure) - those who support lesson building and styling
-
 
 ### Governance
 
@@ -127,15 +120,6 @@ If you are interested in helping to organise the next CarpentryCon, contact [The
 CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. [The CarpentryConnect Planning Kit](https://carpentryconnect.org) provides checklists, templates, recommendations for best practices and resources to serve as guides in planning and carrying out CarpentryConnect events.
 
 Here is a list of all CarpentryConnect events held in the past: [carpentryconnect.org/case-studies/](https://carpentryconnect.org/case-studies/)
-
-
-### Lesson Infrastructure
-
-<mark>This is an inactive subcommunity in The Carpentries</mark>. Members of the Lesson Infrastructure Committee used to serve as Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
-
-* [Past members](https://github.com/carpentries/lesson-infrastructure#members)
-* [Meetings](http://pad.carpentries.org/infrastructure-subcommittee)
-* [Contact](mailto:curriculum@carpentries.org)
 
 ### Community events
 There are many opportunities to join community meetings, subcommittees and debriefing sessions. Find links to them in the Google calendar (link to Community events) to watch all that is going on throughout our community.
