@@ -7,7 +7,7 @@ Curriculum Advisors provide oversight and guidance on the development and mainte
 
 Curriculum advisors are listed on the respective lesson program pages:
 
-* [Data Carpentry](https://dc-new-website.netlify.app/curriculum-advisors/)
-* [Library Carpentry](https://lc-new-website.netlify.app/curriculum-advisors/)
-* [Software Carpentry](https://swc-new-website.netlify.app/curriculum-advisors/)
+* [Data Carpentry]({{< param dc-website >}}about-us/curriculum-advisors/)
+* [Library Carpentry]({{< param lc-website >}}about-us/curriculum-advisors/)
+* [Software Carpentry]({{< param swc-website >}}about-us/curriculum-advisors/)
 
