@@ -36,39 +36,39 @@ Shared values and goals have long been the starting point of communities of prac
 
 ## At The Carpentries we…
 
-{{< section title="Act Openly" image="/images/act_openly.png" >}}
+{{< section title="Act Openly" image="/images/values/act_openly.png" >}}
 We believe that transparency, honesty, and fairness are keys to fostering trust within an open community.
 {{< /section>}}
 
-{{< section title="Empower One Another" image="/images/empower_one_another.png" >}}
+{{< section title="Empower One Another" image="/images/values/empower_one_another.png" >}}
 We help people build knowledge by creating a conducive environment for the exchange of skills, perspectives and experiences that empower people and enable them to reach their potential.
 {{< /section>}}
 
-{{< section title="Value all contributions" image="/images/value_all_contributions.png" >}}
+{{< section title="Value all contributions" image="/images/values/value_all_contributions.png" >}}
 All contributions that follow our Code of Conduct are valuable.
 {{< /section>}}
 
-{{< section title="Always learning" image="/images/always_learning.png" >}}
+{{< section title="Always learning" image="/images/values/always_learning.png" >}}
 We are responsive, curious, receptive to feedback, and eager to learn.
 {{< /section>}}
 
-{{< section title="Inclusive of all" image="/images/inclusive_of_all.png" >}}
+{{< section title="Inclusive of all" image="/images/values/inclusive_of_all.png" >}}
 We welcome and respect all community members, regardless of their identity or expression.
 {{< /section>}}
 
-{{< section title="People first" image="/images/people_first.png" >}}
+{{< section title="People first" image="/images/values/people_first.png" >}}
 Individuals who make up our community are the most important part of our organisation and our strongest resource.
 {{< /section>}}
 
-{{< section title="Access for all" image="/images/access_for_all.png" >}}
+{{< section title="Access for all" image="/images/values/access_for_all.png" >}}
 Accessibility is at our core. We create multiple avenues for participation where all people can learn and contribute.
 {{< /section>}}
 
-{{< section title="Community collaboration" image="/images/community_collaboration.png" >}}
+{{< section title="Community collaboration" image="/images/values/community_collaboration.png" >}}
 Collaboration across borders, domains and initiatives is a pathway to empower people and reach shared goals.
 {{< /section>}}
 
-{{< section title="Strength through diversity" image="/images/strength_through_diversity.png" >}}
+{{< section title="Strength through diversity" image="/images/values/strength_through_diversity.png" >}}
 We empower a diverse group of people to work with data and code to answer the questions important to them and address challenges in science and society.
 {{< /section>}}
 
