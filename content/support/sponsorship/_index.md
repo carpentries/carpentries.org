@@ -5,7 +5,7 @@ hideToc: true
 ---
 
 The Carpentries Sponsorship Program aims to help The Carpentries partner with like-minded organisations who want to contribute financially to help The Carpentries achieve our mission and vision.
-With support from sponsors, The Carpentries will continue our efforts to make coding and data skills equitable globally and expand our operations to better meet the needs of our community now and in the future.
+With support from sponsors, The Carpentries will continue our efforts to make coding and data skills equitable globally and expand our operations to meet the needs of our community better now and in the future.
 
 
 [Apply to become a sponsor]({{< param sponsor_form >}})
@@ -37,7 +37,7 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 - ADVOCATE
 {.badges}
 
-The Carpentries provides a digital icon that can be displayed on sponsor’s website and social media accounts as a way to show support for The Carpentries community.
+The Carpentries provides a digital icon that can be displayed on the sponsor’s website and social media accounts as a way to show support for The Carpentries community.
 
 ### Newsletter Recognition
 
@@ -50,7 +50,7 @@ One mention in The Carpentries newsletters, Carpentries Philanthropy & Carpentri
 
 ## All Contributions Are Valued
 
-In addition to the sponsorship program, we value all monetary contributions. Please support The Carpentries’ growing community as an ally by making a donation of any amount.
+In addition to the sponsorship program, we value all monetary contributions. Please support The Carpentries’ growing community as an ally by donating any amount.
 
 [Donate]({{< param donation_form >}})
 {.button} 
