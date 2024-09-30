@@ -154,14 +154,14 @@ main:
   url: "#"
   parent: null
   weight: 20
-- identifier: lessons
-  name: Lessons
-  pageRef: "/lessons/"
-  parent: learn
-  weight: 10
 - identifier: workshops
   name: Workshops
   pageRef: "/workshops/"
+  parent: learn
+  weight: 10
+- identifier: lessons
+  name: Lessons
+  pageRef: "/lessons/"
   parent: learn
   weight: 20
 - identifier: instructor-training
