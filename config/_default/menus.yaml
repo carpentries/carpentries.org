@@ -117,15 +117,20 @@ main:
   name: The Carpentries
   pageRef: "/about-us/"
   parent: about-us
-  weight: 20
+  weight: 10
 - identifier: impact
   name: Impact
   pageRef: "/about-us/impact/"
   parent: about-us
-  weight: 30
+  weight: 20
 - identifier: governance
   name: Governance
   pageRef: "/about-us/governance/"
+  parent: about-us
+  weight: 30
+- identifier: financials
+  name: Financials
+  pageRef: "/about-us/financials/"
   parent: about-us
   weight: 40
 - identifier: team
@@ -138,16 +143,11 @@ main:
   pageRef: "/about-us/careers/"
   parent: about-us
   weight: 60
-- identifier: financials
-  name: Financials
-  pageRef: "/about-us/financials/"
-  parent: about-us
-  weight: 70
 - identifier: contact-us
   name: Contact us
   pageRef: "/about-us/contact/"
   parent: about-us
-  weight: 90
+  weight: 70
 # Learn Menu
 - identifier: learn
   name: Learn
