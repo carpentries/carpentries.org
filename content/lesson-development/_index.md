@@ -5,8 +5,6 @@ cascade:
   nav: cldt
 ---
 
-## Collaborative Lesson Development Training
-
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). Mature lessons can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}) and/or may be adopted by one of our lesson programs.
 
 The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The [Carpentries Collaborative Lesson Development Training](#about-the-training) provides our community members with the expertise they need to co-create a high-quality curriculum.
@@ -14,7 +12,7 @@ The successful design and collaborative development of a new lesson or curriculu
 The Lesson Developer Handbook provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
 
 
-## About the training
+## Collaborative Lesson Development Training
 
 Collaborative Lesson Development Training teaches essential skills
 and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
