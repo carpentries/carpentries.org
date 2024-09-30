@@ -51,7 +51,7 @@
 
 <!-- list group contacts  -->
 <div>
-    <b>Contact: </b>
+    <b>Connect: </b>
     {{ range .contact }}
     {{ if .email }}<a href="mailto:{{ .email }}">Email</a> / {{ end }}
     {{ if .slack }}Slack: {{ .slack }} / {{ end }}
@@ -59,17 +59,10 @@
     {{ if .contact_form }}<a href="{{ .contact_form }}">Contact form</a> / {{ end }}
     {{ if .contact_person }}Contact person: {{ .contact_person }} / {{ end }}
     {{ end }} <!-- end range contact-->
-</div>
-
-<!-- list group socials  -->
-<div>
-    <b>Connect: </b>
-    <!-- Currently only have twitter & linkedin as these are the only ones that have values. Will update code as we update data -->
     {{ range .social_media }}
     {{ if .twitter }}<a href="https://twitter.com/{{ .twitter }}"><i class="fab fa-twitter"></i></a></td> / {{ end }}
     {{ if .linkedin }}<a href="https://linkedin.com/in/{{ .linkedin }}"><i class="fab fa-linkedin"></i></a></td> / {{ end }}
     {{ end }} 
-    <!-- end range connect social media -->
 </div>
 
 {{ end }} <!-- end range subcommunities -->
