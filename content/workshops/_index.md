@@ -37,7 +37,7 @@ The Carpentries teaches workshops around the world on the foundational skills to
 * [Library Carpentry workshops]({{< param lc-website >}}/lessons) are for people working in library- and information-related roles to build software and data skills. The workshops are domain-agnostic, though the datasets used will be familiar to library staff. 
 * [Software Carpentry workshops]({{< param swc-website >}}/lessons) are for people who are learning to develop software or want to learn best-practices in software development. Lessons are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git. 
 
-There are many options for you to choose from! To help you decide which Lesson Program is best for your audience, please read the [descriptions of our curricula](#).
+There are many options for you to choose from! To help you decide which Lesson Program is best for your audience, please read the [descriptions of our curricula](/lessons/curriculum-summary/).
 
 [View upcoming workshops](/workshops/upcoming-workshops)
 {.button}
