@@ -1,8 +1,7 @@
 ---
 title: Curriculum Advisors
+hideToc: true 
 ---
-
-## How to list Curriculum Advisors?
 
 Curriculum Advisors provide oversight and guidance on the development and maintenance of a particular set of lessons. Drawing on expertise in the curriculum domain and experience teaching the lessons, Curriculum Advisors collaborate with lesson Maintainers and lesson program Governors to ensure that lessons remain accurate, relevant, and impactful.
 
