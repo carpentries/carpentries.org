@@ -5,13 +5,6 @@ cascade:
   nav: trainer-training
 ---
 
-## Trainer Training
-
-Here is trainer training.
-
-* GitHub repo: https://github.com/carpentries/trainer-training
-* Curriculum: https://carpentries.github.io/trainer-training/
-
 ## Overview
 
 Instructor Trainers (Trainers) teach The Carpentries Instructor Training Events. They train new Instructors in the basics of educational psychology and evidence-based teaching practices. They also support and play a leadership role in the oversight of the Instructor Training program.
