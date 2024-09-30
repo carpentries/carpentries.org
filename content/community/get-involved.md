@@ -75,7 +75,7 @@ They bring domain-specific expertise to lesson development and help ensure that
 lessons stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
 network with other domain experts in The Carpentries community. We are not currently seeking new members to the Curriculum Advisory Committees.
 
-* [Curriculum Advisory Committee Members]({% link pages/curriculum-advisors.html %})
+* [Curriculum Advisory Committee Members](/community/curriculum_advisors/)
 * [Curriculum Advisory Committee (CAC) Duties]({{site.handbook_url}}/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)
 
 
