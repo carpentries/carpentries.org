@@ -13,15 +13,15 @@ The Carpentries teaches workshops around the world on the foundational skills to
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>No previous experience needed.</b> Our workshops target novice learners with little to no prior experience. </td>
+        <td><b>No previous experience needed.</b> Our workshops target novice learners with little to no prior experience.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Live Coding and Hands-On.</b> You'll code alongside the instructor and more blah blah blah about live coding things at the workshop. </td>
+        <td><b>Participatory live coding.</b> You'll code alongside the Instructor as they work through the lesson material.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Inclusive community of practice.</b> Cotton candy pastry tart macaroon shortbread gingerbread gummies chocolate bar. Cookie cotton candy chocolate cake soufflé bonbon biscuit cake.</td>
+        <td><b>Inclusive community of practice.</b> By attending a Carpentries Workshop, you are joining a welcoming community of Instructors, helpers, learners, and more.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
