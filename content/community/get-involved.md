@@ -38,7 +38,6 @@ More information about our governance and current members is available on [the G
 The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to levelling up your own technical skills and helps you to become a more effective technical communicator.
 
 * [Instructor training curriculum]({{< param instructor_training_curriculum >}})
-* [Become an Instructor!](/become-instructor/)
 * [Update]({{< param amy_base >}}) your instructor profile
 * For more information, contact us at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).
 
