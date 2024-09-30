@@ -29,7 +29,7 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 
 ### Governance
 
-The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
+The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](#) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
 
 More information about our governance and current members is available on [the Governance page](/about-us/governance/).
 
@@ -46,25 +46,25 @@ The Carpentries Instructors are the core of our community. Instructors organise 
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum]({{< param instructor_training_curriculum >}}). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
-* [Duties]({{site.handbook_url}}/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
+* [Duties](#)
 * [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
 * [Contact](mailto:{{< param instructor_training_email >}})
 
 Private resources for current Trainers:
 * [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
-* [Mailing list]({{site.mailing_lists}}/trainers) *This list is private to Trainers*
-* [Slack]({{site.slack_invite}}) *This Slack channel is private to Trainers*
+* [Mailing list](#) *This list is private to Trainers*
+* [Slack](#) *This Slack channel is private to Trainers*
 
 
 ### Maintainers
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter](/newsletter) and [blog](/blog/).
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
-* [Maintainer guidelines]({{site.handbook_url}}/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
+* [Maintainer guidelines](#)
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
-* [Mailing list]({{site.mailing_lists}}/maintainers)
-* [Slack]({{site.slack_invite}})
+* [Mailing list](#)
+* [Slack](#)
 * [Contact](mailto:{{< param curriculum_email >}})
 
 
@@ -76,7 +76,7 @@ lessons stay up to date with advances in technology. Being a Curriculum Advisor 
 network with other domain experts in The Carpentries community. We are not currently seeking new members to the Curriculum Advisory Committees.
 
 * [Curriculum Advisory Committee Members](/community/curriculum_advisors/)
-* [Curriculum Advisory Committee (CAC) Duties]({{site.handbook_url}}/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)
+* [Curriculum Advisory Committee (CAC) Duties](#)
 
 
 ### Lesson Developers
@@ -88,13 +88,13 @@ The Carpentries community is committed to a collaborative and open process for l
 [The Carpentries Lab]({{< param lab_link >}}) is for sharing peer-reviewed lessons, vetted by The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
 
 Those looking for ways to contribute to existing lesson material can find
-a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
+a list of issues in need of attention on the [Help Wanted page](#).
 
 ### Code of Conduct Committee
 
 The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all.
 
-* [The Carpentries Code of Conduct]({{site.handbook_url}}/topic_folders/policies/index_coc.html)
+* [The Carpentries Code of Conduct](#)
 * [The Code of Conduct Committee](/community/coc_ctte/)
 * [Apply to join](https://goo.gl/forms/9NMhirB5wXGZ2FUc2)
 * Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
@@ -112,7 +112,7 @@ The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-
 * [CarpentryCon 2020](https://2020.carpentrycon.org) was held between July and August 2020 as a seven week online event.
 * [CarpentryCon 2022](https://2022.carpentrycon.org/) was held 1-12 August 2022 as an online event.
 
-If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:{{site.carpentrycon_contact}}).
+If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](#).
 
 ### CarpentryConnects
 
