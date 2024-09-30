@@ -49,7 +49,7 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 
 ## Membership Pricing
 
-Memberships include a bundle of Workshops and Instructor Training seats for organisations seeking to provide computational and data training to their community. Members can add-on additional Workshops and Instructor Training seats to their Membership package at a 40% discount to the prices shown above. For more information about Membership, visit our [Membership page](/support/membership/).
+Memberships include a bundle of Workshops and Instructor Training seats for organisations seeking to provide computational and data training to their community. Members can add-on additional Workshops, Instructor Training seats, and Collaborative Lesson Development Training seats to their Membership package at a 40% discount to the prices shown above. For more information about Membership, visit our [Membership page](/support/membership/).
 
 {{< table >}}
 
