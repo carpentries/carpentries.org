@@ -21,10 +21,10 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
-	*	[CarpentryCon](#carpentrycon) - our in-person meetup for our global community
-	*	[CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
-	*	[Community sessions](#community-events)
-	*	[Mailing lists](https://carpentries.topicbox.com/latest)
+	* [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
+	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
+	* [Community sessions](#community-events)
+	* [Mailing lists](https://carpentries.topicbox.com/latest)
 
 
 ### Governance
