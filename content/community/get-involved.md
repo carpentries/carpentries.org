@@ -65,7 +65,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack]({{site.slack_invite}})
-* [Contact](mailto:curriculum@carpentries.org)
+* [Contact](mailto:{{< param curriculum_email >}})
 
 
 ### Curriculum Advisors
