@@ -39,7 +39,7 @@ The Carpentries Instructors are the core of our community. Instructors organise 
 
 * [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
 * [Become an Instructor!](/become-instructor/)
-* [Update]({{site.amy_landing}}) your instructor profile
+* [Update]({{< param amy_base >}}) your instructor profile
 * For more information, contact us at [{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}).
 
 
