@@ -85,7 +85,7 @@ The Carpentries community is committed to a collaborative and open process for l
 
 [The Carpentries Incubator]({{< param incubator_link >}}) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
-[The Carpentries Lab](https://carpentries-lab.org/) is for sharing peer-reviewed lessons, vetted by The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
+[The Carpentries Lab]({{< param lab_link >}}) is for sharing peer-reviewed lessons, vetted by The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
 
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
@@ -103,7 +103,7 @@ The Carpentries is a community-led project. We are committed to creating a frien
 
 ### Regional Subcommunities
 
-For a full listing of Carpentries subcommunities, please visit our [subcommunity registry](https://carpentries.org/community-groups/).
+For a full listing of Carpentries subcommunities, please visit our [subcommunity registry](/community/get-connected/#subcommunities).
 
 ### CarpentryCon
 
