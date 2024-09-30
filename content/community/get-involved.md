@@ -95,7 +95,7 @@ a list of issues in need of attention on the [Help Wanted page](/help-wanted-iss
 The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all.
 
 * [The Carpentries Code of Conduct]({{site.handbook_url}}/topic_folders/policies/index_coc.html)
-* [The Code of Conduct Committee](/coc-ctte/)
+* [The Code of Conduct Committee](/community/coc_ctte/)
 * [Apply to join](https://goo.gl/forms/9NMhirB5wXGZ2FUc2)
 * Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
 * Mailing list: This mailing list is confidential.
