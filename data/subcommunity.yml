@@ -429,7 +429,7 @@ subcommunities:
     - other: 
   contact:
     - email: facilitator@datascience.wisc.edu
-    - slack: data-science-hubgroup workspace, #uw_carpentries
+    - slack: "data-science-hubgroup workspace, #uw_carpentries"
     - mailing_list:  carpentries@g-groups.wisc.edu
     - contact_form:
     - contact_person:
@@ -487,7 +487,7 @@ subcommunities:
     - other: 
   contact:
     - email: carpentries@si.edu
-    - slack: Smithsonian workspace, #carpentries-alumni
+    - slack: "Smithsonian workspace, #carpentries-alumni"
     - mailing_list: 
     - contact_form:
     - contact_person:
