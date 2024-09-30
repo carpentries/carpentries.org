@@ -1,19 +1,27 @@
+# General text 
+#############################################
 description: The Carpentries is a fiscally sponsored project of Community Initiatives, a registered 501(c)3 non-profit organisation based in California, USA. We are a global community teaching foundational computational and data science skills to researchers in academia, industry and government.
 images:
-- thearpentries-opengraph.png
+- thecarpentries-opengraph.png
 title: The Carpentries
+footer_overview_text: "The Carpentries is a fiscally sponsored project of Community Initiatives, a registered 501(c)3 non-profit organisation based in California, USA. We are a global community teaching foundational computational and data science skills to researchers in academia, industry and government."
 
-git_repo: https://github.com/carpentries/new-website
-handbook_url: https://docs.carpentries.org
 
+# Logos
+#############################################
 logo: carpentries-logo.svg
 logoAlt: The Carpentries
-
 logoFooter: carpentries-logo-footer.svg
 logoFooterAlt: The Carpentries
 
-# General email addresses
 
+# Github
+#############################################
+git_repo: https://github.com/carpentries/new-website
+
+
+# General email addresses
+#############################################
 team_email: team@carpentries.org
 membership_email: membership@carpentries.org
 workshops_email: workshops@carpentrires.org
@@ -21,42 +29,57 @@ instructor_training_email: instructor.training@carpentries.org
 coc_email: coc@carpentries.org
 curriculum_email: curriculum@carpentries.org
 
-# Social media platforms
 
+# Social media and communication platforms
+#############################################
 youtube: https://www.youtube.com/thecarpentries
 mastodon: https://hachyderm.io/@thecarpentries
 linkedin: https://www.linkedin.com/company/the-carpentries/
+topicbox: https://carpentries.topicbox.com/groups
+
 
 # AMY links
+#############################################
 amy_base: https://amy.carpentries.org
 amy_workshop_landing: https://amy.carpentries.org/forms/workshop/
 amy_req_cow: https://amy.carpentries.org/forms/request_workshop/
 amy_reg_sow: https://amy.carpentries.org/forms/self-organised/
 amy_training: https://amy.carpentries.org/forms/request_training/
 
+
 # Instructor training links
+#############################################
 checkout_instructions: https://carpentries.github.io/instructor-training/checkout.html
 instructor_training_curriculum: https://carpentries.github.io/instructor-training/
 
 
 # Donate and sponsor
+#############################################
 sponsor_form: https://carpentries.typeform.com/to/EQdv1Qx4
 donation_form: http://give.communityin.org/TheCarpentries
 footer_donate_url: http://give.communityin.org/TheCarpentries
 
-footer_overview_text: "The Carpentries is a fiscally sponsored project of Community Initiatives, a registered 501(c)3 non-profit organisation based in California, USA. We are a global community teaching foundational computational and data science skills to researchers in academia, industry and government."
 
+# Membership links
+#############################################
 membership_form: https://carpentries.typeform.com/to/Hmfe6L
 
+
+# Curriculum/lesson links
+#############################################
 incubator_link: https://carpentries-incubator.org/
 lab_link: https://carpentries-lab.org/ 
-
 cldt_curriculum: https://carpentries.github.io/lesson-development-training/
 workbench_link: https://carpentries.github.io/workbench/
 
+
 # Lesson programs
+#############################################
 dc-website: https://dc-new-website.netlify.app/
 lc-website:  https://lc-new-website.netlify.app/
 swc-website: https://swc-new-website.netlify.app/
 
-topicbox: https://carpentries.topicbox.com/groups
+
+# Other sites
+#############################################
+handbook_url: https://docs.carpentries.org
