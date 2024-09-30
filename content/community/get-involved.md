@@ -37,14 +37,14 @@ More information about our governance and current members is available on [the G
 ### Instructors
 The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to levelling up your own technical skills and helps you to become a more effective technical communicator.
 
-* [Instructor training curriculum](https://carpentries.github.io/instructor-training/)
+* [Instructor training curriculum]({{< param instructor_training_curriculum >}})
 * [Become an Instructor!](/become-instructor/)
 * [Update]({{< param amy_base >}}) your instructor profile
 * For more information, contact us at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).
 
 
 ### Trainers
-The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum](https://carpentries.github.io/instructor-training/). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
+The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum]({{< param instructor_training_curriculum >}}). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
 * [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties]({{site.handbook_url}}/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
