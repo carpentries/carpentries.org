@@ -65,7 +65,7 @@ We also introduce grep for searching and subsetting data across files. Exercises
 cover working with OpenRefine to transform and clean data, and the benefits of working collaboratively via Git/GitHub and using version
 control to track your work.
 
-## </a>Software Carpentry (All Workshops)
+## Software Carpentry (All Workshops)
 All [Software Carpentry][swc-all] workshops include an introduction to Bash shell scripting and version control with Git, along with your choice of
 either R or Python. Learners will gain confidence in using the command-line to navigate their file structure and work with files on their
 computer, culminating in writing custom Bash scripts to automate repetitive analyses. They will learn the core concepts of version
