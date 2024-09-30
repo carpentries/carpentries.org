@@ -83,7 +83,7 @@ network with other domain experts in The Carpentries community. We are not curre
 
 The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.
 
-[The Carpentries Incubator](https://carpentries-incubator.org/) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
+[The Carpentries Incubator]({{< param incubator_link >}}) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
 [The Carpentries Lab](https://carpentries-lab.org/) is for sharing peer-reviewed lessons, vetted by The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
 
