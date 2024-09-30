@@ -14,7 +14,7 @@ The Advisory Committee must, at minimum, assume the following joint responsibili
 
 *   Sign the fiscal sponsorship agreement
 *   Hire, supervise, and terminate, when necessary, the FSP's Project Director (Executive Director)
-*   Approve reimbursement requests for Project Director and fellow Advisory Committee Members.
+*   Approve reimbursement requests for the Project Director and fellow Advisory Committee Members.
 
 ### Current Advisory Committee Members
 
@@ -22,13 +22,13 @@ The Advisory Committee must, at minimum, assume the following joint responsibili
 
 ### Contacting the Advisory Commitee
 
-Contact the Advisory Commitee by [sending an email](mailto:advisory-committee@carpentries.org) or by [filling out this form](https://forms.gle/pLyUYUZhNBwaS3mb7).
+Contact the Advisory Committee by [sending an email](mailto:advisory-committee@carpentries.org) or by [filling out this form](https://forms.gle/pLyUYUZhNBwaS3mb7).
 
 The Carpentries is working towards transitioning out of fiscal sponsorship to an [independent 501(c)(3) non-profit organisation](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf). Governance of The Carpentries, Inc. (501c3 non-profit organisation) is undertaken by the Board of Directors to whom the Executive Director reports. The Board comprises 7-11 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least one-third of the Board members are elected by the Carpentries community.
 
 ## Roles and Responsibilities of the Board of Directors
 
-The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation's reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms.
+The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries' public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation's reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms.
 
 In addition to [publicly posting meeting minutes](https://github.com/carpentries/governance/tree/main/minutes), the Board reports on its activities periodically in [Carpentries Clippings](https://carpentries.org/newsletter/) and through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance). The Board also prepares [Yearly Summaries](https://github.com/carpentries/governance/tree/main/year-in-review) of its activities.
 
@@ -44,7 +44,7 @@ Standing Committees are used by the Board as a practical way to manage the work 
 
 ## Carpentries Bylaws and Policies
 
-[The Carpentries Bylaws can be found here](/files/exec_council/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have a number of other policies that govern how we operate, [including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
+[The Carpentries Bylaws can be found here](/files/exec_council/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have several other policies that govern how we operate, [including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
 
 ## Contacting the Board of Directors
 
