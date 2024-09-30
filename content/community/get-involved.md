@@ -31,7 +31,7 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 
 The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
 
-More information about our governance and current members is available on [the Governance page](/governance/).
+More information about our governance and current members is available on [the Governance page](/about-us/governance/).
 
 
 ### Instructors
