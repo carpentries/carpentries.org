@@ -121,4 +121,4 @@ CarpentryConnects are community convenings, organised to bring together communit
 Here is a list of all CarpentryConnect events held in the past: [carpentryconnect.org/case-studies/](https://carpentryconnect.org/case-studies/)
 
 ### Community events
-There are many opportunities to join community meetings, subcommittees and debriefing sessions. Find links to them in the Google calendar (link to Community events) to watch all that is going on throughout our community.
+There are many opportunities to join community meetings, subcommittees and debriefing sessions. Find links to them in [the Google calendar](/community/events/) to watch all that is going on throughout our community.
