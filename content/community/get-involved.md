@@ -23,7 +23,7 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
 	* [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
 	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
-	* [Community sessions](#community-events)
+	* [Community sessions](/community/events/)
 	* [Mailing lists](https://carpentries.topicbox.com/latest)
 
 
@@ -118,5 +118,3 @@ CarpentryConnects are community convenings, organised to bring together communit
 
 Here is a list of all CarpentryConnect events held in the past: [carpentryconnect.org/case-studies/](https://carpentryconnect.org/case-studies/)
 
-### Community events
-There are many opportunities to join community meetings, subcommittees and debriefing sessions. Find links to them in [the Google calendar](/community/events/) to watch all that is going on throughout our community.
