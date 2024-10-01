@@ -12,7 +12,7 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 ## You can get involved in: 
 
 * Maintaining global communities of practice:
-        * [Instructors](#instructors) - those who teach Carpentries workshops 
+    * [Instructors](#instructors) - those who teach Carpentries workshops 
 	* [Governance](#governance) - community members that constitute the governance and policy arm of The Carpentries
 	* [Trainers](#trainers) - those who prepare our new Instructors
 	* [Lesson developers](#lesson-developers) - those who create new lessons
