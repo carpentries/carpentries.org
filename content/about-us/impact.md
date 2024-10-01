@@ -25,12 +25,12 @@ At The Carpentries we are “Always Learning”. We embody the growth mindset we
 
 Our annual reports serve as a high-level summary of The Carpentries' work, providing a succinct introduction to our organisation for potential funders, new members, and others joining our community. These reports also serve as a rich resource for our existing community members, showcasing the work and growth of our community and providing a summary of the previous year, and what we plan to achieve in the coming year. Our annual reports also include a short overview of our finances for the year. More information about our finances is available on our [Financials page](/about-us/financials). 
 
-- [Annual Report, 2021 (pdf)](#)
-- [Annual Report, 2020 (pdf)](#)
-- [Annual Report, 2020 (HTML))](#)
-- [Annual Report, 2019 (pdf)](#)
-- [Annual Report, 2021 (pdf)](#)
-- [Annual Report, 2020 (pdf)](#)
+- [Annual Report, 2023 (pdf)](/reports/annual-reports/2023AnnualReport.pdf)
+- [Annual Report, 2022 (pdf)](/reports/annual-reports/2022AnnualReport.pdf)
+- [Annual Report, 2021 (pdf)](/reports/annual-reports/2021AnnualReport.pdf)
+- [Annual Report, 2020 (pdf)](/reports/annual-reports/2020AnnualReport.pdf)
+- [Annual Report, 2019 (pdf)](/reports/annual-reports/2019AnnualReport.pdf)
+- [Annual Report, 2018 (pdf)](/reports/annual-reports/2018AnnualReport.pdf)
 
 ### Referencing Annual Reports
 
