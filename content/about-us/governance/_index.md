@@ -49,7 +49,7 @@ Standing Committees are used by the Board as a practical way to manage the work 
 
 ## Contacting the Board of Directors
 
-Contact the Board by [sending an email](board@carpentries.org) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
+Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
 
 ### Past Governance Members
 
