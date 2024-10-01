@@ -73,7 +73,7 @@ We conduct pre- and post-workshop surveys for Carpentries Workshops & Instructor
 
 We launched a Long-Term Impact Survey in 2017 to evaluate the long-term impact our workshops are having on Carpentries Learners. Data is collected every six months. Use the below to preview the questions currently included in our long-term survey:
 
-[Preview the Long Term Impact Surve](https://carpentries.github.io/assessment-archives/long-term/long-term.html)
+[Preview the Long Term Impact Survey](https://carpentries.github.io/assessment-archives/long-term/long-term.html)
 {.button}
 
 ### Data
