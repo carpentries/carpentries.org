@@ -1,5 +1,6 @@
 ---
 title: Carpentries Governance
+layout: single
 ---
 
 The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship to an independent 501(c)(3) non-profit organisation](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf). For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
