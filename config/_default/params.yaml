@@ -24,7 +24,7 @@ git_repo: https://github.com/carpentries/new-website
 #############################################
 team_email: team@carpentries.org
 membership_email: membership@carpentries.org
-workshops_email: workshops@carpentrires.org
+workshops_email: workshops@carpentries.org
 instructor_training_email: instructor.training@carpentries.org
 coc_email: coc@carpentries.org
 curriculum_email: curriculum@carpentries.org
