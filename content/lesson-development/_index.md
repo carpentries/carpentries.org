@@ -47,7 +47,8 @@ After attending this training, participants will be able to:
 
 ### Training structure
 
-<img src="images/cldt-structure.svg" alt="CLDT structure">
+<object data="images/cldt-structure.svg" type="image/svg+xml">
+</object>
 
 The training takes place in two parts, separated by an extended break where participants test their new lessons.
 
