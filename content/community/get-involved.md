@@ -11,8 +11,8 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 
 ## You can get involved in: 
 
-* Overseeing the training and certification of [Instructors](#instructors)
 * Maintaining global communities of practice:
+    * [Instructors](#instructors) - those who teach Carpentries workshops 
 	* [Governance](#governance) - community members that constitute the governance and policy arm of The Carpentries
 	* [Trainers](#trainers) - those who prepare our new Instructors
 	* [Lesson developers](#lesson-developers) - those who create new lessons
@@ -27,12 +27,6 @@ Our work is made possible by our amazing volunteer Instructors, Trainers, Mentor
 	* [Mailing lists](https://carpentries.topicbox.com/latest)
 
 
-### Governance
-
-The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](#) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
-
-More information about our governance and current members is available on [the Governance page](/about-us/governance/).
-
 
 ### Instructors
 The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to levelling up your own technical skills and helps you to become a more effective technical communicator.
@@ -41,6 +35,10 @@ The Carpentries Instructors are the core of our community. Instructors organise 
 * [Update]({{< param amy_base >}}) your instructor profile
 * [Contact](mailto:{{< param instructor_training_email >}})
 
+### Governance
+The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](#) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
+
+More information about our governance and current members is available on [the Governance page](/about-us/governance/).
 
 ### Trainers
 The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum]({{< param instructor_training_curriculum >}}). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
