@@ -45,7 +45,7 @@ Standing Committees are used by the Board as a practical way to manage the work 
 
 ## Carpentries Bylaws and Policies
 
-[The Carpentries Bylaws can be found here](/files/exec_council/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have several other policies that govern how we operate, [including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
+[The Carpentries Bylaws can be found here](/governance/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have several other policies that govern how we operate, [including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
 
 ## Contacting the Board of Directors
 
