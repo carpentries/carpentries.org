@@ -46,4 +46,4 @@ There are many options for you to choose from! To help you decide which Lesson P
 
 ## Contact 
 
-Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq) or contact the Workshops and Instruction Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email to {{< param workshops_email >}}.
+Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq) or contact our team at {{< param workshops_email >}}.
