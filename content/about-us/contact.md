@@ -16,6 +16,7 @@ If you you would like to ask us anything about The Carpentries, its community, a
 * Workshop enquiries: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
 * Membership enquiries: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
 * Instructor Training enquiries: [{{< param instructor_training_email >}}](mailto:{{< param membership_email >}})
+* Curriculum enquiries: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
 * Code of Conduct Committee: [{{< param coc_email >}}](mailto:{{< param coc_email >}})
 
 ## On social media
