@@ -11,7 +11,7 @@ widgets:
 
 ## Introduction
 
-The Carpentries is a mission-driven, registered 501(c)(3) nonprofit project that teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
+The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
 
 - A suite of open source, collaboratively-built, community-developed lessons
 - Evidence-based, proven pedagogical training
