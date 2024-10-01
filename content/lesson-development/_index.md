@@ -5,7 +5,6 @@ cascade:
   nav: cldt
 ---
 
-## Collaborative Lesson Development Training
 
 <img src="images/CLDT-hex-sticker.png" alt="CLDT hex sticker" style="float:left; margin: 15px">
 
@@ -16,7 +15,7 @@ The successful design and collaborative development of a new lesson or curriculu
 The Lesson Developer Handbook provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
 
 
-## About the training
+## Collaborative Lesson Development Training
 
 Collaborative Lesson Development Training teaches essential skills
 and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
