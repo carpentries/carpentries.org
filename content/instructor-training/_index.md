@@ -62,4 +62,4 @@ The Carpentries workshops are taught by trained and certified volunteer Instruct
 
 ## Contact Us
 
-Have Questions? Please consult our [Instructor Training FAQ](#) or contact the Instructor Training Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email at [{{< param instructor_training_email >}}]({{< param instructor_training_email >}}).
+Have Questions? Please contact our team at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).
