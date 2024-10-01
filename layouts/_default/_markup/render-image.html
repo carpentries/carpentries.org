@@ -1,0 +1,8 @@
+<!-- This is to override the image render hook
+as it is in the theme.   -->
+
+<img src="{{ .Destination | safeURL }}"
+  {{- with .Text }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  style="border: none; padding: 0; margin: 0; display:inline-block"
+>
