@@ -51,7 +51,7 @@ We value a culture of assessment and consistently assess learner outcomes from w
 
 ### Measuring the Impact of Our Workshops and Training
 
-We conduct pre- and post-workshop surveys for Carpentries Workshops & Instructor Training Events. Use the links below to preview the questions currently included in our surveys:
+We conduct pre- and post-workshop surveys for Carpentries Workshops & Training Events. Use the links below to preview the questions currently included in our surveys:
 
 ### The Carpentries Workshop Surveys
 
