@@ -8,7 +8,7 @@ aliases:
 - /contact
 ---
 
-If you you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us on social media, please use the contact details below:
+If you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us on social media, please use the contact details below:
 
 ## By email 
 
