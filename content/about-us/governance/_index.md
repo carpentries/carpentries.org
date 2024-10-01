@@ -1,5 +1,6 @@
 ---
 title: Carpentries Governance
+layout: single
 ---
 
 The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship to an independent 501(c)(3) non-profit organisation](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf). For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
@@ -48,8 +49,8 @@ Standing Committees are used by the Board as a practical way to manage the work 
 
 ## Contacting the Board of Directors
 
-Contact the Board by [sending an email](board@carpentries.org) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
+Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
 
 ### Past Governance Members
 
-You will find our past governance members on the [Carpentries Governance History](/governance-history/) page.
+You will find our past governance members on the [Carpentries Governance History](/about-us/governance/governance_history/) page.
