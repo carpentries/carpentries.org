@@ -75,10 +75,3 @@ We launched a Long-Term Impact Survey in 2017 to evaluate the long-term impact o
 
 [Preview the Long Term Impact Survey](https://carpentries.github.io/assessment-archives/long-term/long-term.html)
 {.button}
-
-### Data
-
-We openly share our data, source code and analyses used in our assessment practices in our Assessment Repository.
-
-[View Data on the Assessment Repository](https://github.com/carpentries/assessment)
-{.button}
