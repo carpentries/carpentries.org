@@ -78,6 +78,9 @@ In addition to the benefits above, all Memberships include:
 * unlimited self-organised workshops,
 * access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year.
 
-## Questions?
+## Contact Us
 
-Have questions about the membership program? Please consult our [Membership FAQ](/support/membership/membership-faq/) or [contact the Membership Team](mailto:{{< param membership_email >}}).
+Have Questions? Please consult our [Membership FAQ](/support/membership/membership-faq/) or contact our team at [[{{< param membership_email >}}]](mailto:{{< param membership_email >}}).
+
+
+

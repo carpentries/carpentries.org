@@ -57,3 +57,6 @@ The Carpentries Trainer Training is a highly-competitive training program that i
 1. Complete 10 Week Training: Attend 10 weekly 1-hour sessions where you'll learn the basics of educational psychology and evidence-based teaching practices, and how to teach this information to others.
 1. Complete Certification Steps: After the training, you will be asked to shadow an Instructor Training Event and a Teaching Demonstration.
 
+## Contact Us
+
+Have Questions? Please contact our team at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).

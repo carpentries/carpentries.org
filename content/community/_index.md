@@ -24,5 +24,4 @@ The Carpentries is a community of practice made up by various regional and role-
 
 
 ## Contact Us
-
-Have Questions? Our Community Development Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email to community@carpentries.org.
+Have Questions? Please contact our team at [{{< param community_email >}}](mailto:{{< param community_email >}}).

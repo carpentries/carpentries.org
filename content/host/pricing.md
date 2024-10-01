@@ -64,4 +64,4 @@ Memberships include a bundle of Workshops and Instructor Training seats for orga
 {{< /table >}}
 
 ## Contact Us
-Have Questions? Our Team is ready to answer any questions you may have. To reach us, or to find out more, please send us an email to {{< param team_email >}}.
+Have Questions? Please contact our team at [{{< param team_email >}}](mailto:{{< param team_email >}}).
