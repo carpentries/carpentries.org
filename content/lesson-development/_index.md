@@ -7,7 +7,7 @@ cascade:
 
 ## Collaborative Lesson Development Training
 
-<img src="/images/cldt/CLDT-hex-sticker.png" alt="CLDT hex sticker" style="float:left; margin: 15px">
+<img src="images/CLDT-hex-sticker.png" alt="CLDT hex sticker" style="float:left; margin: 15px">
 
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). Mature lessons can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}) and/or may be adopted by one of our lesson programs.
 
@@ -47,7 +47,7 @@ After attending this training, participants will be able to:
 
 ### Training structure
 
-![Chart showing structure of CLDT](/images/cldt/cldt-structure.svg "Image Description svg")
+<img src="images/cldt-structure.svg" alt="CLDT structure">
 
 The training takes place in two parts, separated by an extended break where participants test their new lessons.
 
