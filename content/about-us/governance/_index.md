@@ -53,4 +53,4 @@ Contact the Board by [sending an email](board@carpentries.org) or by [filling in
 
 ### Past Governance Members
 
-You will find our past governance members on the [Carpentries Governance History](/governance-history/) page.
+You will find our past governance members on the [Carpentries Governance History](/about-us/governance/governance_history/) page.
