@@ -10,7 +10,7 @@ Instructor Trainers teach The Carpentries Instructor Training Events. They train
 Instructor Trainer Training is the process by which we onboard new Instructor Trainers. The training consists of 10 weekly 1-hour sessions, where we will discuss The Carpentries teaching philosophy and review supporting materials summarising the research that underpins our Instructor Training curriculum.
 
 
-## Why Become An Instructor Trainer?
+## Why Become an Instructor Trainer?
 
 {{< table features >}}
 <table>
