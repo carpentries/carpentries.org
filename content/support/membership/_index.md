@@ -68,15 +68,15 @@ Ideal for organisations that run a lot of Self-Organised workshops and want to k
 
 An option for organisations that want to continue supporting The Carpentries financially, but don't need support with workshop organisation or Instructor Training.
 
-[Become a member]({{< param membership_form >}})
-{.button} 
-
-In addition to the benefits above, all Memberships include:
+### In addition to the benefits above, all Memberships include:
 
 * quarterly reports on benefit usage and trainee progress towards certification,
 * opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply),
 * unlimited self-organised workshops,
 * access to Member pricing for additional Centrally-Organised workshops, Instructor Training seats, and Collaborative Lesson Development Training seats purchased during the membership year.
+
+[Become a member]({{< param membership_form >}})
+{.button} 
 
 ## Contact Us
 
