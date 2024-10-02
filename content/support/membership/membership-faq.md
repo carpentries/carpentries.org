@@ -5,9 +5,6 @@ cascade:
   nav: membership
 ---
 
-## Membership FAQ
-This can be styled as accordions if we prefer.
-
 ## What if those membership packages do not fit my institution’s needs?
 Apple pie chocolate bar gingerbread cookie ice cream candy canes toffee chocolate bar. Sugar plum oat cake jujubes bonbon chocolate bar sweet. Dessert pie lemon drops oat cake toffee biscuit biscuit chocolate cake lollipop. Gummies shortbread caramels sweet bear claw. Marshmallow biscuit oat cake fruitcake tart cookie. Icing gummi bears muffin chocolate gummies chocolate chupa chups. 
 
