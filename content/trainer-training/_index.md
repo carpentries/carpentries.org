@@ -1,8 +1,6 @@
 ---
 title: Instructor Trainer Training
 layout: single
-cascade:
-  nav: trainer-training
 ---
 
 ## Overview
