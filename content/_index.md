@@ -40,7 +40,7 @@ blocks:
       image: testimonials/saranya_canchi_testimonial.jpg
       name: Saranya Canchi
       copy: Engineering Researcher and Bioinformatics Scientist
-    - quote: I'm pretty sure I wouldn’t be a gainfully employed climate scientist without The Carpentries. Along the winding academic journey from PhD to postdoc to precarious short-term contracts to finally landing a permanent research position, my involvement with The Carpentries and the skills I've gained from being part of the community has been my point of difference.
+    - quote: I'm pretty sure I wouldn’t be a gainfully employed climate scientist without The Carpentries. 
       image: testimonials/damien_irving_testimonial.jpg
       name: Damien Irving
       copy: Climate Data Scientist
