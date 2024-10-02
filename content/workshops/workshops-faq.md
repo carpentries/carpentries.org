@@ -68,7 +68,7 @@ Helpers are often recruited from the local community at the host site to support
 
 ### Are Helpers reimbursed for travel?
 
-The Carpentries is not responsible for selecting Helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{site.handbook_url}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
+The Carpentries is not responsible for selecting Helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
 
 ### As an Instructor, will I still get credit for a workshop if the host cancelled?
 
@@ -106,7 +106,7 @@ These channels were designed specifically for community members to communicate a
 
 ### I have never taught an online workshop, where should I begin?
 
-You can review the  [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/) [Resources for Online Workshops]({{site.handbook_url}}/topic_folders/hosts_instructors/resources_for_online_workshops.html) .
+You can review the  [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/) [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html) .
 
 ### How do I indicate my workshop will be online in the workshop website template?
 
@@ -161,11 +161,11 @@ Yes, it is up to the workshop organisers to decide who can attend a workshop. Yo
 
 ### How many times a year do I have to teach to be eligible to vote?
 
-Voting eligibility is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws]({{site.handbook_url}}/topic_folders/governance/bylaws.html#individual-voting-membership) for more information. 
+Voting eligibility is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws]({{< param handbook_url >}}/topic_folders/governance/bylaws.html#individual-voting-membership) for more information. 
 
 ### Are there email templates available for me to locate helpers?
 
-We have compiled several [email templates]({{site.handbook_url}}/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, instructors, and helpers.
+We have compiled several [email templates]({{< param handbook_url >}}/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, instructors, and helpers.
 
 ### I do not see a [Regional Coordinator](/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?
 
