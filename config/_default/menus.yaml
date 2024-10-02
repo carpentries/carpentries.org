@@ -45,22 +45,6 @@ workshops:
 - name: Upcoming workshops
   pageRef: /workshops/upcoming-workshops
   weight: 50
-# Instructor Training tabbed menu
-instructor-training:
-- name: Instructor Training
-  pageRef: /instructor-training
-  weight: 10
-- name: Instructor Training FAQ
-  pageRef: /instructor-training/instructor-training-faq
-  weight: 20
-# Trainer Training tabbed menu
-trainer-training:
-- name: Trainer Training
-  pageRef: /trainer-training
-  weight: 10
-- name: Trainer Training FAQ
-  pageRef: /trainer-training/trainer-training-faq
-  weight: 20
 # Host tabbed menu
 host:
 - name: Host a workshop
