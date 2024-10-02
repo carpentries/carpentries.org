@@ -9,6 +9,7 @@ cascade:
 
 ## Memberships
 
+
 ### What are the standard membership packages you offer?
 We offer Bronze, Silver, and Gold membership packages, each with an allotted number of Centrally-Organised [workshops](/workshops).
 Silver and Gold memberships also include seats in our [Instructor Training](https://carpentries.github.io/instructor-training/)
@@ -112,8 +113,6 @@ In the event of [partial absences](https://docs.carpentries.org/topic_folders/in
 [Ineligibility for Makeup Opportunities](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#ineligibility-for-makeup-opportunities): Trainees who miss an event **in full without cancelling within 7 days (no-show)** or who miss part of an event but **do not request a makeup opportunity within 7 days** are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}) to be advised on their options for re-admission.
 
 
-
-
 ## Contact us
 *Who do I talk to about...*
 
@@ -122,3 +121,4 @@ In the event of [partial absences](https://docs.carpentries.org/topic_folders/in
  **...instructor training?** Contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})<br>
  **...collaborative lesson development training?** Contact [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})<br>
  **...legal or financial questions?** Contact [{{< param finance_email >}}](mailto:{{< param finance_email >}})<br>
+
