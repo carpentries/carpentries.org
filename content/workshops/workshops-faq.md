@@ -6,9 +6,9 @@ title: Workshops FAQ
 
 ## Pre-Workshop Questions
 
-### Why is my workshop not listed on the [carpentries.org]({{site.url}}) webpage?
+### Why is my workshop not listed on the carpentries.org webpage?
 
-There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form]({{site.wrf_landing}}), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
+There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form]({{< param amy_workshop_landing >}}), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
 
 ### If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?
 
@@ -36,7 +36,7 @@ The learner facing survey links are automatically generated on the workshop's we
 
 ### How do I access the survey results?
 
-If you are planning a workshop, please notify the Workshops and Instruction Team of your planned workshop using the [workshop request form]({{site.wrf_landing}}). The Workshops and Instruction Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
+If you are planning a workshop, please notify the Workshops and Instruction Team of your planned workshop using the [workshop request form]({{< param amy_workshop_landing >}}). The Workshops and Instruction Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
 
 ## Curriculum
 
@@ -44,11 +44,11 @@ If you are planning a workshop, please notify the Workshops and Instruction Team
 
 It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops, we can not provide support or share information with Instructors.
 
-If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](/workshops/#workshop-core) we ask that you still [register]({{site.wrf_landing}}) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
+If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](/workshops/#workshop-core) we ask that you still [register]({{< param amy_workshop_landing >}}) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
 
 ### When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 
-To be considered an official Carpentries workshop, you must follow the [Core Curricula](/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register]({{site.wrf_landing}}) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
+To be considered an official Carpentries workshop, you must follow the [Core Curricula](/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register]({{< param amy_workshop_landing >}}) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 
 ## Centrally-Organised Workshops
 
@@ -64,7 +64,7 @@ The details of how you will manage the Instructors’ travel is discussed once t
 
 ### Who can be a Helper and what do they contribute to the workshop?
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process. [Here]({{site.handbook_url}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
+Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
 
 ### Are Helpers reimbursed for travel?
 
@@ -91,7 +91,7 @@ Self-Organised workshops are managed by the instructor/organiser. Since you will
 
 ### How do I inform you I am running a Self-Organised workshop?
 
-When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{site.wrf_landing}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
+When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{< param amy_workshop_landing >}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
 ### If I need help recruiting Instructors and/or Helpers for a Self-Organised workshop, what are my options?
 
@@ -157,7 +157,7 @@ The Workshops and Instruction Team can provide survey result links for past work
 
 ### Can we restrict who participates in our workshops?
 
-Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request]({{site.wrf_landing}}) or [register]({{site.wrf_landing}}) your workshop, you can indicate if the workshop is open to the public or not.
+Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request or register]({{< param amy_workshop_landing >}}) your workshop, you can indicate if the workshop is open to the public or not.
 
 ### How many times a year do I have to teach to be eligible to vote?
 
