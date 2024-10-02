@@ -153,7 +153,7 @@ A Self-Organised workshop is organised by the workshop instructor/organiser. Thi
 
 ### How do I get survey data/links for previous workshops?
 
-The Workshops and Instruction Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshops and Instruction Team (via [{{site.contact}}](mailto:{{site.contact}})) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshops and Instruction Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshops and Instruction Team (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
 
 ### Can we restrict who participates in our workshops?
 
@@ -169,7 +169,7 @@ We have compiled several [email templates]({{< param handbook_url >}}/topic_fold
 
 ### I do not see a [Regional Coordinator](/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?
 
-If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [{{site.contact}}](mailto:{{site.contact}}). This person is responsible for all workshops that do not have a Regional Coordinator.
+If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}). This person is responsible for all workshops that do not have a Regional Coordinator.
 
 ### Can I charge Learners a fee to attend a workshop I host?
 
