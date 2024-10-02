@@ -59,12 +59,14 @@ blocks:
   title: Our supporters
   copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
   logos:
-  - logo: moore-logo.svg
+  - logo: sponsors/moore-logo.svg
     url: https://www.moore.org/
-  - logo: alfred-sloan-logo.svg
+  - logo: sponsors/alfred-sloan-logo.svg
     url: https://sloan.org/
-  - logo: chan-zuck-logo.svg
-  - logo: r-studio-logo.svg
+  - logo: sponsors/chan-zuck-logo.svg
+    url: https://chanzuckerberg.com/
+  - logo: sponsors/posit_logo.svg
+    url: https://posit.co/
   cta:
     copy: Become a sponsor
     url: 'https://carpentries.typeform.com/to/EQdv1Qx4'
