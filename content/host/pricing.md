@@ -38,6 +38,8 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 
 ## Collaborative Lesson Development Pricing
 
+Collaborative Lesson Development Training gives your community members the skills they need to design and implement effective, accessible curriculum together. Our two-part, 24-hour training teaches best practices in curriculum design and collaborative development of an open source lesson website.
+
 {{< table >}}
 |                    | Base fee (2 people) | Each additional person |
 |--------------------|---------------------|------------------------| 
