@@ -80,7 +80,7 @@ In addition to the benefits above, all Memberships include:
 
 ## Contact Us
 
-Have Questions? Please consult our [Membership FAQ](/support/membership/membership-faq/) or contact our team at [[{{< param membership_email >}}]](mailto:{{< param membership_email >}}).
+Have Questions? Please consult our [Membership FAQ](/support/membership/membership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 
 
 
