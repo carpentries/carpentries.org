@@ -44,6 +44,9 @@ blocks:
       image: testimonials/damien_irving_testimonial.jpg
       name: Damien Irving
       copy: Climate Data Scientist
+    - quote: The Carpentries opened me up to learn things I had no idea I wanted to learn or could learn. It introduced me to a great community that made this possible.
+      image: testimonials/scott_peterson_testimonial.jpg
+      copy: Head of the Morrison Library & Graduate Services Library, University of California, Berkeley
 - layout: 2-col-image-text
   image: front-page/jopwell.jpg
   image_caption: 'Credit: Jopwell'
