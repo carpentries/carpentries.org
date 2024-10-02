@@ -55,8 +55,8 @@ Memberships include a bundle of Workshops and Instructor Training seats for orga
 
 |                                 | Bronze | Silver | Gold    | Platinum | Titanium |
 |------------------------         |--------|--------|---------| ---------| -------- |
-|**Centrally-Organised workshops**| 2      | 2      | 1       |          |          |
-|**Instructor Training seats**    | 0      | 5      | 14      | 15       |          |
+|**Centrally-Organised workshops**| 2      | 2      | 1       | 0        |   0      |
+|**Instructor Training seats**    | 0      | 5      | 14      | 15       |   0      |
 |High Income                      | $3,600 | $8,100 | $16,200 | $13,500  |   $5,000 |
 |Upper-Middle Income              | $2,700 | $6,075 | $12,150 | $10,125  |   $3,570 |
 |Lower-Middle Income              | $1,800 | $4,050 | $8,150  | $6,750   |   $2,500 |
