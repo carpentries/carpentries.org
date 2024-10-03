@@ -2,7 +2,7 @@
 title: Host a Workshop
 layout: single
 cascade:
-  nav: host
+  nav: workshops
 ---
 
 ## Host a workshop

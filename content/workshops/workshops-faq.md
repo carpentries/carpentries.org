@@ -1,5 +1,7 @@
 ---
 title: Workshops FAQ
+cascade:
+  nav: workshops
 ---
 
 {{< toc >}}
