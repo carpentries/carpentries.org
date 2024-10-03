@@ -5,12 +5,6 @@ cascade:
   nav: host
 ---
 
-## Why The Carpentries Workshops?
-
-The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. Our certified volunteer Instructors focus on creating a motivating and engaging environment while teaching topics like Python, R, Git, Open Refine, and more. Our workshops provide hands-on learning experiences that empower learners and build confidence in using their new skills to support their work.
-
-[Learn more about our workshops](/workshops/)
-
 ## Host a workshop
 
 We have two options for hosting a Carpentries workshop; Self-Organised and Centrally-Organised.
