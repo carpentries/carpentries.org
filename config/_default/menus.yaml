@@ -282,7 +282,7 @@ footer:
   url: "/about-us/#our-values"
   parent: about-us-footer
   weight: 40
-# Footer menu: Menu 2
+# Footer menu: Menu 2 (Our Community)
 - identifier: community-footer
   name: Our community
   url: "#"
@@ -303,7 +303,7 @@ footer:
   url: "/community/get-connected/"
   parent: community-footer
   weight: 40
-# Footer menu: Menu 3
+# Footer menu: Menu 3 (Membership)
 - identifier: membership-footer
   name: Membership
   url: "#"
@@ -324,7 +324,7 @@ footer:
   url: "/support/membership/"
   parent: membership-footer
   weight: 40
-# Footer menu: Menu 4 
+# Footer menu: Menu 4 (Workshops)
 - identifier: workshops-footer
   name: Workshops
   url: "#"
@@ -345,7 +345,7 @@ footer:
   url: "/host/host-workshop/"
   parent: workshops-footer
   weight: 30
-# Footer menu 5
+# Footer menu 5 (Lessons)
 - identifier: lessons-footer
   name: Lessons
   url: "#"
@@ -362,11 +362,11 @@ footer:
   parent: lessons-footer
   weight: 20
 - identifier: lessons-trainer-training
-  name: Trainer Training
+  name: Instructor Trainer Training
   url: "/trainer-training/"
   parent: lessons-footer
   weight: 30
-# Footer menu 6 
+# Footer menu 6 (Lesson Development)
 - identifier: lesson-development-footer
   name: Lesson Development
   url: "#"
@@ -374,17 +374,17 @@ footer:
   weight: 60
 - identifier: cldt-footer
   name: Collaborative Lesson Development Training
-  url: "#"
+  url: "/lesson-development/"
   parent: lesson-development-footer
   weight: 10
 - indentifier: incubator-footer
   name: Carpentries Incubator
-  url: "#"
+  url: "https://carpentries-incubator.org/"
   parent: lesson-development-footer
   weight: 20
 - identifier: lab-footer
   name: Carpentries Lab
-  url: "#"
+  url: "https://carpentries-lab.org/"
   parent: lesson-development-footer
   weight: 30
 socials:
