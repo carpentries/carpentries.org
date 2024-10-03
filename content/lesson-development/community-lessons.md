@@ -29,7 +29,7 @@ Lessons in The Carpentries Incubator are developed and supported by community me
 
 If you are interested in developing or submitting a lesson, please visit
 [the Proposals repository for The Carpentries Incubator](https://github.com/carpentries-incubator/proposals#readme). Please read the information on [our Development of Lessons page](/involved-lessons/) if you would like to contribute to the development of a lesson already present
-in The Carpentries Incubator. You can also find [a list of issues in need of attention on the Help Wanted page](/help-wanted-issues/).
+in The Carpentries Incubator. You can also find [a list of issues in need of attention on the Help Wanted page](/lessons/help_wanted/).
 
 ## The Carpentries Lab
 
