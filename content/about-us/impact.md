@@ -59,7 +59,7 @@ We value a culture of assessment and consistently assess learner outcomes from w
 
 ### Measuring the Impact of Our Workshops and Training
 
-We conduct pre- and post-workshop surveys for Carpentries Workshops & Training Events. Use the links below to preview the questions currently included in our surveys:
+We conduct pre- and post-event surveys for both Carpentries Workshops and Training Events. Use the links below to preview the questions currently included in our surveys:
 
 ### The Carpentries Workshop Surveys
 
@@ -79,7 +79,7 @@ We conduct pre- and post-workshop surveys for Carpentries Workshops & Training E
 
 ### Measuring the Long-Term Impact of Our Workshops
 
-We launched a Long-Term Impact Survey in 2017 to evaluate the long-term impact our workshops are having on Carpentries Learners. Data is collected every six months. Use the below to preview the questions currently included in our long-term survey:
+We launched a Long-Term Impact Survey in 2017 to evaluate the lasting effects our workshops have on Carpentries Learners. Data is collected every six months. Use the link below to preview the questions currently included in our long-term survey:
 
 [Preview the Long Term Impact Survey](https://carpentries.github.io/assessment-archives/long-term/long-term.html)
 {.button}
