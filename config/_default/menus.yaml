@@ -39,6 +39,9 @@ workshops:
 - name: Workshops
   pageRef: /workshops
   weight: 10
+- name: Host a workshop
+  pageRef: /workshops/host-workshop
+  weight: 20
 - name: Workshops FAQ
   pageRef: /workshops/workshops-faq
   weight: 30
