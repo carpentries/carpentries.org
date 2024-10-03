@@ -1,6 +1,5 @@
 ---
 title: Community Lessons
-hideToc: true 
 layout: single
 ---
 
