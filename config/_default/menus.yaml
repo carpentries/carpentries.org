@@ -191,27 +191,6 @@ main:
   url: "https://amy.carpentries.org/"
   parent: volunteer
   weight: 50
-# Host menu
-- identifier: host
-  name: Host
-  url: "#"
-  parent: null
-  weight: 40
-- identifier: host-a-workshop
-  name: Host a workshop
-  pageRef: "/host/host-workshop/"
-  parent: host
-  weight: 10
-- identifier: host-a-training
-  name: Host a training
-  url: "/host/host-training/"
-  parent: host
-  weight: 20
-- identifier: pricing
-  name: Pricing
-  url: "/host/pricing/"
-  parent: host
-  weight: 30
 # Support Menu
 - identifier: support
   name: Support us
