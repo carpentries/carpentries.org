@@ -88,7 +88,9 @@ cldt:
 - name: Lesson Development FAQ
   pageRef: /lesson-development/cldt-faq
   weight: 20
-
+- name: Community Developed Lessons
+  pageRef: /lesson-development/community-lessons
+  weight: 30
 # Main menu
 main:
 # Main menu: About
