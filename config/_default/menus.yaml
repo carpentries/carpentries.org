@@ -39,23 +39,15 @@ workshops:
 - name: Workshops
   pageRef: /workshops
   weight: 10
+- name: Host a workshop
+  pageRef: /workshops/host-workshop
+  weight: 20
 - name: Workshops FAQ
   pageRef: /workshops/workshops-faq
   weight: 30
 - name: Upcoming workshops
   pageRef: /workshops/upcoming-workshops
   weight: 50
-# Host tabbed menu
-host:
-- name: Host a workshop
-  pageRef: /host/host-workshop
-  weight: 10
-- name: Host a training
-  pageRef: /host/host-training
-  weight: 20
-- name: Pricing
-  pageRef: host/pricing
-  weight: 30
 # Community tabbed menu
 community:
 - name: Community
@@ -191,27 +183,6 @@ main:
   url: "https://amy.carpentries.org/"
   parent: volunteer
   weight: 50
-# Host menu
-- identifier: host
-  name: Host
-  url: "#"
-  parent: null
-  weight: 40
-- identifier: host-a-workshop
-  name: Host a workshop
-  pageRef: "/host/host-workshop/"
-  parent: host
-  weight: 10
-- identifier: host-a-training
-  name: Host a training
-  url: "/host/host-training/"
-  parent: host
-  weight: 20
-- identifier: pricing
-  name: Pricing
-  url: "/host/pricing/"
-  parent: host
-  weight: 30
 # Support Menu
 - identifier: support
   name: Support us

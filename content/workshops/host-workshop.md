@@ -2,7 +2,7 @@
 title: Host a Workshop
 layout: single
 cascade:
-  nav: host
+  nav: workshops
 ---
 
 ## Host a workshop
@@ -22,9 +22,7 @@ A Centrally-Organised workshop is an integrative approach to planning a Carpentr
 
 Once confirmed, WIT will introduce you to your team of Instructors who will work with you to create a schedule and get to know your target audience. Instructors assigned to your workshop will also ready a website to supply you and your learners with the information needed to prepare for the workshop. With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
 
-## Curriculum Options
-
-The Carpentries has three official lesson programs; Software Carpentry, Data Carpentry, and Library Carpentry. Each lesson program is catered to a specific audience or purpose and traditional workshops focus on lessons from one of the three lesson programs. For an experience catered to the learners' needs, Self-Organised workshops can combine lessons from any of the three lesson programs. 
+## Curriculum Requirements for Centrally-Organised Workshops 
 
 Centrally-Organised workshops must teach a lesson program’s core curriculum and can not be mixed with components from another lesson program’s curricula. Below, you will find the workshop requirements for each lesson program:
 
@@ -41,9 +39,6 @@ A Data Carpentry workshop will vary based on its specific curriculum. It should 
 {.button}
 
 [Curricula overview](/lessons/curriculum-summary)
-{.button}
-
-[Workshop Curriculum](#)
 {.button}
 
 ## What to know before requesting a Centrally-Organised Workshop
@@ -71,7 +66,7 @@ For a more detailed review of the workshop organisation process, please visit th
 
 ## Workshop Pricing 
 
-Consult our [pricing page](/host/pricing) for our current fee structure.
+Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Travel Expenses for Instructors
 
