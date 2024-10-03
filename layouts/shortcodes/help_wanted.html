@@ -1,0 +1,57 @@
+{{ $help_wanted := dict }}
+
+{{ $url := "https://feeds.carpentries.org/help_wanted_issues.json" }}
+
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $help_wanted = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
+
+<table>
+    <thead>
+        <tr>
+        <th>Issue Title</th>
+        <th>Repository</th>
+        <th>Organisation</th>
+        <th>Created on</th>
+        <th>Last updated</th>
+        <th>Labels</th>
+        <th>Type</th>
+        </tr>
+    </thead>
+
+
+{{ range $help_wanted }}
+
+<tr>
+    <td>
+        {{ .title }}
+    </td>
+    <td>
+        {{ .repo }}
+    </td>
+    <td>
+        {{ .org_name }}
+    </td>
+    <td>
+        {{ .created_at }}
+    </td>
+    <td>
+        {{ .updated_at }}
+    </td>
+    <td>
+        {{ .labels }}
+    </td>
+    <td>
+        {{ .type }}
+    </td>
+</tr>
+
+{{ end }}
+
+</table>
