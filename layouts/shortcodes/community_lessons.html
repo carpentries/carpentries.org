@@ -1,0 +1,57 @@
+{{ $community_lessons := dict }}
+
+{{ $url := "https://feeds.carpentries.org/community_lessons.json" }}
+
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $community_lessons = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
+
+
+<table>
+<thead>
+    <tr>
+    <th>Lesson Title</th>
+    <th>Repository</th>
+    <th>Life Cycle State</th>
+    <th>Tags</th>
+    <th>Organisation</th>
+    </tr>
+</thead>
+
+{{ range $community_lessons }}
+
+<tr>
+    <td>
+        <a href="{{ .rendered_site }}">{{ .description }}</a>
+    </td>
+    <td>
+        <a href="{{ .repo_url }}">{{ .repo }}</a>
+    </td>
+    <td>
+        {{ range .life_cycle_tag }}
+        {{ . }}
+        {{ end }}
+    </td>
+    <td>
+        <ul>
+        {{ range .lesson_tags }}
+        <li>{{ . }}</li>
+        {{ end }}
+        </ul>
+    </td>
+    <td>
+        {{ .org_full_name }}
+    </td>
+</tr>
+{{ end }} <!-- end range -->
+
+
+</table>
+
+
