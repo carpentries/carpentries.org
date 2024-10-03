@@ -1,6 +1,6 @@
 ---
 title: Help Wanted
-layout: single
+layout: no-sidebar
 ---
 
 {{< help_wanted >}}
