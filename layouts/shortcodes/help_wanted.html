@@ -30,19 +30,20 @@
 
 <tr>
     <td>
-        {{ .title }}
+        <a href="{{ .url }}">{{ .title }}</a>
     </td>
     <td>
-        {{ .repo }}
+        <a href="https://github.com/{{ .full_repo }}">{{ .description }}</a>
+        
     </td>
     <td>
-        {{ .org_name }}
+        <a href="https://github.com/{{ .org_name }}">{{ .org_name }}</a>
     </td>
     <td>
-        {{ .created_at }}
+        {{ dateFormat (site.Params.date_format | default "2 January, 2006") .created_at }}
     </td>
     <td>
-        {{ .updated_at }}
+        {{ dateFormat (site.Params.date_format | default "2 January, 2006") .updated_at }}
     </td>
     <td>
         {{ .labels }}
