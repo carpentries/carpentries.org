@@ -41,7 +41,7 @@ There are many options for you to choose from! To help you decide which Lesson P
 
 [View upcoming workshops](/workshops/upcoming-workshops)
 {.button}
-[Request a Carpentries Workshop]({{< param amy_workshop_landing >}})
+[Request a workshop]({{< param amy_workshop_landing >}})
 {.button}
 
 ## Contact 
