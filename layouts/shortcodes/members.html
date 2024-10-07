@@ -1,6 +1,18 @@
-{{ $all_members := getJSON "https://feeds.carpentries.org/all_public_memberships.json" }}
-{{ $all_members := sort $all_members "name" }}
+{{ $all_members := dict }}
 
+{{ $url := "https://feeds.carpentries.org/all_public_memberships.json" }}
+
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $all_members = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
+
+{{ $all_members := sort $all_members "name" }}
 
 <h2>Platinum Members</h2>
 <ul>
@@ -41,4 +53,3 @@
 </li>
 {{ end }}
 </ul>
-

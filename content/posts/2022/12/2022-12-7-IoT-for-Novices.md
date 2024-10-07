@@ -3,7 +3,7 @@ layout: page
 authors: ["Jannetta Steyn"]
 teaser: "The Intro to IoT lesson is available in the Carpentries Incubator and uses the new Carpentries Workbench."
 title: "IoT for Novices in South Africa"
-date: 2022-12-7
+date: 2022-12-07
 time: "09:00:00"
 tags: ["Africa", "Carpentries Incubator"]
 ---

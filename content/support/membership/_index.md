@@ -30,7 +30,7 @@ Jump start your local data skills training efforts with a Carpentries Membership
 
 ## Membership Levels
 
-We offer five customizable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). [View our current pricing tiers](/host/pricing/).
+We offer five customizable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). [View our current pricing tiers](/support/pricing/).
 
 ## Selecting A Membership Level
 
@@ -68,16 +68,19 @@ Ideal for organisations that run a lot of Self-Organised workshops and want to k
 
 An option for organisations that want to continue supporting The Carpentries financially, but don't need support with workshop organisation or Instructor Training.
 
-[Become a member]({{< param membership_form >}})
-{.button} 
-
-In addition to the benefits above, all Memberships include:
+### In addition to the benefits above, all Memberships include:
 
 * quarterly reports on benefit usage and trainee progress towards certification,
 * opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply),
 * unlimited self-organised workshops,
-* access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year.
+* access to Member pricing for additional Centrally-Organised workshops, Instructor Training seats, and Collaborative Lesson Development Training seats purchased during the membership year.
 
-## Questions?
+[Become a member]({{< param membership_form >}})
+{.button} 
 
-Have questions about the membership program? Please consult our [Membership FAQ](/support/membership/membership-faq/) or [contact the Membership Team](mailto:{{< param membership_email >}}).
+## Contact Us
+
+Have Questions? Please consult our [Membership FAQ](/support/membership/membership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+
+
+

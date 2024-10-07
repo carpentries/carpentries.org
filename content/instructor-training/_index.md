@@ -1,8 +1,6 @@
 ---
 title: Instructor Training
 layout: single
-cascade:
-  nav: instructor-training
 ---
 
 
@@ -57,9 +55,9 @@ The Carpentries workshops are taught by trained and certified volunteer Instruct
 
 1. **Attend an Instructor Training event:** The training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. There are two ways to access Instructor Training. 
     - You may receive an invitation via email from a member organisation or other group that has arranged for training.
-    - Purchase an individual Instructor Training seat. Review [our pricing](/host/pricing#instructor-training-pricing) and  [contact us](mailto:{{< param team_email >}}) to purchase a seat.
+    - Purchase an individual Instructor Training seat. Review [our pricing](/support/pricing#instructor-training-pricing) and  [contact us](mailto:{{< param team_email >}}) to purchase a seat.
 1. Complete Certification Steps: You must complete three short tasks after the training in order to complete certification as a Carpentries Instructor. See our [Checkout Instructions page]({{< param checkout_instructions >}}) for more details.
 
 ## Contact Us
 
-Have Questions? Please consult our [Instructor Training FAQ](#) or contact the Instructor Training Team. Our Team is ready to answer any additional questions you may have. To reach us, or to find out more, please send us an email at [{{< param instructor_training_email >}}]({{< param instructor_training_email >}}).
+Have Questions? Please contact our team at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).

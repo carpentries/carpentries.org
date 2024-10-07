@@ -36,14 +36,17 @@ blocks:
     url: '/workshops/upcoming-workshops/'
 - layout: quote-slider
   slides:
-    - quote: I went from a learner to an Instructor and completely changed the trajectory of my career. It helped me find my people ❤️
+    - quote: I went from a learner to an Instructor and completely changed the trajectory of my career. It helped me find my people. ❤️
       image: testimonials/saranya_canchi_testimonial.jpg
       name: Saranya Canchi
-      copy: Engineering Researcher and Bioinformatics Scientist
-    - quote: I'm pretty sure I wouldn’t be a gainfully employed climate scientist without The Carpentries. Along the winding academic journey from PhD to postdoc to precarious short-term contracts to finally landing a permanent research position, my involvement with The Carpentries and the skills I've gained from being part of the community has been my point of difference.
+      copy: Computational Lead, University of Michigan
+    - quote: I'm pretty sure I wouldn’t be a gainfully employed climate scientist without The Carpentries. 
       image: testimonials/damien_irving_testimonial.jpg
       name: Damien Irving
       copy: Climate Data Scientist
+    - quote: The Carpentries opened me up to learn things I had no idea I wanted to learn or could learn. It introduced me to a great community that made this possible.
+      image: testimonials/scott_peterson_testimonial.jpg
+      copy: Head of the Morrison Library & Graduate Services Library, University of California, Berkeley
 - layout: 2-col-image-text
   image: front-page/jopwell.jpg
   image_caption: 'Credit: Jopwell'
@@ -56,12 +59,14 @@ blocks:
   title: Our supporters
   copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
   logos:
-  - logo: moore-logo.svg
+  - logo: sponsors/moore-logo.svg
     url: https://www.moore.org/
-  - logo: alfred-sloan-logo.svg
+  - logo: sponsors/alfred-sloan-logo.svg
     url: https://sloan.org/
-  - logo: chan-zuck-logo.svg
-  - logo: r-studio-logo.svg
+  - logo: sponsors/chan-zuck-logo.svg
+    url: https://chanzuckerberg.com/
+  - logo: sponsors/posit_logo.svg
+    url: https://posit.co/
   cta:
     copy: Become a sponsor
     url: 'https://carpentries.typeform.com/to/EQdv1Qx4'

@@ -39,39 +39,15 @@ workshops:
 - name: Workshops
   pageRef: /workshops
   weight: 10
+- name: Host a workshop
+  pageRef: /workshops/host-workshop
+  weight: 20
 - name: Workshops FAQ
   pageRef: /workshops/workshops-faq
   weight: 30
 - name: Upcoming workshops
   pageRef: /workshops/upcoming-workshops
   weight: 50
-# Instructor Training tabbed menu
-instructor-training:
-- name: Instructor Training
-  pageRef: /instructor-training
-  weight: 10
-- name: Instructor Training FAQ
-  pageRef: /instructor-training/instructor-training-faq
-  weight: 20
-# Trainer Training tabbed menu
-trainer-training:
-- name: Trainer Training
-  pageRef: /trainer-training
-  weight: 10
-- name: Trainer Training FAQ
-  pageRef: /trainer-training/trainer-training-faq
-  weight: 20
-# Host tabbed menu
-host:
-- name: Host a workshop
-  pageRef: /host/host-workshop
-  weight: 10
-- name: Host a training
-  pageRef: /host/host-training
-  weight: 20
-- name: Pricing
-  pageRef: host/pricing
-  weight: 30
 # Community tabbed menu
 community:
 - name: Community
@@ -104,7 +80,9 @@ cldt:
 - name: Lesson Development FAQ
   pageRef: /lesson-development/cldt-faq
   weight: 20
-
+- name: Community Developed Lessons
+  pageRef: /lesson-development/community-lessons
+  weight: 30
 # Main menu
 main:
 # Main menu: About
@@ -117,15 +95,20 @@ main:
   name: The Carpentries
   pageRef: "/about-us/"
   parent: about-us
-  weight: 20
+  weight: 10
 - identifier: impact
   name: Impact
   pageRef: "/about-us/impact/"
   parent: about-us
-  weight: 30
+  weight: 20
 - identifier: governance
   name: Governance
   pageRef: "/about-us/governance/"
+  parent: about-us
+  weight: 30
+- identifier: financials
+  name: Financials
+  pageRef: "/about-us/financials/"
   parent: about-us
   weight: 40
 - identifier: team
@@ -138,30 +121,25 @@ main:
   pageRef: "/about-us/careers/"
   parent: about-us
   weight: 60
-- identifier: financials
-  name: Financials
-  pageRef: "/about-us/financials/"
-  parent: about-us
-  weight: 70
 - identifier: contact-us
   name: Contact us
   pageRef: "/about-us/contact/"
   parent: about-us
-  weight: 90
+  weight: 70
 # Learn Menu
 - identifier: learn
   name: Learn
   url: "#"
   parent: null
   weight: 20
-- identifier: lessons
-  name: Lessons
-  pageRef: "/lessons/"
-  parent: learn
-  weight: 10
 - identifier: workshops
   name: Workshops
   pageRef: "/workshops/"
+  parent: learn
+  weight: 10
+- identifier: lessons
+  name: Lessons
+  pageRef: "/lessons/"
   parent: learn
   weight: 20
 - identifier: instructor-training
@@ -205,27 +183,6 @@ main:
   url: "https://amy.carpentries.org/"
   parent: volunteer
   weight: 50
-# Host menu
-- identifier: host
-  name: Host
-  url: "#"
-  parent: null
-  weight: 40
-- identifier: host-a-workshop
-  name: Host a workshop
-  pageRef: "/host/host-workshop/"
-  parent: host
-  weight: 10
-- identifier: host-a-training
-  name: Host a training
-  url: "/host/host-training/"
-  parent: host
-  weight: 20
-- identifier: pricing
-  name: Pricing
-  url: "/host/pricing/"
-  parent: host
-  weight: 30
 # Support Menu
 - identifier: support
   name: Support us
@@ -296,7 +253,7 @@ footer:
   url: "/about-us/#our-values"
   parent: about-us-footer
   weight: 40
-# Footer menu: Menu 2
+# Footer menu: Menu 2 (Our Community)
 - identifier: community-footer
   name: Our community
   url: "#"
@@ -317,7 +274,7 @@ footer:
   url: "/community/get-connected/"
   parent: community-footer
   weight: 40
-# Footer menu: Menu 3
+# Footer menu: Menu 3 (Membership)
 - identifier: membership-footer
   name: Membership
   url: "#"
@@ -338,7 +295,7 @@ footer:
   url: "/support/membership/"
   parent: membership-footer
   weight: 40
-# Footer menu: Menu 4 
+# Footer menu: Menu 4 (Workshops)
 - identifier: workshops-footer
   name: Workshops
   url: "#"
@@ -359,7 +316,7 @@ footer:
   url: "/host/host-workshop/"
   parent: workshops-footer
   weight: 30
-# Footer menu 5
+# Footer menu 5 (Lessons)
 - identifier: lessons-footer
   name: Lessons
   url: "#"
@@ -376,11 +333,11 @@ footer:
   parent: lessons-footer
   weight: 20
 - identifier: lessons-trainer-training
-  name: Trainer Training
+  name: Instructor Trainer Training
   url: "/trainer-training/"
   parent: lessons-footer
   weight: 30
-# Footer menu 6 
+# Footer menu 6 (Lesson Development)
 - identifier: lesson-development-footer
   name: Lesson Development
   url: "#"
@@ -388,17 +345,17 @@ footer:
   weight: 60
 - identifier: cldt-footer
   name: Collaborative Lesson Development Training
-  url: "#"
+  url: "/lesson-development/"
   parent: lesson-development-footer
   weight: 10
 - indentifier: incubator-footer
   name: Carpentries Incubator
-  url: "#"
+  url: "https://carpentries-incubator.org/"
   parent: lesson-development-footer
   weight: 20
 - identifier: lab-footer
   name: Carpentries Lab
-  url: "#"
+  url: "https://carpentries-lab.org/"
   parent: lesson-development-footer
   weight: 30
 socials:

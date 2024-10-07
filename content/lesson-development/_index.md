@@ -5,23 +5,24 @@ cascade:
   nav: cldt
 ---
 
-## Collaborative Lesson Development Training
+
+<img src="images/CLDT-hex-sticker.png" alt="CLDT hex sticker" style="float:left; margin: 15px">
 
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). Mature lessons can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}) and/or may be adopted by one of our lesson programs.
 
-The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The [Carpentries Collaborative Lesson Development Training](#about-the-training) provides our community members with the expertise they need to co-create high-quality curriculum.
+The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The [Carpentries Collaborative Lesson Development Training](#about-the-training) provides our community members with the expertise they need to co-create a high-quality curriculum.
 
 The Lesson Developer Handbook provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
 
 
-## About the training
+## Collaborative Lesson Development Training
 
 Collaborative Lesson Development Training teaches essential skills
-and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open source lesson websites, and provide some advice and techniques for effective collaboration on the project.
+and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
 
 ### Target audience
 
-Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website,in collaboration with others. [The curriculum]({{< param cldt_curriculum >}}) was developed with a focus on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught are applicable to all curriculum design.
+Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. [The curriculum]({{< param cldt_curriculum >}}) was developed with a focus on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.
 
 ### What will you learn?
 The training teaches fundamental concepts, skills, and good practice in three key areas:
@@ -44,6 +45,10 @@ After attending this training, participants will be able to:
 - review and provide constructive feedback on lessons
 
 ### Training structure
+
+<object data="images/cldt-structure.svg" type="image/svg+xml">
+</object>
+
 The training takes place in two parts, separated by an extended break where participants test their new lessons.
 
 In the first part, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. Trainees will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench]({{< param workbench_link >}}), the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
@@ -54,8 +59,12 @@ When they return for the second and final part of the training, trainees will re
 
 ## Pricing
 
-Consult our [pricing page](/host/pricing) for our current fee structure.
+Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Register
 
 Collaborative Lesson Development Training events are regularly scheduled throughout the year. Send an email to [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}) to register your interest in joining Collaborative Lesson Development Training.
+
+## Contact Us
+
+Have Questions? Please contact our team at [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}).
