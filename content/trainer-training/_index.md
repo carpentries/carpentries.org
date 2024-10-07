@@ -7,7 +7,7 @@ layout: single
 
 Instructor Trainers teach The Carpentries Instructor Training Events. They train new Instructors in the basics of educational psychology and evidence-based teaching practices. They also support and play a leadership role in the oversight of the Instructor Training program.
 
-Instructor Trainer Training is the process by which we onboard new Instructor Trainers. The training consists of 10 weekly 1-hour sessions, where we will discuss The Carpentries teaching philosophy and review supporting materials summarising the research that underpins our Instructor Training curriculum.
+Instructor Trainer Training is the process by which we onboard new Instructor Trainers. The training consists of 10 weekly 1-hour sessions, where we will discuss The Carpentries' teaching philosophy and review supporting materials summarising the research that underpins our Instructor Training curriculum.
 
 
 ## Why Become an Instructor Trainer?
@@ -16,11 +16,11 @@ Instructor Trainer Training is the process by which we onboard new Instructor Tr
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>Evidence-Based Teaching Practices.</b>Learn evidence-based teaching practices to be more effective both in Carpentries workshops and your teaching more broadly. </td>
+        <td><b>Evidence-Based Teaching Practices.</b>Learn evidence-based teaching practices to be more effective both in Carpentries workshops and in your teaching more broadly. </td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Teaching Opportunities.</b> Continue to develop your own teaching skill by teaching Instructor Training Events. </td>
+        <td><b>Teaching Opportunities.</b> Continue to develop your teaching skill by teaching Instructor Training Events. </td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -35,7 +35,7 @@ Instructor Trainer Training is the process by which we onboard new Instructor Tr
 {{< /table >}}
 
 ## What You'll Learn
-The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix and match lesson's to provide the audience with an experience catered to their needs.
+The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix-and-match lessons to provide the audience with an experience catered to their needs.
 
 - Trainer Training Curriculum Summary
 - How Learning Works: Seven Research-Based Principles for Teaching
