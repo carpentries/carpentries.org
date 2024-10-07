@@ -22,6 +22,3 @@ Our Financial Reports contain detailed information about our annual expenses and
 - [Financial Report, 2018 (pdf)](/reports/financial-reports/2018FinancialReport.pdf)
 - [Financial Report Appendix, 2018 (pdf)](/reports/financial-reports/2018FinancialReportAppendix.pdf) 
 
-## Testing
-
-- [2018 Report](/reports/financial-reports/2018FinancialReport.pdf)
