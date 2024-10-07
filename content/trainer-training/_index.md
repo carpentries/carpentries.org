@@ -29,7 +29,7 @@ Instructor Trainer Training is the process by which we onboard new Instructor Tr
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Teaching Opportunities.</b> Continue to develop your teaching skills by teaching Instructor Training Events. </td>
+        <td><b>Teaching Opportunities.</b> Continue to develop your teaching skill by teaching Instructor Training Events. </td>
     </tr>
     <tr>
         <td>Has Feature</td>
