@@ -17,7 +17,7 @@ The Carpentries is a community of practice composed of regional and role-related
 
 - [Curriculum advisors](/community/curriculum_advisors/) - guide the development of existing lessons
 - [Code of Conduct Committee](/community/coc_ctte) - keep our community friendly and welcoming
-- [Executive Council](/about-us/governance/) - make up the governance and policy portion of The Carpentries
+- [Advisory Committee and Board of Directors](/about-us/governance/) - make up the governance and policy portion of The Carpentries
 - [Instructors](/community/instructors) - teach and sometimes organise workshops
 - [Lesson maintainers](/community/maintainers) - support existing lessons
 - [Instructor Trainers](/community/instructor-trainers) - prepare our new Instructors
