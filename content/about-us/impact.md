@@ -32,13 +32,9 @@ Our annual reports serve as a high-level summary of The Carpentries' work, provi
 - [Annual Report, 2019 (pdf)](/reports/annual-reports/2019AnnualReport.pdf)
 - [Annual Report, 2018 (pdf)](/reports/annual-reports/2018AnnualReport.pdf)
 
-### Referencing Annual Reports
+###  Annual Reports License
 
-Our annual reports are published under a Creative Commons Attribution 4.0 International license. Artistic images and photographs are licensed to the image creators as described in each report.
-
-
-
-
+Our annual reports are published under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode). Artistic images and photographs are licensed to the image creators as described in each report.
 
 ## Other Impact Reports
 
