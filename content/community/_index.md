@@ -20,7 +20,7 @@ The Carpentries is a community of practice composed of regional and role-related
 - [Advisory Committee and Board of Directors](/about-us/governance/) - make up the governance and policy portion of The Carpentries
 - [Instructors](/community/instructors) - teach and sometimes organise workshops
 - [Lesson Maintainers](/community/maintainers) - support existing lessons
-- [Instructor Trainers](/community/instructor-trainers) - prepare our new Instructors
+- [Instructor Trainers](/community/instructor-trainers) - train and support our new Instructors
 
 
 ## Contact Us
