@@ -15,7 +15,7 @@ We continue to be an organisation primarily supported by volunteers. Our work is
 
 The Carpentries is a community of practice composed of regional and role-related volunteer communities. Below is a list of our role-related volunteer communities. Select a community to learn more about their role at The Carpentries.
 
-- [Curriculum advisors](/community/curriculum_advisors/) - guide the development of existing - lessons
+- [Curriculum advisors](/community/curriculum_advisors/) - guide the development of existing lessons
 - [Code of Conduct Committee](/community/coc_ctte) - keep our community friendly - and welcoming
 - [Executive Council](/about-us/governance/) - make up the governance and policy portion of The Carpentries
 - [Instructors](/community/instructors) - teach and sometimes organise workshops
