@@ -9,7 +9,7 @@ cascade:
 
 The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, and research software development through building local and global communities of practice.
 
-We continue to be an organization primarily supported by volunteers. Our work is made possible through the efforts of our amazing workshop hosts, organizers, community champions, member organizations, and our paid staff, the Core Team.
+We continue to be an organisation primarily supported by volunteers. Our work is made possible through the efforts of our amazing workshop hosts, organisers, community champions, member organisations, and our paid staff, the Core Team.
 
 ## Our Volunteer Communities
 
