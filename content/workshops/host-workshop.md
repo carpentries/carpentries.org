@@ -15,7 +15,7 @@ A Self-Organised workshop is a Carpentries workshop where the registration, recr
 * Learner surveys help you, your Instructors, and the Core Team better understand the impact of Carpentries workshops. All workshops should utilise the pre and post-workshop surveys that are created automatically on the workshop website.
 * We love to know about Self-Organised workshops! Register your workshop with us to give your Instructors credit, receive the responses to the learner surveys, and help us learn the full impact of Carpentries workshops.
 
-[Request a Carpentries Workshop]({{< param amy_workshop_landing >}})
+[Request a workshop]({{< param amy_workshop_landing >}})
 {.button}
 
 A Centrally-Organised workshop is an integrative approach to planning a Carpentries event. Collaborate with the Carpentries Workshops and Instruction Team (WIT) to organise your workshop and a member of WIT will do the work to prepare your team for an exceptional workshop experience. Preparation from WIT includes recruitment of certified Instructors, setting up and providing access to Eventbrite for learner registration, arranging a virtual meeting space for online workshops when needed, and a wealth of resources and information to ensure a successful workshop. 
@@ -50,7 +50,7 @@ A Data Carpentry workshop will vary based on its specific curriculum. It should 
 * Please request your workshop at least 10 weeks before your proposed workshop dates
 * If we cannot accommodate your preferred dates, we will provide additional options that are as close as possible to your original preference
 
-[Request a Carpentries Workshop]({{< param amy_workshop_landing >}})
+[Request a workshop]({{< param amy_workshop_landing >}})
 {.button}
 
 ## What to Expect After Requesting a Workshop
