@@ -7,7 +7,7 @@ widgets:
 
 ## Introduction
 
-At The Carpentries we are “Always Learning”. We embody the growth mindset we teach using data and community feedback to measure our impact and foster continuous improvement.
+At The Carpentries we are **_[Always Learning](/about-us/#our-values)_**. We embody the growth mindset we teach using data and community feedback to measure our impact and foster continuous improvement.
 
 {{< grid cols=3 gap=4 >}}
   {{< stat >}}
