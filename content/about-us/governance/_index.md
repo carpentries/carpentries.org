@@ -15,8 +15,8 @@ Every fiscally sponsored project (FSP) must maintain an Advisory Committee of th
 
 The Advisory Committee must, at minimum, assume the following joint responsibilities:
 
-*   Sign the fiscal sponsorship agreement
-*   Hire, supervise, and terminate, when necessary, the FSP's Project Director (Executive Director)
+*   Sign the fiscal sponsorship agreement.
+*   Hire, supervise, and terminate, when necessary, the FSP's Project Director (Executive Director).
 *   Approve reimbursement requests for the Project Director and fellow Advisory Committee Members.
 
 ### Current Advisory Committee Members
