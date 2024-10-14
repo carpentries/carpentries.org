@@ -48,8 +48,7 @@ blocks:
       image: testimonials/scott_peterson_testimonial.jpg
       copy: Head of the Morrison Library & Graduate Services Library, University of California, Berkeley
 - layout: 2-col-image-text
-  image: front-page/jopwell.jpg
-  image_caption: 'Credit: Jopwell'
+  image: front-page/marcus-aurelius.jpg
   title: Subscribe to our newsletter
   subtitle: Get a roundup of events, updates, and tips every month.
   cta:
