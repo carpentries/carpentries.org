@@ -44,6 +44,11 @@ There are many options for you to choose from! To help you decide which Lesson P
 [Request a workshop]({{< param amy_workshop_landing >}})
 {.button}
 
+## Diversity, Equity, and Inclusion Statement
+
+{{< accessibility >}}
+
 ## Contact 
 
 Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq) or contact our team at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}).
+

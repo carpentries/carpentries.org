@@ -118,3 +118,6 @@ CarpentryConnects are community convenings, organised to bring together communit
 
 Here is a list of all CarpentryConnect events held in the past: [carpentryconnect.org/case-studies/](https://carpentryconnect.org/case-studies/)
 
+## Diversity, Equity, and Inclusion Statement
+
+{{< accessibility >}}

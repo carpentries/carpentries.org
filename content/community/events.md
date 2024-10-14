@@ -24,3 +24,7 @@ frame.scrolling = 'no';
 frame.src = 'https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&mode=WEEK&src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&color=%237FB3D5&src=c_tmtrkf328gjtcs1u05mhfbn7qc%40group.calendar.google.com&color=%23BE6D00&ctz=' + timezone.name();
 document.getElementById('calendar').appendChild(frame);
 </script>
+
+## Diversity, Equity, and Inclusion Statement
+
+{{< accessibility >}}
