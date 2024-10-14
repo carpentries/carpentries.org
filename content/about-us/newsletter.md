@@ -9,7 +9,7 @@ aliases:
 
 {{< grid cols=12 gap=4 >}}
   {{< slot span=8 >}}
-Should we have any general text about the newsletter here?
+*Carpentries Clippings* is the monthly newsletter of The Carpentries, published on the fourth Thursday of each month. Before April 2023, it was published twice a month. It contains updates from the Core Team about programmatic and other developments, a Gratitude of the Month, highlights from our blog, opportunity postings relevant to our community, and more.
   {{< mc_newsletter_form >}}
   {{</ slot >}}
 

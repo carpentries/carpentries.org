@@ -222,7 +222,7 @@ main:
   weight: 10
 - identifier: newsletter
   name: Newsletter
-  pageRef: "/newsletter/"
+  pageRef: "/about-us/newsletter/"
   parent: communications
   weight: 20
 - identifier: contact
