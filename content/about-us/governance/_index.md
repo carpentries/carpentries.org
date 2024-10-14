@@ -23,7 +23,7 @@ The Advisory Committee must, at minimum, assume the following joint responsibili
 
 {{< persons feed="governance.people" where="active,true | advisory,true" >}}
 
-### Contacting the Advisory Commitee
+### Contact the Advisory Commitee
 
 Contact the Advisory Committee by [sending an email](mailto:advisory-committee@carpentries.org) or by [filling out this form](https://forms.gle/pLyUYUZhNBwaS3mb7).
 
