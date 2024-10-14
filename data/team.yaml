@@ -9,6 +9,7 @@
   calendly: kariljordan
   et: true
   alt_text:
+  mastodon: https://mastodon.social/@drkariljordan
 
 - name: Erin Becker, PhD
   pronouns: she/her/hers
@@ -60,6 +61,7 @@
   orcid: 0000-0002-5589-7754
   et: false
   alt_text:
+  mastodon: https://mstdn.science/@froggleston
 
 - name: Oscar Masinyana
   pic: oscarmasinyana.jpg
@@ -73,6 +75,7 @@
   orcid: 0009-0006-9624-3278
   et: false
   alt_text: African male with short dreadlocked hair, wearing reading glasses and smiling.
+  mastodon: https://mastodon.social/@oscarsibabalwe
 
 - name: Maneesha Sane
   pronouns: Any pronouns will do
@@ -105,3 +108,4 @@
   calendly: angelique_v
   et: false
   alt_text:
+  mastodon: https://mastodon.social/@angeliquetrusler
