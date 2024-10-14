@@ -35,7 +35,7 @@ The Carpentries is working towards transitioning out of fiscal sponsorship to an
 
 The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries' public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation's reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms.
 
-In addition to [publicly posting meeting minutes](https://github.com/carpentries/governance/tree/main/minutes), the Board reports on its activities periodically in *[Carpentries Clippings](/newsletter/)* and through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance). The Board also prepares [Yearly Summaries](https://github.com/carpentries/governance/tree/main/year-in-review) of its activities.
+In addition to [publicly posting meeting minutes](https://github.com/carpentries/governance/tree/main/minutes), the Board reports on its activities periodically in *[Carpentries Clippings](/newsletter/)* and through [blog posts](/blog/posts-by-tags/#blog-tag-governance). The Board also prepares [Yearly Summaries](https://github.com/carpentries/governance/tree/main/year-in-review) of its activities.
 
 ### Current Board Members
 
