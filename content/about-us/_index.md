@@ -13,11 +13,11 @@ widgets:
 
 The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
 
-- A suite of open source, collaboratively-built, community-developed lessons
-- Evidence-based, proven pedagogical training
-- Workshops based on a learn-by-doing, ‘code with me’ approach
-- A supportive learning culture
-- A global community which subscribes to an inclusive code of conduct
+- A suite of open source, collaboratively-built, community-developed lessons.
+- Evidence-based, proven pedagogical training.
+- Workshops based on a learn-by-doing, ‘code with me’ approach.
+- A supportive learning culture.
+- A global community which subscribes to an inclusive code of conduct.
 
 
 ## Our vision
@@ -28,7 +28,7 @@ Our vision is to be the leading inclusive community teaching data and coding ski
 
 The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
 
-![](/about-us.png)
+<img src="images/mimi-thian.jpg" style="width: 50%; height: 50%" alt="People at a computer"/>
 
 ## Our values
 
@@ -76,11 +76,16 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 ## Our Work
 
-The Carpentries administration and other essential operations are held together by a small Core Team, but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global Carpentries community consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
+The Carpentries administration and other essential operations are held together by a small [Core Team](/about-us/team/), but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global [Carpentries community](/community/) consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
 
 ## Our History
 
 We have a rich history that dates back to 1998 when Software Carpentry was founded with the mission of teaching lab skills for research computing. At that time, Greg Wilson and Brent Gorda taught workshops to teach researchers software development skills. Greg continued this work, building a collection of collaboratively-developed and openly-available lessons, as well as community of instructors who used those lessons to teach workshops.
+
+![First Software Carpentry Workshop](images/first_software_carpentry_workshop.jpg "Image Description")  
+*Image by Greg Wilson of attendees at the first Software Carpentry workshop in July 1998*
+
+
 
 In 2014, Data Carpentry was founded with the mission of building communities teaching universal data literacy. Also in 2014, Library Carpentry was founded with the mission of teaching data skills to people working in library- and information-related roles. Each organisation working in tandem and in partnership to develop lessons and build global communities of practice.
 
