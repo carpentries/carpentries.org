@@ -28,7 +28,7 @@ Our vision is to be the leading inclusive community teaching data and coding ski
 
 The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
 
-<img src="/images/mimi-thian.jpg" style="width: 50%; height: 50%" alt="People at a computer"/>
+<img src="images/mimi-thian.jpg" style="width: 50%; height: 50%" alt="People at a computer"/>
 
 ## Our values
 
@@ -82,7 +82,7 @@ The Carpentries administration and other essential operations are held together 
 
 We have a rich history that dates back to 1998 when Software Carpentry was founded with the mission of teaching lab skills for research computing. At that time, Greg Wilson and Brent Gorda taught workshops to teach researchers software development skills. Greg continued this work, building a collection of collaboratively-developed and openly-available lessons, as well as community of instructors who used those lessons to teach workshops.
 
-![First Software Carpentry Workshop](/first_software_carpentry_workshop.jpg "Image Description")  
+![First Software Carpentry Workshop](images/first_software_carpentry_workshop.jpg "Image Description")  
 *Image by Greg Wilson of attendees at the first Software Carpentry workshop in July 1998*
 
 
