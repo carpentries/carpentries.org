@@ -7,7 +7,7 @@ widgets:
 
 ## Introduction
 
-At The Carpentries we are **_[Always Learning](/about-us/#our-values)_**. We embody the growth mindset we teach using data and community feedback to measure our impact and foster continuous improvement.
+At The Carpentries we are **_[Always Learning](/about-us/#our-values)_**. We embody the growth mindset we teach by using data and community feedback to measure our impact and foster continuous improvement.
 
 {{< grid cols=3 gap=4 >}}
   {{< stat >}}
@@ -51,7 +51,7 @@ Our annual reports are published under a [Creative Commons Attribution 4.0 Inter
 
 ## Assessment
 
-We value a culture of assessment and consistently assess learner outcomes from workshops (short term), programmatic efforts (instructor training), and the long-term impact we have on learners.
+We value a culture of assessment and consistently assess learner outcomes from workshops (short term), programmatic efforts (Instructor Training), and the long-term impact we have on learners.
 
 ### Measuring the Impact of Our Workshops and Training
 
