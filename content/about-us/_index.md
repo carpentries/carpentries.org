@@ -76,7 +76,7 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 ## Our Work
 
-The Carpentries administration and other essential operations are held together by a small Core Team, but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global Carpentries community consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
+The Carpentries administration and other essential operations are held together by a small [Core Team](/about-us/team/), but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global [Carpentries community](/community/) consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
 
 ## Our History
 
