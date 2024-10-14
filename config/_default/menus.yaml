@@ -112,7 +112,7 @@ main:
   parent: about-us
   weight: 40
 - identifier: team
-  name: Team
+  name: Our Team
   pageRef: "/about-us/team/"
   parent: about-us
   weight: 50
