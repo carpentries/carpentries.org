@@ -15,6 +15,8 @@ The Carpentries community is committed to a collaborative and open process for l
 - Peer-reviewed, short-format, lessons that use the teaching approach and lesson design from The Carpentries.
 - [Submitting lessons for peer-review](https://github.com/carpentries-lab/reviews/) in a way traditional journal peer-review would not be able to provide.
 
+[More information about The Carpentries Incubator, The Carpentries Lab, and how this table is built is available at the end of this page](#the-carpentries-incubator)
+
 ## Browse Community Developed Lessons
 
 Explore the full collection of lessons developed by The Carpentries community in the table below. The table includes all lesson repositories in The Carpentries Incubator and Carpentries Lab.
