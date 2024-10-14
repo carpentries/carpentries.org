@@ -17,13 +17,13 @@ If you would like to ask us anything about The Carpentries, its community, and i
 * Membership enquiries: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
 * Instructor Training enquiries: [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
 * Curriculum enquiries: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
-* Code of Conduct Committee: [{{< param coc_email >}}](mailto:{{< param coc_email >}})
+* Code of Conduct Committee enquiries: [{{< param coc_email >}}](mailto:{{< param coc_email >}})
 
 ## On social media
 
-* [Youtube]({{< param youtube >}})
+* [YouTube]({{< param youtube >}})
 * [Mastodon]({{< param mastodon >}})
-* [Linkedin]({{< param linkedin >}})
+* [LinkedIn]({{< param linkedin >}})
 
 
 ## By mail:
