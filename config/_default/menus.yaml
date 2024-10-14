@@ -199,11 +199,16 @@ main:
   url: "/support/sponsorship"
   parent: support
   weight: 20
+- identifier: pricing
+  name: Pricing
+  url: /support/pricing
+  parent: support
+  weight: 30
 - identifier: donate
   name: Donate
   url: "https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8"
   parent: support
-  weight: 30
+  weight: 40
 # Communications menu
 - identifier: communications
   name: Communications
