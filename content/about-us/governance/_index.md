@@ -29,7 +29,9 @@ Contact the Advisory Committee by [sending an email](mailto:advisory-committee@c
 
 The Carpentries is working towards transitioning out of fiscal sponsorship to an [independent 501(c)(3) non-profit organisation](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf). Governance of The Carpentries, Inc. (501c3 non-profit organisation) is undertaken by the Board of Directors to whom the Executive Director reports. The Board comprises 7-11 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least one-third of the Board members are elected by the Carpentries community.
 
-## Roles and Responsibilities of the Board of Directors
+## Board of Directors
+
+### Roles and Responsibilities of the Board of Directors
 
 The Board is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries' public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation's reputation and fundraising. The Board executes these responsibilities through meetings, regular correspondence, and collaboration via email and online platforms.
 
