@@ -57,6 +57,6 @@ Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by 
 [The Carpentries Bylaws can be found here](/governance/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have several other policies that govern how we operate, [including our Privacy Policy, our Instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
 
 
-### Past Governance Members
+## Past Governance Members
 
 You will find our past governance members on the [Carpentries Governance History](/about-us/governance/governance_history/) page.
