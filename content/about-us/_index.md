@@ -82,6 +82,11 @@ The Carpentries administration and other essential operations are held together 
 
 We have a rich history that dates back to 1998 when Software Carpentry was founded with the mission of teaching lab skills for research computing. At that time, Greg Wilson and Brent Gorda taught workshops to teach researchers software development skills. Greg continued this work, building a collection of collaboratively-developed and openly-available lessons, as well as community of instructors who used those lessons to teach workshops.
 
+![First Software Carpentry Workshop](/first_software_carpentry_workshop.jpg "Image Description")  
+*Image by Greg Wilson of attendees at the first Software Carpentry workshop in July 1998*
+
+
+
 In 2014, Data Carpentry was founded with the mission of building communities teaching universal data literacy. Also in 2014, Library Carpentry was founded with the mission of teaching data skills to people working in library- and information-related roles. Each organisation working in tandem and in partnership to develop lessons and build global communities of practice.
 
 In 2018, Software Carpentry and Data Carpentry merged their projects to form a new project called The Carpentries, under the fiscal sponsorship of Community Initiatives, and shortly thereafter welcomed Library Carpentry as a Lesson Program.
