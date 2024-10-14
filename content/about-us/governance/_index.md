@@ -47,13 +47,15 @@ Standing Committees are used by the Board as a practical way to manage the work 
 
 {{< committees >}}
 
+### Contact the Board of Directors
+
+Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
+
+
 ## Carpentries Bylaws and Policies
 
 [The Carpentries Bylaws can be found here](/governance/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have several other policies that govern how we operate, [including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
 
-## Contacting the Board of Directors
-
-Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
 
 ### Past Governance Members
 
