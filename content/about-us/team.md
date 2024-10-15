@@ -9,7 +9,7 @@ hideToc: true
 
 ## Meet our Core Team
 
-Meet Carpentries staff and others who work with us.
+Meet Carpentries staff and others who work with us. The Core Team facilitates the activities of our community, ensuring that the organisation meets its strategic goals and fulfills its mission.
 
 {{< persons feed="team" where="et,true" >}}
 
