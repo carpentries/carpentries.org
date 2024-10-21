@@ -56,7 +56,7 @@ To be considered an official Carpentries workshop, you must follow the [Core Cur
 
 ### How much does a workshop cost?
 
-Please visit our [website](/workshops/#workshop-cost) for more information.
+Please visit our [pricing page](/support/pricing) for more information.
 
 ### Do Instructors pay for travel?
 
