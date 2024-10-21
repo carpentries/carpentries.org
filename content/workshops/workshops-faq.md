@@ -46,11 +46,11 @@ If you are planning a workshop, please notify the Workshops and Instruction Team
 
 It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops, we can not provide support or share information with Instructors.
 
-If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](/workshops/#workshop-core) we ask that you still [register]({{< param amy_workshop_landing >}}) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
+If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops) we ask that you still [register]({{< param amy_workshop_landing >}}) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
 
 ### When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 
-To be considered an official Carpentries workshop, you must follow the [Core Curricula](/workshops/#workshop-core). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register]({{< param amy_workshop_landing >}}) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
+To be considered an official Carpentries workshop, you must follow the [Core Curricula](/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register]({{< param amy_workshop_landing >}}) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
 
 ## Centrally-Organised Workshops
 
@@ -89,17 +89,17 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 
 ### Is there a fee for running a Self-Organised workshop?
 
-Self-Organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](/workshops/#workshop-organising) for more information.
+Self-Organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [pricing page](/support/pricing) for more information.
 
 ### How do I inform you I am running a Self-Organised workshop?
 
-When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{< param amy_workshop_landing >}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
+When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{< param amy_workshop_landing >}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/workshops/upcoming-workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
 ### If I need help recruiting Instructors and/or helpers for a Self-Organised workshop, what are my options?
 
 If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors and/or helpers. Below are the channels you can use:
 
-* Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
+* Any local or group specific mailing list on [Topicbox]({{< param topicbox >}})
 * Any local or group specific Slack channel
 
 These channels were designed specifically for community members to communicate about specific needs and to build local capacity.  Recruiting done in any other channel will be removed.
@@ -149,9 +149,9 @@ If you need to postpone your workshop please contact your [Regional Coordinator]
 
 ### What is the difference between a Centrally-Organised workshop and a Self-Organised workshop?
 
-A Centrally-Organised workshop is organised by The Carpentries. We will locate Instructors, setup registration and provide additional support while planning workshops. There is an [administrative fee](/workshops/#workshop-cost) for Centrally-Organised workshops.
+A Centrally-Organised workshop is organised by The Carpentries. We will locate Instructors, setup registration and provide additional support while planning workshops. There is an [administrative fee](/support/pricing) for Centrally-Organised workshops.
 
-A Self-Organised workshop is organised by the workshop instructor/organiser. This means you are already connected with our [certified Instructors](/instructors/) and will work with them on all aspects of workshop organisation. There is no administrative fee for Self-Organised workshops.
+A Self-Organised workshop is organised by the workshop instructor/organiser. This means you are already connected with our [certified Instructors](/community/instructors/) and will work with them on all aspects of workshop organisation. There is no administrative fee for Self-Organised workshops.
 
 ### How do I get survey data/links for previous workshops?
 
@@ -163,7 +163,7 @@ Yes, it is up to the workshop organisers to decide who can attend a workshop. Yo
 
 ### How many times a year do I have to teach to be eligible to vote?
 
-Voting eligibility is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws]({{< param handbook_url >}}/topic_folders/governance/bylaws.html#individual-voting-membership) for more information. 
+Voting eligibility is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws](/about-us/governance/#carpentries-bylaws-and-policies) for more information. 
 
 ### Are there email templates available for me to locate helpers?
 
@@ -179,9 +179,9 @@ Yes, you can charge learners a fee to attend a workshop. It is up to the Host to
 
 ### Can I pay Instructors a stipend?
 
-The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the Host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation](/donate/) to The Carpentries to support instructor development.
+The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the Host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation]({{< param donation_form >}}) to The Carpentries to support instructor development.
 
 
 ## Further Resources
 
-Visit our [Membership FAQ page](/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
+Visit our [Membership FAQ page](/support/membership/membership-faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
