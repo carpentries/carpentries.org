@@ -16,7 +16,7 @@ Instructor Trainers teach The Carpentries Instructor Training Events. They train
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>Evidence-Based Teaching Practices.</b>Learn evidence-based teaching practices to be more effective both in Carpentries workshops and in your teaching more broadly. </td>
+        <td><b>Evidence-Based Teaching Practices.</b> Learn evidence-based teaching practices to be more effective both in Carpentries workshops and in your teaching more broadly. </td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -24,7 +24,7 @@ Instructor Trainers teach The Carpentries Instructor Training Events. They train
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Program Leadership.</b>Trainers are empowered to guide the development of The Carpentries Instructor Training program.</td>
+        <td><b>Program Leadership.</b> Trainers are empowered to guide the development of The Carpentries Instructor Training program.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -37,20 +37,20 @@ Instructor Trainers teach The Carpentries Instructor Training Events. They train
 ## What You'll Learn
 The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix-and-match lessons to provide the audience with an experience catered to their needs.
 
-- Trainer Training Curriculum Summary
-- How Learning Works: Seven Research-Based Principles for Teaching
-- Creating inclusive and accessible learning spaces
-- Preparing for and teaching Instructor Training
-- Hosting teaching demonstrations
-- Onboarding to the Trainer community
+- Instructor Trainer Training Curriculum Summary.
+- How Learning Works: Seven Research-Based Principles for Teaching.
+- Creating inclusive and accessible learning spaces.
+- Preparing for and teaching Instructor Training.
+- Hosting teaching demonstrations.
+- Onboarding to the Instructor Trainer community.
 
 ## How To Become an Instructor Trainer
 
-The Carpentries Instructor Trainer Training is a highly-competitive training program that is openly available to everyone. A limited number of applicants are accepted into the program each year. Training is run 1-2 times per year and takes place over 10 weekly 1-hour sessions. Following the 10-week training, trainees are asked to complete a number of exercises to become certified Carpentries Instructor Trainers.
+The Carpentries Instructor Trainer Training is a highly-competitive training program that is openly available to everyone. A limited number of applicants are accepted into the program each year. Training is run one to two times per year and takes place over 10 weekly one hour sessions. Following the 10-week training, trainees are asked to complete a number of exercises to become certified Carpentries Instructor Trainers.
 
-1. Submit An Application & Get Accepted: Applications for Instructor Trainer Training open 1-2 times per year. You will need to submit an application and be accepted into the program to attend training.
-1. Complete 10 Week Training: Attend 10 weekly 1-hour sessions where you'll learn the basics of educational psychology and evidence-based teaching practices, and how to teach this information to others.
-1. Complete Certification Steps: After the training, you will be asked to shadow an Instructor Training Event and a Teaching Demonstration.
+- **Submit An Application & Get Accepted**: Applications for Instructor Trainer Training open 1-2 times per year. You will need to submit an application and be accepted into the program to attend training.
+- **Complete 10 Week Training**: Attend 10 weekly 1-hour sessions where you'll learn the basics of educational psychology and evidence-based teaching practices, and how to teach this information to others.
+- **Complete Certification Steps**: After the training, you will be asked to shadow an Instructor Training Event and a Teaching Demonstration.
 
 ## Contact Us
 
