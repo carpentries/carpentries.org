@@ -167,7 +167,7 @@ Voting eligibility is dependent on an Instructor's history with The Carpentries.
 
 ### Are there email templates available for me to locate helpers?
 
-We have compiled several [email templates]({{< param handbook_url >}}/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, instructors, and helpers.
+We have compiled several [email templates]({{< param handbook_url >}}/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, Instructors, and helpers.
 
 ### I do not see a [Regional Coordinator](/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?
 
