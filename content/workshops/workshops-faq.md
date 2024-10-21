@@ -10,11 +10,11 @@ cascade:
 
 ### Why is my workshop not listed on the carpentries.org webpage?
 
-There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form]({{< param amy_workshop_landing >}}), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
+There are three things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form]({{< param amy_workshop_landing >}}), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
 
 ### If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?
 
-A member of the Workshops and Instruction Team will contact the Hosts/Instructors approximately 2-3 weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately 1 week prior to the workshop, the Workshops and Instruction Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately 3 days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshops and Instruction Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
+A member of the Workshops and Instruction Team will contact the Hosts/Instructors approximately two to three weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately one week prior to the workshop, the Workshops and Instruction Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately three days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshops and Instruction Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
 
 ### What is a slug? And how should I use it to name my workshop website?
 
@@ -38,7 +38,7 @@ The learner facing survey links are automatically generated on the workshop's we
 
 ### How do I access the survey results?
 
-If you are planning a workshop, please notify the Workshops and Instruction Team of your planned workshop using the [workshop request form]({{< param amy_workshop_landing >}}). The Workshops and Instruction Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
+If you are planning a workshop, please notify the Workshops and Instruction Team of your planned workshop using the [workshop request form]({{< param amy_workshop_landing >}}). The Workshops and Instruction Team will send the link to view results of the survey one to two weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
 
 ## Curriculum
 
@@ -78,7 +78,7 @@ If you are scheduled to teach a Carpentries workshop and the host cancels, you w
 
 ### How soon can I request a Carpentries workshop?
 
-The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of 2-3 months lead time to organise the workshop. If a request is less than 2 months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalized. 
+The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of two to three months lead time to organise the workshop. If a request is less than two months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalized. 
 
 
 ### My currency is not USD, will I get invoiced in USD or my local currency?
@@ -114,9 +114,9 @@ You can review the  [Recommendation for Teaching Carpentries Workshops Online](h
 
 We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](https://carpentries.github.io/workshop-template/customization/index.html).
 
-### Does the workshop have to be 2 full days?
+### Does the workshop have to be two full days?
 
-Your workshop does not have to be 2 full days. You are encouraged to conduct your workshop over 4 half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.
+Your workshop does not have to be two full days. You are encouraged to conduct your workshop over four half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.
 
 ### Will I be provided with a Zoom room to run my online workshop?
 
