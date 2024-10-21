@@ -46,7 +46,7 @@ help in making contact with the person in charge of your institutional membershi
 For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Member contact to find
 Instructors, set up and handle registration, support Instructor logistics, and coordinate and share assessment results with you.
 Instructor travel expenses are the responsibility of the Member and are not covered in membership fees.<br><br>
-Centrally-Organised workshops can also be purchased [a la carte](/membership/#a-la-carte-pricing) or added to an existing
+Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#workshop-pricing) or added to an existing
 membership. If you would like to run a Centrally-Organised workshops in order to demonstrate the value of The Carpentries
 membership at your organisation, we will count the workshop fee towards a membership if purchased within twelve (12) months.<br><br>
 Workshops can cover curricula from any of our lesson programs: [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/).  An overview of available workshops is located on our [curricula page](/workshops-curricula/). Contact us at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) to learn more about our workshop operations.
@@ -59,7 +59,7 @@ Yes! Once you start building a team of certified Instructors, you can work with 
 
 ### What if I want to run more Centrally-Organised workshops than my agreement allows?
 All members are eligible to purchase additional Centrally-Organised workshops at a discount.
-Our current [pricing is here](/membership/#a-la-carte-pricing/).
+Our current [pricing is here](/support/pricing/#workshop-pricing).
 
 ## Instructor Training
 
@@ -99,10 +99,10 @@ all your seats, please contact us at [{{< param membership_email >}}](mailto:{{<
 
 ### What if I want to train more people at my site than my agreement allows?
 All members are eligible to purchase additional Instructor Training seats at a discount.
-Our current [pricing is here](/membership/#a-la-carte-pricing).
+Our current [pricing is here](/support/pricing/#instructor-training-pricing).
 
 ### Can individuals get trained to become Instructors outside of the context of institutional membership?
-Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/membership/#a-la-carte-pricing)
+Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/support/pricing/#instructor-training-pricing)
 for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
 
 ### What is the attendance policy for Instructor Training?
