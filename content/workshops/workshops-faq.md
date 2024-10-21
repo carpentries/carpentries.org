@@ -4,8 +4,6 @@ cascade:
   nav: workshops
 ---
 
-{{< toc >}}
-
 ## Pre-Workshop Questions
 
 {{< accordion title="Why is my workshop not listed on the carpentries.org webpage?" >}}
