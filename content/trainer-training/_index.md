@@ -7,7 +7,7 @@ layout: single
 
 Instructor Trainers teach The Carpentries Instructor Training Events. They train new Instructors in the basics of educational psychology and evidence-based teaching practices. They also support and play a leadership role in the oversight of the Instructor Training program.
 
-Instructor Trainer Training is the process by which we onboard new Instructor Trainers. The training consists of 10 weekly 1-hour sessions, where we will discuss The Carpentries' teaching philosophy and review supporting materials summarising the research that underpins our Instructor Training curriculum.
+[Instructor Trainer Training]({{< param trainer_training_curriculum >}}) is the process by which we onboard new Instructor Trainers. The training consists of 10 weekly 1-hour sessions, where we will discuss The Carpentries' teaching philosophy and review supporting materials summarising the research that underpins our [Instructor Training curriculum]({{< param instructor_training_curriculum >}}).
 
 
 ## Why Become an Instructor Trainer?
