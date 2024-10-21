@@ -78,7 +78,7 @@ If you are scheduled to teach a Carpentries workshop and the host cancels, you w
 
 ### How soon can I request a Carpentries workshop?
 
-The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of two to three months lead time to organise the workshop. If a request is less than two months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalized. 
+The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of two to three months lead time to organise the workshop. If a request is less than two months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalised. 
 
 
 ### My currency is not USD, will I get invoiced in USD or my local currency?
@@ -122,7 +122,7 @@ Your workshop does not have to be two full days. You are encouraged to conduct y
 
 Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Recommendations for Teaching Carpentries Workshops Online](/online-workshop-recommendations/).
 
-For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organizers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
+For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
 
 ### How many Instructors are needed to teach the workshop?
 
@@ -155,7 +155,7 @@ A Self-Organised workshop is organised by the workshop instructor/organiser. Thi
 
 ### How do I get survey data/links for previous workshops?
 
-The Workshops and Instruction Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshops and Instruction Team (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshops and Instruction Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organisers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshops and Instruction Team (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
 
 ### Can we restrict who participates in our workshops?
 
