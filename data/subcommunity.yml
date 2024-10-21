@@ -9,7 +9,7 @@ subcommunities:
     - interest:
     - other: 
   member: false 
-  description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years, we organized three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
+  description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years, we organised three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
   activities: 
     - carpentry_connect:
     - communication: true
@@ -64,7 +64,7 @@ subcommunities:
     - interest:
     - other: 
   member: False
-  description: A subcommunity for Carpentries activity in Australia. We often link our activities with the equivalent subcommunity in New Zealand.
+  description: A subcommunity for Carpentries activity in Australia. We often link our activities with the equivalent subcommunity in New Zealand/Aotearoa.
   activities: 
     - carpentry_connect: true 
     - communication: true 
@@ -79,7 +79,7 @@ subcommunities:
   logo:
   location: Australia
   country: AU 
-  website: https://carpentries.org/regions_au/
+  website: 
   tags:
     - assessment:
     - carpentry_connect: true 
@@ -163,7 +163,7 @@ subcommunities:
     - mastodon: 
     - instagram: 
     - facebook: 
-    - linkedin: pyaos
+    - linkedin: 
  
 - name: Carpentries Offline
   type:
@@ -244,7 +244,7 @@ subcommunities:
   logo:
   location: Stanford, CA
   country: US
-  website: https://library.stanford.edu/research/carpentries-stanford
+  website: https://stanfordcarpentries.sites.stanford.edu/
   tags:
     - assessment:
     - carpentry_connect:
@@ -275,7 +275,7 @@ subcommunities:
     - facebook: 
     - linkedin:  
 
-- name:  New Zealand 
+- name:  New Zealand/Aotearoa 
   type:
     - geographic_local: true
     - geographic_regional: true
@@ -284,7 +284,7 @@ subcommunities:
     - interest: true
     - other: 
   member: true
-  description: The New Zealand subcommunity focuses on building community relationships within the Carpentries community in Aotearoa New Zealand. New Zealand has several Carpentries members and is represented on the Board of Directors of the organisation as well. 
+  description: The New Zealand/Aotearoa subcommunity focuses on building community relationships within the Carpentries community in New Zealand/Aotearoa. New Zealand/Aotearoa has several Carpentries members and is represented on the Board of Directors of the organisation as well. 
   activities: 
     - carpentry_connect: true
     - communication: true
@@ -394,7 +394,7 @@ subcommunities:
     - interest:
     - other: 
   member: true
-  description: This local subcommunity of workshop Instructors, helpers, and lesson developers includes research support staff from across the University of Wisconsin-Madison campus, faculty members, and graduate students. 
+  description: This local subcommunity of workshop Instructors, helpers, and Lesson Developers includes research support staff from across the University of Wisconsin-Madison campus, faculty members, and graduate students. 
   activities: 
     - carpentry_connect:
     - communication:
@@ -430,7 +430,7 @@ subcommunities:
   contact:
     - email: facilitator@datascience.wisc.edu
     - slack: "data-science-hubgroup workspace, #uw_carpentries"
-    - mailing_list:  carpentries@g-groups.wisc.edu
+    - mailing_list:  https://groups.google.com/a/g-groups.wisc.edu/g/carpentries
     - contact_form:
     - contact_person:
   social_media: 
@@ -452,7 +452,7 @@ subcommunities:
     - interest:
     - other: 
   member: true
-  description: The Smithsonian Institution has been a Carpentries member organization since 2017, and a Platinum Member since 2021. 
+  description: The Smithsonian Institution has been a Carpentries Member Organisation since 2017, and a Platinum Member since 2021. 
   activities: 
     - carpentry_connect:
     - communication: true
@@ -729,7 +729,7 @@ subcommunities:
     - interest:
     - other: 
   member: true
-  description: We are a local community of Instructors, helpers, trainers and fans of The Carpentries. The community grew out of a couple of Instructors in 2015 and found its home at the University of Oslo Library, which became a member institution.
+  description: We are a local community of Instructors, helpers, Instructor Trainers and fans of The Carpentries. The community grew out of a couple of Instructors in 2015 and found its home at the University of Oslo Library, which became a member institution.
   activities: 
     - carpentry_connect: true
     - communication: true
@@ -950,7 +950,7 @@ subcommunities:
     - interest:
     - other: 
   member:  
-  description: The Carpentries community has grown to about 20 instructors in Mexico. We aim to promote good programming practices by strengthening Carpentries' presence within the Spanish-speaking academic community.
+  description: The Carpentries community has grown to about 20 Instructors in Mexico. We aim to promote good programming practices by strengthening Carpentries' presence within the Spanish-speaking academic community.
   activities: 
     - carpentry_connect: true
     - communication: 

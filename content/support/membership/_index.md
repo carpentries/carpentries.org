@@ -15,24 +15,25 @@ Jump start your local data skills training efforts with a Carpentries Membership
 <table>
     <tr>
         <td>Has Feature</td>
-        <td>Hands-on, practice-based training in teaching. Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.</td>
+        <td><b>Hands-on, practice-based training in teaching.</b> Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td>Computational and data skills training. Gain access to our pool of 3,400+ certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
+        <td><b>Computational and data skills training.</b> Gain access to our pool of 3,400+ certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td>Values-driven community of practice.Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.</td>
+        <td><b>Values-driven community of practice.</b> Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.</td>
     </tr>
    </table>
 {{< /table >}}
 
 ## Membership Levels
 
-We offer five customizable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). [View our current pricing tiers](/support/pricing/).
+We offer five customisable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
 
-## Selecting A Membership Level
+[View our current pricing tiers](/support/pricing/#membership-pricing).
+{.button} 
 
 ### Bronze Membership
 
@@ -70,10 +71,10 @@ An option for organisations that want to continue supporting The Carpentries fin
 
 ### In addition to the benefits above, all Memberships include:
 
-* quarterly reports on benefit usage and trainee progress towards certification,
-* opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply),
-* unlimited self-organised workshops,
-* access to Member pricing for additional Centrally-Organised workshops, Instructor Training seats, and Collaborative Lesson Development Training seats purchased during the membership year.
+* Quarterly reports on benefit usage and trainee progress towards certification.
+* Opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply).
+* Unlimited self-organised workshops.
+* Access to Member pricing for additional Centrally-Organised workshops, Instructor Training seats, and Collaborative Lesson Development Training seats purchased during the membership year.
 
 [Become a member]({{< param membership_form >}})
 {.button} 

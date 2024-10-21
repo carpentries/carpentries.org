@@ -11,7 +11,7 @@ All fees are dependent on the purchasing organisation's geographic location, acc
 
 ## Workshop Pricing
 
-Our Centrally-Organised Workshops bring hands-on computational and data skill workshops to your organisation. The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code.
+Our Centrally-Organised Workshops bring hands-on computational and data skill workshops to your organisation. The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. For more information about our Workshops, visit our [Workshops page](/workshops/).
 
 
 {{< table >}}
@@ -25,7 +25,7 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 
 ## Instructor Training Pricing
 
-Recruit your own trainees and The Carpentries Instructor Training will provide them the skills to teach effective workshops. Through our 16-hour, hands-on training, they will learn the basics of educational psychology and evidence-based teaching practices.
+Recruit your own trainees and The Carpentries Instructor Training will provide them the skills to teach effective workshops. Through our 16-hour, hands-on training, they will learn the basics of educational psychology and evidence-based teaching practices. For more information about Instructor Training, visit our [Instructor Training page](/instructor-training/).
 
 {{< table >}}
 |                    | Instructor Training Seat |
@@ -38,7 +38,7 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 
 ## Collaborative Lesson Development Pricing
 
-Collaborative Lesson Development Training gives your community members the skills they need to design and implement effective, accessible curriculum together. Our two-part, 24-hour training teaches best practices in curriculum design and collaborative development of an open source lesson website.
+Collaborative Lesson Development Training gives your community members the skills they need to design and implement effective, accessible curriculum together. Our two-part, 24-hour training teaches best practices in curriculum design and collaborative development of an open source lesson website. For more information about Collaborative Lesson Development, visit our [Collaborative Lesson Development page](/lesson-development/).
 
 {{< table >}}
 |                    | Base fee (2 people) | Each additional person |
