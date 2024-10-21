@@ -59,7 +59,7 @@ Once you have requested your workshop, you can expect the following:
 * **Review of request**: the member of WIT who is responsible for workshops in your region will review your request and follow up within 10 business days 
 * **Date confirmation**: workshop dates will be confirmed no less than eight weeks before your workshop starts 
 * **Instructor Recruitment**: we will inform our certified Instructors that a new teaching opportunity is available eight to ten weeks before the workshop (time is dependent upon finalisation of workshop dates)
-* **Instructors Connected**: we will confirm Instructors at least four weeks before the start of the workshop. Because our Instructors are volunteers, there is sometimes a delay in recruiting Instructors. If this happens, we will let you know at least four weeks before the start of the workshop so that ….can be discussed
+* **Instructors Connected**: we will confirm Instructors at least four weeks before the start of the workshop. Because our Instructors are volunteers, there is sometimes a delay in recruiting Instructors. If this happens, we will let you know at least four weeks before the start of the workshop so that can be discussed
 * **Workshop**: Instructors will join you and your learners to teach a hands-on, data skills and coding workshop at your organisation!
 
 For a more detailed review of the workshop organisation process, please visit the [Workshop Host Checklist](#).
