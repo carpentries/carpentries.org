@@ -30,7 +30,10 @@ Jump start your local data skills training efforts with a Carpentries Membership
 
 ## Membership Levels
 
-We offer five customisable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). [View our current pricing tiers](/support/pricing/).
+We offer five customisable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
+
+[View our current pricing tiers](/support/pricing/#membership-pricing).
+{.button} 
 
 ### Bronze Membership
 
