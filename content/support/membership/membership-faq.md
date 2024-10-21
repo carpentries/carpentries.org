@@ -17,7 +17,7 @@ program. Platinum memberships include Instructor Training seats, but no Centrall
 Self-Organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page.
 
 ### Which membership should I purchase?
-* <b>Bronze membership</b> is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for instructor training.
+* <b>Bronze membership</b> is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for Instructor Training.
 * <b>Silver and Gold memberships</b> are ideal for organisations wanting to quickly build capacity for training in their community.
 * <b>Platinum memberships</b> are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops.
 * <b>Titanium memberships</b> are suited for organisations who do not need coordinated workshops or Instructor Training seats but would
