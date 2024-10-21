@@ -88,3 +88,7 @@ swc-website: https://swc-new-website.netlify.app/
 # Other sites
 #############################################
 handbook_url: https://docs.carpentries.org
+
+# Other forms
+#############################################
+accommodation_request: https://carpentries.typeform.com/to/B2OSYaD0
