@@ -116,9 +116,8 @@ In the event of [partial absences](https://docs.carpentries.org/topic_folders/in
 ## Contact us
 *Who do I talk to about...*
 
- **...general membership questions?** Contact [{{< param membership_email >}}](mailto:{{< param membership_email >}})<br>
- **...workshops?** Contact [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})<br>
- **...instructor training?** Contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})<br>
- **...collaborative lesson development training?** Contact [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})<br>
- **...legal or financial questions?** Contact [{{< param finance_email >}}](mailto:{{< param finance_email >}})<br>
-
+ * General membership questions: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
+ * Workshops: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
+ * Instructor Training:  [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
+ * Collaborative Lesson Development Training: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
+ * Legal or financial questions: [{{< param finance_email >}}](mailto:{{< param finance_email >}})
