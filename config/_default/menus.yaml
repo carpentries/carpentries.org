@@ -148,12 +148,12 @@ main:
   parent: learn
   weight: 30
 - identifier: trainer-training
-  name: Trainer Training
-  pageRef: "/trainer-training/"
+  name: Instructor Trainer Training
+  pageRef: "/instructor-trainer-training/"
   parent: learn
   weight: 40
 - identifier: lesson-development
-  name: Lesson Development
+  name: Lesson Development Training
   pageRef: "/lesson-development/"
   parent: learn
   weight: 50
