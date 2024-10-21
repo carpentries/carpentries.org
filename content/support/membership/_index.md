@@ -5,7 +5,6 @@ cascade:
   nav: membership
 widgets:
 - newsletter
-- meta
 ---
 
 ## Become A Member
