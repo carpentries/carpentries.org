@@ -14,13 +14,13 @@ cascade:
 We offer Bronze, Silver, and Gold membership packages, each with an allotted number of Centrally-Organised [workshops](/workshops).
 Silver and Gold memberships also include seats in our [Instructor Training](https://carpentries.github.io/instructor-training/)
 program. Platinum memberships include Instructor Training seats, but no Centrally-Organised workshops. All memberships include unlimited
-self-organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page.
+Self-Organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page.
 
 ### Which membership should I purchase?
-* Bronze membership is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for instructor training.
-* Silver and Gold memberships are ideal for organisations wanting to quickly build capacity for training in their community.
-* Platinum memberships are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops.
-* Titanium memberships are suited for organisations who do not need coordinated workshops or Instructor Training seats but would
+* <b>Bronze membership</b> is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for instructor training.
+* <b>Silver and Gold memberships</b> are ideal for organisations wanting to quickly build capacity for training in their community.
+* <b>Platinum memberships</b> are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops.
+* <b>Titanium memberships</b> are suited for organisations who do not need coordinated workshops or Instructor Training seats but would
 like to maintain their membership status, financially support The Carpentries, and connect with other Members. To be eligible for
 Titanium membership, organisations must have at least one prior year of membership.<br><br>
 
@@ -79,7 +79,7 @@ teach one of our lessons, with options ranging from spreadsheet formatting to Py
 screening or selection of trainee candidates, Member organisations are welcome to make use of our
 [application questions]({{< param amy_training >}}) and
 [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating
-non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organizations](/support/membership) page.
+non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organisations](/support/membership) page.
 
 ### How soon after signing my membership can I get started with Instructor Training?
 In your 12 month membership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see our [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
