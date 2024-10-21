@@ -3,7 +3,7 @@ title: Get Connected
 layout: single
 ---
 
-## Subcommunities 
+## Subcommunity Registry 
 
 {{< subcommunity >}}
 
