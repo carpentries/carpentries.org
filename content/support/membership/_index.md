@@ -15,15 +15,15 @@ Jump start your local data skills training efforts with a Carpentries Membership
 <table>
     <tr>
         <td>Has Feature</td>
-        <td>Hands-on, practice-based training in teaching. Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.</td>
+        <td><b>Hands-on, practice-based training in teaching.</b> Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td>Computational and data skills training. Gain access to our pool of 3,400+ certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
+        <td><b>Computational and data skills training.</b> Gain access to our pool of 3,400+ certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td>Values-driven community of practice.Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.</td>
+        <td><b>Values-driven community of practice.</b> Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.</td>
     </tr>
    </table>
 {{< /table >}}
