@@ -74,7 +74,7 @@ The Carpentries is not responsible for selecting helpers. This is the responsibi
 
 ### As an Instructor, will I still get credit for a workshop if the host cancelled?
 
-If you are scheduled to teach a Carpentries workshop and the host cancels, you will still receive credit for the workshop. If a workshop is scheduled and you have to resign from teaching, you will not receive credit for the workshop.
+If you are scheduled to teach a Carpentries workshop and the host cancels, you will still receive credit for the workshop. If a workshop is scheduled and you have to withdraw from teaching, you will not receive credit for the workshop.
 
 ### How soon can I request a Carpentries workshop?
 
@@ -83,7 +83,7 @@ The Carpentries workshops are offered on-demand, not on a set schedule. We ask f
 
 ### My currency is not USD, will I get invoiced in USD or my local currency?
 
-If your organization does not accept invoices in USD, please let us know. The Workshops and Instruction Team will connect you with the Business Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
+If your organization does not accept invoices in USD, please let us know. The Workshops and Instruction Team will connect you with the Management Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
 
 ## Self-Organised Workshops
 
@@ -100,7 +100,7 @@ When planning a Self-Organised workshop, we ask that you notify us of your plann
 If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors and/or helpers. Below are the channels you can use:
 
 * Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
-* Any local or group specific slack channel
+* Any local or group specific Slack channel
 
 These channels were designed specifically for community members to communicate about specific needs and to build local capacity.  Recruiting done in any other channel will be removed.
 
@@ -131,7 +131,7 @@ Teaching online is a challenge. We recommend a minimum of two Instructors and a 
 
 ### What are the roles of everyone participating in a workshop?
 
-*Instructor*: A person who has been certified by The Carpentries and understands best practices as outlined by The Carpentries Curricula. These persons will lead the workshop and teach the scheduled lessons.
+*Instructor*: A person who has been certified by The Carpentries and understands best practices as outlined by The Carpentries curricula. These persons will lead the workshop and teach the scheduled lessons.
 
 *Helper*: A person who is familiar with the topics being taught at a workshop. They support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
@@ -184,4 +184,4 @@ The Instructors selected to teach workshops are volunteers and are not paid for 
 
 ## Further Resources
 
-See our [Membership FAQ page](/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
+Visit our [Membership FAQ page](/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
