@@ -1,6 +1,8 @@
 ---
 title: Get Connected
 layout: single
+widgets:
+- newsletter
 ---
 
 ## Subcommunity Registry 
