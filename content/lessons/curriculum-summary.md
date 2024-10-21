@@ -1,5 +1,5 @@
 ---
-title: Curriculum Summary
+title: Curricula Overview
 layout: single
 ---
 
