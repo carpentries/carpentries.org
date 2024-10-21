@@ -64,13 +64,13 @@ Our Instructors are volunteers and are not paid for their time teaching. Therefo
 
 The details of how you will manage the Instructors’ travel is discussed once the Instructors are confirmed and introduced to the host. *The Carpentries is not involved in this process.*
 
-### Who can be a Helper and what do they contribute to the workshop?
+### Who can be a helper and what do they contribute to the workshop?
 
 Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
 
-### Are Helpers reimbursed for travel?
+### Are helpers reimbursed for travel?
 
-The Carpentries is not responsible for selecting Helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
+The Carpentries is not responsible for selecting helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
 
 ### As an Instructor, will I still get credit for a workshop if the host cancelled?
 
@@ -95,9 +95,9 @@ Self-Organised workshops are managed by the instructor/organiser. Since you will
 
 When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{< param amy_workshop_landing >}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
 
-### If I need help recruiting Instructors and/or Helpers for a Self-Organised workshop, what are my options?
+### If I need help recruiting Instructors and/or helpers for a Self-Organised workshop, what are my options?
 
-If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors and/or Helpers. Below are the channels you can use:
+If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors and/or helpers. Below are the channels you can use:
 
 * Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
 * Any local or group specific slack channel
