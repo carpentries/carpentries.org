@@ -43,12 +43,12 @@ A Data Carpentry workshop will vary based on its specific curriculum. It should 
 
 ## What to know before requesting a Centrally-Organised Workshop
 
-* We offer both in-person and online workshops 
-* In-person workshops are two eight-hour days and online workshops can be broken up over two to four days
-* Please plan for 16 hours total for two and four-day workshops and 15 hours for three-day workshops 
-* Breaks are included in the schedule for all workshops
-* Please request your workshop at least 10 weeks before your proposed workshop dates
-* If we cannot accommodate your preferred dates, we will provide additional options that are as close as possible to your original preference
+* We offer both in-person and online workshops.
+* In-person workshops are two eight-hour days and online workshops can be broken up over two to four days.
+* Please plan for 16 hours total for two and four-day workshops and 15 hours for three-day workshops.
+* Breaks are included in the schedule for all workshops.
+* Please request your workshop at least 10 weeks before your proposed workshop dates.
+* If we cannot accommodate your preferred dates, we will provide additional options that are as close as possible to your original preference.
 
 [Request a workshop]({{< param amy_workshop_landing >}})
 {.button}
