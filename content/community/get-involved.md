@@ -2,6 +2,8 @@
 title: Get Involved
 layout: single
 hideToc: true 
+widgets:
+- newsletter
 ---
 
 

@@ -32,3 +32,4 @@ build:
 caches:
   getresource:
     maxAge: -1
+enableGitInfo: true 

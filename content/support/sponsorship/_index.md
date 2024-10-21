@@ -2,6 +2,8 @@
 title: The Carpentries Sponsorships
 layout: single
 hideToc: true 
+widgets:
+- newsletter
 ---
 
 The Carpentries Sponsorship Program aims to help The Carpentries partner with like-minded organisations who want to contribute financially to help The Carpentries achieve our mission and vision.

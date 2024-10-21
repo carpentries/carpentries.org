@@ -3,6 +3,8 @@ title: Our Community
 layout: single
 cascade:
   nav: community
+widgets:
+- newsletter
 ---
 
 ## Community Overview

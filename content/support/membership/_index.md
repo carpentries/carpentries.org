@@ -3,6 +3,8 @@ title: The Carpentries Memberships
 layout: single
 cascade:
   nav: membership
+widgets:
+- newsletter
 ---
 
 ## Become A Member
