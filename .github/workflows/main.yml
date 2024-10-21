@@ -35,6 +35,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install NPM deps
+        run: |
+          npm install @alpinejs/intersect
+
       - name: Update Theme
         run: |
           hugo mod get -u github.com/carpentries/carpentries-hugo-theme
