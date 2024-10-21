@@ -14,13 +14,13 @@ cascade:
 We offer Bronze, Silver, and Gold membership packages, each with an allotted number of Centrally-Organised [workshops](/workshops).
 Silver and Gold memberships also include seats in our [Instructor Training](https://carpentries.github.io/instructor-training/)
 program. Platinum memberships include Instructor Training seats, but no Centrally-Organised workshops. All memberships include unlimited
-self-organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page.
+Self-Organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page.
 
 ### Which membership should I purchase?
-* Bronze membership is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for instructor training.
-* Silver and Gold memberships are ideal for organisations wanting to quickly build capacity for training in their community.
-* Platinum memberships are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops.
-* Titanium memberships are suited for organisations who do not need coordinated workshops or Instructor Training seats but would
+* <b>Bronze membership</b> is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for Instructor Training.
+* <b>Silver and Gold memberships</b> are ideal for organisations wanting to quickly build capacity for training in their community.
+* <b>Platinum memberships</b> are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops.
+* <b>Titanium memberships</b> are suited for organisations who do not need coordinated workshops or Instructor Training seats but would
 like to maintain their membership status, financially support The Carpentries, and connect with other Members. To be eligible for
 Titanium membership, organisations must have at least one prior year of membership.<br><br>
 
@@ -33,8 +33,8 @@ Yes. The Carpentries memberships are annual memberships, extending for a period 
 ### Are any discounts available?
 Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), who engage in
 service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount to their membership fee
-equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount, or as added benefits.  This discount is available at any membership level, for each trainer who has participated in the following activities up to 1 year prior to renewal:
-* teach at least two (2) Instructor Training events for the global Carpentries community
+equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount or as added benefits.  This discount is available at any membership level, for each trainer who has participated in the following up to 1 year prior to renewal:
+* teach at least two (2) Instructor Training events for the global Carpentries community.
 
 ### How can I find out if my institution already has a membership?
 A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like
@@ -46,10 +46,10 @@ help in making contact with the person in charge of your institutional membershi
 For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Member contact to find
 Instructors, set up and handle registration, support Instructor logistics, and coordinate and share assessment results with you.
 Instructor travel expenses are the responsibility of the Member and are not covered in membership fees.<br><br>
-Centrally-Organised workshops can also be purchased [a la carte](/membership/#a-la-carte-pricing) or added to an existing
+Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#workshop-pricing) or added to an existing
 membership. If you would like to run a Centrally-Organised workshops in order to demonstrate the value of The Carpentries
 membership at your organisation, we will count the workshop fee towards a membership if purchased within twelve (12) months.<br><br>
-Workshops can cover curricula from any of our lesson programs: [Data Carpentry](https://datacarpentry.org/lessons/), [Library Carpentry](https://librarycarpentry.org/lessons/), or [Software Carpentry](https://software-carpentry.org/lessons/).  An overview of available workshops is located on our [curricula page](/workshops-curricula/). Contact us at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) to learn more about our workshop operations.
+Workshops can cover curricula from any of our lesson programs: [Data Carpentry]({{< param dc-website >}}/lessons), [Library Carpentry]({{< param dc-website >}}/lessons), or [Software Carpentry]({{< param dc-website >}}/lessons).  An overview of available workshops is located on our [curricula page](/lessons/curriculum-summary/). Contact us at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) to learn more about our workshop operations.
 
 ### How soon after signing my membership can I get started with hosting workshops?
 Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{< param amy_workshop_landing >}}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.
@@ -59,7 +59,7 @@ Yes! Once you start building a team of certified Instructors, you can work with 
 
 ### What if I want to run more Centrally-Organised workshops than my agreement allows?
 All members are eligible to purchase additional Centrally-Organised workshops at a discount.
-Our current [pricing is here](/membership/#a-la-carte-pricing/).
+Our current [pricing is here](/support/pricing/#workshop-pricing).
 
 ## Instructor Training
 
@@ -79,7 +79,7 @@ teach one of our lessons, with options ranging from spreadsheet formatting to Py
 screening or selection of trainee candidates, Member organisations are welcome to make use of our
 [application questions]({{< param amy_training >}}) and
 [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating
-non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organizations](/support/membership) page.
+non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organisations](/support/membership) page.
 
 ### How soon after signing my membership can I get started with Instructor Training?
 In your 12 month membership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see our [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
@@ -99,10 +99,10 @@ all your seats, please contact us at [{{< param membership_email >}}](mailto:{{<
 
 ### What if I want to train more people at my site than my agreement allows?
 All members are eligible to purchase additional Instructor Training seats at a discount.
-Our current [pricing is here](/membership/#a-la-carte-pricing).
+Our current [pricing is here](/support/pricing/#instructor-training-pricing).
 
 ### Can individuals get trained to become Instructors outside of the context of institutional membership?
-Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/membership/#a-la-carte-pricing)
+Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/support/pricing/#instructor-training-pricing)
 for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
 
 ### What is the attendance policy for Instructor Training?
@@ -116,9 +116,8 @@ In the event of [partial absences](https://docs.carpentries.org/topic_folders/in
 ## Contact us
 *Who do I talk to about...*
 
- **...general membership questions?** Contact [{{< param membership_email >}}](mailto:{{< param membership_email >}})<br>
- **...workshops?** Contact [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})<br>
- **...instructor training?** Contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})<br>
- **...collaborative lesson development training?** Contact [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})<br>
- **...legal or financial questions?** Contact [{{< param finance_email >}}](mailto:{{< param finance_email >}})<br>
-
+ * General membership questions: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
+ * Workshops: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
+ * Instructor Training:  [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
+ * Collaborative Lesson Development Training: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
+ * Legal or financial questions: [{{< param finance_email >}}](mailto:{{< param finance_email >}})
