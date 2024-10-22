@@ -5,7 +5,7 @@ layout: single
 
 
 ## Who teaches Collaborative Lesson Development Training?
-Our Lesson Developer Trainers are experts in curriculum development drawn from The Carpentries community. They have a wealth of experience in design, development, and maintenance of lessons gathered from activities both within and outside The Carpentries. The majority of Trainers are volunteers and all have been certified through a multi-week program of Trainer Training coordinated by the Curriculum Team.
+Our Lesson Developer Trainers are experts in curriculum development drawn from The Carpentries community. They have a wealth of experience in design, development, and maintenance of lessons gathered from activities both within and outside The Carpentries. The majority of Lesson Developer Trainers are volunteers and all have been certified through a multi-week program of Lesson Developer Trainer Training coordinated by the Curriculum Team.
 
 ## How do Collaborative Lesson Development Training events run?
 Collaborative Lesson Development Training is taught virtually, over the Zoom video conferencing platform. Trainers make extensive use of screen sharing and breakout rooms during the training, enhanced by live demonstration and a shared notes document. The training is highly interactive, with participants engaging frequently in discussion and hands-on activities, designing and beginning to create their new lessons
