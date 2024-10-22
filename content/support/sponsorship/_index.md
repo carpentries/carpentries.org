@@ -17,7 +17,6 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 |    | **Empowerment** <br> $150,000 <br>Limit: 2 | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
 |----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 | Digital supporter badge     | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Philanthropy recognition    | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
 | Mention in newsletter       | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
 | Logo on career page         | Has Feature  | Has Feature  | Has Feature  |              |              |
 | Social media visibility     | Has Feature  | Has Feature  |              |              |              |
