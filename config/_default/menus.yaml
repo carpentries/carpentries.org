@@ -318,7 +318,7 @@ footer:
   weight: 20
 - identifier: workshops-request
   name: Request a workshop
-  url: "/host/host-workshop/"
+  url: "https://amy.carpentries.org/forms/workshop/"
   parent: workshops-footer
   weight: 30
 # Footer menu 5 (Lessons)
