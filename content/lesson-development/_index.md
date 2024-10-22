@@ -46,8 +46,7 @@ After attending this training, participants will be able to:
 
 ### Training structure
 
-<object data="images/cldt-structure.svg" type="image/svg+xml">
-</object>
+<img alt="The structure of Collaborative Lesson Development Training" src="images/cldt-structure.svg" style='width: 67%'>
 
 The training takes place in two parts, separated by an extended break where participants test their new lessons.
 
