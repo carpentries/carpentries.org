@@ -18,7 +18,7 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 |----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 | Digital supporter badge     | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
 | Mention in newsletter       | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
-| Logo on career page         | Has Feature  | Has Feature  | Has Feature  |              |              |
+| Logo on careers page         | Has Feature  | Has Feature  | Has Feature  |              |              |
 | Social media visibility     | Has Feature  | Has Feature  |              |              |              |
 | CarpentryCon registration, sponsor table, and recognition | Has Feature  | Has Feature  |              |              |              |
 | Logo on blog                | Has Feature  | Has Feature  |              |              |              |
