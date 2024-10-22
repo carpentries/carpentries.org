@@ -5,12 +5,12 @@ layout: single
 
 The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials - [The Carpentries Incubator]({{< param incubator_link >}}) and [The Carpentries Lab]({{< param lab_link >}}).
 
-[The Carpentries Incubator](#the-carpentries-incubator) is for:
+The Carpentries Incubator is for:
 
 - Collaborative lesson development (from conceptual to stable lessons).
 - Providing visibility for lessons that are being worked on.
 
-[The Carpentries Lab](#the-carpentries-lab) is for:
+The Carpentries Lab is for:
 
 - Peer-reviewed, short-format, lessons that use the teaching approach and lesson design from The Carpentries.
 - [Submitting lessons for peer-review](https://github.com/carpentries-lab/reviews/) in a way traditional journal peer-review would not be able to provide.
