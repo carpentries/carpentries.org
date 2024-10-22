@@ -355,12 +355,12 @@ footer:
   weight: 10
 - indentifier: incubator-footer
   name: Carpentries Incubator
-  url: "https://carpentries-incubator.org/"
+  url: "/lesson-development/community-lessons/#the-carpentries-incubator"
   parent: lesson-development-footer
   weight: 20
 - identifier: lab-footer
   name: Carpentries Lab
-  url: "https://carpentries-lab.org/"
+  url: "/lesson-development/community-lessons/#the-carpentries-lab"
   parent: lesson-development-footer
   weight: 30
 socials:
