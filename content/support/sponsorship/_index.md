@@ -42,7 +42,8 @@ The Carpentries provides a digital icon that can be displayed on the sponsor’s
 ### Newsletter Recognition
 
 - EMPOWERMENT
-- CHAMPION SUPPORTER
+- CHAMPION 
+- SUPPORTER
 - CONTRIBUTOR
 {.badges}
 
