@@ -26,7 +26,7 @@ This [workshop][dc-genomics] is intended for people working with high-throughput
 relying on spreadsheets and GUI platforms to using command-line tools and remote computing power. This workshop is taught using Amazon
 Web Services. Learners will be introduced to core Bash commands and will learn to write custom Bash scripts to automate an analysis
 pipeline. They will be introduced to some commonly used command-line bioinformatics tools and file formats. This workshop does not cover
-individual methods for working with RNA-seq, ChIP-seq, or other specialized datasets, but instead focuses on core principles for
+individual methods for working with RNA-seq, ChIP-seq, or other specialised datasets, but instead focuses on core principles for
 efficient and reproducible research with sequencing data.
 
 ## Data Carpentry: Geospatial
