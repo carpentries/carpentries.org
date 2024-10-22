@@ -65,14 +65,14 @@ We also introduce grep for searching and subsetting data across files. Exercises
 cover working with OpenRefine to transform and clean data, and the benefits of working collaboratively via Git/GitHub and using version
 control to track your work.
 
-## Software Carpentry (All Workshops)
+## Software Carpentry: All Workshops
 All [Software Carpentry][swc-all] workshops include an introduction to Bash shell scripting and version control with Git, along with your choice of
 either R or Python. Learners will gain confidence in using the command-line to navigate their file structure and work with files on their
 computer, culminating in writing custom Bash scripts to automate repetitive analyses. They will learn the core concepts of version
 control and be able to implement a simple Git workflow for tracking their own work. Software Carpentry workshops also include your
 choice of one of our R or Python lessons (listed below).
 
-## Software Carpentry (Plotting and Programming in Python)
+## Software Carpentry: Plotting and Programming in Python
 Our more introductory Python lesson. In addition to our standard content, this workshop covers data analysis and
 visualisation in Python, focusing on working with core data structures (including tabular data, not covered in our Programming with
 Python lesson), using conditionals and loops, writing custom functions, and creating customised plots. As our more introductory Python
@@ -80,21 +80,21 @@ offering, this workshop also introduces learners to JupyterLab and strategies fo
 with no previous programming experience. For audiences with some experience with Python or other programming languages, we recommend our
 [Programming with Python](#software-carpentry-programming-with-python) lesson.
 
-## Software Carpentry (Programming with Python)
+## Software Carpentry: Programming with Python
 Our more advanced Python lesson. In addition to our standard content, this workshop covers data analysis and
 visualisation in Python, focusing on working with core data structures, using conditionals and loops, writing custom functions, and
 running Python programs from the command line. This is the more advanced of our two Python offerings for Software Carpentry and is
 appropriate for learners with some previous programming experience, in Python or other languages. For audiences with no previous
 programming experience, we recommend our [Plotting and Programming in Python](#software-carpentry-plotting-and-programming-in-python) lesson.
 
-## Software Carpentry (R for Reproducible Scientific Analysis)
+## Software Carpentry: R for Reproducible Scientific Analysis
 Our more introductory R lesson. In addition to our standard content, this workshop covers data analysis and
 visualisation in R, focusing on working with tabular data and other core data structures, using conditionals and loops, writing custom
 functions, and creating publication-quality graphics. As our more introductory R offering, this workshop also introduces learners to
 RStudio and strategies for getting help. This workshop is appropriate for learners with no previous programming experience. For audiences
 with some experience with R or other programming languages, we recommend our [Programming with R](#software-carpentry-programming-with-r) lesson.
 
-## Software Carpentry (Programming with R)
+## Software Carpentry: Programming with R
 Our more advanced R lesson. In addition to our standard content, this workshop covers data analysis and
 visualisation in R focusing on working with core data structures, using conditionals and loops, writing custom functions, and running R
 programs from the command line. This is the more advanced of our two R offerings for Software Carpentry and is appropriate for learners
