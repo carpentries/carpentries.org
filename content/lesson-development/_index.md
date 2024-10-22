@@ -27,22 +27,22 @@ Collaborative Lesson Development Training is aimed at Carpentries community memb
 ### What will you learn?
 The training teaches fundamental concepts, skills, and good practice in three key areas:
 
-* Lesson design and development
-* Collaboration
-* Using The Carpentries lesson infrastructure
+* Lesson design and development.
+* Collaboration.
+* Using The Carpentries lesson infrastructure.
 
 After attending this training, participants will be able to:
 
-- collaboratively develop and publish lessons using The Carpentries lesson infrastructure
-- identify and characterise the target audience for a lesson
-- define SMART learning objectives
-- explain the pedagogical value of authentic tasks
-- create exercises for formative assessment
-- explain how considerations of cognitive load should influence - the pacing, length, and organisation of a lesson
-- use best practices to configure and maintain accessible and - usable lesson repositories that are readily available for collaboration
-- identify and correct accessibility issues in a lesson built on The Carpentries lesson infrastructure
-- use feedback and reflection from teaching to update and improve lesson material
-- review and provide constructive feedback on lessons
+- collaboratively develop and publish lessons using The Carpentries lesson infrastructure.
+- identify and characterise the target audience for a lesson.
+- define SMART learning objectives.
+- explain the pedagogical value of authentic tasks.
+- create exercises for formative assessment.
+- explain how considerations of cognitive load should influence the pacing, length, and organisation of a lesson.
+- use best practices to configure and maintain accessible and usable lesson repositories that are readily available for collaboration.
+- identify and correct accessibility issues in a lesson built on The Carpentries lesson infrastructure.
+- use feedback and reflection from teaching to update and improve lesson material.
+- review and provide constructive feedback on lessons.
 
 ### Training structure
 
@@ -67,4 +67,4 @@ Collaborative Lesson Development Training events are regularly scheduled through
 
 ## Contact Us
 
-Have Questions? Please contact our team at [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}).
+Have Questions? Please consult our [Collaborative Lesson Development FAQ](/lesson-development/cldt-faq/) or  contact our team at [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}).

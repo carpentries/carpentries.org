@@ -5,17 +5,17 @@ layout: single
 
 The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials - [The Carpentries Incubator]({{< param incubator_link >}}) and [The Carpentries Lab]({{< param lab_link >}}).
 
-[The Carpentries Incubator](#the-carpentries-incubator) is for:
+The Carpentries Incubator is for:
 
 - Collaborative lesson development (from conceptual to stable lessons).
 - Providing visibility for lessons that are being worked on.
 
-[The Carpentries Lab](#the-carpentries-lab) is for:
+The Carpentries Lab is for:
 
 - Peer-reviewed, short-format, lessons that use the teaching approach and lesson design from The Carpentries.
 - [Submitting lessons for peer-review](https://github.com/carpentries-lab/reviews/) in a way traditional journal peer-review would not be able to provide.
 
-[More information about The Carpentries Incubator, The Carpentries Lab, and how this table is built is available at the end of this page](#the-carpentries-incubator)
+[More information about The Carpentries Incubator, The Carpentries Lab, and how the table below is built is available at the end of this page](#the-carpentries-incubator)
 
 ## Browse Community Developed Lessons
 
@@ -47,4 +47,4 @@ The table on this page is created based on the [topic annotations on repositorie
 in The Carpentries Incubator and Carpentries Lab. If you are developing a lesson in the Incubator but do not see it listed above, check that your lesson repository has topic tags assigned, _including the "lesson" tag_.  Topics can be added to a lesson repository by editing the repository _About_ box, near the top right of the repository homepage interface. More guidance for adding topics to a lesson repository is provided in [an appendix to The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-carpentries-incubator.html#topic-tags). Changes to the lesson repository may take several hours to be updated on this page.
 
 If you have added the appropriate topics on your lesson repository and it
-still does not appear in the table above, please contact [the Incubator team](mailto:{{< param incubator_email >}}).
+still does not appear in the table above, please contact the Incubator team at [{{< param incubator_email >}}](mailto:{{< param incubator_email >}}).
