@@ -339,7 +339,7 @@ footer:
   weight: 20
 - identifier: lessons-trainer-training
   name: Instructor Trainer Training
-  url: "/trainer-training/"
+  url: "/instructor-trainer-training/"
   parent: lessons-footer
   weight: 30
 # Footer menu 6 (Lesson Development)
