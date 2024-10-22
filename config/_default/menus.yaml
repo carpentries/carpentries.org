@@ -276,7 +276,7 @@ footer:
   weight: 30
 - identifier: get-involved
   name: Get involved
-  url: "/community/get-connected/"
+  url: "/community/get-involved/"
   parent: community-footer
   weight: 40
 # Footer menu: Menu 3 (Membership)
@@ -318,7 +318,7 @@ footer:
   weight: 20
 - identifier: workshops-request
   name: Request a workshop
-  url: "/host/host-workshop/"
+  url: "https://amy.carpentries.org/forms/workshop/"
   parent: workshops-footer
   weight: 30
 # Footer menu 5 (Lessons)
@@ -339,7 +339,7 @@ footer:
   weight: 20
 - identifier: lessons-trainer-training
   name: Instructor Trainer Training
-  url: "/trainer-training/"
+  url: "/instructor-trainer-training/"
   parent: lessons-footer
   weight: 30
 # Footer menu 6 (Lesson Development)
@@ -355,12 +355,12 @@ footer:
   weight: 10
 - indentifier: incubator-footer
   name: Carpentries Incubator
-  url: "https://carpentries-incubator.org/"
+  url: "/lesson-development/community-lessons/#the-carpentries-incubator"
   parent: lesson-development-footer
   weight: 20
 - identifier: lab-footer
   name: Carpentries Lab
-  url: "https://carpentries-lab.org/"
+  url: "/lesson-development/community-lessons/#the-carpentries-lab"
   parent: lesson-development-footer
   weight: 30
 socials:
@@ -375,7 +375,7 @@ socials:
     img: "/linkedin-logo.svg"
   weight: 20
 - name: Slack
-  url: "https://swc-slack-invite.herokuapp.com/"
+  url: "https://slack-invite.carpentries.org/"
   params:
     img: "/slack-logo.svg"
   weight: 30
