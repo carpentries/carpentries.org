@@ -10,7 +10,7 @@ cascade:
 
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). Mature lessons can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}) and/or may be adopted by one of our lesson programs.
 
-The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The [Carpentries Collaborative Lesson Development Training](#about-the-training) provides our community members with the expertise they need to co-create a high-quality curriculum.
+The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The Carpentries Collaborative Lesson Development Training provides our community members with the expertise they need to co-create a high-quality curriculum.
 
 The Lesson Developer Handbook provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
 
