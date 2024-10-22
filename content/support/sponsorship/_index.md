@@ -24,7 +24,7 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 | Logo on blog                | Has Feature  | Has Feature  |              |              |              |
 | Original blog post          | Has Feature  |              |              |              |              |
 | Themed community discussion | Has Feature  |              |              |              |              |
-| Carpentry workshop          | Has Feature  |              |              |              |              |
+| Carpentries Hosted workshop | Has Feature  |              |              |              |              |
 | Digital supporter badge     | Has Feature  |              |              |              |              |
 {{</table>}}
 
