@@ -119,11 +119,11 @@ If you do learn or teach from any lesson under community development,
 please take the time to provide feedback on your experience to the authors.
 
 [community-lessons]: /community-lessons/
-[dc-astro]: https://datacarpentry.org/lessons/#astronomy-curriculum
-[dc-ecology]: https://datacarpentry.org/lessons/#ecology-workshop
-[dc-genomics]: https://datacarpentry.org/lessons/#genomics-workshop
-[dc-geospatial]: https://datacarpentry.org/lessons/#geospatial-curriculum
-[dc-image]: https://datacarpentry.org/lessons/#image-processing-curriculum
-[dc-socialsci]: https://datacarpentry.org/lessons/#social-science-curriculum
+[dc-astro]: https://datacarpentry.org/lessons/#astronomy
+[dc-ecology]: https://datacarpentry.org/lessons/#ecology
+[dc-genomics]: https://datacarpentry.org/lessons/#genomics
+[dc-geospatial]: https://datacarpentry.org/lessons/#geospatial
+[dc-image]: https://datacarpentry.org/lessons/#image-processing
+[dc-socialsci]: https://datacarpentry.org/lessons/#social-science
 [lc]: https://librarycarpentry.org/lessons/
 [swc-all]: https://software-carpentry.org/lessons/
