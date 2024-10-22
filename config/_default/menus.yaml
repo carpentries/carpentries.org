@@ -276,7 +276,7 @@ footer:
   weight: 30
 - identifier: get-involved
   name: Get involved
-  url: "/community/get-connected/"
+  url: "/community/get-involved/"
   parent: community-footer
   weight: 40
 # Footer menu: Menu 3 (Membership)
