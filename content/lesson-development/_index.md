@@ -10,7 +10,7 @@ cascade:
 
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). Mature lessons can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}) and/or may be adopted by one of our lesson programs.
 
-The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The [Carpentries Collaborative Lesson Development Training](#about-the-training) provides our community members with the expertise they need to co-create a high-quality curriculum.
+The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The Carpentries Collaborative Lesson Development Training provides our community members with the expertise they need to co-create a high-quality curriculum.
 
 The Lesson Developer Handbook provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
 
@@ -22,7 +22,7 @@ and good practices for designing and developing a lesson as an open source proje
 
 ### Target audience
 
-Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. [The curriculum]({{< param cldt_curriculum >}}) was developed with a focus on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.
+Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. [The curriculum]({{< param cldt_curriculum >}}) was developed with a focus on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.  Trainees join the training in teams of two to five people, and at least one member of each team should have attended [Instructor Training](/instructor-training/).
 
 ### What will you learn?
 The training teaches fundamental concepts, skills, and good practice in three key areas:
