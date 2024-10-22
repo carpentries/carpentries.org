@@ -67,4 +67,4 @@ Collaborative Lesson Development Training events are regularly scheduled through
 
 ## Contact Us
 
-Have Questions? Please contact our team at [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}).
+Have Questions? Please consult our [Collaborative Lesson Development FAQ](/lesson-development/cldt-faq/) or  contact our team at [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}).
