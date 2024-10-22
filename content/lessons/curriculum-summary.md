@@ -118,7 +118,7 @@ Your perspective is a valuable resource to help improve all our lessons!
 If you do learn or teach from any lesson under community development,
 please take the time to provide feedback on your experience to the authors.
 
-[community-lessons]: /community-lessons/
+[community-lessons]: /lesson-development/community-lessons/
 [dc-astro]: https://datacarpentry.org/lessons/#astronomy
 [dc-ecology]: https://datacarpentry.org/lessons/#ecology
 [dc-genomics]: https://datacarpentry.org/lessons/#genomics
