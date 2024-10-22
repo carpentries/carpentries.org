@@ -375,7 +375,7 @@ socials:
     img: "/linkedin-logo.svg"
   weight: 20
 - name: Slack
-  url: "https://swc-slack-invite.herokuapp.com/"
+  url: "https://slack-invite.carpentries.org/"
   params:
     img: "/slack-logo.svg"
   weight: 30
