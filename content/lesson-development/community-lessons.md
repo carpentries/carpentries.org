@@ -47,4 +47,4 @@ The table on this page is created based on the [topic annotations on repositorie
 in The Carpentries Incubator and Carpentries Lab. If you are developing a lesson in the Incubator but do not see it listed above, check that your lesson repository has topic tags assigned, _including the "lesson" tag_.  Topics can be added to a lesson repository by editing the repository _About_ box, near the top right of the repository homepage interface. More guidance for adding topics to a lesson repository is provided in [an appendix to The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-carpentries-incubator.html#topic-tags). Changes to the lesson repository may take several hours to be updated on this page.
 
 If you have added the appropriate topics on your lesson repository and it
-still does not appear in the table above, please contact [the Incubator team](mailto:{{< param incubator_email >}}).
+still does not appear in the table above, please contact the Incubator team at [{{< param incubator_email >}}](mailto:{{< param incubator_email >}}).
