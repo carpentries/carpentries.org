@@ -15,7 +15,7 @@ The Carpentries Lab is for:
 - Peer-reviewed, short-format, lessons that use the teaching approach and lesson design from The Carpentries.
 - [Submitting lessons for peer-review](https://github.com/carpentries-lab/reviews/) in a way traditional journal peer-review would not be able to provide.
 
-[More information about The Carpentries Incubator, The Carpentries Lab, and how this table is built is available at the end of this page](#the-carpentries-incubator)
+[More information about The Carpentries Incubator, The Carpentries Lab, and how the table below is built is available at the end of this page](#the-carpentries-incubator)
 
 ## Browse Community Developed Lessons
 
