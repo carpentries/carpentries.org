@@ -70,7 +70,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Travel Expenses for Instructors
 
-Carpentries Instructors are volunteers and are not paid for their service. To compensate Instructors for their time teaching, we require the Host to cover expenses for travel, food, and accommodation for in-person workshops. To minimise expenses, we prioritse local Instructors when recruiting. However, we recommend estimating $3,000 total for expenses ($1500 per Instructor). Once the Instructors and workshop dates are finalized, you will work with them directly to plan travel, accommodations, and reimbursements. 
+Carpentries Instructors are volunteers and are not paid for their service. To compensate Instructors for their time teaching, we require the host to cover expenses for travel, food, and accommodation for in-person workshops. To minimise expenses, we prioritse local Instructors when recruiting. However, we recommend estimating $3,000 total for expenses ($1500 per Instructor). Once the Instructors and workshop dates are finalized, you will work with them directly to plan travel, accommodations, and reimbursements. 
 
 ## Contact Us
 We know there is a lot to think about when considering hosting a Carpentries workshop! Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq/) or contact the Workshops and Instruction Team with questions. To connect with us, email [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}).
