@@ -13,7 +13,7 @@ There are three things that must happen in order for a workshop to appear on The
 
 {{< accordion title="If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?" >}}
 
-A member of the Workshops and Instruction Team will contact the Hosts/Instructors approximately two to three weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately one week prior to the workshop, the Workshops and Instruction Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately three days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshops and Instruction Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
+A member of the Workshops and Instruction Team will contact the hosts/Instructors approximately two to three weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately one week prior to the workshop, the Workshops and Instruction Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately three days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshops and Instruction Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
 {{< /accordion >}}
 
 {{< accordion title="What is a slug? And how should I use it to name my workshop website?" >}}
@@ -159,7 +159,7 @@ Teaching online is a challenge. We recommend a minimum of two Instructors and a 
 
 *Learner*: A person who is attending the workshop to learn the material being taught.
 
-*Workshop Organiser/Host*: The person who requested The Carpentries workshop. This person is the main contact for the workshop and will be able to provide logistical support for attending the scheduled workshop.
+*Workshop organiser/host*: The person who requested The Carpentries workshop. This person is the main contact for the workshop and will be able to provide logistical support for attending the scheduled workshop.
 {{< /accordion >}}
 
 ## Miscellaneous
@@ -205,12 +205,12 @@ If you live in an area that does not have a Regional Coordinator in that region,
 
 {{< accordion title="Can I charge Learners a fee to attend a workshop I host?" >}}
 
-Yes, you can charge learners a fee to attend a workshop. It is up to the Host to decide if they will charge each participant. Often a nominal fee of $20 reduces the number of no-shows. Since most workshops have a wait list, it is best to be able to offer these spots to people on the waitlist instead of having an empty seat.
+Yes, you can charge learners a fee to attend a workshop. It is up to the host to decide if they will charge each participant. Often a nominal fee of $20 reduces the number of no-shows. Since most workshops have a wait list, it is best to be able to offer these spots to people on the waitlist instead of having an empty seat.
 {{< /accordion >}}
 
 {{< accordion title="Can I pay Instructors a stipend?" >}}
 
-The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the Host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation]({{< param donation_form >}}) to The Carpentries to support instructor development.
+The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation]({{< param donation_form >}}) to The Carpentries to support instructor development.
 {{< /accordion >}}
 
 
