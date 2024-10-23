@@ -62,7 +62,7 @@ Once you have requested your workshop, you can expect the following:
 * **Instructors Connected**: we will confirm Instructors at least four weeks before the start of the workshop. Because our Instructors are volunteers, there is sometimes a delay in recruiting Instructors. If this happens, we will let you know at least four weeks before the start of the workshop so that can be discussed
 * **Workshop**: Instructors will join you and your learners to teach a hands-on, data skills and coding workshop at your organisation!
 
-For a more detailed review of the workshop organisation process, please visit the [Workshop Host Checklist](#).
+For a more detailed review of the workshop organisation process, please visit the [Workshop Host Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist).
 
 ## Workshop Pricing 
 
