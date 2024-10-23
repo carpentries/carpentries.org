@@ -125,7 +125,7 @@ These channels were designed specifically for community members to communicate a
 
 {{< accordion title="I have never taught an online workshop, where should I begin?" >}}
 
-You can review the  [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/) [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html) .
+You can review the [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html) in our handbook.
 {{< /accordion >}}
 
 {{< accordion title="How do I indicate my workshop will be online in the workshop website template?" >}}
@@ -140,14 +140,14 @@ Your workshop does not have to be two full days. You are encouraged to conduct y
 
 {{< accordion title="Will I be provided with a Zoom room to run my online workshop?" >}}
 
-Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Recommendations for Teaching Carpentries Workshops Online](/online-workshop-recommendations/).
+Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html).
 
 For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
 {{< /accordion >}}
 
 {{< accordion title="How many Instructors are needed to teach the workshop?" >}}
 
-Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [instruction roles](/online-workshop-recommendations/#instructional-roles) for a workshop.
+Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html).
 {{< /accordion >}}
 
 
