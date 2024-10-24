@@ -74,7 +74,7 @@ Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](/a
 - CHAMPION 
 {.badges}
 
-Social media promotion via [@thecarpentries on Mastodon](https://hachyderm.io/@thecarpentries) (1,500 followers).  
+Social media promotion via [@thecarpentries on Mastodon]({{< param mastodon >}}) (1,500 followers).  
 Empowerment - up to 4 posts per year; Champion - up to 2 posts per year
 
 ### CarpentryCon Registration, Sponsor Table, & Recognition
