@@ -17,14 +17,15 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 |    | **Empowerment** <br> $150,000 <br>Limit: 2 | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
 |----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 | Digital supporter badge     | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
+| Logo on carpentries.org     | 
 | Mention in newsletter       | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
-| Logo on careers page         | Has Feature  | Has Feature  | Has Feature  |              |              |
+| Logo on careers page        | Has Feature  | Has Feature  | Has Feature  |              |              |
 | Social media visibility     | Has Feature  | Has Feature  |              |              |              |
 | CarpentryCon registration, sponsor table, and recognition | Has Feature  | Has Feature  |              |              |              |
 | Logo on blog                | Has Feature  | Has Feature  |              |              |              |
 | Original blog post          | Has Feature  |              |              |              |              |
-| Themed community discussion | Has Feature  |              |              |              |              |
-| Carpentries Hosted workshop | Has Feature  |              |              |              |              |
+| Themed community session    | Has Feature  |              |              |              |              |
+| Carpentries workshop        | Has Feature  |              |              |              |              |
 {{</table>}}
 
 
@@ -39,15 +40,76 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 
 The Carpentries provides a digital icon that can be displayed on the sponsor’s website and social media accounts as a way to show support for The Carpentries community.
 
-### Newsletter Recognition
+### Logo on carpentries.org
 
 - EMPOWERMENT
-- CHAMPION 
+- CHAMPION
 - SUPPORTER
 - CONTRIBUTOR
 {.badges}
 
-One mention in The Carpentries newsletters, Carpentries Philanthropy & Carpentries Clippings.
+Logo linked to sponsor designated URL, posted on The Carpentries Sponsorship page. Sponsors listed in order of package level.
+
+### Mention in The Carpentries Newsletter
+
+- EMPOWERMENT
+- CHAMPION 
+- SUPPORTER
+{.badges}
+
+One item submitted to The Carpentries monthly newsletter, [Carpentries Clippings](/newsletter).
+
+
+### Logo on carpentries.org careers page
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](/about-us/careers/) for one year.
+
+### Social media visibility
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+Social media promotion via [@thecarpentries on Mastodon](https://hachyderm.io/@thecarpentries) (1,500 followers).  
+Empowerment - up to 4 posts per year; Champion - up to 2 posts per year
+
+### CarpentryCon Registration, Sponsor Table, & Recognition
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+Registration to attend The Carpentries meeting, [CarpentryCon](https://carpentrycon.org/), to be held in-person or virtually. Sponsor name and logo on conference marketing material.
+
+### Logo listed on The Carpentries blog
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+Logo will be placed on [The Carpentries blog](/blog) for one year. The Carpentries blog receives ~2,500 views per month (~84,000 all time).
+
+### Original Blog Post
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+One blog post on [The Carpentries blog](/blog).
+
+
+### Data, Software, or Library Carpentry Workshop
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+Attend one Data, Software, or Library Carpentry [workshop](/workshops/) (in-person or virtual where available).
+
 
 ## All Contributions Are Valued
 
