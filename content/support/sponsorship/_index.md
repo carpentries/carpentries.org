@@ -102,6 +102,14 @@ Logo will be placed on [The Carpentries blog](/blog) for one year. The Carpentri
 One blog post on [The Carpentries blog](/blog).
 
 
+### Themed Community Session
+
+- EMPOWERMENT
+- CHAMPION 
+{.badges}
+
+Opportunity to present at one virtual Community Session with The Carpentries global community. The session will be moderated by a Carpentries Core Team member. Sponsor will give a 20-minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
+
 ### Data, Software, or Library Carpentry Workshop
 
 - EMPOWERMENT
