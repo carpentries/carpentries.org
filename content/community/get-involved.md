@@ -9,7 +9,7 @@ widgets:
 You can get involved with The Carpentries by volunteering in one of our [community roles](https://carp-new-website.netlify.app/community/). To find out more about the duties and benefits of volunteering in these roles, as well as how to be onboarded onto and offboarded from these roles, please visit our [Handbook](https://carpentries-beta-handbook-preview.netlify.app/)
 
 * We also keep our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists.
-	* [Regional Subcommunities]
+	* [Regional Subcommunities](/community/get-connected/#subcommunity-registry)
         * [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
 	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
 	* [Community sessions](/community/events/)
