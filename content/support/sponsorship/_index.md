@@ -17,7 +17,6 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 |    | **Empowerment** <br> $150,000 <br>Limit: 2 | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
 |----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 | Digital supporter badge     | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Logo on carpentries.org     | 
 | Mention in newsletter       | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
 | Logo on careers page        | Has Feature  | Has Feature  | Has Feature  |              |              |
 | Social media visibility     | Has Feature  | Has Feature  |              |              |              |
@@ -39,16 +38,6 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 {.badges}
 
 The Carpentries provides a digital icon that can be displayed on the sponsor’s website and social media accounts as a way to show support for The Carpentries community.
-
-### Logo on carpentries.org
-
-- EMPOWERMENT
-- CHAMPION
-- SUPPORTER
-- CONTRIBUTOR
-{.badges}
-
-Logo linked to sponsor designated URL, posted on The Carpentries Sponsorship page. Sponsors listed in order of package level.
 
 ### Mention in The Carpentries Newsletter
 
