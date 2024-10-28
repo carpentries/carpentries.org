@@ -10,7 +10,7 @@ You can get involved with The Carpentries by volunteering in one of our [communi
 
 * We also keep our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists.
 	* [Regional Subcommunities](/community/get-connected/#subcommunity-registry)
-        * [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
+	* [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
 	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
 	* [Community sessions](/community/events/)
 	* [Mailing lists](https://carpentries.topicbox.com/latest)
