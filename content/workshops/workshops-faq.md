@@ -67,7 +67,7 @@ Please visit our [pricing page](/support/pricing) for more information.
 
 {{< accordion title="Do Instructors pay for travel?" >}}
 
-Our Instructors are volunteers and are not paid for their time teaching. Therefore, we ask the host to cover travel and accommodation costs for Instructors assigned to teach at your institution. We work to find local Instructors but suggest that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the Instructors. **Note travel and accommodation costs might vary globally.**
+Our Instructors are volunteers and are not paid for their time teaching. Therefore, we ask the host to cover travel and accommodation costs for Instructors assigned to teach at your institution. We work to find local Instructors but suggest that you estimate about $3000 total ($1500 per Instructor) for the travel, food, and accommodation of the Instructors. **Note travel and accommodation costs might vary globally.**
 
 The details of how you will manage the Instructors’ travel is discussed once the Instructors are confirmed and introduced to the host. *The Carpentries is not involved in this process.*
 {{< /accordion >}}
