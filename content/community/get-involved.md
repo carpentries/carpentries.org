@@ -6,100 +6,14 @@ widgets:
 - newsletter
 ---
 
+You can get involved with The Carpentries by volunteering in one of our [community roles](https://carp-new-website.netlify.app/community/). To find out more about the duties and benefits of volunteering in these roles, as well as how to be onboarded onto and offboarded from these roles, please visit our [Handbook](https://carpentries-beta-handbook-preview.netlify.app/)
 
-The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, and research software development through building local and global communities of practice.
-
-Our work is made possible by our amazing volunteer Instructors, Trainers, Mentors, Maintainers, curriculum advisors, helpers, workshop hosts, organisers and member organisations.
-
-## You can get involved in: 
-
-* Maintaining global communities of practice:
-    * [Instructors](#instructors) - those who teach Carpentries workshops 
-	* [Governance](#governance) - community members that constitute the governance and policy arm of The Carpentries
-	* [Trainers](#trainers) - those who prepare our new Instructors
-	* [Lesson developers](#lesson-developers) - those who create new lessons
-	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
-	* [Lesson maintainers](#maintainers) - those who support existing lessons
-	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
-
-* Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
+* We also keep our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists.
+	* [Regional Subcommunities](/community/get-connected/#subcommunity-registry)
 	* [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
 	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
 	* [Community sessions](/community/events/)
 	* [Mailing lists](https://carpentries.topicbox.com/latest)
-
-
-
-### Instructors
-The Carpentries Instructors are the core of our community. Instructors organise and teach Carpentries workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to levelling up your own technical skills and helps you to become a more effective technical communicator.
-
-* [Instructor training curriculum]({{< param instructor_training_curriculum >}})
-* [Update]({{< param amy_base >}}) your instructor profile
-* [Contact](mailto:{{< param instructor_training_email >}})
-
-### Governance
-The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](#) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
-
-More information about our governance and current members is available on [the Governance page](/about-us/governance/).
-
-### Trainers
-The Trainer community is a group of experienced Instructors, local champions, and education specialists who inspire and prepare new Instructors. They work as a team to maintain and teach the [instructor training curriculum]({{< param instructor_training_curriculum >}}). They also host teaching demonstration sessions to provide vital feedback as prospective Carpentries Instructors prepare to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
-
-* [Trainer Training materials](https://carpentries.github.io/trainer-training/)
-* [Duties](#)
-* [Current members](https://github.com/carpentries/trainers/blob/main/README.md#current-members)
-* [Meeting minutes](https://github.com/carpentries/trainers/tree/main/minutes)
-* [Contact](mailto:{{< param instructor_training_email >}})
-
-Private resources for current Trainers:
-* [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
-* [Mailing list](#) *This list is private to Trainers*
-* [Slack](#) *This Slack channel is private to Trainers*
-
-
-### Maintainers
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub. Upcoming rounds of Maintainer Onboarding will be announced on our [newsletter](/newsletter) and [blog](/blog/).
-
-* [Training materials](https://carpentries.github.io/maintainer-onboarding/)
-* [Maintainer guidelines](#)
-* [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
-* [Mailing list](#)
-* [Slack](#)
-* [Contact](mailto:{{< param curriculum_email >}})
-
-
-### Curriculum Advisors
-Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
-including which tools will be taught and which dataset(s) will be used for the lessons.
-They bring domain-specific expertise to lesson development and help ensure that
-lessons stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
-network with other domain experts in The Carpentries community. We are not currently seeking new members to the Curriculum Advisory Committees.
-
-* [Curriculum Advisory Committee Members](/community/curriculum_advisors/)
-* [Curriculum Advisory Committee (CAC) Duties](#)
-
-
-### Lesson Developers
-
-The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.
-
-[The Carpentries Incubator]({{< param incubator_link >}}) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
-
-[The Carpentries Lab]({{< param lab_link >}}) is for sharing peer-reviewed lessons, vetted by The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
-
-Those looking for ways to contribute to existing lesson material can find
-a list of issues in need of attention on the [Help Wanted page](#).
-
-### Code of Conduct Committee
-
-The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all.
-
-* [The Carpentries Code of Conduct](#)
-* [The Code of Conduct Committee](/community/coc_ctte/)
-* [Apply to join](https://goo.gl/forms/9NMhirB5wXGZ2FUc2)
-* Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
-* Mailing list: This mailing list is confidential.
-* For more information contact [Karin Lagesen](mailto:karin.lagesen@gmail.com).
 
 ### Regional Subcommunities
 
@@ -109,7 +23,7 @@ For a full listing of Carpentries subcommunities, please visit our [subcommunity
 
 The Carpentries hosts [CarpentryCon](http://www.carpentrycon.org/), a community-organised meeting for our global community.
 * [CarpentryCon 2018](https://2018.carpentrycon.org/) was held from 30 May to 1 June 2018 in Dublin, Ireland.
-* [CarpentryCon 2020](https://2020.carpentrycon.org) was held between July and August 2020 as a seven week online event.
+* [CarpentryCon 2020](https://2020.carpentrycon.org) was held between July and August 2020 as a seven-week online event.
 * [CarpentryCon 2022](https://2022.carpentrycon.org/) was held 1-12 August 2022 as an online event.
 
 If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](#).
