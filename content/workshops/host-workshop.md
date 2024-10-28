@@ -26,11 +26,11 @@ Once confirmed, WIT will introduce you to your team of Instructors who will work
 
 Centrally-Organised workshops must teach a lesson program’s core curriculum and can not be mixed with components from another lesson program’s curricula. Below, you will find the workshop requirements for each lesson program:
 
-* A [Library Carpentry](https://lc-new-website.netlify.app/) workshop should include any three lessons from the Library Carpentry curriculum  
+* A [Library Carpentry]({{< param lc-website >}}) workshop should include any three lessons from the Library Carpentry curriculum  
 
-* A [Software Carpentry](https://swc-new-website.netlify.app/) workshop should include The Unix Shell, Version Control with Git, and a programming language (R or Python)  
+* A [Software Carpentry]({{< param swc-website >}}) workshop should include The Unix Shell, Version Control with Git, and a programming language (R or Python)  
 
-* A [Data Carpentry](https://dc-new-website.netlify.app/) workshop will vary based on its specific curriculum. It should generally include a lesson on one programming language (either R or Python) where applicable, as well as all other lessons outlined in the curriculum.  
+* A [Data Carpentry]({{< param dc-website >}}) workshop will vary based on its specific curriculum. It should generally include a lesson on one programming language (either R or Python) where applicable, as well as all other lessons outlined in the curriculum.  
 
 [Curricula overview](/lessons/curriculum-summary)
 {.button}
