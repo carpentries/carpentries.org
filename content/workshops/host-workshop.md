@@ -15,9 +15,6 @@ A Self-Organised workshop is a Carpentries workshop where the registration, recr
 * Learner surveys help you, your Instructors, and the Core Team better understand the [impact of Carpentries workshops](/about-us/impact/#other-impact-reports). All workshops should utilise the pre and post-workshop surveys that are created automatically on the workshop website.
 * We love to know about Self-Organised workshops! Register your workshop with us to give your Instructors credit, receive the responses to the learner surveys, and help us learn the full [impact of Carpentries workshops](/about-us/impact/#other-impact-reports).
 
-[Request a workshop]({{< param amy_workshop_landing >}})
-{.button}
-
 A Centrally-Organised workshop is an integrative approach to planning a Carpentries event. Collaborate with the Carpentries Workshops and Instruction Team (WIT) to organise your workshop and a member of WIT will do the work to prepare your team for an exceptional workshop experience. Preparation from WIT includes recruitment of certified Instructors, setting up and providing access to Eventbrite for learner registration, arranging a virtual meeting space for online workshops when needed, and a wealth of resources and information to ensure a successful workshop. 
 
 Once confirmed, WIT will introduce you to your team of Instructors who will work with you to create a schedule and get to know your target audience. Instructors assigned to your workshop will also ready a website to supply you and your learners with the information needed to prepare for the workshop. With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
