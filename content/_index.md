@@ -17,7 +17,7 @@ blocks:
   image: /images/hero-background.jpg
   text_color: white
 - layout: stats
-  title: Our diverse and global community is comprised of
+  title: The Carpentries has built a community of
   stats:
     - "**{{< feed_value key=\"instructors\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Instructors"
     - "**{{< feed_value key=\"trainers\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Trainers"
