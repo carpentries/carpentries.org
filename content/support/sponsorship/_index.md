@@ -16,15 +16,15 @@ With support from sponsors, The Carpentries will continue our efforts to make co
 {{< table features >}}
 |    | **Empowerment** <br> $150,000 <br>Limit: 2 | **Champion** <br> $50,000 <br> Limit: 4 | **Supporter** <br> $25,000 | **Contributer** <br> $10,000 | **Advocate** <br> $5,000 |
 |----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
-| Digital supporter badge     | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
-| Mention in newsletter       | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
-| Logo on careers page        | Has Feature  | Has Feature  | Has Feature  |              |              |
-| Social media visibility     | Has Feature  | Has Feature  |              |              |              |
+| Digital supporter badge       | Has Feature  | Has Feature  | Has Feature  | Has Feature  | Has Feature  |
+| Mention in newsletter         | Has Feature  | Has Feature  | Has Feature  | Has Feature  |              |
+| Logo on careers page          | Has Feature  | Has Feature  | Has Feature  |              |              |
+| Social media visibility       | Has Feature  | Has Feature  |              |              |              |
 | CarpentryCon registration, sponsor table, and recognition | Has Feature  | Has Feature  |              |              |              |
-| Logo on blog                | Has Feature  | Has Feature  |              |              |              |
-| Original blog post          | Has Feature  |              |              |              |              |
-| Themed community session    | Has Feature  |              |              |              |              |
-| Carpentries workshop        | Has Feature  |              |              |              |              |
+| Logo on blog                  | Has Feature  | Has Feature  |              |              |              |
+| Original blog post            | Has Feature  |              |              |              |              |
+| Themed community session      | Has Feature  |              |              |              |              |
+| Attend a Carpentries workshop | Has Feature  |              |              |              |              |
 {{</table>}}
 
 
@@ -55,7 +55,7 @@ One item submitted to The Carpentries monthly newsletter, [Carpentries Clippings
 - CHAMPION 
 {.badges}
 
-Logo linked to sponsor’s careers page listed on [The Carpentries jobs page](/about-us/careers/) for one year.
+Logo linked to sponsor’s careers page listed on [The Carpentries careers page](/about-us/careers/) for one year.
 
 ### Social media visibility
 
@@ -99,7 +99,7 @@ One blog post on [The Carpentries blog](/blog).
 
 Opportunity to present at one virtual Community Session with The Carpentries global community. The session will be moderated by a Carpentries Core Team member. Sponsor will give a 20-minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
 
-### Data, Software, or Library Carpentry Workshop
+### Attend a Carpentries workshop
 
 - EMPOWERMENT
 - CHAMPION 
