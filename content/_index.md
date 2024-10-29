@@ -19,10 +19,11 @@ blocks:
 - layout: stats
   title: Our diverse and global community is comprised of
   stats:
-    - More than **3,000** volunteers
-    - About **8,000** learners
-    - More than **150** countries
-    - And a **4th** stat
+    - "**{{< feed_value key=\"instructors\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Instructors"
+    - "**{{< feed_value key=\"trainers\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Trainers"
+    - "**{{< feed_value key=\"workshops\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Workshops"
+    - "**{{< feed_value key=\"workshop countries\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Countries"
+ 
   cta:
     copy: Join our community
     url: '/community/'
