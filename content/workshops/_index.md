@@ -31,7 +31,7 @@ The Carpentries teaches workshops around the world on the foundational skills to
 </table>
 {{< /table >}}
 
-[Host a workshop]({{< param amy_host-workshop_landing >}})
+[Host a workshop](/workshops/host-workshop/)
 {.button}
 
 ## Workshop Curriculum
