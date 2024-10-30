@@ -64,6 +64,10 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 Collaborative Lesson Development Training events are regularly scheduled throughout the year. Send an email to [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}) to register your interest in joining Collaborative Lesson Development Training.
 
+## Request an accommodation 
+
+{{< accessibility >}}
+
 ## Contact Us
 
 Have Questions? Please consult our [Collaborative Lesson Development FAQ](/lesson-development/cldt-faq/) or  contact our team at [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}).
