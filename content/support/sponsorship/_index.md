@@ -97,7 +97,7 @@ One blog post on [The Carpentries blog](/blog).
 - EMPOWERMENT
 {.badges}
 
-Opportunity to present at one virtual Community Session with The Carpentries global community. The session will be moderated by a Carpentries Core Team member. Sponsor will give a 20-minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
+Opportunity to present at one [virtual Community Session](/community/events/) with The Carpentries global community. The session will be moderated by a Carpentries Core Team member. Sponsor will give a 20-minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
 
 ### Attend a Carpentries workshop
 
