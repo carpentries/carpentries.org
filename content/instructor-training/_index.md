@@ -58,6 +58,11 @@ The Carpentries workshops are taught by trained and certified volunteer Instruct
     - Purchase an individual Instructor Training seat. Review [our pricing](/support/pricing#instructor-training-pricing) and  [contact us](mailto:{{< param team_email >}}) to purchase a seat.
 1. Complete Certification Steps: You must complete three short tasks after the training in order to complete certification as a Carpentries Instructor. See our [Checkout Instructions page]({{< param checkout_instructions >}}) for more details.
 
+
+## Request an accommodation 
+
+{{< accessibility >}}
+
 ## Contact Us
 
 Have Questions? Please contact our team at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).

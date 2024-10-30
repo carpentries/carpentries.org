@@ -45,6 +45,10 @@ There are many options for you to choose from! To help you decide which Lesson P
 [View upcoming workshops](/workshops/upcoming-workshops)
 {.button}
 
+## Request an accommodation 
+
+{{< accessibility >}}
+
 ## Contact 
 
 Have Questions? Please consult our [Workshops FAQ](/workshops/workshops-faq) or contact our team at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}).
