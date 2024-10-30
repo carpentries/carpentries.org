@@ -46,7 +46,7 @@ The Carpentries provides a digital icon that can be displayed on the sponsor’s
 - SUPPORTER
 {.badges}
 
-One item submitted to The Carpentries monthly newsletter, [Carpentries Clippings](/newsletter).
+One item submitted to The Carpentries monthly newsletter, *[Carpentries Clippings](/newsletter)*.
 
 
 ### Logo on carpentries.org careers page
