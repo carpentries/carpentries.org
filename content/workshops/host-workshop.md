@@ -32,7 +32,7 @@ Centrally-Organised workshops must teach a lesson program’s core curriculum an
 [Curricula overview](/lessons/curriculum-summary)
 {.button}
 
-## What to know before requesting a Centrally-Organised Workshop
+## Request a Centrally-Organised Workshop
 
 * We offer both in-person and online workshops.
 * In-person workshops are two eight-hour days and online workshops can be broken up over two to four days.
