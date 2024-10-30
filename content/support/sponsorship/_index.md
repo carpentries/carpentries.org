@@ -44,6 +44,7 @@ The Carpentries provides a digital icon that can be displayed on the sponsor’s
 - EMPOWERMENT
 - CHAMPION 
 - SUPPORTER
+- CONTRIBUTOR
 {.badges}
 
 One item submitted to The Carpentries monthly newsletter, *[Carpentries Clippings](/newsletter)*.
@@ -52,7 +53,8 @@ One item submitted to The Carpentries monthly newsletter, *[Carpentries Clipping
 ### Logo on carpentries.org careers page
 
 - EMPOWERMENT
-- CHAMPION 
+- CHAMPION
+- SUPPORTER 
 {.badges}
 
 Logo linked to sponsor’s careers page listed on [The Carpentries careers page](/about-us/careers/) for one year.
@@ -85,7 +87,6 @@ Logo will be placed on [The Carpentries blog](/blog) for one year. The Carpentri
 ### Original Blog Post
 
 - EMPOWERMENT
-- CHAMPION 
 {.badges}
 
 One blog post on [The Carpentries blog](/blog).
@@ -94,15 +95,13 @@ One blog post on [The Carpentries blog](/blog).
 ### Themed Community Session
 
 - EMPOWERMENT
-- CHAMPION 
 {.badges}
 
 Opportunity to present at one virtual Community Session with The Carpentries global community. The session will be moderated by a Carpentries Core Team member. Sponsor will give a 20-minute overview of their mission, vision, and values, and how The Carpentries community can get involved.
 
 ### Attend a Carpentries workshop
 
-- EMPOWERMENT
-- CHAMPION 
+- EMPOWERMENT 
 {.badges}
 
 Attend one Data, Software, or Library Carpentry [workshop](/workshops/) (in-person or virtual where available).
