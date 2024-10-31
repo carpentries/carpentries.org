@@ -19,7 +19,7 @@ A Centrally-Organised workshop is an integrative approach to planning a Carpentr
 
 Once confirmed, WIT will introduce you to your team of Instructors who will work with you to create a schedule and get to know your target audience. Instructors assigned to your workshop will also ready a website to supply you and your learners with the information needed to prepare for the workshop. With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
 
-To learn more about organising a Carpentries workshop, please visit [The Carpentries Handbook](link to the handbook workshop > resources).
+To learn more about organising a Carpentries workshop, please visit [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).
 
 ## Curriculum Requirements for Centrally-Organised Workshops 
 
