@@ -27,7 +27,7 @@ Carpentries Instructor Training provides strategies to teach coding and data wor
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Become A Certified Carpentries Instructor.</b> Teaching skills are in demand! Completing Instructor Training and becoming certified look great on applications for teaching and research-support positions.</td>
+        <td><b>Become A Certified Carpentries Instructor.</b> Teaching skills are in demand! Completing Instructor Training and becoming certified is a great asset on applications for teaching and research-support positions.</td>
     </tr>   
     <tr>
         <td>Has Feature</td>
