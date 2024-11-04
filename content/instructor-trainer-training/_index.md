@@ -35,7 +35,7 @@ Instructor Trainers teach The Carpentries Instructor Training Events. They train
 {{< /table >}}
 
 ## What You'll Learn
-The Carpentries has three official lesson programs, each providing lessons catered to a specific audience or purpose. Our workshops may focus on lessons from one set of curricula or mix-and-match lessons to provide the audience with an experience catered to their needs.
+This training will empower you to guide new Instructors through the training and certification process. You will learn core research-supported practices for teaching, and how those practices apply to The Carpentries Instructor Training. You will also review the Instructor Training curriculum and prepare to lead Instructor Training events and teaching demonstrations.
 
 - Instructor Trainer Training Curriculum Summary.
 - How Learning Works: Seven Research-Based Principles for Teaching.
