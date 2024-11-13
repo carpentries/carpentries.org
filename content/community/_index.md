@@ -24,6 +24,7 @@ The Carpentries is a community of practice composed of regional and role-related
 - [Lesson Maintainers](/community/maintainers) - support existing lessons.
 - [Lesson Developers](/community/lesson-developers) - develop lessons and share teaching materials. 
 - [Instructor Trainers](/community/instructor-trainers) - train and support our new Instructors.
+- [Lesson Program Governors](/community/lesson_program_governors/) - oversee and guide the strategy and health of The Carpentries Lesson Programs
 
 
 ## Contact Us
