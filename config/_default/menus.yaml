@@ -6,13 +6,13 @@ top:
     params:
       active: true
   - name: Data Carpentry
-    url: https://dc-new-website.netlify.app/
+    url: https://datacarpentry.org/
     weight: 20
   - name: Library Carpentry
-    url: https://lc-new-website.netlify.app/
+    url: https://librarycarpentry.org/
     weight: 30
   - name: Software Carpentry
-    url: https://swc-new-website.netlify.app/
+    url: https://software-carpentry.org/
     weight: 40
 # About page tabbed menu
 about:
@@ -175,7 +175,7 @@ main:
   weight: 20
 - identifier: handbook
   name: Handbook
-  url: "https://carpentries-beta-handbook-preview.netlify.app/"
+  url: "https://docs.carpentries.org"
   parent: volunteer
   weight: 30
 - identifier: amy

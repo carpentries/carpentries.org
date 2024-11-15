@@ -80,9 +80,9 @@ workbench_link: https://carpentries.github.io/workbench/
 
 # Lesson programs
 #############################################
-dc-website: https://dc-new-website.netlify.app/
-lc-website:  https://lc-new-website.netlify.app/
-swc-website: https://swc-new-website.netlify.app/
+dc-website: https://datacarpentry.org
+lc-website:  https://librarycarpentry.org/
+swc-website: https://software-carpentry.org/
 
 
 # Other sites
