@@ -8,11 +8,11 @@ top:
   - name: Data Carpentry
     url: https://dc-new-website.netlify.app/
     weight: 20
-  - name: Software Carpentry
-    url: https://swc-new-website.netlify.app/
-    weight: 30
   - name: Library Carpentry
     url: https://lc-new-website.netlify.app/
+    weight: 30
+  - name: Software Carpentry
+    url: https://swc-new-website.netlify.app/
     weight: 40
 # About page tabbed menu
 about:
