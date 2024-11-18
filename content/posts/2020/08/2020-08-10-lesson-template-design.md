@@ -18,7 +18,7 @@ The next iteration of the lesson template needs to be accessible, inclusive, and
 
 ### Anatomy of a lesson workflow
 
-![Drawing of the components that lead to rendered lesson. A rendered lesson is the output by a rendering tool of a lesson template and the lesson content]({{ site.urlimg }}/blog/2020/08/2020-08-10-lesson-components.svg)
+![Drawing of the components that lead to rendered lesson. A rendered lesson is the output by a rendering tool of a lesson template and the lesson content](/blog/2020/08/2020-08-10-lesson-components.svg)
 
 Our lesson template workflow consists of four main parts: the rendered lesson, lesson content, styling elements, and rendering tool. All of these components are open source and accept contributions from all members of our community. Since we will be using these terms thoroughout the blog post, we should define them here (arranged in order of visiblity to a learner):  
 

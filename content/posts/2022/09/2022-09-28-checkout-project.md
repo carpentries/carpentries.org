@@ -70,15 +70,15 @@ We are providing three options for sharing your thoughts asynchronously. This wi
 You may: 
 1. Complete a [Google Form](https://forms.gle/gn1VcgAMzJLc8s6o7) which will allow you to provide private (and optionally anonymous) feedback;
 
-![A screenshot of the Google Form titled "Share Your Thoughts About Instructor Training Checkout"]({{ site.urlimg }}/blog/2022/09/checkout_google_form.png)
+![A screenshot of the Google Form titled "Share Your Thoughts About Instructor Training Checkout"](/blog/2022/09/checkout_google_form.png)
 
 2. Participate in the discussion on [Github](https://github.com/carpentries/instructor-training/discussions/categories/checkout-feedback); or
 
-![A screenshot of the Github Discussion Page]({{ site.urlimg }}/blog/2022/09/checkout_github.png)
+![A screenshot of the Github Discussion Page](/blog/2022/09/checkout_github.png)
 
 3. Add a quick comment or vote up someone else’s comment anonymously on [EasyRetro Board](https://easyretro.io/publicboard/MP5Xtbn640aN3P8Y6D9IzIDTn3B2/d71345b4-5a78-4b2e-b55d-cd4048123c12) 
 
-![A screenshot of the EasyRetro board]({{ site.urlimg }}/blog/2022/09/checkout_easyretro.png)
+![A screenshot of the EasyRetro board](/blog/2022/09/checkout_easyretro.png)
 
 ### 4. Stay tuned for updates! 
 After we complete our initial consultations, we will be synthesising all of your feedback and writing a "What We Learned" report. We will also propose some recommended changes to the Checkout process! We will want to hear what you think of the recommendations before we ask Trainers Leadership to make any final decisions. 

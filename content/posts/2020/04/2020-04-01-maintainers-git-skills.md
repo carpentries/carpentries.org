@@ -66,7 +66,7 @@ so as a maintainer you need to be careful about potential lost attribution.
 Since 2016, GitHub has defaulted an option for
 [PRs to be edited by maintainers](https://github.blog/2016-09-07-improving-collaboration-with-forks/).
 
-![]({{ site.urlimg }}/blog/2020/04/github-allow_edit_maintainers.png)
+![](/blog/2020/04/github-allow_edit_maintainers.png)
 
 If you are thinking about being a maintainer,
 or curently a maintainer wondering how some of the more complex Git tasks are done,
@@ -257,7 +257,7 @@ To github.com:angela-li/2020-02-26-git_collaboration.git
 
 Now when we got back to the main repository, the new commit for the PR is there.
 
-![]({{ site.urlimg }}/blog/2020/04/github-corrected_pr.png)
+![](/blog/2020/04/github-corrected_pr.png)
 
 ### Merge!
 

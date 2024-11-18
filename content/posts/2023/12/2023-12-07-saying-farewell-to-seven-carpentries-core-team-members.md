@@ -38,6 +38,6 @@ Thank you for your understanding, compassion, and unwavering support. As we bid 
 
 With gratitude and hope,
 
-![Kari L Jordan signature]({{ site.urlimg }}/blog/2023/12/2023-12-07-kari-signature.png)
+![Kari L Jordan signature](/blog/2023/12/2023-12-07-kari-signature.png)
 
 Dr. Kari L. Jordan, Executive Director

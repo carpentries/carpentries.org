@@ -17,7 +17,7 @@ In our first testimonial contribution below, Executive Council member Jannetta S
 ----------------
 
 {:.right-wrap}
-![Image of Jannetta Steyn sitting at their desk and looking directly at the camera]({{ site.urlimg }}/blog/2023/07/2023-07-27-jannetta-steyn-photo.jpg)
+![Image of Jannetta Steyn sitting at their desk and looking directly at the camera](/blog/2023/07/2023-07-27-jannetta-steyn-photo.jpg)
 
 *Image Credit: Jannetta Steyn*
 

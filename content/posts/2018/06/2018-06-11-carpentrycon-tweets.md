@@ -29,7 +29,7 @@ If you have other ideas to analyse the tweets, leave them in the comments!
 
 ## Tweets timeline
 
-![plot of chunk timeline]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-timeline-1.png)
+![plot of chunk timeline](/blog/2018/06/2018-06-11-carpentrycon-tweets-timeline-1.png)
 
 
 ## The 5 most favorited tweets
@@ -83,11 +83,11 @@ If you have other ideas to analyse the tweets, leave them in the comments!
 
 All generated tweets (including retweets)
 
-![plot of chunk top-users-all]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-top-users-all-1.png)
+![plot of chunk top-users-all](/blog/2018/06/2018-06-11-carpentrycon-tweets-top-users-all-1.png)
 
 Only for original tweets (retweets excluded)
 
-![plot of chunk top-users-orig]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-top-users-orig-1.png)
+![plot of chunk top-users-orig](/blog/2018/06/2018-06-11-carpentrycon-tweets-top-users-orig-1.png)
 
 
 ## Most favourited/retweeted users
@@ -97,42 +97,42 @@ retweets.
 
 ### Number of favourites received by users
 
-![plot of chunk unnamed-chunk-1]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](/blog/2018/06/2018-06-11-carpentrycon-tweets-unnamed-chunk-1-1.png)
 
 ### Number of retweets received by users
 
-![plot of chunk most-rt-received]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-most-rt-received-1.png)
+![plot of chunk most-rt-received](/blog/2018/06/2018-06-11-carpentrycon-tweets-most-rt-received-1.png)
 
 ### Mean numbers of favourites received
 
-![plot of chunk mean-fav-received]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-mean-fav-received-1.png)
+![plot of chunk mean-fav-received](/blog/2018/06/2018-06-11-carpentrycon-tweets-mean-fav-received-1.png)
 
 ### Mean numbers of retweets received
 
-![plot of chunk mean-rt-received]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-mean-rt-received-1.png)
+![plot of chunk mean-rt-received](/blog/2018/06/2018-06-11-carpentrycon-tweets-mean-rt-received-1.png)
 
 ## Word cloud
 
 The top 100 words among the original tweets.
 
-![plot of chunk word-cloud]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-word-cloud-1.png)
+![plot of chunk word-cloud](/blog/2018/06/2018-06-11-carpentrycon-tweets-word-cloud-1.png)
 
 ## Most used emojis
 
 
 
 
-![plot of chunk emoji]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-emoji-1.png)
+![plot of chunk emoji](/blog/2018/06/2018-06-11-carpentrycon-tweets-emoji-1.png)
 
 
 ## Most commonly associated words
 
 
-![plot of chunk word-pairs]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-word-pairs-1.png)
+![plot of chunk word-pairs](/blog/2018/06/2018-06-11-carpentrycon-tweets-word-pairs-1.png)
 
 ## Sentiment analysis
 
 
-![plot of chunk sentiment]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-sentiment-1.png)
+![plot of chunk sentiment](/blog/2018/06/2018-06-11-carpentrycon-tweets-sentiment-1.png)
 
 

@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Instructor Development", "Instructor Trainers"]
 ---
 
-![]({{ site.urlimg }}/blog/2019/09/apple1.jpg)
+![](/blog/2019/09/apple1.jpg)
 *An example of hardware carpentry, lol ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_I_Computer.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))*
 
 ## Carving New Coders

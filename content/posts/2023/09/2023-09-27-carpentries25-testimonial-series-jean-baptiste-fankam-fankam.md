@@ -17,7 +17,7 @@ In our fourth testimonial contribution to this series, Carpentries Instructor an
 -----------------------
 
 {:.left-wrap}
-![Image of Jean Baptiste Fankam Fankam standing at the entrance of the Humphrey Raikes Building, and he is dressed in a lab coat and lab eye glasses.]({{ site.urlimg }}/blog/2023/09/2023-09-27-jean-baptiste-fankam-fankam.png)
+![Image of Jean Baptiste Fankam Fankam standing at the entrance of the Humphrey Raikes Building, and he is dressed in a lab coat and lab eye glasses.](/blog/2023/09/2023-09-27-jean-baptiste-fankam-fankam.png)
 
 *Image Credit: Supplied by Jean Baptiste Fankam Fankam*
 

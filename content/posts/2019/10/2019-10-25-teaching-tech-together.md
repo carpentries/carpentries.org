@@ -107,7 +107,7 @@ and I hope we can teach together some day.
 
 <div align="center">
   <p>
-    <img src="{{ site.urlimg }}/blog/2019/10/teaching-tech-together.png" alt="Teaching Tech Together"/>
+    <img src="/blog/2019/10/teaching-tech-together.png" alt="Teaching Tech Together"/>
   </p>
   <p>
     <em>

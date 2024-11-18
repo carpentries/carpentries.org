@@ -14,7 +14,7 @@ The African Instructors Community is made up of individuals who volunteer their 
 
 The community, in its current form, had their inaugural meetup on 22 February 2017, hosted by Anelda van der Walt from [Talarify](https://www.talarify.co.za/Home/). Since then, a total of 66 [instructors](https://carpentries.org/blog/2019/04/ukzn-ttt/) have been trained in African countries such as Benin, Botswana, the Democratic Republic of Congo, Egypt, Ethiopia, Kenya, Mauritius, Nigeria, South Africa, Sudan, Tunisia and Uganda. 
 
-![]({{ site.urlimg }}/blog/2019/12/carpentries-workshops-in-africa.png)
+![](/blog/2019/12/carpentries-workshops-in-africa.png)
 _Photo credits: Bianca Petersen and Mamsi Khantsi_
 
 Workshops were held across the continent ranging from the [International Centre of Insect Physiology and Ecology](http://www.icipe.org/) in Nairobi, Kenya, to the [Somali Research and Education Network](https://somaliren.org/) in Mogadishu, Somali as well as [SADiLaR](https://www.sadilar.org/index.php/en/), North-West University, South Africa. During 2018, the first ever South African [CarpentryConnect](https://carpentryconnectza.org/) was hosted in Johannesburg and brought together novice and more practiced community members to boost expertise around digital and computational literacy at tertiary institutions. Photo credits: Bianca Petersen and Mamsi Khantsi.
@@ -23,7 +23,7 @@ Workshops were held across the continent ranging from the [International Centre 
 
 As we face the end of this decade and embrace the beginning of the next, in true Carpentries fashion, the Carpentries instructors in Africa would like to celebrate 2019 with sharing our #greenstickies:
  
-![]({{ site.urlimg }}/blog/2019/12/africa-instructors-stickies.png)
+![](/blog/2019/12/africa-instructors-stickies.png)
 
 Some of the green stickies shared in workshops in different cities across the continent are shared below, verbatim:
 

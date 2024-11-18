@@ -17,7 +17,7 @@ you'll probably recognize me more by my flat cap (which I don't intend
 to replace) than my face.
 
 ![A headshot of Nathaniel Porter in a grey cap and red shirt on the
-Virginia Tech campus]({{ site.urlimg }}/blog/2023/11/2023-11-10-nathaniel-porter-headshot-small.png) 
+Virginia Tech campus](/blog/2023/11/2023-11-10-nathaniel-porter-headshot-small.png) 
 
 I can't claim to be building the community; our past leads Vini, Daniel,
 and Angela have done a fantastic job already, with a little help from

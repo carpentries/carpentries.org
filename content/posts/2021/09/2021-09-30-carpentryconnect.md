@@ -8,13 +8,13 @@ time: "09:00:00"
 tags: ["Africa", "Community", "CarpentryConnect"]
 ---
 
-![CarpentryConnect South Africa 2021]({{ site.urlimg }}/blog/2021/09/ZA.png) 
+![CarpentryConnect South Africa 2021](/blog/2021/09/ZA.png) 
 
 The first virtual [CarpentryConnect South Africa 2021](https://za2021.carpentryconnect.org/) took place from 6 to 17 September 2021. The event included 2 Carpentries workshops, 1 Carpentries instructor training event, 2 networking events, 1 learning session and 1 opening address. The main goal of CarpentryConnect South Africa 2021 was to build capacity 
 for workshops through instructor training and bring together newer and more experienced community members to share knowledge, network, develop new skills, and develop strategies 
 for building strong local communities around digital and computational literacy in Africa. The virtual event was attended by more than 120 attendees and volunteers (i.e. trainers, instructors and helpers) from 28 countries worldwide, including 16 countries in Africa. An estimated 300GB of mobile data was provided to 71 attendees over 19 African network providers. 
 
-![Map of attendees]({{ site.urlimg }}/blog/2021/09/CCZAplot.png) 
+![Map of attendees](/blog/2021/09/CCZAplot.png) 
 
 
 The [Opening address](https://docs.google.com/presentation/d/16Qc74WzFaSBM_09-3IEUKE-xSe4mCbUM-SsUPA8-bxo/edit#slide=id.ged24d0629d_0_135) was delivered by our Executive Director, Dr. Kari, L. Jordan. The message echoed The Carpentries ongoing commitment to capacitating scholars in foundational data sciences skills and programming in Africa. During [this session] (https://pad.carpentries.org/CCZA_Keynote), community members shared the challenges and opportunities faced being Carpentries community members. 

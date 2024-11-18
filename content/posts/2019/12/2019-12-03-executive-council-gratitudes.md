@@ -20,10 +20,10 @@ This year the Executive Council has achieved [some significant milestones with T
 
 In addition to  decision making, taking part in regular discussions, sitting in for meetings and attending to GitHub issues, serving on the Executive Council is an opportunity to connect people from different places and communities and create community. The [Executive Council in-person meeting](https://carpentries.org/blog/2019/11/ec-meeting-2019/) ice breaker this year had people organise themselves in order of their birthdays and without consultation for hints. There was the usual type of spread, but with 9 people, two actually had their birthday on the same day! Of course we had to pause and reflect on the birthday fallacy and calculate the statistics, so even an intro ice breaker brought together their love of data, analysis and community. 
 
-![The Executive Council and Tracy teal. Not in the picture: Mesfin Diro]({{ site.urlimg }}/blog/2019/12/executive-council-2019.png)
+![The Executive Council and Tracy teal. Not in the picture: Mesfin Diro](/blog/2019/12/executive-council-2019.png)
 <br/>_The Executive Council and Tracy Teal. Not in the picture: Mesfin Diro_
 
-![Mesfin Diro]({{ site.urlimg }}/blog/2019/12/mesfin_diro.png)
+![Mesfin Diro](/blog/2019/12/mesfin_diro.png)
 <br/>_Mesfin Diro (photo credit [Peter van Heusden](https://twitter.com/pvanheus/status/1200857024369692672?s=20))_
 
 

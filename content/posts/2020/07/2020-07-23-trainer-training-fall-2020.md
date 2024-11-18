@@ -11,7 +11,7 @@ tags: ["Instructor Development", "Instructor Trainers"]
 We are pleased to announce that our second and final round of applications is now open for anyone wishing to become a [Carpentries Instructor Trainer](https://carpentries.org/trainers/) in 2020!
 
 
-![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.]({{ site.urlimg }}/blog/2020/07/instructor-training-program.png)
+![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.](/blog/2020/07/instructor-training-program.png)
 <br/>_A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners._
 
 Instructor Trainer Training is the process by which we on-board new Instructor Trainers. Instructor Trainers teach Instructor Training workshops to bring on new Instructors, and Instructors teach Carpentries workshops (Data Carpentry, Library Carpentry, and Software Carpentry) to learners worldwide.

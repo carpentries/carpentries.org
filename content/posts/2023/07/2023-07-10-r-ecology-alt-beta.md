@@ -26,7 +26,7 @@ The redesigned lesson teaches the same fundamental skills in data handling, anal
 as the current Data Carpentry lesson,
 but the narrative structure and key packages used are notably different.
 
-![Overview of the redesigned lesson content]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
+![Overview of the redesigned lesson content](/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
 
 After orienting learners to R and RStudio 
 and motivating them to adopt a scripting approach to data analysis,
@@ -38,7 +38,7 @@ the ingredients - the fundamentals of loading data and working with data frame o
 and the instructions - using packages from the _tidyverse_ to filter, process, summarise, and otherwise manipulate data for analysis and visualise -
 of the recipe.
 
-![Screenshot of the 'Changing Labels' section of the redesigned version of the Data Carpentry R Ecology lesson]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-screenshot.png)
+![Screenshot of the 'Changing Labels' section of the redesigned version of the Data Carpentry R Ecology lesson](/blog/2023/07/2023-07-10-r-ecology-alt-beta-screenshot.png)
 _A screenshot of one section from the second episode of the redesigned lesson._
 
 After initial development was completed, 

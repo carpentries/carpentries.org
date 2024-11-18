@@ -22,7 +22,7 @@ The projects we select for our quarterly cycles are designed to give us time to 
 
 Without further ado, here's what we've been working on in Q2 and Q3!
 
-![Four yellow rubber ducks with The Carpentries logo, in a row. Text underneath image says ‘And give me an emblem, a mascot of light heartedness, a symbol of the ritual of baptism by water, something that floats, moves with the tide, and cheers me when I become too serious, about all these other things.’]({{ site.urlimg }}/blog/2019/09/ducks-in-a-row.png)
+![Four yellow rubber ducks with The Carpentries logo, in a row. Text underneath image says ‘And give me an emblem, a mascot of light heartedness, a symbol of the ritual of baptism by water, something that floats, moves with the tide, and cheers me when I become too serious, about all these other things.’](/blog/2019/09/ducks-in-a-row.png)
 _Above: Four yellow rubber ducks with The Carpentries logo, in a row. Text underneath image is an excerpt from [a poem about The Carpentries](https://twitter.com/serahrono/status/1144326225227407360). The excerpt reads: ‘And give me an emblem, a mascot of light heartedness, a symbol of the ritual of baptism by water, something that floats, moves with the tide, and cheers me when I become (too serious, about all these other things).’_
 
 ## Business Team

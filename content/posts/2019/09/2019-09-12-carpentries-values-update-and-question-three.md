@@ -20,11 +20,11 @@ So far, we have received an average of one response a day to the first two quest
 
 ### Question 1
 
-![]({{ site.urlimg }}/blog/2019/09/values-project-q1-responses.png)
+![](/blog/2019/09/values-project-q1-responses.png)
 
 _bar chart above and word cloud below summarising responses to question 1 of [The Carpentries Values project](https://carpentries.topicbox.com/groups/discuss/T9029fc4692993ab1/input-needed-help-us-articulate-the-carpentries-values)_
 
-![]({{ site.urlimg }}/blog/2019/09/values-project-word-cloud.png)
+![](/blog/2019/09/values-project-word-cloud.png)
 
 ### Question 2
 

@@ -48,7 +48,7 @@ Let's keep moving forward, together.
 
 Warm regards,
 
-![Kari L Jordan signature]({{ site.urlimg }}/blog/2023/12/2023-12-07-kari-signature.png)
+![Kari L Jordan signature](/blog/2023/12/2023-12-07-kari-signature.png)
 
 Kari L. Jordan \
 Executive Director, The Carpentries

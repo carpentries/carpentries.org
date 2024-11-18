@@ -29,7 +29,7 @@ and the [guideline for cloud instances](https://carpentries.org/blog/2020/04/sca
 - Organised interruption by co-instructors periodically to notify the lead instructor about hands raised or red/green stickies in the chat, and
 - Technical coordinator (certified Carpentries Instructor) running the Zoom room. Use of a tablet allowed the technical instructor to have a 'learner' view.
 
-![Multi-screen setup by the technical coordinator at the SADiLaR workshop]({{ site.urlimg }}/blog/2020/05/south-african-online-workshop.png)
+![Multi-screen setup by the technical coordinator at the SADiLaR workshop](/blog/2020/05/south-african-online-workshop.png)
 _Multi-screen setup by the technical coordinator at the SADiLaR workshop. Most participants in a workshop use one screen only._
 
 ## Sticky feedback

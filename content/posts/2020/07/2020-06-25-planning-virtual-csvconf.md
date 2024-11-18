@@ -49,7 +49,7 @@ People have asked us about our experience moving from a planned in person event 
 <br/><br/>
 The decision to take the conference online was not an easy one. Until quite late on, the question csvconf organizers kept asking each other was not “how will we run the conference virtually?” but <strong>‘will we need to cancel?’</strong>. As the pandemic intensified, this decision was taken out of our hands and it became quickly clear that cancelling our event in Washington DC was not <strong>only</strong> the responsible thing to do, but the only thing we could do. 
 
-<img class="image" src="{{ site.urlimg }}/blog/2020/07/going-online/commallama.png">
+<img class="image" src="/blog/2020/07/going-online/commallama.png">
 <i> csvconf's <a href="#commallama">#CommaLlama</a>
  
 </p>   
@@ -80,7 +80,7 @@ But what we found was that hard work, lots of planning and support of the commun
 
 There were a great many reasons to embrace a virtual conference. Once we made the decision and started to plan, this became ever clearer. Not least was the fact that an online conference would give many more people the opportunity to attend. We work hard every year to reduce the barriers to attendance where possible, and we’re grateful to our supporters here, but our ability to support conference speakers is limited, and it is also probably the biggest cost from year to year. We are conscious that barriers to entry still apply to a virtual conference, but they are different, and it is clear that for csv,conf,v5 more people who wanted to join could be part of it. Csv,conf is normally attended by around 250 people. The in-person conferences usually fill up, with just a few attendees under capacity. It feels the right size for our community. But this year we had over 1,000 registrations. More new people could attend, and there were also more returning faces. <br/>
 
-<img class="image" src="{{ site.urlimg }}/blog/2020/07/going-online/csvconfv5-attendees.png"> 
+<img class="image" src="/blog/2020/07/going-online/csvconfv5-attendees.png"> 
 <br><i>Map above shows attendees from around the world during csv,conf,v5's opening session</i>
 
 </p>
@@ -136,7 +136,7 @@ Though it proved to not be relevant for 2020s virtual event, but it is worth men
 
 Before we could decide on a schedule, we needed to decide on the hours and timezones we would hold the conference. Csvconf is usually a 2-day event with 3 concurrently run sessions, and we eventually decided to have the virtual event remain 2 days, but have one main talk session with limited concurrent talks. Since the in-person conference was supposed to occur in Washington, DC, many of our speakers were people in US timezones, so we focused on timezones that would work best for those speakers. We also wanted to ensure that our conference organizers would be awake during the conference. We started at 10am Eastern, which was very early for West Coast (7am) and late afternoon for non-US attendees (3pm UK; 5pm Eastern Europe; ). We decided on 7 hours of programming, meaning the conference ended in late afternoon for US attendees and late evening for Europe. Unfortunately, these timezones did not work for everyone (notably the Asia-Pacific region), and we recommend that you pick timezones that work for your speakers and your conference organizers whilst stretching things as far as possible if equal accessibility is important to you. We also found it was important to clearly list the conference times in multiple timezones on our schedule so that it was easier for attendees to know what time the talks were happening.<br/>
 
-<a href = "https://www.timeanddate.com/worldclock/meetingtime.html?iso=20200513&p1=224&p2=24&p3=263&p4=4&p5=136&p6=170&p7=242&p8=248&p9=22"><img class="image"  src="{{ site.urlimg }}/blog/2020/07/going-online/timezones.png"> </a>
+<a href = "https://www.timeanddate.com/worldclock/meetingtime.html?iso=20200513&p1=224&p2=24&p3=263&p4=4&p5=136&p6=170&p7=242&p8=248&p9=22"><img class="image"  src="/blog/2020/07/going-online/timezones.png"> </a>
 
 <i>screengrab above shows the start of our deliberation on what time to start and end the conference each day. See <a href="https://www.timeanddate.com/worldclock/meetingtime.html?iso=20200513&p1=224&p2=24&p3=263&p4=4&p5=136&p6=170&p7=242&p8=248&p9=22">our options across timezones</a></i>
 

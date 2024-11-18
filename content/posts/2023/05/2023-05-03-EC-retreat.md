@@ -22,7 +22,7 @@ Additionally, a succession plan for The Carpentries’ Executive Director was ap
 
 Lastly, the Program Committee reviewed the High-Performance Computing (HPC) Carpentry application for lesson program incubation. This application will be discussed at the EC’s quarter two meeting in May.
 
-![Members of the EC in person and virtual making The Carpentries logo with their arms.]({{ site.urlimg }}/blog/2023/05/2023ECretreatphoto1.jpg) _The Executive Council at the 2023 hybrid retreat_
+![Members of the EC in person and virtual making The Carpentries logo with their arms.](/blog/2023/05/2023ECretreatphoto1.jpg) _The Executive Council at the 2023 hybrid retreat_
 
 ## Growth and strength of our governance
 
@@ -30,7 +30,7 @@ Continuing with our work on serving a global community, we held a collaborative 
 
 Once again, this time of working together allowed us to strengthen ties and get to know each other beyond our role as members of the EC. For example, team-building activities, including virtual scavenger hunts and mindfulness journaling, and the meeting dynamics allowed all participants to engage in the activities. Family-style meals supported our team building and ability to get to know one another.
 
-![Executive Council member viewing an open laptop with virtual Executive Council members shown on the screen. Next to the laptop sits the Meeting Owl]({{ site.urlimg }}/blog/2023/05/2023ECretreatphoto2.jpg) _Executive Council members participating in the hybrid retreat using a Meeting Owl, a technology tool available to support hybrid events_
+![Executive Council member viewing an open laptop with virtual Executive Council members shown on the screen. Next to the laptop sits the Meeting Owl](/blog/2023/05/2023ECretreatphoto2.jpg) _Executive Council members participating in the hybrid retreat using a Meeting Owl, a technology tool available to support hybrid events_
 
 One EC member reflects, “I appreciate learning so much about The Carpentries overall management culture and how we as an EC do and can support. I am always learning new things about our processes, policies, and the members of our community that drive our mission.”
 

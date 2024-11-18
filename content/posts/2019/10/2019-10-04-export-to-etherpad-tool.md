@@ -30,11 +30,11 @@ The most successful use was in my [Train-the-trainer workshop shared document](h
 
 The tool takes:
 
-![Sample Exercises from the first episode]({{ site.urlimg }}/blog/2019/10/Etherpad-Exporter/before.png)
+![Sample Exercises from the first episode](/blog/2019/10/Etherpad-Exporter/before.png)
 
 and turns it into:
 
-![Sample Exercises from the first episode]({{ site.urlimg }}/blog/2019/10/Etherpad-Exporter/after.png)
+![Sample Exercises from the first episode](/blog/2019/10/Etherpad-Exporter/after.png)
 
 ### Python
 
@@ -42,7 +42,7 @@ I also was in a great rush preparing for [Resbaz Sydney](https://resbaz.github.i
 
 
 
-![Screenshot from Python]({{ site.urlimg }}/blog/2019/10/Etherpad-Exporter/python.png)
+![Screenshot from Python](/blog/2019/10/Etherpad-Exporter/python.png)
 
 Students took shared notes and this export to google docs went adequately well. Though the SVG transfer process was problematic and I ran out of time to solve it properly.
 
@@ -50,7 +50,7 @@ Students took shared notes and this export to google docs went adequately well. 
 
 Unfortunately, buoyed by my success with Python, I didn't test the [SQL shared document](https://docs.google.com/document/d/1wlwZ87CsoyXeN8gKpfxYaD67AvJi3-7WtVo1FZM_1No/edit) well enough and ended up with random blocks of data throughout:
 
-![Screenshot from SQL]({{ site.urlimg }}/blog/2019/10/Etherpad-Exporter/sql.png)
+![Screenshot from SQL](/blog/2019/10/Etherpad-Exporter/sql.png)
 
 While correcting this is important so I can use my tool for my own future workshops, we now have the opportunity to generalise from these examples to fit the needs of the community.
 

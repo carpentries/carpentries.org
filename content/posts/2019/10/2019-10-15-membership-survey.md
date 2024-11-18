@@ -15,7 +15,7 @@ The Member Organisation Council Meetings held June 2019 were full of great conve
 
 The Carpentries was able to share some of the preliminary results of the 2019 Membership Survey at the June Member Organisation Council Meetings, which inspired discussion around what could be added to and improved about Carpentries Membership to better align with the growing and diversifying needs and goals of local communities everywhere. The final results of the survey echo both the preliminary results and Member Organisation Council discussions. The [full report results can be found here](https://carpentries.typeform.com/report/hjtqBI/S6aAYIyLhhrkcIsq). The net promoter score for the Membership Program is currently 8.3, as shown below. It is very exciting that so many organisations find the program at or above average satisfaction, but we can also see there is room for improvement!
 
-![8.3 average rating under the question: How likely are you to recommend The Carpentries Membership Program to a friend or colleague?]({{ site.urlimg }}/blog/2019/10/carpentries-membership-recommendation.png)
+![8.3 average rating under the question: How likely are you to recommend The Carpentries Membership Program to a friend or colleague?](/blog/2019/10/carpentries-membership-recommendation.png)
 _8.3 average rating under the question: How likely are you to recommend The Carpentries Membership Program to a friend or colleague?_
 
 Both Member Organisation Council discussions and these survey results have shown that members are interested in a few key developments:

@@ -15,7 +15,7 @@ Angela: We’re wrapping up the Fall 2019 set of mentoring groups, and I’m so 
 
 One of the people I met in my group was Jessica Trelogan, a data librarian at UT-Austin. As a first-time organiser of a Carpentries workshop at her institution, Jessica was able to bring a valuable perspective to the mentoring group. Both Jessica and I are advocates for the Carpentries at our respective universities (I’m a research staff member at the Center for Spatial Data Science at the University of Chicago) and since the mentoring group, we have both planned and organised on-campus Carpentries workshops. In one of our final mentoring sessions, we had a great discussion about what we as organisers would have liked to know when we got started, and this blog post is the result of that chat. We hope it helps you think through how you can bring a Carpentries workshop to your institution!
 
-![Angela Li, Gladys Andino, and Jessica Trelogan discuss organising Carpentries workshops over a Zoom chat]({{ site.urlimg }}/blog/2019/10/organising-workshops-zoom.png)
+![Angela Li, Gladys Andino, and Jessica Trelogan discuss organising Carpentries workshops over a Zoom chat](/blog/2019/10/organising-workshops-zoom.png)
 _Angela Li, Gladys Andino, and Jessica Trelogan discuss organising Carpentries workshops over a Zoom chat._
 
 
@@ -25,7 +25,7 @@ Angela: For your first workshop, I recommend giving yourself at least **three mo
 
 In terms of setting goals for your first workshop, I found that a target of **25 individuals** attending the workshop was just right. It is enough to fill a regular room, but not so many people that booking space becomes impossible. Additionally, this number is about right for you, a co-instructor, and a few helpers or so to manage. Keep in mind that if you want an 8-to-1 learner-to-helper ratio, you will need both enough individuals enrolled, and enough helpers in the room. Once the class size starts increasing beyond this, it is harder for individuals who need personal attention to receive it. Jessica had 21 individuals in her first workshop, and I had 24. (Also, we were able to sell out the seats within a week — you’ll find on most campuses that the demand for Carpentries workshops far outpaces the number of seats you’re offering).
 
-![Around 25 attendees attend the first R for Social Scientists workshop in April 2019 at the University of Chicago, taught by Angela Li]({{ site.urlimg }}/blog/2019/10/organising-workshops-april-workshop.png)
+![Around 25 attendees attend the first R for Social Scientists workshop in April 2019 at the University of Chicago, taught by Angela Li](/blog/2019/10/organising-workshops-april-workshop.png)
 _Around 25 attendees attend the first R for Social Scientists workshop in April 2019 at the University of Chicago, taught by Angela Li._
 
 
@@ -51,7 +51,7 @@ Angela: One thing that may matter to you, and whoever is sponsoring your worksho
 
 We were then able to take this data and report back to our workshop sponsors who they were reaching… and make those plots in ggplot2!
 
-![Three bar charts of demographic data we collected from our R for Social Scientists workshop. Most of those registered were social sciences graduate students who heard about the workshop on a department mailing list or from their advisor]({{ site.urlimg }}/blog/2019/10/organising-workshops-charts.png)
+![Three bar charts of demographic data we collected from our R for Social Scientists workshop. Most of those registered were social sciences graduate students who heard about the workshop on a department mailing list or from their advisor](/blog/2019/10/organising-workshops-charts.png)
 
 _Above: Three bar charts of demographic data we collected from our R for Social Scientists workshop. Most of those registered were social sciences graduate students who heard about the workshop on a department mailing list or from their advisor._
 

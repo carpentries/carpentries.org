@@ -15,7 +15,7 @@ Back in February 2013, Greg Wilson (co-founder of Software Carpentry) flew out t
 * 130+ qualified instructors
 * 7 member institutions
 
-![Past Software Carpentry workshops in Australia]({{ site.urlimg }}/blog/2019/03/aus_swc_map.png)<br/>
+![Past Software Carpentry workshops in Australia](/blog/2019/03/aus_swc_map.png)<br/>
 *Past Software Carpentry workshops in Australia*
 
 With the recent announcement of an official [Regional Coordinator](https://carpentries.org/blog/2019/03/regionalcoordinators/) for Australia, now is a good time to take stock of how things are travelling. In particular, our workshop statistics suggest that growth has levelled off in recent years (see below).
@@ -33,8 +33,8 @@ To start answering these and other questions, we've scheduled an **Australia Com
 Hope to see you there!
 
 
-![Carpentries workshops per year in Australia]({{ site.urlimg }}/blog/2019/03/aus_workshop_stats.png)
+![Carpentries workshops per year in Australia](/blog/2019/03/aus_workshop_stats.png)
 
-![Carpentries learners per year in Australia]({{ site.urlimg }}/blog/2019/03/aus_learner_stats.png)
+![Carpentries learners per year in Australia](/blog/2019/03/aus_learner_stats.png)
 
-![Carpentries instructors per year in Australia]({{ site.urlimg }}/blog/2019/03/aus_instructor_stats.png)
+![Carpentries instructors per year in Australia](/blog/2019/03/aus_instructor_stats.png)

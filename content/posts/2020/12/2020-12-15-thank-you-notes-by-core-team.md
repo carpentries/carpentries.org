@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Online Workshops", "Instructor Development", "Carpentries Workshops","Maintainers", "Instructor Trainers", "Governance", "Gratitudes"]
 ---
 
-![composite image of Carpentries Core Team as seen on carpentries.org/team]({{ site.urlimg }}/blog/2020/12/core-team.png)
+![composite image of Carpentries Core Team as seen on carpentries.org/team](/blog/2020/12/core-team.png)
 _The image above is a composite of our Core Team's photos - from left to right,_<br>
 _first row : Zhian, Talisha, Sher!, Angelique, Kelly, Karen, Toby_ <br>
 _second row: Serah, Omar, Maneesha, Kari, Erin, François_

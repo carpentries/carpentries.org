@@ -25,7 +25,7 @@ I wish you a joyous New Year filled with _Community Collaboration_ and  _Access 
 
 In service,
 
-![Kari L Jordan signature]({{ site.urlimg }}/blog/2023/12/2023-12-07-kari-signature.png)
+![Kari L Jordan signature](/blog/2023/12/2023-12-07-kari-signature.png)
 
 Kari L. Jordan, PhD   
 Executive Director

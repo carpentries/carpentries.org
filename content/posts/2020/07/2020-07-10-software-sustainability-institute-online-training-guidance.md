@@ -10,7 +10,7 @@ tags: ["Online Workshops"]
 
 *This blog post was originally posted on the [Software Sustainability Institute's website](https://software.ac.uk/news/new-guidance-running-online-training-events) based on lessons learned by SSI members.*
 
-![Photo by Christopher Gower on Unsplash]({{ site.urlimg }}/blog/2020/07/online-training-guidance-image.jpg)<br />
+![Photo by Christopher Gower on Unsplash](/blog/2020/07/online-training-guidance-image.jpg)<br />
 Photo by Christopher Gower on Unsplash
 
 ### Introduction

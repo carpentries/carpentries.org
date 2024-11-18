@@ -20,6 +20,6 @@ Below I have linked to several resources for all of us to educate ourselves, and
 - [As Coronavirus Spreads, So Does Xenophobia and Anti-Asian Racism](https://time.com/5797836/coronavirus-racism-stereotypes-attacks/)   
 
 In hope and solidarity,<br />
-![Kari L. Jordan Signature]({{ site.urlimg }}/blog/2020/07/Kari-Signature.png)
+![Kari L. Jordan Signature](/blog/2020/07/Kari-Signature.png)
 
 ***Please note that opinions and views expressed in the resources linked above are those of the authors and do not necessarily represent those of The Carpentries.***

@@ -10,7 +10,7 @@ tags: ["Philanthropy", "Community"]
 
 > We invite you to join the new Carpentries Philanthropy mailing list if you are interested in learning more about how you can help us be the leading inclusive community teaching data and coding skills. [Sign up here](http://eepurl.com/haP-jr)
 
-![The Carpentries Philanthropy]({{ site.urlimg }}/blog/2020/10/carpentries-philanthropy-badge.png)
+![The Carpentries Philanthropy](/blog/2020/10/carpentries-philanthropy-badge.png)
 _The Carpentries Philanthropy badge_
 
 

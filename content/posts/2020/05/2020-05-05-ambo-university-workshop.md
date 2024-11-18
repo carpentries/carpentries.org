@@ -20,19 +20,19 @@ During the workshop three active instructors -- <sup>[1](#yared)</sup> Mr. Yared
 
 The Carpentries has done a lot of training in Ethiopia ranging from basic workshops on the three focus areas: Data Carpentry, Library Carpentry and Software Carpentry and instructors training for professionals from Sudan, Kenya, Uganda, and Somalia.  
 
-![The Carpentry Instructors Training, Ethiopia 2018]({{ site.urlimg }}/blog/2020/05/2018-instructor-training-ethiopia.png)
+![The Carpentry Instructors Training, Ethiopia 2018](/blog/2020/05/2018-instructor-training-ethiopia.png)
 
 _The Carpentry Instructors Training, Ethiopia 2018_
 
 Throughout the training the support of the following institutions was so huge and impactful. And the contribution of the Carpentries training in our higher education institutions stands tall among other similar training for many reasons. 
 
-![Ambo University Carpentry Workshop Supporters]({{ site.urlimg }}/blog/2020/05/ambo-workshop-supporters.png)
+![Ambo University Carpentry Workshop Supporters](/blog/2020/05/ambo-workshop-supporters.png)
 
 ### Lessons from the Workshop
 
 Before the workshop, we conducted needs assessment and introduced the Carpentries in order to raise awareness of Carpentries training and explain what makes it different from other training. We also distributed pre-workshop and post-workshop surveys to measure the gaps and successes of the workshop.  
 
-![Ambo University Carpentry Workshop @ Main Campus, Ambo]({{ site.urlimg }}/blog/2020/05/ambo-university-data-carpentry.png)
+![Ambo University Carpentry Workshop @ Main Campus, Ambo](/blog/2020/05/ambo-university-data-carpentry.png)
 _Ambo University Carpentry Workshop @ Main Campus, Ambo_
 
 Some of the improvement ideas captured after the workshop were that learners:

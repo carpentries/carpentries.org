@@ -22,7 +22,7 @@ Several proposals are looking for contributors, specific feedback, or session co
 
 ### Sign Up As a Regional Session Host
 
-![Timezone ranges for CarpentryCon @ Home]({{ site.urlimg }}/blog/2020/06/Time-Zones.png)
+![Timezone ranges for CarpentryCon @ Home](/blog/2020/06/Time-Zones.png)
 _Timezone ranges for CarpentryCon @ Home_
 
 Another way to contribute to CarpentryCon @ Home is by becoming a **Regional Session Host**. Because CarpentryCon @ Home sessions will be delivered remotely, we are looking for local community members to help host CarpentryCon @ Home sessions slated to take place at specific times. [Here is a breakdown of timezones we have bundled up](https://github.com/carpentrycon/carpentryconhome-proposals/blob/master/README.md#timezone).

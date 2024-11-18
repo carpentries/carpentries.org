@@ -26,7 +26,7 @@ This year we are asking you, The Carpentries community, to share your accomplish
 
 ## Campaign Rewards
 By donating to The Carpentries at certain donation levels, you will receive a gift card to select and purchase Carpentries branded items featuring designs crafted specifically for this campaign:
-![Image of t shirt with Carpentries design]({{ site.urlimg }}/blog/2021/11/Carpentries-Shirt.png)
+![Image of t shirt with Carpentries design](/blog/2021/11/Carpentries-Shirt.png)
 <br />_Example of design used on a t-shirt_
 
 ## Sponsor The Carpentries on Github

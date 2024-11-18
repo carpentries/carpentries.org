@@ -10,7 +10,7 @@ tags: ["CarpentryConnect", "Events" ]
 
 _This post [was first published](https://software.ac.uk/blog/2019-07-12-highlights-carpentryconnect-manchester-2019) on Software Sustainability Institute's blog._
 
-![CarpentryConnect group photo]({{ site.urlimg }}/blog/2019/07/ccmcr-group-photo.png)
+![CarpentryConnect group photo](/blog/2019/07/ccmcr-group-photo.png)
 <br>_Photo by Mario Antonioletti_
 
 [CarpentryConnect Manchester 2019](https://software.ac.uk/ccmcr19) took place from 25th to 27th June 2019. For the first two days, we were in a fantastic, modern, vibrant meeting venue – [The Studio](http://studiovenues.co.uk/venues/manchester/) – at the very heart of Manchester. On the third day, we moved to the University of Manchester’s School of Computer Science, so attendees had an opportunity to see the Oxford Road/North campus after refurbishment too. We’ll publish a detailed CarpentryConnect Manchester 2019 report, but, in the meantime, here are some highlights from the event. 
@@ -21,7 +21,7 @@ We had 75 participants from nine countries (UK, Belgium, the Netherlands, Norway
 
 The organising committee kicked the conference off the night before with a dinner at Bundobust, Indian street food & craft beer restaurant, with some people who arrived early.
 
-![CarpentryConnect organising committee]({{ site.urlimg }}/blog/2019/07/ccmcr-organising-committee.png)
+![CarpentryConnect organising committee](/blog/2019/07/ccmcr-organising-committee.png)
 <br>_Photo by Aleksandra Nenadic_
  
 
@@ -29,12 +29,12 @@ The organising committee kicked the conference off the night before with a dinne
 
 On the first day, we had two keynote speakers. [Tracy Teal](https://en.wikipedia.org/wiki/Tracy_Teal), the Executive Director of The Carpentries started us off with the [importance of building confidence in people and the importance of our instructors who do that – knowledgeable, enthusiastic and comfortable bunch](https://tinyurl.com/ccmcr-teal). She also presented stats on the Carpentries work – a huge amount of it is taking place around the world, with workshops happening on all seven continents!
 
-![Tracy Teal keynote]({{ site.urlimg }}/blog/2019/07/ccmcr-tracy-teal-keynote.png)
+![Tracy Teal keynote](/blog/2019/07/ccmcr-tracy-teal-keynote.png)
 <br>_Photo by Shoaib Sufi_
  
 [Mine Çetinkaya-Rundel](https://en.wikipedia.org/wiki/Mine_Çetinkaya-Rundel), our second keynote speaker, is a data scientist, an RStudio educator and a recent addition to the School of Mathematics at the University of Edinburgh where she moved from the Department of Statistical Science at Duke University. In her [talk](https://speakerdeck.com/minecr/let-them-eat-cake-first-14c0fcf0-4fe1-4e80-9c41-a7813e842538), Mine spoke about goal-oriented backward design of curricula – showing students the end result first to motivate and give direction. 
 
-![Mine Cetinkaya keynote]({{ site.urlimg }}/blog/2019/07/ccmcr-mine-cetinkaya-keynote.png)
+![Mine Cetinkaya keynote](/blog/2019/07/ccmcr-mine-cetinkaya-keynote.png)
 <br>_Photo by Aleksandra Nenadic_
  
 
@@ -44,12 +44,12 @@ The ice-breaker was followed by a [set of 12 lightning talks](https://software.a
 
 The afternoon walk around Northern Quarter was very popular among the attendees with 22 people joining Niall Beard on a [mural & graffitti trail](https://www.familyadventureproject.org/street-art-manchester-walking-tour/). 
 
-![Afternoon walk group photo]({{ site.urlimg }}/blog/2019/07/ccmcr-afternoon-walk-group-photo.png)
+![Afternoon walk group photo](/blog/2019/07/ccmcr-afternoon-walk-group-photo.png)
 <br>_Photo by Niall Beard_
  
 We got back to The Studio for a BBQ-style dinner, but the Manchester weather did not hold so we were seated inside instead of on the lovely terrace. This did not dampen the spirits as we had a magician to entertain us and an illustrator/doodler [Lauren Beard](http://www.laurenbeard.co.uk/) to draw our avatars. And we had a dog – yes, a dog!
  
-![Attendees cartoon pictures]({{ site.urlimg }}/blog/2019/07/ccmcr-attendees-cartoon-pictures.png)
+![Attendees cartoon pictures](/blog/2019/07/ccmcr-attendees-cartoon-pictures.png)
 <br>_Images by Lauren Beard ©, University of Manchester_
 
 ## Day 2
@@ -60,7 +60,7 @@ In the afternoon, we had parallel sessions on building connections between local
 
 We finished the day with a walking tour of Manchester city centre’s famous buildings sights, led again by Niall Beard, and a dinner at the [Indian Tiffin Room](https://www.indiantiffinroom.com/restaurants/manchester/).
 
-![Walk to dinner place]({{ site.urlimg }}/blog/2019/07/ccmcr-walk-to-dinner.png)
+![Walk to dinner place](/blog/2019/07/ccmcr-walk-to-dinner.png)
 <br>_Photo by Niall Beard_
  
 
@@ -72,15 +72,15 @@ We finished the day with a walking tour of Manchester city centre’s famous bui
 
 We tried to raise awareness and reduce the environmental impact during the conference. Anna Krystalli and Anne Foilloux won the Reusable Lanyards Raffle. Thanks to our attendees who brought reusable cups and bottles, we made a huge impact avoiding disposable and plastic cups.
 
-![Kirstie Whitaker and her reusable cup]({{ site.urlimg }}/blog/2019/07/ccmcr-kirstie-reusable-cup.png)
+![Kirstie Whitaker and her reusable cup](/blog/2019/07/ccmcr-kirstie-reusable-cup.png)
 
-![David Perez Suarez and Sarah El-Gebali]({{ site.urlimg }}/blog/2019/07/ccmcr-david-sarah-reusable-cup.png)
+![David Perez Suarez and Sarah El-Gebali](/blog/2019/07/ccmcr-david-sarah-reusable-cup.png)
 
-![Anna and Silvia with their matching lanyards]({{ site.urlimg }}/blog/2019/07/ccmcr-anna-silvia-reusable-lanyards.png)
+![Anna and Silvia with their matching lanyards](/blog/2019/07/ccmcr-anna-silvia-reusable-lanyards.png)
 
 Big thanks to the organising committee for making this event happen (a few people sadly missing - Fotis Psomopoulos, Michel Heeremans, Ana Costa Conrado, Selina Aragon and Mario Antonioletti taking the picture).
 
-![CarpentryConnect organising committee photo]({{ site.urlimg }}/blog/2019/07/ccmcr-organising-committee-2.png)
+![CarpentryConnect organising committee photo](/blog/2019/07/ccmcr-organising-committee-2.png)
 <br>_Photo by Mario Antonioletti_
  
 

@@ -22,7 +22,7 @@ In addition to [launching and coordinating Collaborative Lesson Development Trai
 the Curriculum Team continues to support community members developing lessons in [The Carpentries Incubator](https://carpentries-incubator.org).
 Most community lesson development takes place independently, making our involvement minimal.
 Still, we continue to [process new lesson proposals](https://github.com/carpentries-incubator/proposals) submitted to the Incubator and respond to questions and requests for support where prompted.
-<img alt="The Carpentries Lab hex sticker design" src="{{ site.urlimg }}/blog/2024/02/carpentries-lab-hex-sticker.png" style='display: inline; float: right; padding: 3%; width: 20%;'>
+<img alt="The Carpentries Lab hex sticker design" src="/blog/2024/02/carpentries-lab-hex-sticker.png" style='display: inline; float: right; padding: 3%; width: 20%;'>
 
 The biggest change to our support for community lesson development comes to [The Carpentries Lab](https://carpentries-lab.org/),
 the platform we created to host peer-reviewed lessons created by the community.

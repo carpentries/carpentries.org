@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="304mm"
+   height="80mm"
+   viewBox="0 0 304 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="dc-r-ecology-alt-overview.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0258526"
+     inkscape:cx="689.77156"
+     inkscape:cy="233.9102"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     height="80mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:9.87777px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+       x="276.79602"
+       y="134.33743"
+       id="text1017"><tspan
+         sodipodi:role="line"
+         id="tspan1015"
+         x="276.79602"
+         y="134.33743"
+         style="stroke-width:0.264583" /></text>
+    <rect
+       style="fill:#e6f4f4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="rect1023"
+       width="69.195351"
+       height="34.093178"
+       x="4.5900469"
+       y="42.666584" />
+    <rect
+       style="fill:#bfe3e3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="rect1023-3"
+       width="75.707375"
+       height="34.093178"
+       x="73.18322"
+       y="42.752316" />
+    <rect
+       style="fill:#98d2d2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="rect1023-3-6"
+       width="79.447205"
+       height="34.093178"
+       x="148.89059"
+       y="42.752316" />
+    <rect
+       style="fill:#6ebfbf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="rect1023-3-9"
+       width="70.970268"
+       height="34.093174"
+       x="228.33778"
+       y="42.752316" />
+    <path
+       id="path835"
+       style="fill:#40aead;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-linejoin:round"
+       d="M 148.77817,44.490868 H 73.183217 L 95.1683,29.242746 73.183222,13.994607 l 75.594958,10e-7 22.29734,15.24814 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path835-2"
+       style="fill:#308787;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-linejoin:round"
+       d="m 227.16614,44.490868 h -79.09305 l 23.00243,-15.24812 -23.00242,-15.248139 79.09304,2e-6 26.77361,15.248139 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path835-2-5"
+       style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-linejoin:round"
+       d="m 299.27394,44.490874 h -71.8153 l 19.26249,-15.248126 -19.26247,-15.248136 71.81528,10e-7 0.13604,15.248139 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path835-9"
+       style="fill:#63c5c5;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-linejoin:round"
+       d="M 73.183217,44.490868 H 4.5900166 l 3.03e-5,-15.248124 -1.09e-5,-15.24814 68.5932,10e-7 23.314665,15.248141 z"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:6.58423px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+       x="19.246725"
+       y="27.524246"
+       id="text911"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="19.246725"
+         y="27.524246"
+         style="font-size:6.58423px;fill:#383838;fill-opacity:1;stroke-width:0.264583">Introduction to R</tspan><tspan
+         sodipodi:role="line"
+         x="19.246725"
+         y="35.754532"
+         style="font-size:6.58423px;fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         id="tspan913">and RStudio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:6.58423px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+       x="99.446831"
+       y="26.816442"
+       id="text911-3"><tspan
+         sodipodi:role="line"
+         x="99.446831"
+         y="26.816442"
+         style="font-size:6.58423px;fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         id="tspan913-8">Data visualization</tspan><tspan
+         sodipodi:role="line"
+         x="99.446831"
+         y="35.04673"
+         style="font-size:6.58423px;fill:#383838;fill-opacity:1;stroke-width:0.264583"
+         id="tspan945">with ggplot2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:6.58423px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+       x="173.5578"
+       y="26.816442"
+       id="text911-3-9"><tspan
+         sodipodi:role="line"
+         x="173.5578"
+         y="26.816442"
+         style="font-size:6.58423px;fill:#e8e8e8;fill-opacity:1;stroke-width:0.264583"
+         id="tspan945-1">Exploring and </tspan><tspan
+         sodipodi:role="line"
+         x="173.5578"
+         y="35.04673"
+         style="font-size:6.58423px;fill:#e8e8e8;fill-opacity:1;stroke-width:0.264583"
+         id="tspan977">understanding data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:6.58423px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+       x="255.78877"
+       y="27.527546"
+       id="text911-3-9-5"><tspan
+         sodipodi:role="line"
+         x="255.78877"
+         y="27.527546"
+         style="font-size:6.58423px;fill:#e8e8e8;fill-opacity:1;stroke-width:0.264583"
+         id="tspan977-6">Working </tspan><tspan
+         sodipodi:role="line"
+         x="255.78877"
+         y="35.757832"
+         style="font-size:6.58423px;fill:#e8e8e8;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1009">with data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:8.77898px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
+       x="6.6531105"
+       y="9.677289"
+       id="text1021"><tspan
+         sodipodi:role="line"
+         id="tspan1019"
+         x="6.6531105"
+         y="9.677289"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.77898px;font-family:Mulish;-inkscape-font-specification:'Mulish Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.264583">Data Analysis and Visualization in R for Ecologists</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.75528px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:Mulish;stroke-width:0.264583"
+       x="5.5422001"
+       y="51.507576"
+       id="text1076"><tspan
+         sodipodi:role="line"
+         x="5.5422001"
+         y="51.507576"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1084">    Why should you </tspan><tspan
+         sodipodi:role="line"
+         x="5.5422001"
+         y="57.451675"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1088">      use R and RStudio?</tspan><tspan
+         sodipodi:role="line"
+         x="5.5422001"
+         y="63.395775"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1078"
+         dy="1.3013835">    How do you get started </tspan><tspan
+         sodipodi:role="line"
+         x="5.5422001"
+         y="69.339874"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1090"
+         dy="1.3013835">      working in R and RStudio?</tspan><tspan
+         sodipodi:role="line"
+         x="5.5422001"
+         y="75.283974"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1080" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.75528px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:Mulish;stroke-width:0.264583"
+       x="74.374992"
+       y="51.507576"
+       id="text1076-9"><tspan
+         sodipodi:role="line"
+         x="74.374992"
+         y="51.507576"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1080-3">    How do you make plots </tspan><tspan
+         sodipodi:role="line"
+         x="74.374992"
+         y="57.451675"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1164">      using R?</tspan><tspan
+         sodipodi:role="line"
+         x="74.374992"
+         y="63.395775"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1166"><tspan
+   dy="1.3013835"
+   id="tspan1342"
+   style="font-size:4.75528px;stroke-width:0.264583">    How do you customize </tspan>and </tspan><tspan
+         sodipodi:role="line"
+         x="74.374992"
+         y="69.339874"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1344"
+         dy="0 0 0 0 0 0 1.1176963">      modify plots?</tspan><tspan
+         sodipodi:role="line"
+         x="74.374992"
+         y="75.283974"
+         style="font-size:4.75528px;stroke-width:0.264583"
+         id="tspan1162" /></text>
+    <circle
+       style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="path1256"
+       cx="7.8518405"
+       cy="49.83717"
+       r="1.5182807" />
+    <circle
+       style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="path1256-0"
+       cx="7.8518405"
+       cy="63.004574"
+       r="1.5182807" />
+    <circle
+       style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="path1256-7"
+       cx="76.797958"
+       cy="49.83717"
+       r="1.5182807" />
+    <circle
+       style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round"
+       id="path1256-0-2"
+       cx="76.797958"
+       cy="63.004574"
+       r="1.5182807" />
+    <g
+       id="g1334"
+       transform="matrix(1.0368874,0,0,1.0368874,3.207876,-3.2533978)"
+       style="stroke-width:0.964425">
+      <text
+         xml:space="preserve"
+         style="font-size:4.58611px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:Mulish;stroke-width:0.25517"
+         x="141.25798"
+         y="59.19825"
+         id="text1076-9-5"><tspan
+           sodipodi:role="line"
+           x="141.25798"
+           y="59.19825"
+           style="font-size:4.58611px;stroke-width:0.25517"
+           id="tspan1222">    How does R store and </tspan><tspan
+           sodipodi:role="line"
+           x="141.25798"
+           y="64.930885"
+           style="font-size:4.58611px;stroke-width:0.25517"
+           id="tspan1328">      represent data?</tspan></text>
+      <circle
+         style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:0.964425;stroke-linejoin:round"
+         id="path1256-2"
+         cx="143.72935"
+         cy="57.587269"
+         r="1.4642677" />
+    </g>
+    <g
+       id="g1340"
+       transform="matrix(1.0368874,0,0,1.0368874,3.207876,-2.7564711)"
+       style="stroke-width:0.964425">
+      <text
+         xml:space="preserve"
+         style="font-size:4.58611px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:Mulish;stroke-width:0.25517"
+         x="218.46294"
+         y="59.19825"
+         id="text1076-9-5-7"><tspan
+           sodipodi:role="line"
+           x="218.46294"
+           y="59.19825"
+           style="font-size:4.58611px;stroke-width:0.25517"
+           id="tspan1222-4">    How do you manipulate </tspan><tspan
+           sodipodi:role="line"
+           x="218.46294"
+           y="64.930885"
+           style="font-size:4.58611px;stroke-width:0.25517"
+           id="tspan1254">      tabular data in R?</tspan></text>
+      <circle
+         style="fill:#205959;fill-opacity:1;stroke:none;stroke-width:0.964425;stroke-linejoin:round"
+         id="path1256-9"
+         cx="221.0089"
+         cy="57.587269"
+         r="1.4642677" />
+    </g>
+  </g>
+</svg>

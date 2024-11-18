@@ -24,14 +24,14 @@ So what did we accomplish?
 
 The first phase of the project involved teaching Library Carpentry workshops. The idea was to reach librarians who had never heard of the Carpentries and teach them essential data skills while also introducing them to the Carpentries teaching philosophy. Working with Carpentries instructors in the Bay Area and Southern California, I scheduled two workshops for April and June. Then, like many Carpentries instructors this year, we had the experience of postponing our in-person workshops, and then rescheduling them in the virtual environment. It is due to the determination and enthusiasm of my co-instructors that we were successfully able to conduct online workshops in [June](https://arieldeardorff.github.io/2020-06-18-BayArea-Online/) and [August](https://arieldeardorff.github.io/2020-08-10-SoCal-Online/) (read more about our Aug workshop in our [Carpentries blog post](https://carpentries.org/blog/2020/10/teaching-a-library-carpentry-workshop-in-southern-california/)). While the virtual workshops took a lot of coordinating (and hours pouring over the [Carpentries recommendation for online workshops](https://carpentries.org/online-workshop-recommendations/)) they actually allowed us to be more collaborative and reach more librarians from across the state. Together these workshops brought together 14 instructors and helpers (predominantly from Carpentries member institutions) to teach 29 librarians representing 16 California libraries.
 
-![Library Carpentry Workshop Attendees in California]({{ site.urlimg }}/blog/2020/11/LibraryCarpentryWorkshopAttendees.png)
+![Library Carpentry Workshop Attendees in California](/blog/2020/11/LibraryCarpentryWorkshopAttendees.png)
 _Library Carpentry Workshop Attendees in California_
 
 ### Instructor Training
 
 Instructor Training was a chance to build on the momentum of Library Carpentry workshops and turn librarians into Carpentries champions at their institutions. After completing Carpentries Trainer Training in March, I worked with Tim Dennis at UCLA and Zac Painter at Stanford to organize two Instructor Training sessions in [August](https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/) and [September](https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT/). While the scope of this project originally targeted academic libraries, we decided to expand our pool to invite California public librarians to attend Instructor Training as well. This ended up being a great decision as they brought a different perspective to teaching technical skills and helped us think more broadly about the environments in which technology instruction occurs. While not all of the public librarians will pursue instructor certification, many of them appreciated the materials and approach of the Carpentries and shared that they would be bringing it back to their library. Through these training sessions we were able to train 22 librarians from 18 different California libraries.
 
-![Instructor Training Attendees in California]({{ site.urlimg }}/blog/2020/11/InstructorTrainingAttendees.png)
+![Instructor Training Attendees in California](/blog/2020/11/InstructorTrainingAttendees.png)
 _Instructor Training Attendees in California_
 
 ### California Virtual Community
