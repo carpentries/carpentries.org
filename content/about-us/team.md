@@ -4,6 +4,8 @@ layout: single
 widgets:
 - newsletter
 hideToc: true
+aliases:
+- /team/
 ---
 
 

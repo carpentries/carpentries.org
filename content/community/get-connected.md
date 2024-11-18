@@ -3,6 +3,8 @@ title: Get Connected
 layout: single
 widgets:
 - newsletter
+aliases:
+- /community-groups/
 ---
 
 ## Subcommunity Registry 

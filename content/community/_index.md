@@ -5,6 +5,8 @@ cascade:
   nav: community
 widgets:
 - newsletter
+aliases:
+- /committees/
 ---
 
 ## Community Overview

@@ -5,6 +5,8 @@ cascade:
   nav: about
 widgets:
 - newsletter
+aliases:
+- /values/
 ---
 
 

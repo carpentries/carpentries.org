@@ -2,6 +2,8 @@
 title: Workshops FAQ
 cascade:
   nav: workshops
+aliases:
+- /workshop_faq/
 ---
 
 ## Pre-Workshop Questions

@@ -1,6 +1,8 @@
 ---
 title: Help Wanted
 layout: no-sidebar
+aliases:
+- /help-wanted-issues/
 ---
 
 The table below lists all lessons labelled "Help wanted" and/or "good first issue" on many of our repositories and lesson repositories in [The Carpentries Incubator]({{< param incubator_link >}}). We hope it will help you find opportunities to contribute to Carpentries lessons and projects.

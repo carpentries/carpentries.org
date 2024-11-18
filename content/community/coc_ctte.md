@@ -1,6 +1,8 @@
 ---
 title: Code of Conduct Committee
 hideToc: true
+aliases:
+- /coc-ctte/
 ---
 
 ## The Carpentries Code of Conduct Committee
