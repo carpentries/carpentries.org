@@ -5,6 +5,8 @@ cascade:
   nav: membership
 widgets:
 - newsletter
+aliases:
+- /membership/
 ---
 
 ## Become A Member

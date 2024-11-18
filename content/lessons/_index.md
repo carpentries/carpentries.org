@@ -2,6 +2,8 @@
 title: The Carpentries Lessons
 layout: lessons
 hideToc: true
+aliases:
+- /lesson-infra/
 ---
 
 The Carpentries hosts a large collection of lessons teaching a range of software and data skills for a variety of audiences. This collection combines lessons from our lesson programs, which each focus on a slightly different target audience and mission.

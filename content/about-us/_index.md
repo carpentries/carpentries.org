@@ -7,6 +7,7 @@ widgets:
 - newsletter
 aliases:
 - /values/
+- /eia/
 ---
 
 

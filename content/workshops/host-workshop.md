@@ -3,6 +3,8 @@ title: Host a Workshop
 layout: single
 cascade:
   nav: workshops
+aliases:
+- /request-workshop/
 ---
 
 ## Host a workshop
