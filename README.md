@@ -10,6 +10,10 @@ Run `make serve` in your project's folder to serve the site locally.
 
 On 18 November 2024, this site was released using Hugo as the static site generator.  This README section will be updated as we add in more information about how to use the new infrastructure.
 
+### General content
+
+General content is in one of the folders in the `content` folder.  These folders are organized by theme.  No new files should be created in the root of the `content` folder.
+
 ### Blog posts
 
 **File names and location**
