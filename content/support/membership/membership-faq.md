@@ -3,6 +3,8 @@ title: Membership FAQ
 layout: single
 cascade:
   nav: membership
+aliases:
+- /member_faq/
 ---
 
 ## Memberships

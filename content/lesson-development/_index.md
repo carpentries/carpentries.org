@@ -3,6 +3,9 @@ title: Collaborative Lesson Development
 layout: single
 cascade:
   nav: cldt
+aliases:
+- /involved-lessons/
+- /lesson-development-training/
 ---
 
 

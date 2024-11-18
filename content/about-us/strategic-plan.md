@@ -1,6 +1,8 @@
 ---
 title: "Our Strategic Plan for 2020-2025"
 hideToc: true
+aliases:
+- /strategic-plan/
 ---
 
 

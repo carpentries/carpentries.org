@@ -1,6 +1,9 @@
 ---
 title: Our Maintainer Alumni 
 hideToc: true
+aliaes:
+- /maintainer-alumni/
+- /maintainer_alumni/
 ---
 
 Maintainers are responsible for the day-to-day upkeep of our lessons - making sure they stay accurate, up-to-date, functional, and cohesive.

@@ -1,6 +1,9 @@
 ---
 title: Instructor Training
 layout: single
+aliases:
+- /become-instructor/
+- /teach/
 ---
 
 

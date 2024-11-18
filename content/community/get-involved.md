@@ -3,6 +3,9 @@ title: Get Involved
 layout: single
 widgets:
 - newsletter
+aliases:
+- /join/
+- /volunteer/
 ---
 
 You can get involved with The Carpentries by volunteering in one of our [community roles](/community/). To find out more about the duties and benefits of volunteering in these roles, as well as how to be onboarded onto and offboarded from these roles, please visit our [Handbook](https://docs.carpentries.org)

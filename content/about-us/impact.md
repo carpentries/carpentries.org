@@ -3,6 +3,8 @@ title: Impact
 layout: single
 widgets:
 - newsletter
+aliases:
+- /reports/
 ---
 
 ## Introduction

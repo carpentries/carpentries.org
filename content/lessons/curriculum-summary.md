@@ -1,6 +1,8 @@
 ---
 title: Curricula Overview
 layout: single
+aliases:
+- /workshops-curricula/
 ---
 
 ## Data Carpentry: Astronomy
