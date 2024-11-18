@@ -3,7 +3,7 @@ layout: page
 authors: ["Kari L. Jordan, Oscar Masinyana", "Maneesha Sane"]
 teaser: "The Carpentries main and Lesson programs websites are relaunched today!"
 title: "The Carpentries’ Websites Relaunched!"
-Date: 2024-11-18
+date: 2024-11-18
 time: "09:00:00"
 tags: ["Data Carpentry", "Library Carpentry", "Software Carpentry", "Website"]
 ---
