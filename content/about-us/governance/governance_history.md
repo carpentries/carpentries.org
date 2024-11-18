@@ -1,6 +1,8 @@
 ---
 title: Carpentries Governance History
 layout: single
+aliases:
+- /governance-history/
 ---
 
 [Find out about our current Governance](/about-us/governance/).

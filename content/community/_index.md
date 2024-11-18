@@ -7,6 +7,8 @@ widgets:
 - newsletter
 aliases:
 - /committees/
+- /community_discussions/
+- /community_sessions/
 ---
 
 ## Community Overview

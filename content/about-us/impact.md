@@ -5,6 +5,8 @@ widgets:
 - newsletter
 aliases:
 - /reports/
+- /assessment/
+- /assessment-network/
 ---
 
 ## Introduction

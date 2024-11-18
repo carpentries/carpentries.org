@@ -5,6 +5,7 @@ widgets:
 - newsletter
 aliases:
 - /community-groups/
+- /connect/
 ---
 
 ## Subcommunity Registry 

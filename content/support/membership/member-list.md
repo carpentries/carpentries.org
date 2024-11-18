@@ -4,6 +4,8 @@ layout: single
 cascade:
   nav: membership
 hideToc: true 
+aliases:
+- /members/
 ---
 
 {{< members >}}
