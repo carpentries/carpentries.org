@@ -80,7 +80,7 @@ workbench_link: https://carpentries.github.io/workbench/
 
 # Lesson programs
 #############################################
-dc-website: https://datacarpentry.org
+dc-website: https://datacarpentry.org/
 lc-website:  https://librarycarpentry.org/
 swc-website: https://software-carpentry.org/
 
