@@ -12,9 +12,26 @@ On 18 November 2024, this site was released using Hugo as the static site genera
 
 ### Blog posts
 
-Blog posts go in the `content/posts/YYYY/MM` folder.  Images for the blog posts go in the corresponding `static/blog/YYYY/MM` folder. Note YYYY is the four digit year and MM is the two digit month.  
+**File names and location**
+Blog posts go in the `content/posts/YYYY/MM` folder.  Images for the blog posts go in the corresponding `static/blog/YYYY/MM` folder. Note YYYY is the four digit year and MM is the two digit month. Be sure the file location and the blog post date as defined in the yaml metadata (see below) match up.
 
-The blog post date should be set in the file's front matter. Be sure the date and the file location match up.  
+The file name should **not** include a date.  
+
+**File metadata**
+
+The file should begin with yaml metadata (data contained within three hyphens at the top of the file). An example is below:
+
+```
+---
+layout: page
+authors: ["Person One", "Person Two"]
+teaser: "A short line describing the post that will display on the blog list page"
+title: "Blog post main title"
+date: 2024-11-18
+time: "09:00:00"
+tags: ["Data Carpentry", "Community"]
+---
+```
 
 **Blog post tags:** Whenever possible, make sure the tags are from our [list of existing tags](https://carpentries.org/blog/posts-by-tags/).
 
