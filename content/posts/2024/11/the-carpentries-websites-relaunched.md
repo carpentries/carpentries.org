@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Kari L. Jordan, Oscar Masinyana", "Maneesha Sane"]
+authors: ["Kari L. Jordan", "Oscar Masinyana", "Maneesha Sane"]
 teaser: "The Carpentries main and Lesson programs websites are relaunched today!"
 title: "The Carpentries’ Websites Relaunched!"
 date: 2024-11-18
