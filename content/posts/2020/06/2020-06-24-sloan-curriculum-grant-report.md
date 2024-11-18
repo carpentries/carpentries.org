@@ -29,7 +29,7 @@ Across The Carpentries Lesson Programs, we have more than 40 active lessons, wit
 
 - Established The Carpentries Incubator, as a low-barrier place for community members to share and collaborate on Carpentries-style teaching materials at all stages of development. The Incubator supplements The Carpentries Lab as we continue developing editorial processes for vetting and peer-review of community-submitted materials. Continued development of The Carpentries Lab is part of [our recent funding from the Chan Zuckerberg Initiative](https://carpentries.org/blog/2019/11/czi-moore-grant/).
 
-![Flowchart showing process for development of lessons falling into the official track, community track, and Carpentries Lab track of lesson development]({{ site.urlimg }}/blog/2020/06/lesson-development-tracks.png)
+![Flowchart showing process for development of lessons falling into the official track, community track, and Carpentries Lab track of lesson development](/blog/2020/06/lesson-development-tracks.png)
 _Flowchart showing process for development of lessons falling into the official track, community track, and Carpentries Lab track of lesson development_
 
 - Simplified our templates and other infrastructure for our lessons and workshop websites, to make it more accessible for community members with a range of technical backgrounds. This infrastructure work will also continue on our new grant.

@@ -141,7 +141,7 @@ a pull request from the [styles repository][styles], but this can lead to a
 backlog of github notifications:
 
 <figure style="text-align: center">
-  <img src="{{ site.urlimg }}/blog/2022/01/2022-01-31-gh-notifications.png" 
+  <img src="/blog/2022/01/2022-01-31-gh-notifications.png" 
    alt="List of notifications requesting an update of lessons with the styles template"/>
   <figcaption>
 A huge backlog of notifications that Zhian needs to address :'(

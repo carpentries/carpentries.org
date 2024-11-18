@@ -26,7 +26,7 @@ It might sound easy at first, but learners had to think carefully about which st
 
 Some of the participants placed the `select()` step first, because it was easier to remember. However, you can’t “keep” a column if you have not “created” it first. Participants really enjoyed this "pen-on-paper" exercise and said it helped them to think about how they needed to structure commands to obtain the desired subset of data. Credit goes to Katrin for this suggestion/idea at a previous [Data Carpentry workshop at Walter Sisulu University](https://tenet-rccpii.github.io/2019-01-30-WSU-EastLondon/).
 
-[<img src = "{{ site.urlimg }}/blog/2019/05/pen-and-paper-exercise.png" alt = "Bianca Peterson's tweet illustrating pen on paper exercise" width = "500"/> ](https://twitter.com/BinxiePeterson/status/1091239313290027014)
+[<img src = "/blog/2019/05/pen-and-paper-exercise.png" alt = "Bianca Peterson's tweet illustrating pen on paper exercise" width = "500"/> ](https://twitter.com/BinxiePeterson/status/1091239313290027014)
 
 
 ## Challenges-handout

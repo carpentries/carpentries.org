@@ -8,12 +8,12 @@ time: "00:00:00"
 tags: ["Events", "Carpentries Workshops"]
 ---
 
-![Carpentries Illustration]({{ site.urlimg }}/blog/2019/08/carpentries-illustration.png)
+![Carpentries Illustration](/blog/2019/08/carpentries-illustration.png)
 <br>_Illustration above by Connie Clare_
 
-![Koppejan]({{ site.urlimg }}/blog/2019/08/Koppejan-image.jpg){:style="float:left"}[Victor Koppejan](https://www.linkedin.com/in/victorkoppejan/?originalSubdomain=nl) is a PhD student in computational [Bioprocess Engineering](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/bioprocess-engineering/). His doctoral research involves the purification of proteins from biological matrices for industrial use using expanded bed adsorption. Koppejan employs open source computer simulation tools to [model the dynamics of fluid and particle flow in a fluidized bed](https://doi.org/10.1002/jctb.5595) using the Dutch National Super Computer. 
+![Koppejan](/blog/2019/08/Koppejan-image.jpg){:style="float:left"}[Victor Koppejan](https://www.linkedin.com/in/victorkoppejan/?originalSubdomain=nl) is a PhD student in computational [Bioprocess Engineering](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/bioprocess-engineering/). His doctoral research involves the purification of proteins from biological matrices for industrial use using expanded bed adsorption. Koppejan employs open source computer simulation tools to [model the dynamics of fluid and particle flow in a fluidized bed](https://doi.org/10.1002/jctb.5595) using the Dutch National Super Computer. 
 <p></p>
-![Ortiz]({{ site.urlimg }}/blog/2019/08/Ortiz-Merino-image.jpg){:style="float:right"}[Raúl Ortiz Merino](https://www.tudelft.nl/staff/raul.ortiz/?no_cache=1&cHash=86590dd6db7c6b033cc412087c6154c7) is a Postdoctoral researcher in [Industrial Microbiology](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/industrial-microbiology/). He works within the field of comparative genomics to characterise microbial gene sequences of commercial relevance. After years spent training as a wet lab biochemist, Ortiz Merino made his transition to dry lab computational science and is now an experienced bioinformatician.
+![Ortiz](/blog/2019/08/Ortiz-Merino-image.jpg){:style="float:right"}[Raúl Ortiz Merino](https://www.tudelft.nl/staff/raul.ortiz/?no_cache=1&cHash=86590dd6db7c6b033cc412087c6154c7) is a Postdoctoral researcher in [Industrial Microbiology](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-groups/industrial-microbiology/). He works within the field of comparative genomics to characterise microbial gene sequences of commercial relevance. After years spent training as a wet lab biochemist, Ortiz Merino made his transition to dry lab computational science and is now an experienced bioinformatician.
 <p></p>
 Both [Data Champions](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/data-stewardship/data-champions/) have made a significant contribution to their local research community by sharing their knowledge and expertise during Software and Data Carpentry workshops.
 
@@ -29,7 +29,7 @@ The [4TU.Centre for Research Data](https://researchdata.4tu.nl/en/) became a [Go
 
 Ortiz Merino has volunteered his help during all workshops at TU Delft and has conducted his own whilst undertaking his certified instructor training. To build upon the experience he gained during the Software Carpentries, Ortiz Merino was financially supported by [The Data Champion travel fund](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/data-stewardship/data-champions/data-champions-rewards/) to join the [Introduction to Reproducible Genomics: Data Carpentry](https://training.vib.be/introduction-reproducible-genomics-data-carpentry) in Ghent (Belgium). He used this valuable experience to collaborate with fellow Bioinformatician and Data Champion, [Marcel van den Broek](https://www.tudelft.nl/en/staff/marcel.vandenbroek/), and organise [the first TU Delft Data Carpentry workshop](https://estherplomp.github.io/2019-06-04-Delft/) in June. You can read more about TU Delft’s Data Carpentry workshop [here](https://openworking.wordpress.com/2019/06/07/tu-delfts-first-genomics-data-carpentry/).
 
-![Data Champions Carpentry]({{ site.urlimg }}/blog/2019/08/data-champions-carpentry.jpg)
+![Data Champions Carpentry](/blog/2019/08/data-champions-carpentry.jpg)
 _Researchers attend TU Delft’s first Genomics Carpentry to ‘shape up’ their data science skills!_
 
 ## Software or Data Carpentry? What’s the difference?

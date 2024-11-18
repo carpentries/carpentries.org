@@ -13,7 +13,7 @@ rstudio::global (2021) is a conference for R and RStudio users that is set to ta
 The Carpentries will be at rstudio::global 2021, and our team will host informal chat sessions during some of the breaks in between sessions. You can find us at The Carpentries table at designated times in the [conference's Spatial.Chat](https://spatial.chat/s/rstudio) Community Partners Room for discussions around instructor training, lesson development, contributing to R lessons in The Carpentries curriculum, community experiences and recommendations for teaching online and Carpentries community activities in 2021 and mentoring among other things. Everyone is welcome to join in the conversations and share from your experiences in The Carpentries.
 
 
-![Community Partners room layout in rstudio::global(2021)'s spatial.chat]({{ site.urlimg }}/blog/2021/01/rstudio-spatial-chat.png)
+![Community Partners room layout in rstudio::global(2021)'s spatial.chat](/blog/2021/01/rstudio-spatial-chat.png)
 
 The screengrab above shows the Community Partners room layout in [rstudio::global(2021)'s spatial.chat](https://spatial.chat/s/rstudio). Moving your user icon closer to a specific table makes the ongoing conversation around that table more audible for you. Likewise, dragging your user icon away from a table makes the conversation more faint. 
 

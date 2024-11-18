@@ -11,7 +11,7 @@ tags: ["HPC Carpentry", "Lesson Program Implementation"]
 We are thrilled to announce that [HPC Carpentry](https://hpc-carpentry.org/) has entered Lesson Program Incubation. 
 This is another big step towards the project joining Data Carpentry, Library Carpentry and Software Carpentry as our The Carpentries Lesson Program.
 
-![HPC Carpentry]({{ site.urlimg }}/blog/2024/07/hpc-carpentry.png)
+![HPC Carpentry](/blog/2024/07/hpc-carpentry.png)
 
 Toby Hodges, The Carpentries Director of Curriculum, said:
 

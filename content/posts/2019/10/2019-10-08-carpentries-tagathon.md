@@ -17,7 +17,7 @@ Penned by our community members and published on our different websites, blog po
 
 Over time, as new members have become a part of our community and new resources have been made available, a lot of the wisdom tucked away in our blogs has remained available, but unknown to many. We want to take steps to change this.
 
-![Question on navigation by tags on the Data Carpentry blog posed by Angela Li in August 2019]({{ site.urlimg }}/blog/2019/10/posts-by-tags-question.png)
+![Question on navigation by tags on the Data Carpentry blog posed by Angela Li in August 2019](/blog/2019/10/posts-by-tags-question.png)
 _Question on navigation by tags on the Data Carpentry blog posed by [Angela Li](https://twitter.com/CivicAngela) and amplified by [Jonah Duckles](https://twitter.com/jduckles) in August 2019_ 
 
 Thanks to continuous team discussions and [the input](https://github.com/datacarpentry/datacarpentry.github.io/issues/494) of our community members, we have identified improving discoverability of posts on our blog as a good place to start, and adding tags to blog posts will be our first stop in this direction. As you may recall, we did some initial work around this in the second quarter of 2019, and focussed our efforts on the central Carpentries blog. You can read about our initial efforts on standardising tags on The Carpentries blog [in this post](https://carpentries.org/blog/2019/07/carpentries-comms-strategy/).

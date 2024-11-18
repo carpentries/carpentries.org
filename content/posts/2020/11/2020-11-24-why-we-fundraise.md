@@ -23,4 +23,4 @@ If you have not joined the [Carpentries Philanthropy mailing list](https://carpe
 Thank you for your support!
 
 In service,<br />
-![Kari L. Jordan Signature]({{ site.urlimg }}/blog/2020/07/Kari-Signature.png)
+![Kari L. Jordan Signature](/blog/2020/07/Kari-Signature.png)

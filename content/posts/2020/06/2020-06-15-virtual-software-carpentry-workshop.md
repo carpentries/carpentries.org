@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Online Workshops"]
 ---
 
-![Software Carpentry-Day 2 Git tutorial. Instructor: Bernease Herma]({{ site.urlimg }}/blog/2020/06/SWC-Online-Carpentry-workshop.png)
+![Software Carpentry-Day 2 Git tutorial. Instructor: Bernease Herma](/blog/2020/06/SWC-Online-Carpentry-workshop.png)
 _Software Carpentry-Day 2 Git tutorial. Instructor: Bernease Herman_
 
 Amid the COVID-19 pandemic, a team of Data and Research Scientists at the University of Washington eScience Institute and the Department of Astronomy were able to hash out and test the logistics of running a four-day Software Carpentry Workshop with 20 participants using only Zoom and slack. The following is an outline of what worked for our group with added context.

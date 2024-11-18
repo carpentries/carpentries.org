@@ -18,7 +18,7 @@ In early 2019, the ARDC initiated an Australia-wide consultation to assess the c
 
 “We have received much interest from our stakeholders regarding the uptake and utilisation of The Carpentries training. There’s scope for us to boost Carpentries activities in areas of need by connecting institutions with instructors and providing coordination within national community activities” Matthias Liffers, Research Software Skills Specialist from the ARDC said.
 
-![ARDC supported Carpentries workshop, Adelaide]({{ site.urlimg }}/blog/2019/09/ARDC-supported-Carpentries-workshop-Adelaide.png)
+![ARDC supported Carpentries workshop, Adelaide](/blog/2019/09/ARDC-supported-Carpentries-workshop-Adelaide.png)
 *ARDC supported Carpentries workshop, Adelaide, Australia*
 
 The Carpentries methodology emphasise best pedagogical practices to teach the use of practical software tools. They collaboratively develop openly-available lessons focusing on people who conduct and support research in numerous capacities. Some ARDC stakeholders have already adopted the Carpentries and taken up membership with The Carpentries organisation. The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research.

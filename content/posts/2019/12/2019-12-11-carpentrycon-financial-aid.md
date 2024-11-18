@@ -10,7 +10,7 @@ tags: ["CarpentryCon", "Community"]
 
 In order to promote as well as grow inclusive, computational communities and leaders, [#CapentryCon2020Madison](https://2020.carpentrycon.org) is providing a limited amount of financial support to facilitate participation at CarpentryCon 2020 in Madison.
 
-![]({{ site.urlimg }}/blog/2019/12/why-attend-carpentrycon.png)
+![](/blog/2019/12/why-attend-carpentrycon.png)
 
 Financial aid is aimed at, but not limited to postgraduate students, early-career researchers and academics who are unable to fully meet conference expenses through other funding means. Interested applicants should be able to demonstrate their potential for leadership and the creation of value for computational research by expanding the reach of the Carpentries in their communities and beyond.
 

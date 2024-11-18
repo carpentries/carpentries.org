@@ -34,7 +34,7 @@ Python, version control with Git and GitHub, SQL database queries, OpenRefine,
 and Excel spreadsheets.
 
 <div style="text-align:center">
-<img src="{{ site.urlimg }}/blog/bar_participants_affiliations.png" width="400px"
+<img src="/blog/bar_participants_affiliations.png" width="400px"
 style="display:inline-block;margin-left:auto;margin-right: auto" />
 <img src="{{site.urlimg }}/blog/wordcloud_participants_departments.png" width="400px"
 style="display:inline-block;margin-left:auto;margin-right: auto" />

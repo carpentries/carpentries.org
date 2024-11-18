@@ -46,7 +46,7 @@ The image below shows the level of completion of the initial translation (green)
 and its review (blue) for each lesson as it was in January 2024, just before we
 started migration to another collaborative platform called [Crowdin](https://crowdin.com/).
 
-![Transifex translation completion - January 2024]({{ site.urlimg }}/blog/2024/05/Transifex-2024-01-31.png)
+![Transifex translation completion - January 2024](/blog/2024/05/Transifex-2024-01-31.png)
 
 The [Crowdin](https://crowdin.com/) platform offers better opportunities
 for us, both in terms of its functionality and of the translation workflow,

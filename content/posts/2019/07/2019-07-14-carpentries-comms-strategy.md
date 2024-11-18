@@ -10,7 +10,7 @@ tags: ["Community", "Communications"]
 
 The efforts of thousands of dedicated and passionate individuals and ally organisations have allowed The Carpentries to extend reach and develop local presence in new regions around the world. This has, in turn, resulted in a huge spike in the size of our community of scientists, librarians, researchers and technologists and in the quantity and quality of resources produced under The Carpentries banner over the years. To every mentor, trainer, maintainer, instructor, regional coordinator, contributor, learner, and team, council, committee and task force member that has worked to make this possible, we thank you.
 
-![The Carpentries community stats as of November 2018]({{ site.urlimg }}/blog/2019/07/carpentries-community-stats-Nov-2018.png)
+![The Carpentries community stats as of November 2018](/blog/2019/07/carpentries-community-stats-Nov-2018.png)
 <br/>_Above, The Carpentries community stats as of November 2018, [source](http://doi.org/10.5281/zenodo.1465064).
 Williams, Elizabeth, Becker, Erin, Teal, Tracy, Cranston, Karen, Hertweck, Kate, & Weaver, Belinda. (2018, October 17). The Carpentries Annual Report 2018. Zenodo. [http://doi.org/10.5281/zenodo.1465064](http://doi.org/10.5281/zenodo.1465064)_
 

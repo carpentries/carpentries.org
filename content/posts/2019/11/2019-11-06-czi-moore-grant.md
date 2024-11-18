@@ -12,7 +12,7 @@ We are generating vast amounts of data, but it is not the data itself that is va
 
 In the last 5 years, with instructor training, volunteer instructors and collaboratively developed open-source curricula, our community has taught more than 2,290 workshops, training over 50,000 learners on 7 continents! We have more than 45 active lessons with more than 1100 people who have collaboratively contributed to their development. At an institutional level, we have more than 80 Member Organisations that host workshops, train instructors and are building communities of practice around digital skills at their institutions. People contribute to community development, help at workshops, update documentation and collaborate in so many other ways. Our community is always learning and growing and looking for new opportunities to reach more people and work towards our vision to be the leading inclusive community teaching computing and data skills.
 
-![Graphic with a map of the world showing global distribution of Carpentries workshops and instructors to date. We have 84 member organisations, have reached 56.9K learners, 2.3K trained instructors and run 2.3K workshops]({{ site.urlimg }}/blog/2019/11/carpentries-impact.png)
+![Graphic with a map of the world showing global distribution of Carpentries workshops and instructors to date. We have 84 member organisations, have reached 56.9K learners, 2.3K trained instructors and run 2.3K workshops](/blog/2019/11/carpentries-impact.png)
 _The Carpentries global reach and impact(November 2019)_
 
 ## $2.65 Million In Support Over Three Years from the Gordon and Betty Moore Foundation and Chan Zuckerberg Initiative

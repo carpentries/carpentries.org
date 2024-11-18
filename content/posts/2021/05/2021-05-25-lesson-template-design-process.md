@@ -20,7 +20,7 @@ Over the course of 10 weeks with these objectives in mind, I completed an end to
 
 ## Initial Research
 
-![a sneak peak at the initial research]({{ site.urlimg }}/blog/2021/05/initial-research.png)
+![a sneak peak at the initial research](/blog/2021/05/initial-research.png)
 
 <figcaption class="text-center">
   A sneak peak at the initial research
@@ -84,7 +84,7 @@ evaluate the usability of the new design. This stage was concerned with
 solidifying the information architecture and structure of the design (hence the
 grayscale) rather than the visual design (which comes in the next step!).
 
-![An example of a mid-fidelity, grayscale screen]({{ site.urlimg }}/blog/2021/05/lesson-wireframe.png)
+![An example of a mid-fidelity, grayscale screen](/blog/2021/05/lesson-wireframe.png)
 
 <figcaption class="text-center">
   An example of a mid-fidelity grayscale screen
@@ -107,7 +107,7 @@ that the new design of the lesson template didn’t clash too wildly with the
 current design of The Carpentries extended brands. You can see a small preview
 of some of the new color scheme below!
 
-![a sneak peek at the color scheme]({{ site.urlimg }}/blog/2021/05/colorway.png)
+![a sneak peek at the color scheme](/blog/2021/05/colorway.png)
 
 <figcaption class="text-center">
   A sneak peek at the color scheme
@@ -130,14 +130,14 @@ handoff! I can’t reveal the entirety of the design prior to its completion on
 the development side, but I will leave you with a small taste of what’s to come.
 
 
-![before and after]({{ site.urlimg }}/blog/2021/05/before-after.png)
+![before and after](/blog/2021/05/before-after.png)
 
 <figcaption class="text-center">
   Before and after
 </figcaption>
 
 
-![some design system components]({{ site.urlimg }}/blog/2021/05/system-components.png)
+![some design system components](/blog/2021/05/system-components.png)
 
 <figcaption class="text-center">
   Some design system components

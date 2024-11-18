@@ -45,13 +45,13 @@ While CarpentryConnect meetings have less direct oversight by The Core Carpentri
 
 Before you dive into specific sections of [the Planning Kit](https://carpentryconnect.org), use this flowchart to determine whether the event you have in mind qualifies as a CarpentryConnect:
 
-![carpentryconnect or not flowchart]({{ site.urlimg }}/blog/2020/04/carpentryconnect-or-not.png)
+![carpentryconnect or not flowchart](/blog/2020/04/carpentryconnect-or-not.png)
 
 #### Where to Start
 
 Now that you know whether the event you are planning is a CarpentryConnect or not, we have prepared a flowchart to help you understand how to interact with this resource. We have opportunities for everyone to benefit or contribute, so read on!
 
-![interacting with the carpentryconnect planning kit]({{ site.urlimg }}/blog/2020/04/interacting-with-this-resource.png)
+![interacting with the carpentryconnect planning kit](/blog/2020/04/interacting-with-this-resource.png)
 
 Sections of the Planning Kit can also be treated as standalone references for areas you are struggling with in your event planning. If anything is missing that you would like to see in this resource, please email [community@carpentries.org](mailto:community@carpentries.org) or open an issue to discuss your question, request or suggestion in [the Planning Kit’s repository](https://github.com/CarpentryConnect/carpentryconnect.org). We value all contributions and are keen to draw from your experiences, as these stand to benefit our community extensively. You can find sections to contribute to, and information on how to start contributing in the [contributing section](https://carpentryconnect.org/contributing/) of the CarpentryConnect Planning Kit.
 

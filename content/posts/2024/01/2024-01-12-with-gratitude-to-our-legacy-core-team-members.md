@@ -13,7 +13,7 @@ In the ever-changing landscape of the non-profit sector, we often find ourselves
 As we endeavor to turn adversity into opportunity, we offer tribute to our legacy Core Team members and gratitude for their impact on our mission and community. Each of their contributions will continue to shape our path forward, and below, we celebrate their legacy.
 
 ## Dr. Alycia Crall
-![Headshot of Alycia Crall]({{ site.urlimg }}/blog/2023/12/2023-12-28-alycia-crall.jpg)
+![Headshot of Alycia Crall](/blog/2023/12/2023-12-28-alycia-crall.jpg)
 
 Alycia [joined the Core Team in July 2021](https://carpentries.org/blog/2021/07/introducing-the-carpentries-director-of-community/) as the Director of Community to lead the Community Development Team. During her time at The Carpentries, Alycia championed our community and led numerous initiatives for which she has been highly praised and thanked by the community. Through programming such as [CarpentryCon @ Home in 2022](https://carpentries.org/blog/2021/10/carpentrycon-at-home-2022/), a conference centering accessibility and access, Alycia created and supported creative ways to expand opportunities for our volunteer community to contribute to our activities. She has reenvisioned the role of the Community Development Team, expanding the [Carpentries Gratitudes series](https://carpentries.org/blog/2019/11/carpentries-gratitudes-series/), launching efforts including [The Carpentries 25th Anniversary Celebration Series](https://carpentries.org/blog/2023/07/carpentries25-campaign-announcement/), and the [Community Development Program](https://carpentries.org/blog/2022/02/building-sustaining-community/), and raising visibility of [localisation at The Carpentries](https://carpentries.org/blog/2023/10/carpentries-opportunities-and-challenges-in-localisation/). Alycia has created a solid foundation for structured community engagement that can be leveraged for the continuing sustainability of our subcommunities and global Carpentries community. 
 
@@ -24,7 +24,7 @@ Alycia's work at The Carpentries has given us a comprehensive community developm
 Check out the [blog posts authored by Alycia](https://carpentries.org/posts-by-authors/#blog-author-alycia-crall).
 
 ## Brynn Elliott
-![Headshot of Brynn Elliott]({{ site.urlimg }}/blog/2023/12/brynnelliott.jpg)
+![Headshot of Brynn Elliott](/blog/2023/12/brynnelliott.jpg)
 
 Brynn [joined the Core Team in April 2022](https://carpentries.org/blog/2022/04/introducing-accessibility-coordinator/) as a member of the Community Development Team and the Workshop Administration Team. Through her role as Accessibility Manager, Brynn taught us so much about improving our processes to make them accessible for all, as well as how, in our day-to-day communications, we should be aware of our linguistic ableism and challenge ourselves to overcome it. Brynn led the Core Team and community to improve accessibility standards by [adding and improving alt text to our lessons](https://carpentries.org/blog/2022/11/accathon/) and leading numerous skill ups for the community on accessibility. 
 
@@ -33,7 +33,7 @@ She also made [enhancements to the Toolkit of Ideas](https://carpentries.org/blo
 Check out the [blog posts authored by Brynn](https://carpentries.org/posts-by-authors/#blog-author-brynn-elliott).
 
 ## Eli Chadwick
-![Headshot of Eli Chadwick]({{ site.urlimg }}/blog/2023/12/elichadwick.jpg)
+![Headshot of Eli Chadwick](/blog/2023/12/elichadwick.jpg)
 
 Eli started with The Carpentries community as an Instructor in 2021 and [joined the Core Team in January 2023](https://carpentries.org/blog/2023/01/introducing-it-developer/) as a member of the Technology Team. During his tenure as Information Technology Developer, Eli led the AMY v4.2 release, which focused on changes to Instructor Training checkout. The update also included accessibility tests and an update to our color palette to meet WCAG 2.1 AA contrast requirements. Eli took a large role in improving the AMY interface based on user feedback and led the efforts to improve accessibility of AMY. Eli found and fixed countless bugs in our infrastructure, and wrote documentation that helps our team manage Carpentries events seamlessly. 
 
@@ -42,7 +42,7 @@ In the time that Eli was on the Core Team, he made a profound impact in creating
 
 
 ## Dr. Karen Word
-![Headshot of Karen Word]({{ site.urlimg }}/blog/2023/12/karenword.jpg)
+![Headshot of Karen Word](/blog/2023/12/karenword.jpg)
 
 Karen originally joined the Core Team part-time as the Deputy Director of Instructor Training in September 2017 and was [promoted to Director of Instructor Training in January 2020](https://carpentries.org/blog/2020/01/instructor-training-director/). Through this role and as the Instructor Training Team Lead, Karen has been a huge advocate for the Instructor Training program and Trainer Community. She provided the strategic direction and leadership that led to a 60% increase in Trainer recruitment. 
 Karen led the updates to the Instructor Training Curriculum in December 2018, which included adding new episodes highlighting classroom management and Instructor checkout, including information on Library Carpentry’s history and characteristics, and a comprehensive reorganisation of the second half of the training. 
@@ -56,7 +56,7 @@ Drawing on her past and connections with some of The Carpentries many vibrant lo
 Check out the [blog posts authored by Karen](https://carpentries.org/posts-by-authors/#blog-author-karen-word).
 
 ## Dr. Kelly Barnes
-![Headshot of Kelly Barnes]({{ site.urlimg }}/blog/2023/12/kellybarnes.jpg)
+![Headshot of Kelly Barnes](/blog/2023/12/kellybarnes.jpg)
 
 Kelly [joined the Core Team in May 2020](https://carpentries.org/blog/2020/05/new-deputy-director-instructor-training/) as a part of the Instructor Training and Community Development teams. Kelly started as the Deputy Director of Instructor Training and was [promoted to Director of Assessment in November 2022](https://carpentries.org/blog/2022/11/director-of-assessment/), where she developed a plan to use assessment to improve our programming, create measurable outcomes from our strategic plan, and streamline our assessment efforts. Kelly has been a source of support to the Instructor Trainer community, working both behind the scenes and forward facing, serving as a [Trainer-of-Trainers](https://carpentries.org/blog/2023/02/trainer-training-applications-open/), conducting and releasing the first [Instructor Training report]([https://carpentries.github.io/2021_IT_report/index.html) in 2021, led a comprehensive overhaul of communications for the Instructor Training Team and led the collaborative development of recommendations for [updates to the Instructor Training Checkout process](https://carpentries.org/blog/2023/08/checkout_changes/). 
 
@@ -66,7 +66,7 @@ Our Core Values emphasise the importance of openness, inclusivity, diversity, an
 Check out the [blog posts authored by Kelly](https://carpentries.org/posts-by-authors/#blog-author-kelly-barnes).
 
 ## Talisha Sutton-Kennedy
-![Headshot of Talisha Sutton-Kennedy]({{ site.urlimg }}/blog/2023/12/talishasuttonkennedy.jpg)
+![Headshot of Talisha Sutton-Kennedy](/blog/2023/12/talishasuttonkennedy.jpg)
 
 Talisha [joined the Core Team in November 2018](https://carpentries.org/blog/2018/11/welcoming-adspec/) as the Administrative Support Specialist. From the beginning, Talisha played a large role behind the scenes, taking on administration for Self-Organised Workshops, supporting membership communications, as well as doing all day-to-day business and financial administration. She also worked extensively with our fiscal sponsor, Community Initiatives, to ensure legal and regulatory compliance. After demonstrating significant versatility and adaptability, Talisha was promoted to Operations Manager in 2021. As our Operations Manager, Talisha took on a larger role in business development and financial administration, developing numerous policies and workflows to support procurement, contracting, budgeting, accounting, financial forecasting, and financial reporting. Talisha has done a phenomenal job managing grant budgets, as well as developing and delivering our [Annual Financial Reports](https://carpentries.org/reports/). 
 She brought joy to the team while training us in non-profit finance. It is because of this amazing work and with the support of Talisha that we were able to identify our financial challenges and take action to improve the sustainability of the organisation.
@@ -81,7 +81,7 @@ Her positivity, passion, and unwavering commitment to excellence have set a stan
 Check out the [blog posts authored by Talisha](https://carpentries.org/posts-by-authors/#blog-author-talisha-sutton-kennedy).
 
 ## Dr. Zhian Kamvar
-![Headshot of Zhian Kamvar]({{ site.urlimg }}/blog/2023/12/zhiankamvar.jpg)
+![Headshot of Zhian Kamvar](/blog/2023/12/zhiankamvar.jpg)
 
 Zhian [joined the Core Team in March 2020](https://carpentries.org/blog/2020/03/lesson-infrastructure-technology-developer/) as the Lesson Infrastructure Technology Developer. Zhian has had a role on both the Curriculum and Technology teams. Zhian completed a total redesign of The Carpentries lesson websites, which has made our lesson infrastructure more intuitive, accessible, and easier to teach. Through his work, a huge milestone was reached in May 2023 when all 43 of The Carpentries official lessons were transitioned to the new lesson infrastructure, [The Carpentries Workbench](https://carpentries.ogithub.io/workbench/) – an achievement [the community celebrated in another blog past last year](https://carpentries.org/blog/2023/08/celebrating-carpentries-workbench/). He also coordinated  many other initiatives that made our processes more user-friendly and improved accessibility organisation-wide. In 2020, Zhian led an effort to make software installation easier by offering cloud instances as a backup for learners who are having difficulties and was a collaborator in the creation of [Glosario](https://glosario.carpentries.org/), an open-source multilingual glossary of data science terms. 
 

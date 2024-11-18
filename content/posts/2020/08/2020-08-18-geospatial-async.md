@@ -20,7 +20,7 @@ Since mid-March, when the University of Wisconsin-Madison campus announced it wo
 
 We finished the semester and started our line-up of summer workshops using a synchronous teaching model, with the instructor live-coding and sharing their screen over Zoom for the learners to watch and code alongside the instructor. However, we deviated from this for the Geospatial Data Carpentry workshop, trying a semi-asynchronous model that took inspiration from a flipped classroom format.
 
-![Zoom screenshot of the 6 instructors]({{ site.urlimg }}/blog/2020/08/geospatial-workshop.png)
+![Zoom screenshot of the 6 instructors](/blog/2020/08/geospatial-workshop.png)
 _screengrab shows six instructors in the workshop_
 
 Beginning in May, a group of six instructors (Stephen Appel, Cid Freitag, Sarah Graves, Maria Kamenetsky, Clare Michaud, and Sarah Stevens) from UW-Madison and UW-Milwaukee met each week virtually to work on modifying the existing geospatial lessons for the workshop, which include an introduction to the concepts behind working with geospatial data, as well as how to work with both raster and vector data types in R. We hosted this workshop in-person last year, and used feedback from a year ago to guide the changes that we made this year.

@@ -24,4 +24,4 @@ Thank you in advance to [our dynamic CarpentryCon Task Force](http://2020.carpen
 Get ready,<br />
 Kari
 
-![Kari L. Jordan Signature]({{ site.urlimg }}/blog/2020/07/Kari-Signature.png)
+![Kari L. Jordan Signature](/blog/2020/07/Kari-Signature.png)

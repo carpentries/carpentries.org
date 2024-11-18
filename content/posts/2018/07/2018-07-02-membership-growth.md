@@ -13,7 +13,7 @@ Over the past three years, we've used annual organisational memberships as a way
 
 In the diagram below, you can see that we've been growing memberships and have recently crossed a threshold where new memberships (those which began within the most recent trailing year) are outpacing renewals by 5%. These are exciting times in the growth of The Carpentries and the buy-in we're seeing from research institutions around the world. Your work as Instructors and volunteers in the organisation is having tremendous impact in how organisations think about developing peer-learning communities of practice.
 
-<iframe src="{{ site.urlimg }}blog/2018/07/membership_sankey.html" width="700" height="450" frameborder="0" style="border:0"></iframe>
+<iframe src="blog/2018/07/membership_sankey.html" width="700" height="450" frameborder="0" style="border:0"></iframe>
 
 The main benefit of our memberships today is through Instructor training for people at the member organisations. On top of Instructor training, key pieces of infrastructure have been developed and are supported (etherpads, GitHub organisations, websites, documentation, Zoom, etc.) which enable and catalyse the activities of our growing instructor community. We also work to help connect and communicate successes and challenges in growing local communities.
 

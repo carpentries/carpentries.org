@@ -16,11 +16,11 @@ The Executive Council is responsible for financial oversight of The Carpentries.
 
 Our income is primarily from [Organisational Memberships](https://carpentries.org/membership/) with Workshops and Grants being the other main contributors. Donations currently make up a very small component of our revenue, and Sponsorships were limited to support of CarpentryCon 2018. Primary grant funding is from the Alfred P. Sloan Foundation to [support curriculum development infrastructure and domain specific lessons](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling).
 
-![chart showing Carpentries income by category]({{ site.urlimg }}/blog/2019/05/income-by-category.png)
+![chart showing Carpentries income by category](/blog/2019/05/income-by-category.png)
 
 Mirroring where workshops are hosted, most of our revenue is from academic institutions, with government agencies also a significant component. Individual amounts are from donations, and Foundation revenue is from the Sloan curriculum grant award and grants or sponsorships for CarpentryCon 2018 from [a few organisations](http://www.carpentrycon.org/#portfolio). Corporate entity revenue comes from workshop fees for for-profit organisations, and 50% of revenue from these workshops goes to support workshops that reach new communities. 
 
-![chart showing Carpentries income by entity]({{ site.urlimg }}/blog/2019/05/income-by-entity.png)
+![chart showing Carpentries income by entity](/blog/2019/05/income-by-entity.png)
 
 While this is our first year as The Carpentries, we’ve maintained an Organisational Membership program across Software Carpentry and Data Carpentry since 2015. Over that time period there has been a consistent increase in Memberships, and high renewal rates. [One of the projects this quarter](https://carpentries.org/blog/2019/05/q2-work-at-the-carpentries/#membership-team) is evaluating that program to ensure it continues to meet the needs of new and existing Member Organisations. 
 
@@ -31,11 +31,11 @@ We also see the need to diversify our revenue sources, particularly to support n
 
 Expenses for a not-for-profit are evaluated by programmatic expenditures, infrastructure and administration. In order to determine a break down of expenses for our different programs, all staff have [job plans](https://carpentries.org/blog/2019/02/projects-teams-job-plans/), where we allocate our time to particular programs. Also, all expenses and infrastructure costs are allocated to programs or administration. The majority of our expenditures go towards Programs. In 2018 we also had higher than usual Administrative expenses due to the transition both of  merging The Carpentries and moving to a new fiscal sponsor. Fundraising expenses are time that was spent on writing grants and generating sponsorship for CarpentryCon. 
 
-![chart showing all Carpentries expenses]({{ site.urlimg }}/blog/2019/05/all-expenses.png)
+![chart showing all Carpentries expenses](/blog/2019/05/all-expenses.png)
 
 Looking at expenses for each program, they were fairly evenly distributed. In 2018 we used Assessment and Equity as programs, In 2019, we have realised that these are incorporated into all of our work, so are exploring other more comprehensive ways of tracking those expenses. Most of our expenses are personnel, but we also develop and maintain custom and software-as-a-service infrastructure. We invest in the development and maintenance of our workshop database AMY and Etherpad infrastructure, and have standard web hosting, project management, email and community communications services. 
 
-![chart showing Carpentries expenses by program]({{ site.urlimg }}/blog/2019/05/expenses-by-program.png)
+![chart showing Carpentries expenses by program](/blog/2019/05/expenses-by-program.png)
 
 ## Summary
 

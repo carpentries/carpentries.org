@@ -20,7 +20,7 @@ Picture for a moment one of your undergraduate university courses, or a recent m
 
 Lecturing has been the default mode of instruction for centuries, as evidenced by its presence in medieval illuminations. As a mechanism for large-scale verbal dissemination of information, lecturing has served a valuable purpose. It’s relatively easy to get adult learners to sit still for an hour and hear what you have to say. But of course, in most cases, the end goal is not to have people listen to you speak, but to have them understand and be able to use new information in their thought process. In other words, you want them to learn something.  
 
-![Larentius de Voltolina lecture, mid-1300s]({{ site.urlimg }}/blog/medieval.png)
+![Larentius de Voltolina lecture, mid-1300s](/blog/medieval.png)
 
 We know that in many cases, simple exposure to information isn’t enough to learn it in the sense of integrating the information into a mental model and being able to use it to understand the world. The human brain is expert in tricking us into believing we understand something, for example by forcing new information into existing incorrect mental models of how the world works. This is one reason why asking learners if they have questions, or if “this all makes sense”, is ineffective. Even with the best of intentions, learners often don’t know when they’re confused.   
 
@@ -34,7 +34,7 @@ Such electronic systems work well for quarter or semester-long courses, but not 
 
 Instead, we carry out formative assessments using a very low-tech piece of technology - the humble sticky note. Learners are given two different colored sticky notes at the beginning of the workshop. These are used as progress flags during hands-on exercises to signal to the instructor and workshop helpers when learners are stuck (red sticky note) or have successfully completed the exercise (green sticky note). Learners can also use these at any time during the workshop to signal that they want help (red sticky note). 
 
-![Sticky notes]({{ site.urlimg }}/blog/stickies_brisbane.png)
+![Sticky notes](/blog/stickies_brisbane.png)
 
 This system lets instructors quickly gauge the room’s progress and adjust their teaching pace, while simultaneously allowing resources (helpers) to be efficiently targeted towards those learners who need assistance. By making it unnecessary for learners to raise their hands, sticky notes also provide two other benefits - they make it more likely that learners will ask for help (putting up a sticky note is less emotionally threatening than sitting there with a hand raised), and they let learners who are struggling continue to work (it’s hard to type one-handed).
 

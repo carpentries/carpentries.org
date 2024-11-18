@@ -12,7 +12,7 @@ During the week of July 17, the members of the Executive Council held their annu
 
 With a hybrid modality, the EC also had the opportunity to learn about governance models and reflect on the model we have and the model we aspire to have. We also reviewed, discussed and made decisions about the work of the standing committees.
 
-![Members of the EC in person and virtual making The Carpentries logo with their arms.]({{ site.urlimg }}/blog/2022/08/image2.jpg)
+![Members of the EC in person and virtual making The Carpentries logo with their arms.](/blog/2022/08/image2.jpg)
 <br />_Members of the EC in person and virtual making The Carpentries logo with their arms._
 
 ## Goals, achievements, and highlights
@@ -23,7 +23,7 @@ Now the bylaws can be modified by the EC when needed, and we will review them at
 
 The EC is always working to improve its structure and processes to be an efficient governance body that supports our community. With this objective in mind, we also discussed parliamentary procedures for EC meetings, election procedures, committee procedures in the handbook, and enabling community members to reach out to the EC with proposals.
 
-![EC members and Executive Director during a group working session.]({{ site.urlimg }}/blog/2022/08/image1.jpg)
+![EC members and Executive Director during a group working session.](/blog/2022/08/image1.jpg)
 <br />_EC members and Executive Director during a group working session._
 
 ## The Carpentries keep growing
@@ -40,5 +40,5 @@ This retreat allowed us to have dedicated time to make progress on tasks we want
 
 The in-person component gave us the time for side conversations, networking, and learning more about each other. It was a great way to see all the ways we already do and potentially can collaborate.  It also helped us understand the different realities that a global organization needs to address and the positive impact The Carpentries can bring to each region.
 
-![EC members during the final group dinner.]({{ site.urlimg }}/blog/2022/08/image3.jpg)
+![EC members during the final group dinner.](/blog/2022/08/image3.jpg)
 <br />_EC members during the final group dinner._

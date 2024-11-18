@@ -8,7 +8,7 @@ time: "00:00:00"
 tags: ["Community", "Curriculum", "Membership", "Infrastructure", "Instructor Development", "Carpentries Workshops"]
 ---
 
-![Some of The Carpentries team at an Improv session in 2019]({{ site.urlimg }}/blog/2019/05/carpentries-team-improv.JPG)
+![Some of The Carpentries team at an Improv session in 2019](/blog/2019/05/carpentries-team-improv.JPG)
 _Some of The Carpentries team at an Improv session in January 2019_
 
 [Zip Zap Zop](https://www.dramanotebook.com/drama-games/zip-zap-zop/) is a team building activity that The Carpentries team loved and stressed over in equal measure at an Improv session we all attended in January 2019. Standing in a circle, the game started out slow and we all felt comfortable with it, enjoyed it even. But as time went by and our facilitator nudged us to pick up the pace, we all experienced the adrenaline and pressure that comes with increased urgency and demand for our attention and whittled-down focus in any activity, and had the opportunity to empathise with the overwhelmed among us, and marvel at the resilience of a select few.
@@ -114,6 +114,6 @@ This quarter, the Business team is focusing on tracking and reporting our financ
 
 Based on information from 2018 on the growth of our activities, we will also be exploring individual donations and sponsorships as additional models for financial support. We currently have a donation button on our website, leading to a donation page that has been out of date and lacking in engagement. This page will be updated, so that donors have a clear understanding of the impact their donation will have. A Sponsorship Model Task Force will be assembled to explore a model for sponsorship with the community. We see a sponsorship model that invites sponsors to share the vision of our organisation as having potential for stable funding and partnerships.
 
-![Carpentries team group photo]({{ site.urlimg }}/blog/2019/05/carpentries-team-group-photo.jpg)
+![Carpentries team group photo](/blog/2019/05/carpentries-team-group-photo.jpg)
 
 We’re excited about the work this quarter, that continues to build The Carpentries for sustainability and growth. So many people contribute their time, energy, enthusiasm, compassion and ideas to The Carpentries, and we are so grateful for working together with our global community every day. We welcome your comments, questions and input on ongoing work. Look for updates throughout the quarter!

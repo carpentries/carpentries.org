@@ -12,7 +12,7 @@ We are pleased to announce that applications are now open for anyone wishing to 
 
 ## Carpentries Jargon 101: What is an Instructor Trainer?
 
-![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.]({{ site.urlimg }}/blog/2020/07/instructor-training-program.png)
+![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.](/blog/2020/07/instructor-training-program.png)
 <br/>_A flow chart of our Instructor Training program, from Instructor Trainers to Instructors to Learners._
 
 **Instructor Trainer Training** is the process by which we on-board new Instructor Trainers. **Instructor Trainers teach Instructor Training workshops** to bring on new Instructors.  **Instructors** teach Carpentries workshops (Data Carpentry, Library Carpentry, and Software Carpentry) to learners worldwide.

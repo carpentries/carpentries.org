@@ -17,7 +17,7 @@ Summary of the updated checkout process:
 
 ## What has changed?
  
-![A diagram showing relationships between previous and new checkout requirements]({{ site.urlimg }}/blog/2023/07/Checkout-2023-07-10-1417.svg) A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
+![A diagram showing relationships between previous and new checkout requirements](/blog/2023/07/Checkout-2023-07-10-1417.svg) A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
 
 ### Teaching Demonstration
 A teaching demonstration is an online session where trainees perform 5-minutes of teaching, receive feedback, and share feedback for others. 

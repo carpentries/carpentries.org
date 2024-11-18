@@ -22,14 +22,14 @@ The Carpentries. Reported job roles (cf. Figure 1, multiple choice) are strongly
 (research data management 32.4%, scholarly communication 28.7%), and reference and user services more generally (31.5%). Moreover, several respondents 
 manage collections, digital library services, research and development projects and information and data analytics. 
 
-![Figure 1. Job roles of respondents to the survey]({{ site.urlimg }}/blog/2023/01/job-roles-1.png) 
+![Figure 1. Job roles of respondents to the survey](/blog/2023/01/job-roles-1.png) 
 _Figure 1. Job roles of respondents to the survey_
 
 Out of all respondents, 85 had attended at least one Carpentries workshop, 18 did not attend one yet but 7 planned to do so in the future. Most popular 
 (cf. Figure 2) were Library Carpentry (73), followed by Software (42) and Data Carpentry (38), with good degrees of overlap (45 already attended at least 
 two workshops). 
 
-![Figure 2. Combination of Carpentries workshops attended]({{ site.urlimg }}/blog/2023/01/workshop-attendance-content-2.png) 
+![Figure 2. Combination of Carpentries workshops attended](/blog/2023/01/workshop-attendance-content-2.png) 
 _Figure 2. Combination of Carpentries workshops attended_
 
 Respondents with experiences in Carpentries workshops were asked to assess to what degree they have adopted certain behaviours or routines as a result 

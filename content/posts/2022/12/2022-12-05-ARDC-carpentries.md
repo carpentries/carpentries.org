@@ -31,7 +31,7 @@ Dr Valentina Hurtado-McCormick, UTS, said, “The Carpentries Community supports
 
 “The Carpentries offers not only top-quality material but a top-quality experience. It is so easy to get involved! And for the same reason, in my opinion, there is so much willingness to improve it, every day. I believe this is their differentiating factor: they will welcome you, regardless of how (or if) you want to contribute.”
 
-![Five people in the foreground sitting on brown ground with large ice sheets behind them.]({{ site.urlimg }}/blog/2022/12/ACEAS-students-in-the-field.jpeg)*ACEAS students in Antarctica. Skills they learnt through The Carpentries workshops will help them analyse and process the data collected in the field. Image: ACEAS*
+![Five people in the foreground sitting on brown ground with large ice sheets behind them.](/blog/2022/12/ACEAS-students-in-the-field.jpeg)*ACEAS students in Antarctica. Skills they learnt through The Carpentries workshops will help them analyse and process the data collected in the field. Image: ACEAS*
 
 ## What motivates someone to join The Carpentries community?
 As a peer-learning volunteer organisation built for the graduate student community, many members join The Carpentries community because they have attended a workshop or found resources online.

@@ -29,7 +29,7 @@ from the Netherlands eScience Center and has been wrapped up by Anita
 Schurch from UMC Utrecht introducing the Unix shell and file system
 navigation.
 
-![Lex Nederbragt kicking off the first day]({{ site.urlimg }}/blog/2017-ams/day1.jpeg)
+![Lex Nederbragt kicking off the first day](/blog/2017-ams/day1.jpeg)
 
 The following day Denis Schmitz and Sam Nooij from National Institute
 for Public Health and the Environment continued the Unix shell lesson,
@@ -54,7 +54,7 @@ Carpentry Foundations.
 
 The event closed with drinks and snacks at nearby Maslov Cafe.
 
-![Post workshop recovery session]({{ site.urlimg }}/blog/2017-ams/maslov.jpeg)
+![Post workshop recovery session](/blog/2017-ams/maslov.jpeg)
 
 We are just at the beginning of the journey. More work needs to be
 done on improving genomics lesson, and Data Carpentry is looking

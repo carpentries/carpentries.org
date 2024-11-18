@@ -36,7 +36,7 @@ Special thanks is due to our workshop helpers Drs. Iva Momcheva (Space Telescope
 
 - A majority of learners gained confidence in the following key skills from the lessons: writing database queries, performing database join operations, using Astropy Tables, Panda DataFrames, FITS and HDF5 files, and Astropy coordinates and units.
 
-![Pie chart showing all 33 learners agreed the workshop taught skills important for astronomers to know.]({{ site.urlimg }}/blog/2021/04/acdc_510years.png)
+![Pie chart showing all 33 learners agreed the workshop taught skills important for astronomers to know.](/blog/2021/04/acdc_510years.png)
 
 ### What We Have Revised
 

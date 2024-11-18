@@ -20,7 +20,7 @@ and had more than 30 learners.
 Because Professor Tshiamo Motshegwa was travelling during the workshop,
 Badisa Mosesane was in charge of talk about [The Carpentries](https://carpentries.org) and introduce me.
 
-![Badisa Mosesane explaining about The Carpentries.]({{ site.urlimg }}/blog/2019/10/botswana-software-carpentry-2.jpg)
+![Badisa Mosesane explaining about The Carpentries.](/blog/2019/10/botswana-software-carpentry-2.jpg)
 _Badisa Mosesane explaining about The Carpentries._
 
 During the workshop,
@@ -76,7 +76,7 @@ to enable workshops to be offered more often and with an agenda that accommodate
 Despite the challenges,
 learners were very satisfied with their new skills at the end of the workshop.
 
-![Group photo of learners, helpers and instructors.]({{ site.urlimg }}/blog/2019/10/botswana-software-carpentry-3.jpg)
+![Group photo of learners, helpers and instructors.](/blog/2019/10/botswana-software-carpentry-3.jpg)
 _Group photo of learners, helpers and instructors at the Software Carpentry workshop in Botswana._
 
 It was a pleasure to me to meet researchers based in Botswana

@@ -33,13 +33,13 @@ Help us as we envision to be the __leading inclusive community teaching data and
 Thank you for being a valued contributor to The Carpentries. If you have questions or would like to discuss your contribution, please [get in touch](mailto:team@carpentries.org).
 
 In service,<br />
-![Kari L. Jordan Signature]({{ site.urlimg }}/blog/2020/07/Kari-Signature.png)
+![Kari L. Jordan Signature](/blog/2020/07/Kari-Signature.png)
 
 _____________________________________________________________________________________________________________
 
 By donating to The Carpentries at either the $60 or $100 levels, you will receive a gift card to select and purchase an item featuring designs crafted specifically for this campaign:
 
-![You Belong in The Carpentries Design]({{ site.urlimg }}/blog/2020/11/you-belong-in-the-carpentries-merch-tote-bag.png)
+![You Belong in The Carpentries Design](/blog/2020/11/you-belong-in-the-carpentries-merch-tote-bag.png)
 
 We are so proud of our work with The Carpentries, and by supporting us at those levels, you will be able to show your pride too.
 

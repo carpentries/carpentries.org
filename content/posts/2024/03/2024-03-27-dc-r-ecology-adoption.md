@@ -12,7 +12,7 @@ We are delighted to announce that [a redesigned version of the _Data Analysis an
 
 The new lesson lets learners dive into data visualisation much more quickly, letting you quickly *appreciate* the benefits of the lesson and enticing you to learn more about data storage, manipulation and analysis as the lesson progresses. The new structure of the lesson helps make it more approachable for beginners and more motivating for all learners, and has received great feedback from Instructors who have taught the lesson so far.
 
-![Overview of the redesigned lesson content]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
+![Overview of the redesigned lesson content](/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
 
 ## Next Steps
 

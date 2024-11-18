@@ -21,7 +21,7 @@ Applications will close at the end of [February 27, 2023, AoE](https://www.timea
 
 ## About the Role
 
-![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.]({{ site.urlimg }}/blog/2020/07/instructor-training-program.png)
+![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.](/blog/2020/07/instructor-training-program.png)
 <br/>_A flow chart of our Instructor Training program, from Instructor Trainers to Instructors to Learners._
 
 **Trainer Training** is the process by which we on-board new Instructor Trainers. **Instructor Trainers co-teach Instructor Training events** to bring on new Instructors.  **Instructors** teach Carpentries workshops (Data Carpentry, Library Carpentry, and Software Carpentry) to learners worldwide.

@@ -15,7 +15,7 @@ tags: ["Workbench", "Curriculum", "Lessons"]
 
 Instructor Notes are pieces of advice, guidance, warnings, resources, etc for those teaching a lesson, to help them prepare and teach their workshops more effectively. Until now, Instructor Notes have been kept in a dedicated page, located under the "Extras" dropdown menu of a lesson site.
 
-![The "Instructor Notes" page is accessible from the "Extras" menu of a lesson site.]({{ site.urlimg }}/blog/2023/04/instructor-notes-styles.png)
+![The "Instructor Notes" page is accessible from the "Extras" menu of a lesson site.](/blog/2023/04/instructor-notes-styles.png)
 
 However, with the introduction of the new lesson infrastructure, [The Carpentries Workbench](https://carpentries.github.io/workbench/), Instructor Notes can now be placed _inline_ within a lesson: this means that existing Instructor Notes can be moved (and new ones added) to the location in the lesson where they can have the most impact. Those Instructor Notes will then be visible in [the _Instructor View_ of the lesson site](https://carpentries.org/blog/2023/02/supporting-instructors/#the-carpentries-workbench) only. By presenting guidance alongside the lesson content to which it is most relevant, the Workbench greatly increases the value and effectiveness of Instructor Notes.
 
@@ -30,7 +30,7 @@ The introduction of this new feature gives us an excellent opportunity to improv
 
 By adding new notes and updating the existing guidance, you ensure that the wider community can benefit from your experience teaching these lessons. And by moving existing notes, you increase their impact _and_ learn more about how to edit lessons using the new infrastructure.
 
-![Inline Instructor Notes appear as expandable/collapsible boxes in the Instructor View of a lesson.]({{ site.urlimg }}/blog/2023/04/inline-instructor-note.png)
+![Inline Instructor Notes appear as expandable/collapsible boxes in the Instructor View of a lesson.](/blog/2023/04/inline-instructor-note.png)
 
 ## How can you get involved?
 

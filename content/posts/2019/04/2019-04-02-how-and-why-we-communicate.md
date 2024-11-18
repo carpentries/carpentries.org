@@ -31,10 +31,10 @@ In the last week of January 2019, and as my first onboarding project, the Commun
   Our communications should strive to highlight relevant opportunities such as jobs, grants, fellowships, conferences, et al. and to apprise our community of pertinent issues by passing along information and discussing relevant trends on data, software, inclusive teaching, accessibility, etc. as they arise.
   
 <div style="text-align: left">
-  [![XKCD illustration 1810 on chat systems]({{ site.urlimg }}/blog/2019/04/xkcd_1810_chat_systems.png)](https://xkcd.com/1810/)
+  [![XKCD illustration 1810 on chat systems](/blog/2019/04/xkcd_1810_chat_systems.png)](https://xkcd.com/1810/)
 </div>
 <div style="text-align: right">
-  [![Creative Commons Non-Commercial license icon - CC BY NC]({{ site.urlimg }}/blog/2019/04/cc_by_nc.png)](https://xkcd.com/license.html)
+  [![Creative Commons Non-Commercial license icon - CC BY NC](/blog/2019/04/cc_by_nc.png)](https://xkcd.com/license.html)
 </div>
 
 As part of this exercise and building up to a communications strategy, we revived The Carpentries Conversations repository and revisited [Carpentries/Conversations#1](https://github.com/carpentries/conversations/issues/1) which, thanks to Erin Becker and Tracy K. Teal, first set the tone for how we communicate at The Carpentries two years ago. 
@@ -46,7 +46,7 @@ As we are now at the tail end of 2019’s first quarter, the first phase of our 
 Here’s a short analogy to help summarise what our communications strategy encompasses:<br> 
 Consider a body of water separating two inhabited land masses and with three ways to traverse from one land mass to the other: a ten-minute boat ride, an hour-long walk across a footbridge, and a twenty-minute trip in a hot-air balloon. No specific option suits all inhabitants, and all modes of movement are made available to all equally, with reasonable constraints for each, as one might expect i.e. one must have a life vest to go on the boat, or time to spare to use the foot bridge. At a meta level, this analogy explains what we have discovered about interactions in The Carpentries’ community so far, and it is this:
 
- ![fragmentation by platform use is a challenge we already have, but one that also helps us meet our community where they are. ]({{ site.urlimg }}/blog/2019/04/fragmentation_by_platform_use.png)
+ ![fragmentation by platform use is a challenge we already have, but one that also helps us meet our community where they are. ](/blog/2019/04/fragmentation_by_platform_use.png)
 
 Because our community is made up of librarians, researchers, scientists, developers, designers, data scientists, data analysts and more from different domains and geographical locations, **fragmentation of discussions by the platforms our community members prefer or are limited to is in fact not a bug, but a feature**. We will embrace and use this as a premise in implementing our communications strategy in this second quarter.
 

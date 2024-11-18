@@ -11,11 +11,11 @@ tags: ["Carpentries25", "Community", "Events", "Africa", "Australasia", "North A
 On 24 July 1998, the first Software Carpentry workshop, led by Greg Wilson and Brent Gorda,  came to a close. The workshop aimed to teach researchers skills 
 to work more effectively with their data. 
   
-![Image of the attendees of the first ever Software Carpentries workshop]({{ site.urlimg }}/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg)
+![Image of the attendees of the first ever Software Carpentries workshop](/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg)
 
 *Image by Greg Wilson of attendees at the first Software Carpentry workshop in 1998.*
 
-![Timeline of the history of the Carpentries]({{ site.urlimg }}/blog/2023/07/2023-07-05-carpentries-timeline.png)
+![Timeline of the history of the Carpentries](/blog/2023/07/2023-07-05-carpentries-timeline.png)
 
 *Timeline signifying milestones in the history of The Carpentries.*
 
@@ -33,7 +33,7 @@ Each month’s regional focus will include a virtual event with community member
 
 * **Register for our launch event** on 24 July, 19:00 UTC ([find your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+25+Launch+Event&iso=20230724T19&p1=1440&ah=1); [add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/NjlwdDc4NTc1bHY2ajZnZTk4YTM0c3BlNWMgYWx5Y2lhQGNhcnBlbnRyaWVzLm9yZw/b3NjYXIubWFzaW55YW5hQGNhcnBlbnRyaWVzLm9yZw)) and [receive notifications of upcoming events as part of this series](https://www.eventbrite.com/e/the-carpentries-25th-anniversary-celebration-series-tickets-653267058357?aff=oddtdtcreator) throughout the remainder of the year.
 
-![Poster announcement of the launch event with pictures of the 4 guests]({{ site.urlimg }}/blog/2023/07/2023-07-05-carpentries25-launch-event.png)
+![Poster announcement of the launch event with pictures of the 4 guests](/blog/2023/07/2023-07-05-carpentries25-launch-event.png)
 
 * **Follow and contribute to the celebration** on [Mastodon](https://fosstodon.org/@thecarpentries), [Facebook](https://www.facebook.com/carpentries/), [LinkedIn](https://www.linkedin.com/company/the-carpentries), [YouTube](https://www.youtube.com/thecarpentries), and [Twitter](https://twitter.com/thecarpentries) using the hashtag #Carpentries25.
 

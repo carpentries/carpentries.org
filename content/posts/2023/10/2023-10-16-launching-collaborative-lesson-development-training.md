@@ -10,7 +10,7 @@ tags: ["Curriculum", "Collaborative Lesson Development Training"]
 
 The Carpentries is launching a new program of Collaborative Lesson Development Training.
 
-<img alt="Collaborative Lesson Development Training hex sticker design" src="{{ site.urlimg }}/blog/2023/10/CLDT-hex-sticker.png" style='display: block; margin-left: auto; margin-right: auto; width: 33%;'>
+<img alt="Collaborative Lesson Development Training hex sticker design" src="/blog/2023/10/CLDT-hex-sticker.png" style='display: block; margin-left: auto; margin-right: auto; width: 33%;'>
 
 Following a couple of [pilot events][cldt-pilot] for the curriculum,
 and a first round of Lesson Developer Trainer Training,
@@ -53,7 +53,7 @@ The target audience of Collaborative Lesson Development Training is groups of co
 Collaborative Lesson Development Training
 is designed to be taught over six half days, divided into two parts.
 
-<img alt="Structure of Collaborative Lesson Development Training" src="{{ site.urlimg }}/blog/2023/10/CLDT-structure.svg">
+<img alt="Structure of Collaborative Lesson Development Training" src="/blog/2023/10/CLDT-structure.svg">
 
 In the first part (four half days) trainees will be introduced to
 a process for lesson design and development

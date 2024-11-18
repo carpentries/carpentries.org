@@ -20,11 +20,11 @@ While Bug BBQs are distributed events, they also provide an opportunity for loca
 The Bug BBQ was a success in catalysing a high volume of activity from the community across all of our lesson repositories. Overall, 224 issues or pull requests were opened and/or closed during the Bug BBQ. This represents a significant increase in activity above our baseline and shows that our community really pulled together to contribute collectively during these two days.
 
 
-<img src="{{ site.urlimg }}/blog/2018/04/n_issues-1.png" title="plot of chunk n_issues" alt="plot of chunk n_issues" width="100%" />
+<img src="/blog/2018/04/n_issues-1.png" title="plot of chunk n_issues" alt="plot of chunk n_issues" width="100%" />
 
 A large proportion of these issues and pull requests (137 of 224) were made to the Geospatial and Social Science repositories, which are in the process of being prepared for their first publication this year. We had 74 unique contributors who interacted with issues and pull requests during the Bug BBQ. This is a huge win for our community!
 
-<img src="{{ site.urlimg }}/blog/2018/04/visits-1.png" title="plot of chunk visits" alt="plot of chunk visits" width="100%" />
+<img src="/blog/2018/04/visits-1.png" title="plot of chunk visits" alt="plot of chunk visits" width="100%" />
 
 
 Thank you to all of you who contributed during the Bug BBQ. We hope you had a great experience working on these lessons and interacting
