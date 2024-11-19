@@ -8,6 +8,7 @@ widgets:
 aliases:
 - /values/
 - /eia/
+- /about/
 ---
 
 
