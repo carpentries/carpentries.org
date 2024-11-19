@@ -3,7 +3,7 @@ layout: page
 authors: ["Oscar Masinyana", "Maneesha Sane"]
 teaser: "Most of the content on the three lesson programs' websites will now be accessed from the main Carpentries website."
 title: "Lesson programs' websites content pared down"
-Date: 2024-07-30
+date: 2024-07-30
 time: "18:00:00"
 tags: ["Data Carpentry", "Library Carpentry", "Software Carpentry", "Announcements"]
 ---
