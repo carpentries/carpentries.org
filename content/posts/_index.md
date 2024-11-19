@@ -5,4 +5,6 @@ cascade:
  type: 'post'
 widgets:
 - blog-links
+aliases:
+- /blog/archive/
 ---
