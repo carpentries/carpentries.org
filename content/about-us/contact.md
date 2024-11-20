@@ -26,7 +26,7 @@ If you would like to ask us anything about The Carpentries, its community, and i
 * [LinkedIn]({{< param linkedin >}})
 
 
-## By mail:
+## By mail
 
 The Carpentries\
 c/o Community Initiatives\
