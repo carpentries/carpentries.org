@@ -3,7 +3,7 @@ layout: page
 authors: ["Sarah Stevens"]
 teaser: "How my time and financial contributions support our community and the organisation’s mission"
 title: "Celebrate #GivingTuesday with The Carpentries Community"
-Date: 2023-11-28
+date: 2023-11-28
 time: "10:00:00"
 tags: ["Philanthropy", "Gratitudes"]
 ---

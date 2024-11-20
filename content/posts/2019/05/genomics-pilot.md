@@ -9,6 +9,7 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Jason Williams", "Erin Becker", "François Michonneau"]
+date: 2019-05-15
 --- 
 
 **This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**

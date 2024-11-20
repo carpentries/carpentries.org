@@ -3,7 +3,7 @@ layout: page
 authors: ["Eric Jankowski", "François Michonneau", "Jennifer Stubbs", "Laurent Gatto", "Charlotte Soneson", "Malvika Sharan", "Alycia Crall", "Toby Hodges"]
 teaser: "Reflections from the community on our new lesson infrastructure"
 title: "Celebrating The Carpentries Workbench"
-Date: 2023-08-21
+date: 2023-08-21
 time: "18:00:00"
 tags: ["Carpentries Workbench", "Community", "Lesson Infrastructure", "Lessons"]
 ---

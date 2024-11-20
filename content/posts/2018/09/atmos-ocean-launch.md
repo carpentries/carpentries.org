@@ -9,6 +9,7 @@ comments: true
 show_meta: true
 tags: ["Workshops", "Data Carpentry"]
 authors: ["Damien Irving"]
+date: 2018-09-04
 --- 
 
 **This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**

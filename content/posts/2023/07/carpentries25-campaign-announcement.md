@@ -3,7 +3,7 @@ layout: page
 authors: ["Alycia Crall", "Oscar Masinyana"]
 teaser: "Join us in sharing the contributions and impact the community has made over the years."
 title: "Celebrating 25 Years of The Carpentries"
-Date: 2023-07-05
+date: 2023-07-05
 time: "18:00:00"
 tags: ["Carpentries25", "Community", "Events", "Africa", "Australasia", "North America", "Latin America"]
 ---
