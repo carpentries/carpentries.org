@@ -1,4 +1,5 @@
 ---
+date: 2016-11-16
 layout: page
 authors: ["Erin Becker", "Greg Wilson"]
 title: "Open Instructor Training"
