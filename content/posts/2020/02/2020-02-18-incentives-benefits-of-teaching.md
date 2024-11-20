@@ -3,7 +3,7 @@ layout: page
 authors: ["Aleksandra Nenadic"]
 teaser: "Aleksandra Nenadic, our Carpentries Regional Coordinator in the UK, and SSI's Training Lead shares why more should be involved in teaching coding and data science skills "
 title: "Incentives and Benefits of Getting Involved in Teaching Researchers"
-Date: 2020-02-18
+date: 2020-02-18
 time: "09:00:00"
 tags: ["Teaching", "Regional Coordinators"]
 ---

@@ -3,7 +3,7 @@ layout: page
 authors: ["Zhian N. Kamvar"]
 teaser: "Transitioning and Adapting to New Challenges"
 title: "Updates on The Carpentries Lesson Infrastructure"
-Date: "2023-06-28"
+date: "2023-06-28"
 time: "09:00:00"
 tags: ["Lesson Infrastructure", "Carpentries Workbench", "Dovetail", "Community", "Carpentries Team", "Core Team", "Curriculum"]
 ---

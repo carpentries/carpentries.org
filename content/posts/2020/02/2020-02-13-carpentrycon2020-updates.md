@@ -3,7 +3,7 @@ layout: page
 authors: ["CarpentryCon Task Force"]
 teaser: "Here's a helpful roundup from CarpentryCon Task Force on how to prepare for, contribute towards and stay updated about CarpentryCon 2020"
 title: "CarpentryCon 2020 - Updates from The Task Force"
-Date: 2020-02-13
+date: 2020-02-13
 time: "09:00:00"
 tags: ["CarpentryCon"]
 ---
