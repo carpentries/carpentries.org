@@ -1,4 +1,5 @@
 ---
+date: 2016-09-12
 layout: page
 authors: ["Tracy Teal", "Kate Hertweck"]
 title: "September Carpentries Community Call"

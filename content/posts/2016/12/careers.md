@@ -1,4 +1,5 @@
 ---
+date: 2016-12-21
 layout: page
 authors: ["Lauren Michael", "Christina Koch", "Erin Becker"]
 title: "Career Pathways Panel Discussions"

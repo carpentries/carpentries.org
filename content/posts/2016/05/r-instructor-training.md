@@ -1,4 +1,5 @@
 ---
+date: 2016-05-17
 layout: page
 authors: ["Greg Wilson", "Laurent Gatto"]
 title: "R Instructor Training Applications Open"

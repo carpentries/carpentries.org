@@ -3,7 +3,7 @@ layout: page
 authors: ["Oscar Masinyana", "Maneesha Sane"]
 teaser: "The three lesson programs' blog posts have been merged into The Carpentries blog"
 title: "Lesson programs' blog posts migration"
-Date: 2024-03-20
+date: 2024-03-20
 time: "18:00:00"
 tags: ["Data Carpentry", "Library Carpentry", "Software Carpentry", "Announcements"]
 ---
