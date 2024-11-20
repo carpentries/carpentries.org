@@ -19,6 +19,10 @@ If you would like to ask us anything about The Carpentries, its community, and i
 * Curriculum enquiries: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
 * Code of Conduct Committee enquiries: [{{< param coc_email >}}](mailto:{{< param coc_email >}})
 
+## On Slack
+
+* [General Slack Channel](https://carpentries.slack.com/archives/C03LE48AY)
+
 ## On social media
 
 * [YouTube]({{< param youtube >}})
