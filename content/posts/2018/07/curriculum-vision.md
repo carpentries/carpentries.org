@@ -6,6 +6,7 @@ category: ["blog"]
 tags: ["Curriculum"]
 comments: true
 show_meta: true
+date: 2018-07-31
 ---
 
 The Carpentries has seen a growing interest in individuals, research groups, and institutions wanting to develop lessons for their own domain of research. We are very excited by the potential brought by this growth. Diversifying our lesson offerings means we can extend our reach to new communities, and further disseminate our practices of teaching and collaborative lesson development. We also want to ensure that the lessons we offer remain as the high quality level as our members, Instructors, and learners expect. Here, we outline our vision and plans to support this growth in curricula while sustaining existing lessons and our organisation. Between now and early 2019, we will be focusing on establishing the infrastructure needed to support lesson development and scaling up our lesson offerings. Starting in January 2019, we’ll have new pathways to onboard lessons. 

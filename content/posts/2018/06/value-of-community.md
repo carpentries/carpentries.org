@@ -6,6 +6,7 @@ category: ["blog"]
 comments: true
 show_meta: true
 tags: ["Community"]
+date: 2018-06-12
 ---
 
 [Belinda Weaver has already given a great overview of CarpentryCon](https://carpentries.org/blog/2018/06/carpentry-con-report/),

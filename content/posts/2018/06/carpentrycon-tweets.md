@@ -5,6 +5,7 @@ authors: ["François Michonneau"]
 category: ["blog"]
 comments: true
 show_meta: true
+date: 2018-06-11
 ---
 
 

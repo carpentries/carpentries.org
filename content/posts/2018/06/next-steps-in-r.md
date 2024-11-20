@@ -6,6 +6,7 @@ category: ["blog"]
 permalink: "/2018/06/next-steps-in-r"
 comments: true
 show_meta: true
+date: 2018-06-19
 ---
 
 A three-hour workshop called "Next Steps in R" was offered on Day 3 (June 1st, 2018) of [CarpentryCon 2018](http://carpentrycon.org), and approximately 14 people attended. The intended audience were those who had previous experience using R, ideally dabbling with components of the [tidyverse](https://www.tidyverse.org/) like `{dplyr}` or `{ggplot2}`, and who wanted to take their skills to the next level. Specifically, the goal of this workshop was not only for learners to acquire new data manipulation skills, but also to practice using these skills while considering the thought processes behind developing workflow pipelines. Essentially, if you are dealing with a single or multiple data sets, and want to get from point A to point B, *what tools are available?*, and *what do you need to think about when using them?*

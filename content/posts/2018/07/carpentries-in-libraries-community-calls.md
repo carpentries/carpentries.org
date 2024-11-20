@@ -5,6 +5,7 @@ title: "Carpentries in the Libraries Community Calls"
 teaser: "Time to talk about data and software skills in libraries"
 tags: ["Library Carpentry", "Community Calls"]
 category: ["blog"]
+date: 2018-07-11
 --- 
 
 **This post originally appeared on the [Library Carpentry website](https://librarycarpentry.org)**
