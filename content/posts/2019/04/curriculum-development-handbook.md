@@ -8,6 +8,8 @@ time: "09:00:00"
 tags: ["Curriculum"]
 ---
 
+*Note (2024-12-09): The Curriculum Development Handbook has been retired. Its content has been incorporated into the new [Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers.md), the curriculum for [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) and other sections of the [Community Handbook](https://docs.carpentries.org/).*
+
 *Note (2020-02-03): The Curriculum Development Handbook is contiually being developed, so the links below may change. The main page of the Curriculum Development Handbook can be found at https://cdh.carpentries.org/*
 
 A key value of community is the horizontal transmission of culture - sharing mistakes we’ve made and lessons we’ve learned so that things are easier for the next person. In our [Instructor Training](https://carpentries.github.io/instructor-training/) program, we prepare new instructors to teach existing content using evidence-based teaching methods. The spirit of Carpentries lessons, however, doesn’t lie in reproducing the script faithfully and teaching the content “as is”. Every time our lessons are taught, they’re a little bit different, as Instructors try things out, learn, and (hopefully) contribute back to the lessons so that others can benefit from their experiences. Because of the innovation of our Instructors, and the value our community places on iteration and collaborativity, The Carpentries’ lessons get stronger every time they are taught. 
