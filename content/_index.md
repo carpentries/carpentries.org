@@ -5,7 +5,7 @@ blocks:
 - layout: select-cta
   options:
     - copy: Host a workshop
-      url: /host/host-workshop/
+      url: /workshops/host-workshop/
     - copy: Become a member organisation
       url: /support/membership/
     - copy: Become a volunteer
