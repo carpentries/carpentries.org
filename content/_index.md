@@ -13,7 +13,7 @@ blocks:
     - copy: Become an Instructor
       url: /instructor-training/
 - layout: hero
-  title: We teach foundational coding and data science skills to researchers worldwide.
+  title: The Carpentries teaches foundational coding and data science skills to researchers worldwide.
   image: /images/hero-background.jpg
   text_color: white
 - layout: stats
