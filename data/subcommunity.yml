@@ -1160,6 +1160,6 @@ subcommunities:
     - mastodon: 
     - instagram: 
     - facebook: 
-    - linkedin: 
+    - linkedin: https://www.linkedin.com/groups/13126506/
     - github: https://github.com/carpentries-israel
 
