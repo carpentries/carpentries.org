@@ -16,22 +16,15 @@ tags: ["Philanthropy", "Gratitudes"]
 
 With that gratitude, we again appeal to you for your further support for [our mission and vision](https://carpentries.org/about-us/#our-vision) by donating on this #GivingTuesday any amount you feel comfortable with. Your continued generosity will support our transition to independence!
 
-<a href="https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8">
-        <button class="btn">
-            Donate to The Carpentries
-        </button>
-</a>
-
+[Donate to The Carpentries](https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8)
+{.button}
 
 The Carpentries is in the process of [transitioning out of fiscal sponsorship](https://carpentries.org/blog/2023/08/Carpentries-transition-to-independent-status/) to operate as an independent 501(c)(3) non-profit organisation (NPO), and we are seeking donations from individuals who wish to support our desire for independence to carry out our global mission to train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. 
 
 This move towards independence will empower The Carpentries to have greater autonomy, allowing us the flexibility to innovate, experiment, and respond swiftly to emerging trends and challenges in data science and education.
 
-<a href="https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8">
-        <button class="btn">
-            Donate to The Carpentries
-        </button>
-</a>
+[Donate to The Carpentries](https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8)
+{.button}
 
 ### Why donate money in addition (or as an alternative) to your time?
 
@@ -39,11 +32,8 @@ In her appeal to the community on #GivingTuesday last year, our Board member Sar
 
 She wrote, “I have witnessed the funding struggles in academia related to relying on grant funding. Specifically, grants often fund novel efforts, [and] new programs the organisation is interested in pursuing. These funds do not typically fund staffing or ongoing work, which are vital for any organisation to maintain its efforts.” She then pointed out that, “This is why The Carpentries needs more “unrestricted” funding, like that available through donations, which can be allotted to ongoing activities not covered by grant funding restrictions.” Read the rest of Sarah’s appeal from last year in [Celebrate #GivingTuesday with The Carpentries Community](https://carpentries.org/blog/2023/11/celebrate-givingtuesday-with-the-carpentries/). 
 
-<a href="https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8">
-        <button class="btn">
-            Donate to The Carpentries
-        </button>
-</a>
+[Donate to The Carpentries](https://give.communityin.org/TheCarpentries?ref=ab_3YLLe3LMyx83YLLe3LMyx8)
+{.button}
 
 ### Reach out to other individuals to donate to The Carpentries
 
