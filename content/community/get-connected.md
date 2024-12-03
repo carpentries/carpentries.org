@@ -10,6 +10,16 @@ aliases:
 
 ## Subcommunity Registry 
 
+The registry is designed to:
+
+- Highlight subcommunities and their activities to increase visibility.
+- Connect members with subcommunities that align with their interests and offer engagement opportunities.
+- Support recruitment efforts by helping subcommunities attract new members.
+
+### How to Register Your Subcommunity
+
+A [registration form](https://forms.gle/t9zqxhyeGLGiSGFe7) is available for subcommunities to provide information about their ongoing activities, websites, and communication channels. If you’re unsure whether your subcommunity should register or have questions, please email the [Community Engagement Team](mailto:community@carpentries.org). 
+
 {{< subcommunity >}}
 
 
