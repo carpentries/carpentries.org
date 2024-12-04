@@ -1106,3 +1106,60 @@ subcommunities:
     - facebook: 
     - linkedin: 
     - github: https://github.com/ukrainian-carpentries 
+
+- name: Carpentries-Israel
+  type:
+    - geographic_local: true
+    - geographic_regional: 
+    - language: 
+    - domain:
+    - interest:
+    - other: 
+  member:  
+  description: Carpentries-Israel began in 2024 with a Data Carpentry workshop in collaboration with ELIXIR and US-RSE that included learners from 8 Israeli research institutions. Carpentries-Israel aims to grow a local community of Carpentries instructors in order to meet the high level of interest for more Carpentries workshops hosted in Israel.
+  activities: 
+    - carpentry_connect: 
+    - communication: true
+    - prof_dev: true
+    - sow: true
+    - fundraising: 
+    - student_programs: 
+    - translation:
+    - mentoring: true
+    - other: 
+  volunteers: true
+  logo: /images/il.jpg
+  location: Israel
+  country: IL
+  website: https://carpentries-israel.github.io/
+  tags:
+    - assessment:
+    - carpentry_connect: 
+    - communication:
+    - community_discussion:
+    - curriculum: 
+    - events: 
+    - governance:
+    - inperson_workshops: true
+    - instructor_development: true
+    - instructor_training:
+    - internationalisation: 
+    - membership:
+    - mentoring: 
+    - online_workshops: 
+    - teaching: 
+    - other: 
+  contact:
+    - email: 
+    - slack: "carpentries-israel workspace"
+    - mailing_list: 
+    - contact_form: https://forms.gle/tEtkFrugxrEng7Ss7
+    - contact_person:
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: https://www.linkedin.com/groups/13126506/
+    - github: https://github.com/carpentries-israel
+
