@@ -21,8 +21,8 @@ If you would like to ask us anything about The Carpentries, its community, and i
 
 ## On Slack
 
-* [Join The Carpentries Slack Workspace](https://slack-invite.carpentries.org/) 
-* [Log into The Carpentries General Slack Channel](https://carpentries.slack.com/archives/C03LE48AY)
+* [Join The Carpentries Slack Workspace]({{< param slack_invite >}}) 
+* [Log into The Carpentries General Slack Channel]({{< param slack >}}/archives/C03LE48AY)
 
 ## On social media
 
