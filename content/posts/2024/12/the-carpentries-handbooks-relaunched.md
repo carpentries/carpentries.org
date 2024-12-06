@@ -3,7 +3,7 @@ layout: page
 authors: ["Oscar Masinyana", "Maneesha Sane"]
 teaser: "Handbooks for the various Carpentries volunteer roles and resources are relaunched today!"
 title: "The Carpentries’ Handbooks Relaunched!"
-Date: 2024-12-05
+Date: 2024-12-09
 time: "09:00:00"
 tags: ["Instructor Trainers", "Instructors", "Maintainers", "Community", "Handbook"]
 ---
