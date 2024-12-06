@@ -14,7 +14,7 @@ Furthermore, these Handbooks are also accompanied by curated general resources f
 
 The relaunch of the Handbooks follows shortly after we [launched the new websites of The Carpentries and its three lesson programs](https://carpentries.org/blog/2024/11/the-carpentries-websites-relaunched/). Although all these platforms are interlinked, the Handbooks contain detailed information for active volunteers in onboarded roles or for community members already familiar with The Carpenries’ operations. The websites, on the other hand, are designed primarily for members fairly new to our community or members of the general public wanting to familiarise themselves with The Carpentries. 
 
-## We welcome feedback
+## We Welcome Feedback
 As with the relaunched websites, the Handbooks and their accompanying resources will also continue to be works in progress, and we invite any feedback you may already have as we continue to improve these resources. 
 
 If you come across something that is not working as it should or you have any other feedback or suggestions for us to consider, please [submit an issue on GitHub](https://github.com/carpentries/docs.carpentries.org) directly from the resource or email us at [team@carpentries.org](mailto:team@carpentries.org).  
