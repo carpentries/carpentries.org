@@ -45,7 +45,7 @@ In addition to [publicly posting meeting minutes](https://github.com/carpentries
 
 ### Carpentries Board of Directors Standing Committees
 
-Standing Committees are used by the Board as a practical way to manage the work and engagement of the Board. For a description of the different Standing Committees, please refer to [The Carpentries' Handbook](https://docs.carpentries.org/topic_folders/governance/board.html#board-of-directors-standing-committees).
+Standing Committees are used by the Board as a practical way to manage the work and engagement of the Board. 
 
 {{< committees >}}
 
@@ -56,7 +56,7 @@ Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by 
 
 ## Carpentries Bylaws and Policies
 
-[The Carpentries Bylaws can be found here](/governance/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html), we have several other policies that govern how we operate, including our [Privacy Policy](https://docs.carpentries.org/topic_folders/policies/privacy.html), our [Instructor 'no-show' policy](https://docs.carpentries.org/topic_folders/policies/instructor-no-show-policy.html) and [others](https://docs.carpentries.org/topic_folders/policies/index.html).
+[The Carpentries Bylaws can be found here](/governance/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct]({{< param handbook_url >}}/policies/coc/), we have several other policies that govern how we operate, including our [Privacy Policy]({{< param handbook_url >}}/policies/privacy.html), our [Instructor 'no-show' policy]({{< param handbook_url >}}/handbooks/instructors.html#instructor-training-attendance-policy) and [others]({{< param handbook_url >}}/policies).
 
 
 ## Past Governance Members

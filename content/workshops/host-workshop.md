@@ -21,7 +21,7 @@ A **Centrally-Organised workshop** is an integrative approach to planning a Carp
 
 Once confirmed, WIT will introduce you to your team of Instructors who will work with you to create a schedule and get to know your target audience. Instructors assigned to your workshop will also ready a website to supply you and your learners with the information needed to prepare for the workshop. With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
 
-To learn more about organising a Carpentries workshop, please visit [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).
+To learn more about organising a Carpentries workshop, please visit [The Carpentries Handbook]({{< param handbook_url >}}/resources/workshops/).
 
 ## Curriculum Requirements for Centrally-Organised Workshops 
 
@@ -57,7 +57,7 @@ Once you have requested your workshop, you can expect the following:
 * **Instructors Connected**: we will confirm Instructors at least four weeks before the start of the workshop. Because our Instructors are volunteers, there is sometimes a delay in recruiting Instructors. If this happens, we will let you know at least four weeks before the start of the workshop so that alternative options can be discussed
 * **Workshop**: Instructors will join you and your learners to teach a hands-on, data skills and coding workshop at your organisation!
 
-For a more detailed review of the workshop organisation process, please visit the [Workshop Host Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist).
+For a more detailed review of the workshop organisation process, please visit the [Workshop Host Checklist]({{< param handbook_url >}}/resources/workshops/checklists.html#host-checklist).
 
 ## Workshop Pricing 
 

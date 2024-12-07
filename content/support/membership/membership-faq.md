@@ -34,7 +34,7 @@ Yes. The Carpentries memberships are annual memberships, extending for a period 
 {{< /accordion >}}
 
 {{< accordion title="Are any discounts available?" >}}
-Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), who engage in
+Organisations supporting [Instructor Trainers]({{< param handbook_url >}}/handbooks/instructor_trainers.html#roles-and-responsibilities), who engage in
 service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount to their membership fee
 equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount or as added benefits.  This discount is available at any membership level, for each trainer who has participated in the following up to 1 year prior to renewal:
 * teach at least two (2) Instructor Training events for the global Carpentries community.
@@ -123,11 +123,11 @@ for their region. Individuals purchasing seats a la carte will receive equal pri
 {{< /accordion >}}
 
 {{< accordion title="What is the attendance policy for Instructor Training?" >}}
-In the case of [no shows](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#no-shows), if extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}). **IMPORTANT**: Requests to re-register must be received within **7 days after** the end date of the training. 
+In the case of [no shows]({{< param handbook_url >}}/handbooks/instructors.html#no-shows), if extenuating circumstances have prevented a trainee from cancelling, contacting, or attending an event, they may request permission to register for an additional event using the same registration code by emailing [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}). **IMPORTANT**: Requests to re-register must be received within **7 days after** the end date of the training. 
 
-In the event of [partial absences](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#partial-absence) trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. 
+In the event of [partial absences]({{< param handbook_url >}}/handbooks/instructors.html#partial-absence) trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. 
 
-[Ineligibility for Makeup Opportunities](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html#ineligibility-for-makeup-opportunities): Trainees who miss an event **in full without cancelling within 7 days (no-show)** or who miss part of an event but **do not request a makeup opportunity within 7 days** are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}) to be advised on their options for re-admission.
+[Ineligibility for Makeup Opportunities]({{< param handbook_url >}}/handbooks/instructors.html#ineligibility-for-makeup-opportunities): Trainees who miss an event **in full without cancelling within 7 days (no-show)** or who miss part of an event but **do not request a makeup opportunity within 7 days** are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}) to be advised on their options for re-admission.
 {{< /accordion >}}
 
 ## Contact us
