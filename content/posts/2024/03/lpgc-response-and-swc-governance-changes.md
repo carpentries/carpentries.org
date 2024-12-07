@@ -20,7 +20,7 @@ With your support, we plan to **merge the Software Carpentry LPGC with the Softw
 
 Starting March 2024, the remit of the committee will be:
 1. Continue with former LPGC duties: auditing lessons, promoting incubator lessons, updating the curriculum (and coordinating big updates), communicating with key stakeholders, and general policy and governance for Software Carpentry.
-2. Continue with former CAC duties: approve major changes in lessons and support maintainers, as stated in the [CAC consultation rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
+2. Continue with former CAC duties: approve major changes in lessons and support maintainers, as stated in the [CAC consultation rubric]({{< param handbook_url >}}/handbooks/curriculum_advisors.html#curriculum-advisory-committee-consultation-rubric).
 4. Assist the Core Team when needed.
 
 Our first SWC Governors joint meeting was held on Thursday, 29th of February.

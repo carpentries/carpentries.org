@@ -41,5 +41,5 @@ For 2024, we are already aware of two upcoming CarpentryConnect events that comm
 ## Thank You
 Each of you serves as a catalyst for positive change, embodying the remarkable impact a unified community can achieve. While we've made adjustments in certain areas, our mission remains impactful, and our vision remains steadfast. 
 
-As a reminder, there are opportunities to [lead CarpentryCon-type programming all year](https://carpentries.org/blog/2023/04/new-community-programming/)! We will soon open the call for Q3 and Q4 and want you to [sign up to offer a Skill-up, Collaborative, or Community Discussion Session](https://docs.carpentries.org/topic_folders/communications/guides/community_events.html). Thank you for your continued support and involvement in Carpentries programming!
+As a reminder, there are opportunities to [lead CarpentryCon-type programming all year](https://carpentries.org/blog/2023/04/new-community-programming/)! We will soon open the call for Q3 and Q4 and want you to [sign up to offer a Skill-up, Collaborative, or Community Discussion Session]({{< param handbook_url >}}/handbooks/community_session_host.html). Thank you for your continued support and involvement in Carpentries programming!
 

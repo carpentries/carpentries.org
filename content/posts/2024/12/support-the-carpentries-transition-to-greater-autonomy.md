@@ -37,6 +37,6 @@ She wrote, “I have witnessed the funding struggles in academia related to rely
 
 ### Reach out to other individuals to donate to The Carpentries
 
-You can also support our fundraising efforts by reaching out to any individuals you think might be interested in donating to The Carpentries. We have updated the [Donation Request Letter template](https://docs.carpentries.org/topic_folders/fundraising/donation-request-resources.html) in our Handbook for you to reuse in this effort. 
+You can also support our fundraising efforts by reaching out to any individuals you think might be interested in donating to The Carpentries. We have updated the [Donation Request Letter template]({{< param handbook_url >}}/resources/general/donation-request-resources.html) in our Handbook for you to reuse in this effort. 
 
 We appreciate how you give to The Carpetries, and we are so excited for what the future holds for our organisation as we transition out of fiscal sponsorship into independent NPO status. We look forward to your continued support, in whatever capacity you can give, and your continued engagements with us as an independent entity! The Carpentries is and will continue to be, all that it is through your generous support and contributions. 
