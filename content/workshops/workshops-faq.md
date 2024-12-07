@@ -76,12 +76,12 @@ The details of how you will manage the Instructors’ travel is discussed once t
 
 {{< accordion title="Who can be a helper and what do they contribute to the workshop?" >}}
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
+Helpers are often recruited from the local community at the host site to support Carpentries workshops. Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process. [Here]({{< param handbook_url >}}/resources/workshops/checklists.html#helper-checklist) is more information regarding helpers.
 {{< /accordion >}}
 
 {{< accordion title="Are helpers reimbursed for travel?" >}}
 
-The Carpentries is not responsible for selecting helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{< param handbook_url >}}/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist) is more information regarding helpers.
+The Carpentries is not responsible for selecting helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{< param handbook_url >}}/resources/workshops/checklists.html#helper-checklist) is more information regarding helpers.
 {{< /accordion >}}
 
 {{< accordion title="As an Instructor, will I still get credit for a workshop if the host cancelled?" >}}
@@ -127,7 +127,7 @@ These channels were designed specifically for community members to communicate a
 
 {{< accordion title="I have never taught an online workshop, where should I begin?" >}}
 
-You can review the [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html) in our handbook.
+You can review the [Resources for Online Workshops]({{< param handbook_url >}}/resources/workshops/resources_for_online_workshops.html) in our handbook.
 {{< /accordion >}}
 
 {{< accordion title="How do I indicate my workshop will be online in the workshop website template?" >}}
@@ -142,14 +142,14 @@ Your workshop does not have to be two full days. You are encouraged to conduct y
 
 {{< accordion title="Will I be provided with a Zoom room to run my online workshop?" >}}
 
-Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html).
+Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Resources for Online Workshops]({{< param handbook_url >}}/resources/workshops/resources_for_online_workshops.html).
 
 For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms.
 {{< /accordion >}}
 
 {{< accordion title="How many Instructors are needed to teach the workshop?" >}}
 
-Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [Resources for Online Workshops]({{< param handbook_url >}}/topic_folders/hosts_instructors/resources_for_online_workshops.html).
+Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [Resources for Online Workshops]({{< param handbook_url >}}/resources/workshops/resources_for_online_workshops.html).
 {{< /accordion >}}
 
 
@@ -197,7 +197,7 @@ Voting eligibility is dependent on an Instructor's history with The Carpentries.
 
 {{< accordion title="Are there email templates available for me to locate helpers?" >}}
 
-We have compiled several [email templates]({{< param handbook_url >}}/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) for you to be able to respond to various groups: participants, Instructors, and helpers.
+We have compiled several [email templates]({{< param handbook_url >}}/resources/workshops/email_templates.html) for you to be able to respond to various groups: participants, Instructors, and helpers.
 {{< /accordion >}}
 
 {{< accordion title="I do not see a [Regional Coordinator](/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?" >}}

@@ -7,7 +7,7 @@ aliases:
 
 ## The Carpentries Code of Conduct Committee
 
-The Carpentries is dedicated to developing and empowering a diverse community of enthusiasts around computational methods for research and data science. To facilitate this, The Carpentries has established a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) that governs behavior within the community. The Code of Conduct committee was established to enforce the Code and to manage any changes and updates to it.
+The Carpentries is dedicated to developing and empowering a diverse community of enthusiasts around computational methods for research and data science. To facilitate this, The Carpentries has established a [Code of Conduct]({{< param handbook_url >}}/policies/coc/) that governs behavior within the community. The Code of Conduct committee was established to enforce the Code and to manage any changes and updates to it.
 
 Our Goal:  
 To maintain, update, and enforce The Carpentries Code of Conduct (CoC).
@@ -24,7 +24,7 @@ The structure of the committee is such that a community member is the Chair of t
 Contacting the Committee:  
 Please email your concerns to [coc@carpentries.org](mailto:{{< param coc_email >}}). All correspondence will be treated in confidence.
 
-Our Governance Structure: Please see the [Code of Conduct Committee (CoCc) Governance document](https://docs.carpentries.org/topic_folders/policies/coc-governance.html) to find details on membership, onboarding, administration, positions, roles, and responsibilities.
+Our Governance Structure: Please see the [Code of Conduct Committee (CoCc) Governance document]({{< param handbook_url >}}/policies/coc/coc-governance.html) to find details on membership, onboarding, administration, positions, roles, and responsibilities.
 Current Committee Members
 Chair
 

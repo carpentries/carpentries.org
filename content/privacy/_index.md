@@ -5,4 +5,4 @@ cascade:
   nav: support
 ---
 
-Our full Privacy Policy can be found in our [Handbook](https://docs.carpentries.org/topic_folders/policies/privacy.html).
+Our full Privacy Policy can be found in our [Handbook]({{< param handbook_url >}}/policies/privacy.html).
