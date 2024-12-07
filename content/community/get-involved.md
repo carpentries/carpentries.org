@@ -13,7 +13,8 @@ You can get involved with The Carpentries by volunteering in one of our [communi
 
 * We also keep our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists.
 	
-	* [General Slack Channel](https://carpentries.slack.com/archives/C03LE48AY)
+	* [Join The Carpentries Slack Workspace]({{< param slack_invite >}}) 
+	* [Log into The Carpentries General Slack Channel]({{< param slack >}}/archives/C03LE48AY)
 	* [Regional Subcommunities](/community/get-connected/#subcommunity-registry)
 	* [CarpentryCon](#carpentrycon) - our in-person meetup for our global community
 	* [CarpentryConnects](#carpentryconnects) - regional community conferences organised by local community members in The Carpentries
