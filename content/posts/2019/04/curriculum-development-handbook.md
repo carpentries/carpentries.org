@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Curriculum"]
 ---
 
-*Note (2024-12-09): The Curriculum Development Handbook has been retired. Its content has been incorporated into the new [Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers.md), the curriculum for [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) and other sections of the [Community Handbook](https://docs.carpentries.org/).*
+*Note (2024-12-09): The Curriculum Development Handbook has been retired. Its content has been incorporated into the new [Lesson Developer Handbook]({{< param handbook_url >}}/handbooks/lesson_developers.html), the curriculum for [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/) and other sections of the [Community Handbook]({{< param handbook_url >}}).*
 
 *Note (2020-02-03): The Curriculum Development Handbook is contiually being developed, so the links below may change. The main page of the Curriculum Development Handbook can be found at https://cdh.carpentries.org/*
 
