@@ -1,4 +1,4 @@
-name: S3/CloudFront deployment beta.carpentries.org
+name: S3/CloudFront deployment carpentries.org
 
 on:
   push:
