@@ -1,7 +1,7 @@
 ---
 title: Our Maintainers
 hideToc: true
-aliaes:
+aliases:
 - /maintainers/
 ---
 

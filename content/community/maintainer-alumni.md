@@ -1,7 +1,7 @@
 ---
 title: Our Maintainer Alumni 
 hideToc: true
-aliaes:
+aliases:
 - /maintainer-alumni/
 - /maintainer_alumni/
 ---

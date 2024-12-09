@@ -41,7 +41,7 @@ equivalent to six (6) seats in Instructor Training per active Instructor Trainer
 {{< /accordion >}}
 
 {{< accordion title="How can I find out if my institution already has a membership?" >}}
-A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like
+A list of our [current Member organisations](/members/) can be found on our website. If you would like
 help in making contact with the person in charge of your institutional membership, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
