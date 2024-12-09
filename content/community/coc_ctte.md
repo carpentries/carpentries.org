@@ -22,7 +22,7 @@ Our Leadership:
 The structure of the committee is such that a community member is the Chair of the Committee. In addition, a Core Team liaison is part of the committee, and a member of the Board of Directors serves as a Board liaison.
 
 Contacting the Committee:  
-Please email your concerns to [coc@carpentries.org](mailto:{{< param coc_email >}}). All correspondence will be treated in confidence.
+Please email your concerns to [{{< param coc_email >}}](mailto:{{< param coc_email >}}). All correspondence will be treated in confidence.
 
 Our Governance Structure: Please see the [Code of Conduct Committee (CoCc) Governance document]({{< param handbook_url >}}/policies/coc/coc-governance.html) to find details on membership, onboarding, administration, positions, roles, and responsibilities.
 Current Committee Members
