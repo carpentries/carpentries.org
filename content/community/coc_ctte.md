@@ -31,7 +31,7 @@ Chair
 [D. Sarah Stamps](https://github.com/dsarahstamps) is an Associate Professor of Geophysics at Virginia Tech in the Department of Geosciences. She runs the Geodesy and Tectonophysics Laboratory, which is a research group that conducts research that entails measuring the Earth’s surface motions with millimeter precision and using computational modeling to understand the physical processes driving the Earth’s volcanoes, earthquakes, and continental deformation while training future leaders that are culturally effective. She is the current chair of the CoC committee.
 CoC Liaisons
 
-Core Team Liaison: [Kari L. Jordan](https://github.com/kariljordan) is the Executive Director at The Carpentries and serves as the [Core Team](https://carpentries.org/team/) liaison to the CoC Committee.
+Core Team Liaison: [Kari L. Jordan](https://github.com/kariljordan) is the Executive Director at The Carpentries and serves as the [Core Team](/team/) liaison to the CoC Committee.
 
 Board of Directors Liaison: [Jannetta Steyn](https://github.com/jsteyn) is a senior research software engineer at Newcastle university. She has been an instructor since 2020 and instructor trainer since 2021. She is also the convenor of the [CarpentriesOffline](https://carpentriesoffline.org/) development team. Jannetta is an elected member of the Board of Directors and serves as the liaison to the Code of Conduct committee.
 Volunteer Members
