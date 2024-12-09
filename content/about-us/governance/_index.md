@@ -29,7 +29,7 @@ The Advisory Committee must, at minimum, assume the following joint responsibili
 
 Contact the Advisory Committee by [sending an email](mailto:{{< param advisory_email >}}) or by [filling out this form](https://forms.gle/pLyUYUZhNBwaS3mb7).
 
-The Carpentries is working towards transitioning out of fiscal sponsorship to an [independent 501(c)(3) non-profit organisation](https://carpentries.org/files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf). Governance of The Carpentries, Inc. (501c3 non-profit organisation) is undertaken by the Board of Directors to whom the Executive Director reports. The Board comprises 7-11 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least one-third of the Board members are elected by the Carpentries community.
+The Carpentries is working towards transitioning out of fiscal sponsorship to an [independent 501(c)(3) non-profit organisation](/governance/Fiscal_Sponsorship_Transition_FAQ.pdf). Governance of The Carpentries, Inc. (501c3 non-profit organisation) is undertaken by the Board of Directors to whom the Executive Director reports. The Board comprises 7-11 persons, either members of The Carpentries community or from external communities brought in for specific expertise. At least one-third of the Board members are elected by the Carpentries community.
 
 ## Board of Directors
 
