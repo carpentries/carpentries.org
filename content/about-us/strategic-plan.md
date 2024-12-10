@@ -141,4 +141,4 @@ To become the leading inclusive community teaching computing and data skills, we
 The Strategic Plan for the 2020-2025 period was approved by the Carpentries Governance on [January 3rd, 2020](https://github.com/carpentries/governance/issues/31). It will be assessed each third year, with the next update scheduled to be approved at the end of 2024/beginning of 2025. No amendments will be made in the intermediate.
 
 <br>
-For all communications around The Carpentries Strategic Plan, [please contact The Carpentries Governance](mailto:board@carpentries.org).
+For all communications around The Carpentries Strategic Plan, [please contact The Carpentries Governance](mailto:{{< param board_email >}}).
