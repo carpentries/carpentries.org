@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Strategic Plan"]
 ---
 
-As we close the year, our final Core Team meeting was a moment of inspiration and reflection. Together, we celebrated our milestones, evaluated progress, and charted the path for an exciting new chapter in The Carpentries' evolution. This year held particular significance as we worked to bring our 2020–2025 Strategic Plan to life, a vision crafted amidst the global pandemic. With just one year left, we are laying the groundwork for what’s next: strengthening partnerships, amplifying community impact, and staying true to our mission and values. As a reminder, our six strategic goals are:
+As we close the year, our final Core Team meeting was a moment of inspiration and reflection. Together, we celebrated our milestones, evaluated progress, and charted the path for an exciting new chapter in The Carpentries' evolution. This year held particular significance as we worked to bring our [2020–2025 Strategic Plan to life](/about-us/strategic-plan/), a vision crafted amidst the global pandemic. With just one year left, we are laying the groundwork for what’s next: strengthening partnerships, amplifying community impact, and staying true to our mission and values. As a reminder, our six strategic goals are:
 
 
 
