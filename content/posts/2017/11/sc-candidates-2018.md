@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Our Steering Committee Candidates"
 date: 2017-11-26
 time: "00:00:00"
-tags: [ "Govenance", "Steering Committee", "Elections", "Software Carpentry"]
+tags: [ "Governance", "Steering Committee", "Elections", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
