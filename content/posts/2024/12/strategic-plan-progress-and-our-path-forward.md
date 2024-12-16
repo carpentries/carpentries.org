@@ -26,7 +26,7 @@ Read on to learn of our advancements in infrastructure, enhancements to our curr
 
 This year, community engagement flourished. From quarterly gatherings of subcommunity leaders to reimagining our membership program, the focus was on accessibility and connection. Quick-start guides were refined, a vibrant new website was launched, and our sub-community registry was introduced—a living map of Carpentries activity worldwide.
 
-The spotlight also shone on Trainer Training, which empowered leaders in Latin America and Africa with expertise in cloud infrastructure. Themed discussions, like "What’s Blocking Access to Your Carpentries Workshop?" brought voices together, sparking creative solutions.
+The spotlight also shone on Instructor Training, which empowered leaders in Latin America and Africa with expertise in cloud infrastructure. Themed discussions, like "What’s Blocking Access to Your Carpentries Workshop?" brought voices together, sparking creative solutions.
 
 Further, we supported open science initiatives across continents, from Namibia to Latin America, and celebrated the publication of a [book chapter](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003301097-7/challenges-opportunities-digital-humanities-training-south-africa-anelda-van-der-walt-juan-steyn-angelique-trusler-menno-van-zaanen?context=ubx&refId=e95df4fc-68c2-4831-932b-dd73d81549cd) on digital humanities training in South Africa.
 
