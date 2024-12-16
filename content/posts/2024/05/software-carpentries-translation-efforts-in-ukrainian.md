@@ -79,7 +79,7 @@ to respond to pink sticky notes when learners needed help. For the writeup and p
 
 Furthermore, Zaporizhzhia Polytechnic is now using the Git lesson as a
 foundation for one of the courses for the PhD students of the Department
-of Computer Science and IT.
+of System Analysis and Computational Mathematics.
 
 The next goal is having available online a full set of lessons for a standard
 Python, R or GAP based Software Carpentry workshop. When at least one of these
