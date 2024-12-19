@@ -93,8 +93,8 @@ non-member affiliated trainees. For more information about selecting trainees, r
 {{< /accordion >}}
 
 {{< accordion title="How soon after signing my membership can I get started with Instructor Training?" >}}
-### How soon after signing my membership can I get started with Instructor Training?
 In your 12 month membership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see our [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
+
 It is difficult to schedule events in every time zone, so your trainees are always welcome to join scheduled online events in adjacent time zones, given the times are reasonable for their schedule. However, knowing this may not be ideal for you, we will work with you to schedule an online event based on your needs and our Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance. Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
 {{< /accordion >}}
 
