@@ -111,7 +111,7 @@ If there are any aspects of our community including the website, community discu
 
 At The Carpentries, we are committed to building a diverse, equitable, and inclusive community that values all individuals and their unique identities. We prioritise accessibility and inclusivity in our curricula and programs and value transparency, fairness, and honesty to build trust within our community. Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement.
 
-To request an accommodation for a Carpentries event, please fill out the [accommodation_request form]({{< param accommodation_request >}}).
+To request an accommodation for a Carpentries event, please fill out the [accommodation request form]({{< param accommodation_request >}}).
 
 If you have questions or need assistance with the accommodation form please [email us](mailto:{{< param team_email>}}).
 
