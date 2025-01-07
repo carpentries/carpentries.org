@@ -340,7 +340,7 @@ subcommunities:
     - interest:
     - other: 
   member:
-  description: The Midwest (US) Carpentries Community is a regional subcommunity providing space to support workshop Instructors, hosts, and local institution organisers in the region to learn from one another. 
+  description: This local subcommunity of workshop Instructors, Instructor Trainers, Helpers, and Lesson Developers includes faculty, librarians, researchers, research support staff, and students from across the United States Midwest.
   activities: 
     - carpentry_connect:
     - communication: true
@@ -375,10 +375,12 @@ subcommunities:
     - other: 
   contact:
     - email: 
+      - "akkis@ou.edu"
+      - "sarah.stevens@wisc.edu"
     - slack: "Carpentries workspace, #local-us-midwest"
     - mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     - contact_form:
-    - contact_person: 
+    - contact_person: Amanda Kis and Sarah Stevens
   social_media: 
     - twitter: 
     - mastodon: 
