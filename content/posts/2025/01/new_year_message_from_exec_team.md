@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Kari L. Jordan", “Erin Becker”]
+authors: ["Kari L. Jordan", "Erin Becker"]
 teaser: "On February 1st, The Carpentries will become an independent 501(c)(3) non-profit organisation"
 title: "Happy New Year from The Carpentries"
 date: 2025-01-06
