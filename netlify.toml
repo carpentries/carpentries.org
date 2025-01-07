@@ -5,7 +5,7 @@ command = "hugo --environment staging --minify"
 [build.environment]
   GO_VERSION = "1.18"
   NODE_VERSION = "21.1.0"
-  HUGO_VERSION = "0.123.7"
+  HUGO_VERSION = "0.139.2"
 [context]
 
 [context.production]
