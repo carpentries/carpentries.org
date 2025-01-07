@@ -69,7 +69,7 @@ How would we make space to teach LLM assistants effectively in workshops that ar
 
 
 ## LLM assistants and The Carpentries Core Values
-Central to the discussion in both community sessions was the question of how teaching LLMs in Carpentries workshops might align with or against [the community's Core Values](https://carpentries.org/about-us/#our-values). 
+Central to the discussion in both community sessions was the question of how teaching LLMs in Carpentries workshops might align with or against [the community's Core Values](/about-us/#our-values). 
 Participants highlighted concerns about the lack of attribution of the data used to train the models (conflicting with our commitments to act openly and value all contributions), and the significant energy and resource requirements leading to environmental impact of the training process itself. 
 
 On the other hand, adapting The Carpentries lessons to teach about LLMs and how to use them effectively would align with our commitment to empower one another and our eagerness to keep learning.
