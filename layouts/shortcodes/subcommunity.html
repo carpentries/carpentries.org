@@ -52,8 +52,14 @@
 <!-- list group contacts  -->
 <div>
     <b>Connect: </b>
+
     {{ range .contact }}
-    {{ if .email }}<a href="mailto:{{ .email }}">Email</a> / {{ end }}
+
+    {{ if .email }} Email: 
+        {{ range $index, $email :=  .email }}
+            {{ if $index }} / {{ end }}<a href="mailto:{{ $email }}">{{ $email }}</a>{{ end }} /
+    {{ end }}
+
     {{ if .slack }}Slack: {{ .slack }} / {{ end }}
     {{ if .mailing_list }}<a href="{{ .mailing_list }}">Mailing list</a> / {{ end }}
     {{ if .contact_form }}<a href="{{ .contact_form }}">Contact form</a> / {{ end }}
