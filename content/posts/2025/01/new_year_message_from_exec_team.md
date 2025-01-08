@@ -5,7 +5,7 @@ teaser: "On February 1st, The Carpentries will become an independent 501(c)(3) n
 title: "Happy New Year from The Carpentries"
 date: 2025-01-06
 time: "09:00:00"
-tags: ["Strategic Plan", “Governance”]
+tags: ["Strategic Plan", "Governance"]
 ---
 As we begin the year, we want to reflect on our journey and express deep gratitude for the collective dedication and leadership that have propelled The Carpentries forward. This post marks a significant milestone: __On February 1st, The Carpentries will become an independent 501(c)(3) non-profit organisation!__
 We have made [substantial progress across our strategic priorities](/blog/2024/12/strategic-plan-progress-and-our-path-forward/). We remain focused on finalising key projects, exploring new opportunities, and developing a forward-thinking strategic plan for 2026 and beyond. Our work is a testament to our community's thoughtful collaboration and stewardship, and we are confident it will continue to advance our mission to empower diverse communities through data and software education.
