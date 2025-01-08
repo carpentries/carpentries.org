@@ -4,7 +4,7 @@ command = "hugo --environment staging --minify"
 
 [build.environment]
   GO_VERSION = "1.18"
-  NODE_VERSION = "21.1.0"
+  NODE_VERSION = "21.1.0" 
   HUGO_VERSION = "0.123.7"
 [context]
 
@@ -14,7 +14,7 @@ command = "hugo --environment staging --minify"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --environment staging --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --environment staging --minify -b $DEPLOY_PRIME_URL --buildFuture"
 [context.deploy-preview.environment]
 # HUGO_ENV = "staging"
 
