@@ -39,4 +39,4 @@ Join these sessions to ask questions and get help with the process of migrating 
 ### Request help with a lesson transition
 Alternatively, Incubator developers can ask the Curriculum Team to transition their lesson to the Workbench.
 The team's capacity is limited so transitions may not happen quickly, but we will try to complete them as requested.
-[Open an issue using the request form template](FIXME) to ask the Curriculum Team to transition your lesson.
+[Open an issue using the request form template](https://github.com/carpentries/lesson-transition/issues/new?assignees=tobyhodges&labels=&projects=&template=incubator-transition-request.yml&title=REQ%3A+) to ask the Curriculum Team to transition your lesson.
