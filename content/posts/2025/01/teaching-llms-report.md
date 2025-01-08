@@ -23,7 +23,7 @@ A second post will follow next week, describing the next steps that the Curricul
 
 
 ## Patterns of usage
-Participants at the sessions described a wide range of usage: some had not made much use of LLM assistants but remained interested in the topic and keen observers of where all of this is going, while others had adopted ChatGPT or GitHub Copilot into their daily routine. 
+Participants at the sessions described a wide range of usage: some had not made much use of LLM assistants but remained interested in the topic and keen observers of the direction of the field, while others had adopted ChatGPT or GitHub Copilot into their daily routine. 
 Many participants described usage somewhere in between these two extremes.
 
 Those who did make use of LLM assistants described a number of different tasks where they regularly found them helpful, including:
@@ -42,28 +42,28 @@ Several of these examples could be relevant skills for learners at Carpentries w
 ## Teaching the use of LLM assistants
 In addition to using these tools personally, many participants in the discussion sessions were already teaching with/about LLMs, whether in Carpentries workshops or other classes where the same or similar skills are taught. 
 Those already teaching the topic described their approach, which typically involved some demonstration of what the tools can do, the mistakes they can make, and some of the hazards of using them.
-A common theme among participants' descriptions was a need for "myth-busting", to expose and correct common misconceptions among learners about how these tools work, their limitations, and the differences between LLM assistants and other tools (e.g. a search engine).
-Describing their motivation to teach LLM assistants, several participants observed that their _learners are already making extensive use of the tools in their work/studies/day-to-day life_. 
-In that context, they felt that it is essential to acknowledge the existence of LLM assistants, discuss their potential uses and hazards, and try to ensure that learners have a good understanding of how to make safe and appropriate use of them.
+A common theme among participants' descriptions was a need for "myth-busting", to expose and correct common misconceptions among learners about how these tools work, their limitations, and the differences between LLM assistants and other tools (e.g. search engines).
+Describing their motivation to teach LLM assistants, several participants observed that their _learners are already making extensive use of the tools in their work, studies, and day-to-day lives_. 
+In that context, they felt that it is essential to acknowledge the existence of LLM assistants, discuss their potential uses and hazards, and try to ensure that learners have a good understanding of how to make safe and appropriate use of these tools.
 
 
 ## Advantages and disadvantages of teaching LLM assistants in The Carpentries 
 Participants returned to that latter point when discussing the potential advantages and disadvantages of teaching LLM assistants in Data Carpentry, Library Carpentry, and Software Carpentry workshops: in many cases, learners will already be using these tools, or will be curious about them if not. 
-Although many participants in the discussion sessions had strong misgivings about these technologies, there was a general sense that we cannot omit them from workshops altogether.
+Although many participants in the discussion sessions had strong reservations about these technologies, there was a general sense that we cannot omit them from workshops altogether.
 Some pointed to evidence and personal experience suggesting that learners who already have some working mental model of programming are able to use LLMs more effectively to augment their approach, but those who do not have the skills, vocabulary, or confidence are less likely to be able to use the "assistance" offered by such tools.
-Instead, just as Carpentries workshops aim to instil good (enough) practices in software development and data organisation/handling, the majority of session participants saw Carpentries workshops as an opportunity for Instructors to teach good practices and help learners develop a better, safer, more useful understanding of LLMs.
+Instead, just as Carpentries workshops aim to instil good (enough) practices in software development and data management, the majority of session participants saw Carpentries workshops as an opportunity for Instructors to teach good practices and help learners develop a better, safer, more useful understanding of LLMs.
 
-Furthermore, some participants asserted that usage of LLM assistants is increasingly widespread in the workplace and will likely become an expected skill in the coming years. 
+Furthermore, some participants observed that usage of LLM assistants is increasingly widespread in the workplace and will likely become an expected skill in the coming years. 
 They felt that we would be doing learners a disservice by not teaching them the skills and knowledge to use these tools as part of their routine approach to software development and data analysis.
 
 However, participants also identified several potential downsides to formally introducing content on LLM assistants into the curriculum for Carpentries workshops. 
-First, that LLM tools may be unavailable or forbidden at some institutions, for example where usage is restricted to a specific platform on data privacy/regulatory grounds.
-This could make it difficult to develop content, examples, etc that are specific to a particular tool with confidence that it will be usable at workshops in all locations.
+First, that LLM tools may be unavailable or forbidden at some institutions, for example where usage is restricted to a specific platform for data privacy or regulatory reasons.
+This could make it difficult to develop content and examples that are specific to a particular tool with confidence that they will be usable at workshops in all locations.
 Similarly, participants highlighted the potentially significant differences in output and performance from paid and free versions of the tools: that all the software we teach is free of cost is one of the major advantages to The Carpentries workshops, ensuring they are accessible to all learners. 
 But here we may find that free versions of LLM assistants are more limited in their potential usefulness to learners. 
 Furthermore, several participants sounded a note of caution around the currently free versions of the most popular tools, citing the danger that their owners may introduce fees in the future that could restrict Instructors' ability to teach lesson content about them in workshops.
 
-Finally, participants acknowledged that the topic would need a significant chunk of time dedicated to teaching and discussing it properly in a workshop -- time that cannot then be used for something else. 
+Finally, participants acknowledged that the topic would need a significant investment of time dedicated to teaching and discussing it properly in a workshop -- time that cannot then be used for something else. 
 Most participants were Carpentries Instructors, familiar with the challenge of fitting the current lesson content into the time available at a two-day workshop. 
 How would we make space to teach LLM assistants effectively in workshops that are already packed to bursting with other important content?
 
@@ -89,7 +89,7 @@ We are so grateful to all the community members who joined the sessions and part
 We look forward to continuing the conversation in 2025. 
 
 In part 2, we will summarise how the Curriculum Team plans to respond to the points raised in these two community discussions. 
-One element of that response will be several more community discussions, around the same theme of _AI and The Carpentries_, in the first few months of the year (follow links for events times in your local time zone):
+One element of that response will be follow-up discussions, around specific topics within the theme of _AI and The Carpentries_, in the first few months of the year (follow links for events times in your local time zone):
 
 * Tuesday 28 January, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T2100): _LLMs for Data Science: The Ethics of Teaching LLMs in Carpentries Workshops_
 * Tuesday 25 February, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T2100): _LLMs for Data Science: Essential Knowledge and Common Misconceptions_
