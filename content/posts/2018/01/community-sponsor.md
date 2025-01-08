@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Be our Advocate"
 date: 2018-01-24
 time: "00:00:00"
-tags: [ "Belinda Weaver", "Software Carpentry"]
+tags: ["Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
