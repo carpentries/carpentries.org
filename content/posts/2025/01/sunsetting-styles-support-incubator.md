@@ -30,9 +30,9 @@ Furthermore, since this is a process that only needs to be run once, the investm
 
 In recognition of this, the Curriculum Team will support the transition of Incubator lessons to use the Workbench over the next 12 months.
 
-### Lesson Transition Coworking Sessions
-To help Incubator developers migrate their own lessons to the Workbench, the Curriculum Team will host monthly online Lesson Transition Coworking Sessions on FIXME at FIXME and FIXME. 
-You can find the details of these sessions on [the community calendar](https://carpentries.org/community/events/).
+### Workbench Transition Coworking Sessions
+To help Incubator developers migrate their own lessons to the Workbench, the Curriculum Team will host monthly online Workbench Transition Coworking Sessions on the last Monday of each month. 
+You can find the details of these sessions on [the community calendar](https://carpentries.org/community/events/) and [the Community Events Etherpad](https://pad.carpentries.org/community-sessions-2025).
 
 Join these sessions to ask questions and get help with the process of migrating a lesson project/projects from _styles_ to the Workbench.
 
