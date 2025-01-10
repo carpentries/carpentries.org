@@ -98,7 +98,8 @@ subcommunities:
     - teaching:
     - other: 
   contact:
-    - email: admin-au@carpentries.org
+    - email: 
+      - "admin-au@carpentries.org"
     - slack:
     - mailing_list: https://carpentries.topicbox.com/groups/local-aunz
     - contact_form:
@@ -339,7 +340,7 @@ subcommunities:
     - interest:
     - other: 
   member:
-  description: The Midwest (US) Carpentries Community is a regional subcommunity providing space to support workshop Instructors, hosts, and local institution organisers in the region to learn from one another. 
+  description: This local subcommunity of workshop Instructors, Instructor Trainers, Helpers, and Lesson Developers includes faculty, librarians, researchers, research support staff, and students from across the United States Midwest.
   activities: 
     - carpentry_connect:
     - communication: true
@@ -374,10 +375,12 @@ subcommunities:
     - other: 
   contact:
     - email: 
+      - "akkis@ou.edu"
+      - "sarah.stevens@wisc.edu"
     - slack: "Carpentries workspace, #local-us-midwest"
     - mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     - contact_form:
-    - contact_person: 
+    - contact_person: Amanda Kis and Sarah Stevens
   social_media: 
     - twitter: 
     - mastodon: 
@@ -428,7 +431,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: facilitator@datascience.wisc.edu
+    - email: 
+      - "facilitator@datascience.wisc.edu"
     - slack: "data-science-hubgroup workspace, #uw_carpentries"
     - mailing_list:  https://groups.google.com/a/g-groups.wisc.edu/g/carpentries
     - contact_form:
@@ -486,7 +490,8 @@ subcommunities:
     - teaching:
     - other: 
   contact:
-    - email: carpentries@si.edu
+    - email: 
+      - "carpentries@si.edu"
     - slack: "Smithsonian workspace, #carpentries-alumni"
     - mailing_list: 
     - contact_form:
@@ -598,7 +603,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: dreamlab@library.ucsb.edu
+    - email: 
+      - "dreamlab@library.ucsb.edu"
     - slack: ucsbcarpentry workspace
     - mailing_list: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
     - contact_form:
@@ -653,7 +659,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: maintainers-hpc@lists.carpentries.org
+    - email: 
+      - "maintainers-hpc@lists.carpentries.org"
     - slack:  "Carpentries workspace, #hpc-carpentry"
     - mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     - contact_form: https://www.hpc-carpentry.org/contact/
@@ -708,7 +715,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: kozo.nishida@gmail.com
+    - email: 
+      - "kozo.nishida@gmail.com"
     - slack: "Carpentries workspace, #local-japan"
     - mailing_list:
     - contact_form:
@@ -763,7 +771,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: contact-us@carpentry.uio.no
+    - email: 
+      - "contact-us@carpentry.uio.no"
     - slack: "Carpentries workspace, #oslo-community"
     - mailing_list: 
     - contact_form:
@@ -874,7 +883,8 @@ subcommunities:
     - teaching:
     - other: 
   contact:
-    - email: muellerr@zbmed.de
+    - email: 
+      - "muellerr@zbmed.de"
     - slack: "Carpentries workspace, #local-dach"
     - mailing_list: https://carpentries.topicbox.com/groups/local-dach
     - contact_form:
@@ -929,7 +939,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: ndporter@vt.edu
+    - email: 
+      - "ndporter@vt.edu"
     - slack:
     - mailing_list: 
     - contact_form: 
@@ -984,7 +995,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: nselem84@gmail.com
+    - email: 
+      - "nselem84@gmail.com"
     - slack: "Carpentries workspace"
     - mailing_list: carpentries-mexico@googlegroups.com
     - contact_form: 
@@ -1039,7 +1051,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: nrrome@berklee.edu
+    - email: 
+      - "nrrome@berklee.edu"
     - slack: "Carpentries workspace, #local-us-northeast"
     - mailing_list: 
     - contact_form: 
@@ -1094,7 +1107,8 @@ subcommunities:
     - teaching: 
     - other: 
   contact:
-    - email: obk1@st-andrews.ac.uk
+    - email: 
+      - "obk1@st-andrews.ac.uk"
     - slack: "Carpentries workspace, #local-ukrainian"
     - mailing_list: 
     - contact_form: 
