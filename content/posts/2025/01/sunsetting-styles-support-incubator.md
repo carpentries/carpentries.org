@@ -12,7 +12,7 @@ Our lesson infrastructure, [The Carpentries Workbench](https://carpentries.githu
 The Workbench replaced our previous lesson infrastructure, a [Jekyll](https://jekyllrb.com/)-based template (augmented by scripts and other resources developed by the community) affectionately known as _styles_.
 The product of several years of work by [Zhian Kamvar](https://zkamvar.netlify.app/), the Workbench made a number of improvements over styles, e.g. by bringing lesson sites up to at least [WCAG AA standards](https://www.w3.org/WAI/WCAG2AA-Conformance) in web accessibility, and making local installation of the infrastructure significantly easier on most community members' systems.
 
-![The Carpentries Workbench combines three R packages: sandpaper, pegboard, and varnish](/blog/2025/01/img/workbench-hex-collection.jpeg)
+![The Carpentries Workbench combines three R packages: sandpaper, pegboard, and varnish](/blog/2025/01/workbench-hex-collection.jpeg)
 
 Since then, The Carpentries team has stopped maintaining the previous _styles_ infrastructure and [a documented transition workflow was published](https://carpentries.github.io/sandpaper-docs/migrating-from-styles.html) to help community members migrate their own lesson projects to use the Workbench.
 The Carpentries Curriculum Team has been helping lesson developers with this process over the past 18 months, and community members, [Aleksandra Nenadic](https://github.com/anenadic) and [Matthew Bluteau](https://github.com/bielsnohr), facilitated a session to transition more lessons at [CarpentryConnect Heidelberg](https://biont-training.eu/CarpentryConnect2024.html) in November 2024.
