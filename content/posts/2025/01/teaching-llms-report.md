@@ -28,13 +28,13 @@ Many participants described usage somewhere in between these two extremes.
 
 Those who did make use of LLM assistants described a number of different tasks where they regularly found them helpful, including:
 
-* Translating, whether of prose between different human languages (e.g. English -> Spanish), or of existing code into a different programming language
-* Generating "boilerplate" code 
-* Rewriting/improving existing scripts to make them more efficient
-* Finding better terms to use as a query in a search engine
-* Explaining unfamiliar functions and syntax
-* Writing documentation strings ("docstrings") for functions/comparing the current docstring with a function's actual functionality
-* Describing what a given regular expression will match
+* Translating, whether of prose between different human languages (e.g. English -> Spanish), or of existing code into a different programming language.
+* Generating "boilerplate" code.
+* Rewriting/improving existing scripts to make them more efficient.
+* Finding better terms to use as a query in a search engine.
+* Explaining unfamiliar functions and syntax.
+* Writing documentation strings ("docstrings") for functions/comparing the current docstring with a function's actual functionality.
+* Describing what a given regular expression will match.
 
 Several of these examples could be relevant skills for learners at Carpentries workshops, as they take their first steps working with software and data.
 
@@ -69,12 +69,12 @@ How would we make space to teach LLM assistants effectively in workshops that ar
 
 
 ## LLM assistants and The Carpentries Core Values
-Central to the discussion in both community sessions was the question of how teaching LLMs in Carpentries workshops might align with or against [the community's Core Values](/about-us/#our-values). 
-Participants highlighted concerns about the lack of attribution of the data used to train the models (conflicting with our commitments to act openly and value all contributions), and the significant energy and resource requirements leading to environmental impact of the training process itself. 
+Central to the discussion in both community sessions was the question of how teaching LLMs in Carpentries workshops might align with or against [the community's core values](/about-us/#our-values). 
+Participants highlighted concerns about the lack of attribution of the data used to train the models (conflicting with our commitments to _Act openly_ and _Value all contributions_), and the significant energy and resource requirements leading to environmental impact of the training process itself. 
 
-On the other hand, adapting The Carpentries lessons to teach about LLMs and how to use them effectively would align with our commitment to empower one another and our eagerness to keep learning.
+On the other hand, adapting The Carpentries lessons to teach about LLMs and how to use them effectively would align with our commitment to _Empower one another_ and our eagerness to be _Always learning_.
 
-Finally, the aforementioned potential difficulties with accessing LLM assistants in different institutions, and concerns about the cost of using these tools in the future, were identified as potentially conflicting with the commitment to championing _access for all_.
+Finally, the aforementioned potential difficulties with accessing LLM assistants in different institutions, and concerns about the cost of using these tools in the future, were identified as potentially conflicting with the commitment to championing _Access for all_.
 
 
 ## Support for teaching LLM assistants in Carpentries workshops
