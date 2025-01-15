@@ -14,7 +14,7 @@ command = "hugo --environment staging --minify"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --environment staging --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --environment staging --minify -b $DEPLOY_PRIME_URL --buildFuture"
 [context.deploy-preview.environment]
 # HUGO_ENV = "staging"
 
