@@ -12,7 +12,7 @@ Following [our previous post summarising a pair of community discussions](blog/2
 
 ## Including discussion of LLMs in workshops
 One key takeaway from November's community discussions was the observation that _learners are using/will use LLM assistants when learning to code, whether we want them to or not_.
-In this context, we belived that our goal as Instructors should be to help learners develop a working mental model of how these tools can be used, the kind of task they are (and are not) suited to, and their strengths and limitations.
+In this context, we believe that our goal as Instructors should be to help learners develop a working mental model of how these tools can be used, the kind of task they are (and are not) suited to, and their strengths and limitations.
 
 We consider this broadly comparable to the guidance we give learners about searching the Internet for help when they encounter an error or want to find out how to do something new: this is undoubtedly an effective way to get useful information -- and is a common practice when coding/working on the command line -- but it is also important that learners understand the risks of copy/pasting commands/code snippets they have found online. At minimum, there is a chance that the suggested code will not work, or will give incorrect results; at worst, they might delete valuable data or introduce security vulnerabilities to their software.
 
