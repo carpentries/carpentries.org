@@ -5,7 +5,7 @@ teaser: "We invite you to join us in breaking down barriers in data science. Tog
 title: "Building an Inclusive Future in Data Science: The Carpentries' 2025 Glosario Expansion"
 Date: 2025-01-29
 time: "09:00:00"
-tags: ["Glosario", "Accesssibility", "Lesson Infrastructure"]
+tags: ["Glosario", "Accessibility", "Lesson Infrastructure"]
 ---
 
 Glosario has already made remarkable strides. By late 2024, Glosario included translations in over 26 languages, with significant contributions from our global community. However, as Glosario has grown, we have identified challenges that limit its accessibility and scalability. Contributions to the glossary, currently managed in a YAML format, can be intimidating for newcomers and time-intensive for reviewers. Additionally, we have recognised the need to provide meaningful recognition to contributors, a cornerstone of The Carpentries' commitment to valuing diverse contributions.
