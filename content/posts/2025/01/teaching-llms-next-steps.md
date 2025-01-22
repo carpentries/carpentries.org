@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Curriculum", "Workshops", "Instructors", "Artificial Intelligence", "Community Discussions"]
 ---
 
-Following [our previous post summarising a pair of community discussions](blog/2025/01/teaching-llms-report) on the topic of teaching the use of LLM "assistants" such as ChatGPT in Carpentries workshops, here we describe the Curriculum Team's plans to coordinate relevant updates to lessons. 
+Following [our previous post summarising a pair of community discussions](/blog/2025/01/teaching-llms-report) on the topic of teaching the use of LLM "assistants" such as ChatGPT in Carpentries workshops, here we describe the Curriculum Team's plans to coordinate relevant updates to lessons. 
 
 ## Including discussion of LLMs in workshops
 One key takeaway from November's community discussions was the observation that _learners are using/will use LLM assistants when learning to code, whether we want them to or not_.
