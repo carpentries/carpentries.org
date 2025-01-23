@@ -13,7 +13,7 @@ tags: ["Glosario", "Accessibility", "Lesson Infrastructure"]
 ## The Path Forward
 Thanks to early 2024 support from the Andrew W. Mellon Foundation, we updated our [Glosario contribution guide](https://docs.google.com/document/d/18oxYd6D9heESqw2gw9cbtxiCfkb4wlxazERFBIDCoeM/edit?tab=t.0#heading=h.wsi1psxc3n64), uploaded an [English](https://www.youtube.com/watch?v=ew1eb1ug-Q8) and [Spanish](https://www.youtube.com/watch?v=f9K5wYq0dQM&t=17s) guide on YouTube, and made updates to enhance usability and integration to the tool. 
 
-In 2025, with further funding from the Andrew W. Mellon Foundation, we will address the challenges identified with two core goals:
+In 2025, with further funding from the Andrew W. Mellon Foundation, we will address the challenges identified with two key goals:
 
 - **Enhancing accessibility**: a more inclusive and UI/UX-centered approach to Glosario contributions, enhancing accessibility and engagement
 - **Recognising contributors**: a recognition program to acknowledge and celebrate Glosario contributors, highlighting our community's translations as tangible achievements.
