@@ -3,7 +3,7 @@ layout: page
 authors: ["Angelique Trusler"]
 teaser: "We invite you to join us in breaking down barriers in data science. Together, we can build a more inclusive, accessible future."
 title: "Building an Inclusive Future in Data Science: The Carpentries' 2025 Glosario Expansion"
-date: 2025-01-29
+date: 2025-01-28
 time: "09:00:00"
 tags: ["Glosario", "Accessibility", "Lesson Infrastructure"]
 ---
