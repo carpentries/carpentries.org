@@ -34,7 +34,6 @@ If you would like to ask us anything about The Carpentries, its community, and i
 ## By mail
 
 The Carpentries\
-c/o Community Initiatives\
-1000 Broadway, Suite #480\
-Oakland, CA 94607\
+200 B Street, STE F\
+Davis, CA 95616\
 USA
