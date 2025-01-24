@@ -5,7 +5,7 @@ teaser: "Lead Our Path to Independence"
 title: "Open Call for Nominations: Join The Carpentries Board of Directors"
 date: 2024-11-11
 time: "09:00:00"
-tags: ["Governance"]
+tags: ["Governance", "Board of Directors"]
 ---
 
 The Carpentries is on an inspiring journey toward greater independence, and we invite passionate leaders to help shape our future. As we [transition from fiscal sponsorship](https://carpentries.org/blog/2023/08/Carpentries-transition-to-independent-status/) under Community Initiatives to becoming an independent 501(c)(3) non-profit, we are onboarding additional members to our Board of Directors who will guide our mission to strengthen the global data science and open-source education community. This is your opportunity to be part of an organisation that has a powerful impact on communities worldwide.
