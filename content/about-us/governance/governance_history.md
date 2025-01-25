@@ -7,6 +7,18 @@ aliases:
 
 [Find out about our current Governance](/about-us/governance/).
 
+## 2024 Board of Directors
+- John Chodacki  [Appointed 2023], President
+- Yanina Bellini Saibene [Appointed 2023], Vice President
+- Michael Smith [Appointed 2023], Treasurer
+- Sarah Stevens [Appointed 2023], Secretary
+- Konrad Förstner [Appointed 2023]
+- Eboni Dotson [Appointed 2023]
+- Jannetta Steyn [Elected 2024]
+- Mark Crowe [Elected 2024]
+- Paola Corrales [Elected 2024]
+- Nisha Ghatak [Elected 2024]
+
 ## 2023 Executive Council
 
 - John Chodacki  [Appointed since 2021], 2023 Vice Chair
