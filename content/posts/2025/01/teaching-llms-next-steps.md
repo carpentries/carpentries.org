@@ -38,8 +38,8 @@ These discussions will provide a platform for community members to share their i
 Three discussions are currently scheduled, each running twice to cover more time zones:
 
 * Tuesday 28 January, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T2100): _LLMs for Data Science: The Ethics of Teaching LLMs in Carpentries Workshops_
-* Tuesday 25 February, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T2100): _LLMs for Data Science: Essential Knowledge and Common Misconceptions_
-* Tuesday 25 March, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250128T2100): _LLMs for Data Science: Case Studies to Inform Carpentries Curriculum_
+* Tuesday 25 February, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250225T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250225T2100): _LLMs for Data Science: Essential Knowledge and Common Misconceptions_
+* Tuesday 25 March, [12:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250325T1200) and [21:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Community+Discussion&iso=20250325T2100): _LLMs for Data Science: Case Studies to Inform Carpentries Curriculum_
 
 Please join us if you are interested! [You can sign up to join these discussions on the community sessions Etherpad](https://pad.carpentries.org/community-sessions-2025).
 
