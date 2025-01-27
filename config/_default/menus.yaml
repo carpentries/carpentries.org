@@ -230,6 +230,11 @@ main:
   url: "/about-us/contact/"
   parent: communications
   weight: 30
+- identifier: calendar
+  name: Calendar
+  pageRef: "/community/events/"
+  parent: communications
+  weight: 40
 # Search
 - identifier: search
   name: Search
