@@ -9,7 +9,7 @@ tags: ["Governance"]
 ---
 
 Community,
-It is my honor to introduce the Board of Directors, who will work alongside us to advance our mission and [guide us through our fiscal sponsorship transition](https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/). As we look to the future, we also take a moment to celebrate the invaluable contributions of our outgoing Board members. Their wisdom and dedication have played a pivotal role in shaping The Carpentries into the organisation it is today. With gratitude for their service, we eagerly welcome our incoming Board members. Their fresh perspectives and energy will enrich our vision and propel us forward as we navigate 2025 and beyond.
+It is my honour to introduce the Board of Directors, who will work alongside us to advance our mission and [guide us through our fiscal sponsorship transition](https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/). As we look to the future, we also take a moment to celebrate the invaluable contributions of our outgoing Board members. Their wisdom and dedication have played a pivotal role in shaping The Carpentries into the organisation it is today. With gratitude for their service, we eagerly welcome our incoming Board members. Their fresh perspectives and energy will enrich our vision and propel us forward as we navigate 2025 and beyond.
 
 ## Outgoing (Legacy) Board Members
 We extend our heartfelt gratitude to the following members of the Board of Directors, whose terms concluded on 1 February 2025. We look forward to continuing to connect and collaborate with them in new ways.
