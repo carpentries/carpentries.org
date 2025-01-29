@@ -33,7 +33,7 @@ people:
   term: Appointed 2025
 
 - person_name: Samantha Ahern
-  github: 
+  github: quirksahern
   twitter: 
   mastodon: 
   linkedin: 
@@ -46,7 +46,7 @@ people:
   github: 
   twitter: 
   mastodon: 
-  linkedin: 
+  linkedin: philliptbrooks
   pic: phil_brooks.jpg
   country: 
   active: true
@@ -89,7 +89,7 @@ people:
 - person_name: Jannetta Steyn
   github: jsteyn
   twitter: jannettas
-  mastodon: jannettas
+  mastodon: https://sciencemastodon.com/@jannettas
   linkedin: jannetta
   pic: jannetta_steyn.jpg
   country: GB
@@ -97,10 +97,11 @@ people:
   term: Elected 2024
 
 - person_name: François Michonneau
-  github: 
+  github: fmichonneau
   twitter: 
-  mastodon: 
-  linkedin: 
+  mastodon: https://hachyderm.io/@fmic_
+  linkedin:
+  url: https://francoismichonneau.net 
   pic: francois_michonneau.jpg
   country: FR
   active: true
