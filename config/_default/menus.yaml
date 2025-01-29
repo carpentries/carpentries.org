@@ -225,11 +225,17 @@ main:
   pageRef: "/about-us/newsletter/"
   parent: communications
   weight: 20
+- identifier: calendar
+  name: Calendar
+  pageRef: "/community/events/"
+  parent: communications
+  weight: 30
 - identifier: contact
   name: Contact us
   url: "/about-us/contact/"
   parent: communications
-  weight: 30
+  weight: 40
+
 # Search
 - identifier: search
   name: Search
