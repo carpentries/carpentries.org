@@ -9,32 +9,31 @@ aliases:
 
 The Carpentries is dedicated to developing and empowering a diverse community of enthusiasts around computational methods for research and data science. To facilitate this, The Carpentries has established a [Code of Conduct]({{< param handbook_url >}}/policies/coc/) that governs behavior within the community. The Code of Conduct committee was established to enforce the Code and to manage any changes and updates to it.
 
-Our Goal:  
+### Our Goal:  
 To maintain, update, and enforce The Carpentries Code of Conduct (CoC).
 
-Our Approach:  
+### Our Approach:  
 We do this by conducting meetings where we review current CoC issues. If a CoC violation is reported to us, we process that by following the Enforcement Manual.
 
-Our Structure:  
+### Our Structure:  
 We have meetings as needed, and we have a private email list where Code of Conduct issues are discussed. We also have a private GitHub repo for internal discussion and organisation.
 
-Our Leadership:  
+### Our Leadership:  
 The structure of the committee is such that a community member is the Chair of the Committee. In addition, a Core Team liaison is part of the committee, and a member of the Board of Directors serves as a Board liaison.
 
-Contacting the Committee:  
+### Contacting the Committee:  
 Please email your concerns to [{{< param coc_email >}}](mailto:{{< param coc_email >}}). All correspondence will be treated in confidence.
 
-Our Governance Structure: Please see the [Code of Conduct Committee (CoCc) Governance document]({{< param handbook_url >}}/policies/coc/coc-governance.html) to find details on membership, onboarding, administration, positions, roles, and responsibilities.
-Current Committee Members
-Chair
+### Our Governance Structure:   
+Please see the [Code of Conduct Committee (CoCc) Governance document]({{< param handbook_url >}}/policies/coc/coc-governance.html) to find details on membership, onboarding, administration, positions, roles, and responsibilities.
 
-[D. Sarah Stamps](https://github.com/dsarahstamps) is an Associate Professor of Geophysics at Virginia Tech in the Department of Geosciences. She runs the Geodesy and Tectonophysics Laboratory, which is a research group that conducts research that entails measuring the Earth’s surface motions with millimeter precision and using computational modeling to understand the physical processes driving the Earth’s volcanoes, earthquakes, and continental deformation while training future leaders that are culturally effective. She is the current chair of the CoC committee.
+## Current Committee Members
+Chair: [D. Sarah Stamps](https://github.com/dsarahstamps) is an Associate Professor of Geophysics at Virginia Tech in the Department of Geosciences. She runs the Geodesy and Tectonophysics Laboratory, which is a research group that conducts research that entails measuring the Earth’s surface motions with millimeter precision and using computational modeling to understand the physical processes driving the Earth’s volcanoes, earthquakes, and continental deformation while training future leaders that are culturally effective. She is the current chair of the CoC committee.
 CoC Liaisons
 
-Core Team Liaison: [Kari L. Jordan](https://github.com/kariljordan) is the Executive Director at The Carpentries and serves as the [Core Team](/team/) liaison to the CoC Committee.
+Core Team Liaison: [Angelique Trusler]([https://github.com/kariljordan](https://github.com/elletjies)) is the Associate Director of Community at The Carpentries and serves as the [Core Team](/team/) liaison to the CoC Committee.
 
-Board of Directors Liaison: [Jannetta Steyn](https://github.com/jsteyn) is a senior research software engineer at Newcastle university. She has been an instructor since 2020 and instructor trainer since 2021. She is also the convenor of the [CarpentriesOffline](https://carpentriesoffline.org/) development team. Jannetta is an elected member of the Board of Directors and serves as the liaison to the Code of Conduct committee.
-Volunteer Members
+Board of Directors Liaison: [Jannetta Steyn](https://github.com/jsteyn) is a senior research software engineer at Newcastle University. She has been an instructor since 2020 and an Instructor Trainer since 2021. She is also the convenor of the [CarpentriesOffline](https://carpentriesoffline.org/) development team. Jannetta is an elected member of the Board of Directors and serves as the liaison to the Code of Conduct committee.
 
 [Andrea Sánchez-Tapia](https://github.com/AndreaSanchezTapia) is a biologist with a background in biodiversity informatics and a certified Carpentries Instructor since 2021. She has been part of Open Source communities of practice since 2017. She believes creating safe and inclusive spaces is necessary for the practice of open and responsible research.
 
@@ -50,7 +49,7 @@ Volunteer Members
 
 [Jean Baptiste Fankam Fankam](https://www.linkedin.com/in/jean-baptiste-fankam-fankam-19b728a2/) is a post-doctoral research fellow at the University of the Witwatersrand. After completing a PhD in Physics with a focus on Computational Materials Science in December 2021 at the University of Yaounde I, Cameroon, he sought to deepen his knowledge of CLI, Unix shell, and Python programming. Recognizing the importance of High-Performance Computing (HPC) for international recognition in his field, he searched for workshops and discovered a transformative online Carpentries Workshop on Unix shell. This led him to pursue further training, becoming a certified Carpentries instructor in April 2023 and later a Carpentries Maintainer. His active participation in the Carpentries community motivated him to apply for a leadership role on the Code of Conduct Committee. Since certification, he has taught numerous workshops locally and internationally, demonstrating his commitment by ensuring stable internet connections for his sessions, even while completing a postdoctoral position at the University of the Witwatersrand in South Africa. He will be available for a data science or AI-based position after August 2024.
 
-Areas of responsibility:
+### Areas of responsibility:
 1. Incident Response Leads: Facilitate report handling, identify chairs and Incident response group, and ensure the publication of transparency reports quarterly - D. Sarah Stamps and Lora Leligdon
 2. Training Leads: as part of regular business meetings - scenario curation, training/reading material accumulation, CoC facilitators program - Karin Lagesen and Yo Yehudi
 3. Onboarding and discussion Leads: Onboarding/offboarding and discussion on topics that come up in incident response or other interactions such as communication and cultural diversity situations: Andrea Sánchez Tapia and Malvika Sharan
