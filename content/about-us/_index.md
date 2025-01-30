@@ -93,7 +93,7 @@ We have a rich history that dates back to 1998 when Software Carpentry was found
 
 In 2014, Data Carpentry was founded with the mission of building communities teaching universal data literacy. Also in 2014, Library Carpentry was founded with the mission of teaching data skills to people working in library- and information-related roles. Each organisation working in tandem and in partnership to develop lessons and build global communities of practice.
 
-In 2018, Software Carpentry and Data Carpentry merged their projects to form a new project called The Carpentries, under the fiscal sponsorship of Community Initiatives, and shortly thereafter welcomed Library Carpentry as a Lesson Program.
+In 2018, Software Carpentry and Data Carpentry merged their projects to form a new project called The Carpentries, under the fiscal sponsorship of Community Initiatives, and shortly thereafter welcomed Library Carpentry as a Lesson Program. In 2025, The Carpentries started operations as an independent 501(c)3 non-profit. 
 
 ## Diversity, Equity, and Inclusion Statement
 
