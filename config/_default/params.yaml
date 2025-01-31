@@ -64,8 +64,8 @@ trainer_training_curriculum: https://carpentries.github.io/trainer-training/
 # Donate and sponsor
 #############################################
 sponsor_form: https://carpentries.typeform.com/to/EQdv1Qx4
-donation_form: http://give.communityin.org/TheCarpentries
-footer_donate_url: http://give.communityin.org/TheCarpentries
+donation_form: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497
+footer_donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497
 
 
 # Membership links
