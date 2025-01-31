@@ -95,3 +95,9 @@ handbook_url: https://docs.carpentries.org
 # Other forms
 #############################################
 accommodation_request: https://carpentries.typeform.com/to/B2OSYaD0
+
+# Technical parameters
+#############################################
+
+# To include "search" option from 404 page
+include404search: true 
