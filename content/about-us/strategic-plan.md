@@ -24,7 +24,7 @@ The Carpentries builds global capacity in essential data and computational skill
 For the purposes of this page, we define the following terms:
 
 - **Community**: Individuals and committees who are a part of our operations, including, but not limited to: Learners, Instructors, Helpers, Maintainers, Trainers, Regional Coordinators, Workshop Hosts, Member Site Contacts, Community Champions, Curriculum Advisors, Local and Regional Community Leaders, and all Committee and Task Force Members.
-- **Core Team**: Individuals whose primary professional focus is to support the overall mission of The Carpentries on a daily basis. The Core Team may include staff (individuals on salary or hourly pay with Community Initiatives), contractors, and individuals who work in-kind with The Carpentries. These individuals are fully integrated into The Carpentries operational systems, attend Core Team meetings, and function as part of programmatic teams.
+- **Core Team**: Individuals whose primary professional focus is to support the overall mission of The Carpentries on a daily basis. The Core Team may include staff (individuals on salary or hourly pay), contractors, and individuals who work in-kind with The Carpentries. These individuals are fully integrated into The Carpentries operational systems, attend Core Team meetings, and function as part of programmatic teams.
 
 ### GOAL 1:
 
