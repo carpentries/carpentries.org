@@ -8,24 +8,25 @@ time: "09:00:00"
 tags: ["Governance", "Board of Directors"]
 ---
 
-Community,
+Community,  
 It is my honour to introduce the Board of Directors, who will work alongside us to advance our mission and [guide us through our fiscal sponsorship transition](/blog/2025/01/new_year_message_from_exec_team/). As we look to the future, we also take a moment to celebrate the invaluable contributions of our outgoing Board members. Their wisdom and dedication have played a pivotal role in shaping The Carpentries into the organisation it is today. With gratitude for their service, we eagerly welcome our incoming Board members. Their fresh perspectives and energy will enrich our vision and propel us forward as we navigate 2025 and beyond.
 
 ## Outgoing (Legacy) Board Members
 We extend our heartfelt gratitude to the following members of the Board of Directors, whose terms concluded on 1 February 2025. We look forward to continuing to connect and collaborate with them in new ways.
-John Chodacki (board member since 2023; Executive Council member since 2021)
-Konrad Förstner (board member since 2023; Executive Council member since 2020)
-Michael Smith (board member since 2023; Executive Council member since 2021)
-Sarah Stevens (board member since 2023; Executive Council member since 2021)
+* John Chodacki (board member since 2023; Executive Council member since 2021)
+* Konrad Förstner (board member since 2023; Executive Council member since 2020)
+* Michael Smith (board member since 2023; Executive Council member since 2021)
+* Sarah Stevens (board member since 2023; Executive Council member since 2021)
 
 ## Continuing Board Members
 The following members of the Board of Directors will continue to serve through the end of their terms.
-Paola Corrales (term ends February 2027)
-Mark Crowe (term ends February 2027)
-Eboni Dotson (term ends July 2025)
-Nisha Ghatak (term ends February 2027)
-Yanina Bellini Saibene (term ends July 2025)
-Jannetta Steyn (term ends February 2027)
+* Paola Corrales (term ends February 2027)
+* Mark Crowe (term ends February 2027)
+* Eboni Dotson (term ends July 2025)
+* Nisha Ghatak (term ends February 2027)
+* Yanina Bellini Saibene (term ends July 2025)
+* Jannetta Steyn (term ends February 2027)
+
 As an independent non-profit organisation, we no longer require an Advisory Committee (Executive Council), a role that concluded on 1 February 2025. We sincerely thank Konrad Förstner, Nisha Ghatak, and Yanina Bellini Saibene for their dedicated service on the Advisory Committee, fulfilling our fiscal sponsorship requirements with exceptional commitment.
 
 ## Meet Your Incoming Board Members
