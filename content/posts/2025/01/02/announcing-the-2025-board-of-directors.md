@@ -29,7 +29,7 @@ Jannetta Steyn (term ends February 2027)
 As an independent non-profit organisation, we no longer require an Advisory Committee (Executive Council), a role that concluded on 1 February 2025. We sincerely thank Konrad Förstner, Nisha Ghatak, and Yanina Bellini Saibene for their dedicated service on the Advisory Committee, fulfilling our fiscal sponsorship requirements with exceptional commitment.
 
 ## Meet Your Incoming Board Members
-We are proud to introduce to you the individuals who were onboarded last month, and who will serve three-year terms on The Carpentries Board of Directors.
+We are proud to introduce you to the individuals who were onboarded last month, and who will serve three-year terms on The Carpentries Board of Directors.
 
 ### Samantha Ahern
 Samantha Ahern is a Senior Digital Research Trainer (ISD) and co-lead for Advanced Research Computing (ARC) at UCL. With 20 years of experience in secondary and tertiary education, Samantha leads ARC’s Transforming Research Communities theme. She is a STEM Ambassador, Fellow of the University of London CODE, Trustee of the Society of RSE, and member of the EDIA Working Group. A Carpentries Instructor and Trainer, Samantha chairs the Software Carpentry Lesson Program Governance Committee. She co-authored the Learning Technologists’ Anti-Racism Tool, contributed to the CODE Navigating the Future project, and has published on learning analytics and student well-being.
