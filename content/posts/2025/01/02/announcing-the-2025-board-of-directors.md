@@ -26,7 +26,7 @@ Eboni Dotson (term ends July 2025)
 Nisha Ghatak (term ends February 2027)
 Yanina Bellini Saibene (term ends July 2025)
 Jannetta Steyn (term ends February 2027)
-As an independent non-profit organisation, we no longer require an Advisory Committee (Executive Council), a role that concluded on 1 February 2025. We extend our sincere thanks to Konrad Förstner, Nisha Ghatak, and Yanina Bellini Saibene for their dedicated service on the Advisory Committee, fulfilling our fiscal sponsorship requirements with exceptional commitment.
+As an independent non-profit organisation, we no longer require an Advisory Committee (Executive Council), a role that concluded on 1 February 2025. We sincerely thank Konrad Förstner, Nisha Ghatak, and Yanina Bellini Saibene for their dedicated service on the Advisory Committee, fulfilling our fiscal sponsorship requirements with exceptional commitment.
 
 ## Meet Your Incoming Board Members
 We are proud to introduce to you the individuals who were onboarded last month, and who will serve three-year terms on The Carpentries Board of Directors.
