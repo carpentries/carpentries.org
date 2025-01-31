@@ -9,7 +9,7 @@ tags: ["Governance", "Board of Directors"]
 ---
 
 Community,
-It is my honour to introduce the Board of Directors, who will work alongside us to advance our mission and [guide us through our fiscal sponsorship transition](https://carpentries.org/blog/2025/01/new_year_message_from_exec_team/). As we look to the future, we also take a moment to celebrate the invaluable contributions of our outgoing Board members. Their wisdom and dedication have played a pivotal role in shaping The Carpentries into the organisation it is today. With gratitude for their service, we eagerly welcome our incoming Board members. Their fresh perspectives and energy will enrich our vision and propel us forward as we navigate 2025 and beyond.
+It is my honour to introduce the Board of Directors, who will work alongside us to advance our mission and [guide us through our fiscal sponsorship transition](/blog/2025/01/new_year_message_from_exec_team/). As we look to the future, we also take a moment to celebrate the invaluable contributions of our outgoing Board members. Their wisdom and dedication have played a pivotal role in shaping The Carpentries into the organisation it is today. With gratitude for their service, we eagerly welcome our incoming Board members. Their fresh perspectives and energy will enrich our vision and propel us forward as we navigate 2025 and beyond.
 
 ## Outgoing (Legacy) Board Members
 We extend our heartfelt gratitude to the following members of the Board of Directors, whose terms concluded on 1 February 2025. We look forward to continuing to connect and collaborate with them in new ways.
@@ -50,7 +50,7 @@ Stephanie Pulford is a STEM education and data science leader focused on advanci
 Yo Yehudi is the Executive Director and co-founder of OLS, a Software Sustainability Institute Fellow, NASA TOPS grantee, Society of RSE Trustee, and Research Software Alliance steering committee member. Recently defending a doctoral thesis on human factors in research software and open communities, Yo has also been an editor for the PLOS Open Source Toolkit, Codefirst:Girls instructor, Mozilla volunteer, and board member of the Open Bioinformatics Foundation. Past roles include editor emeritus for the _Journal of Open Source Software_ and developer for InterMine, an open-source biological data warehouse at the University of Cambridge.
 
 ## Learn More
-Learn more about The Carpentries governance by visiting our [website](https://carpentries.org/about-us/governance/). 
+Learn more about The Carpentries governance by visiting our [website](/about-us/governance/). 
 
 
 
