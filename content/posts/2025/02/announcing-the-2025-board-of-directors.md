@@ -5,7 +5,7 @@ teaser: "Introducing our new Board members and celebrating the incredible contri
 title: "Introducing The Carpentries Board of Directors"
 date: 2025-02-03
 time: "09:00:00"
-tags: ["Governance"]
+tags: ["Governance", "Board of Directors"]
 ---
 
 Community,
