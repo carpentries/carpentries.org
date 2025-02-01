@@ -15,7 +15,7 @@ aliases:
 
 ## Introduction
 
-The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
+The Carpentries is a registered 501(c)(3) non-profit based in Delaware, USA. The Carpentries teaches foundational coding and data science skills to researchers worldwide. We exist because the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines. Our global community works together to provide:
 
 - A suite of open source, collaboratively-built, community-developed lessons.
 - Evidence-based, proven pedagogical training.
@@ -93,7 +93,7 @@ We have a rich history that dates back to 1998 when Software Carpentry was found
 
 In 2014, Data Carpentry was founded with the mission of building communities teaching universal data literacy. Also in 2014, Library Carpentry was founded with the mission of teaching data skills to people working in library- and information-related roles. Each organisation working in tandem and in partnership to develop lessons and build global communities of practice.
 
-In 2018, Software Carpentry and Data Carpentry merged their projects to form a new project called The Carpentries, under the fiscal sponsorship of Community Initiatives, and shortly thereafter welcomed Library Carpentry as a Lesson Program.
+In 2018, Software Carpentry and Data Carpentry merged their projects to form a new project called The Carpentries, under the fiscal sponsorship of Community Initiatives, and shortly thereafter welcomed Library Carpentry as a Lesson Program. In 2025, The Carpentries started operations as an independent 501(c)3 non-profit. 
 
 ## Diversity, Equity, and Inclusion Statement
 
