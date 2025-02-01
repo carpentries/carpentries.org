@@ -1,7 +1,7 @@
 - name: Kari L. Jordan, PhD
   pronouns: she/ella
   pic: karijordan.jpg
-  position: Executive Director
+  position: Executive Director / CEO
   jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
   email: kariljordan@carpentries.org
   github: kariljordan
@@ -14,7 +14,7 @@
 - name: Erin Becker, PhD
   pronouns: she/her/hers
   pic: erinbecker.jpg
-  position: Associate Director
+  position: Associate Director / COO
   jobplan: https://docs.google.com/document/d/1E6-36D6JqtLxnuHRARVulYs8vpQFYfEdGiRcAZZnjfQ/edit
   email: ebecker@carpentries.org
   github: erinbecker
@@ -101,7 +101,7 @@
 - name: Angelique Trusler, PhD
   pronouns: Any pronouns will do
   pic: angeliquetrusler.jpg
-  position: Community Manager
+  position: Associate Director of Community
   email: angelique@carpentries.org
   github: elletjies
   twitter: AngeliquePhd
