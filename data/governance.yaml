@@ -1,60 +1,14 @@
 people:
 
-- person_name: John Chodacki
-  pic: john_chodacki.png
-  github: chodacki
-  twitter:
-  country: US
-  advisory: false
+- person_name: Yo Yehudi
+  github: 
+  twitter: 
+  mastodon: 
+  linkedin: 
+  pic: avatar.png
+  country: GB
   active: true
-  term: Appointed 2023
-  role: President
-
-- person_name: Paola Corrales
-  pic: paola_corrales.png
-  country: AR
-  mastodon: https://fosstodon.org/@paocorrales
-  github: paocorrales
-  url: https://paocorrales.github.io/
-  orcid: 0000-0002-8082-1890
-  advisory: false
-  active: true
-  term: Elected 2024
-
-- person_name: Mark Crowe
-  pic: mark_crowe.jpg
-  country: AU
-  linkedin: marklcrowe
-  advisory: false
-  active: true
-  term: Elected 2024
-
-- person_name: Eboni Dotson
-  pic: eboni_dotson.jpg
-  country: US
-  linkedin: drebonidotson
-  advisory: false
-  active: true
-  term: Appointed 2024
-
-- person_name:  Konrad Förstner
-  pic: konrad_foerstner.jpg
-  github: konrad
-  twitter: konrad.foerstner
-  orcid: 0000-0002-1481-2996
-  url: http://konrad.foerstner.org/
-  country: DE
-  advisory: true
-  active: true
-  term: Appointed 2023
-
-- person_name: Nisha Ghatak
-  pic: nisha_ghatak.jpg
-  github: nishag90
-  country: NZ
-  advisory: true
-  active: true
-  term: Elected 2024
+  term: Appointed 2025
 
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
@@ -63,73 +17,133 @@ people:
   orcid: 0000-0002-4522-7466
   url: https://yabellini.netlify.app/
   country: AR
-  advisory: true
   active: true
   term: Appointed 2023
   role: Vice President
 
-- person_name: Michael Smith
-  pic: michael_smith.png
-  country: US
-  advisory: false
-  active: true
-  term: Appointed 2023
-  role: Treasurer
 
-- person_name: Sarah Stevens
-  pic: sarah_stevens.jpg
-  github: sstevens2
-  twitter: microStevens
-  orcid: 0000-0002-7040-548X
-  url: http://sarahlrstevens.info/
+- person_name: Stephanie Pulford
+  github: 
+  twitter: 
+  mastodon: 
+  linkedin: stephaniepulford/
+  pic: stephanie_pulford.jpg
   country: US
-  advisory: false
   active: true
-  term: Appointed 2023
-  role: Secretary
+  term: Appointed 2025
+
+- person_name: Samantha Ahern
+  github: quirksahern
+  twitter: 
+  mastodon: 
+  linkedin: 
+  pic: samantha_ahern.jpg
+  country: GB
+  active: true
+  term: Appointed 2025
+
+- person_name:  Phil Brooks
+  github: 
+  twitter: 
+  mastodon: 
+  linkedin: philliptbrooks
+  pic: phil_brooks.jpg
+  country: US
+  active: true
+  term: Appointed 2025
+
+- person_name: Paola Corrales
+  pic: paola_corrales.png
+  country: AR
+  mastodon: https://fosstodon.org/@paocorrales
+  github: paocorrales
+  url: https://paocorrales.github.io/
+  orcid: 0000-0003-1923-9129
+  active: true
+  term: Elected 2024
+
+- person_name: Nisha Ghatak
+  pic: nisha_ghatak.jpg
+  github: nishag90
+  country: NZ
+  active: true
+  term: Elected 2024
+
+- person_name: Mark Crowe
+  pic: mark_crowe.jpg
+  country: AU
+  linkedin: marklcrowe
+  active: true
+  term: Elected 2024
+
+- person_name: Luke Corbin
+  github: 
+  twitter: 
+  mastodon: 
+  linkedin: luke-corbin
+  pic: luke_corbin.jpg
+  country: US
+  active: true
+  term: Appointed 2025
 
 - person_name: Jannetta Steyn
   github: jsteyn
   twitter: jannettas
-  mastodon: jannettas
+  mastodon: https://sciencemastodon.com/@jannettas
   linkedin: jannetta
   pic: jannetta_steyn.jpg
   country: GB
-  advisory: false
   active: true
   term: Elected 2024
+
+- person_name: François Michonneau
+  github: fmichonneau
+  twitter: 
+  mastodon: https://hachyderm.io/@fmic_
+  linkedin:
+  url: https://francoismichonneau.net 
+  pic: francois_michonneau.jpg
+  country: FR
+  active: true
+  term: Appointed 2025
+
+- person_name: Eboni Dotson
+  pic: eboni_dotson.jpg
+  country: US
+  linkedin: drebonidotson
+  active: true
+  term: Appointed 2024
+
 
 committees:
 
 - committee_name: "Audit Committee"
-  chair: Mark Crowe
+  chair: 
   members:
-    - John Chodacki
     - Eboni Dotson
-    - Konrad Förstner
+    - Mark Crowe
+
 
 - committee_name: "Governance and Personnel Committee"
-  chair: Tara Robertson
+  chair: 
   members:
-    - John Chodacki
     - Eboni Dotson
+    - Jannetta Steyn
     - Nisha Ghatak
     - Yanina Bellini Saibene
-    - Jannetta Steyn
 
 - committee_name: "Finance Committee"
-  chair: Michael Smith
+  chair: 
   members:
     - Paola Corrales
     - Mark Crowe
-    - Sarah Stevens
+
 
 - committee_name: "Program Committee"
-  chair: Nisha Ghatak
+  chair: 
   members:
-    - Paola Corrales
-    - Konrad Förstner
-    - Tara Robertson
-    - Yanina Bellini Saibene
-    - Sarah Stevens
     - Jannetta Steyn
+    - Nisha Ghatak
+    - Paola Corrales
+    - Yanina Bellini Saibene
+
