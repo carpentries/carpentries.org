@@ -10,7 +10,7 @@ tags: ["Curriculum", "Library Carpentry", "MarcEdit", "Curriculum Development"]
 
 ## Introduction
 
-We are excited to share that the Library Carpentry Curriculum Advisory Committee (LC-CAC) announces the new beta [Introduction to MarcEdit lesson](https://librarycarpentry.org/lc-marcedit/). 
+We are excited to share that the Library Carpentry Curriculum Advisory Committee (LC-CAC) announces the new beta [Introduction to MarcEdit lesson](https://librarycarpentry.github.io/lc-marcedit/). 
 The lesson demonstrates using MarcEdit to profile, manipulate, and enhance library data in the MARC 21 format. It introduces the tools and functionality needed for many processes required for library and information workers working with library MARC data. This lesson is for those who have never used or have a rudimentary knowledge of MarcEdit. The primary learning objective is to provide learners with the necessary foundation to use MarcEdit and know where to seek more advanced skills. 
 
 ## What is covered in this lesson?
