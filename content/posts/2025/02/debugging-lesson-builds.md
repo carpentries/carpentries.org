@@ -3,20 +3,20 @@ layout: page
 authors: ["Toby Hodges"]
 teaser: "Guidance for community members working with our lesson infrastructure and GitHub Pages"
 title: "Debugging Lesson Website Builds"
-date: 2025-02-11
+date: 2025-02-13
 time: "09:00:00"
 tags: ["Curriculum", "The Carpentries Workbench", "GitHub", "Lesson Infrastructure"]
 ---
 
 [The Carpentries Workbench](https://carpentries.github.io/workbench) is a collection of tools that help community members build accessible websites from a collection of Markdown or R Markdown files.
-Lesson developers and maintainers can use the Workbench to build a version of the lesson site on their own local system, and a set of [workflow descriptions](https://github.com/carpentries/actions) allows the site to be built on GitHub's cloud servers and served to the internet through [GitHub Pages](https://pages.github.com/).
+Lesson Developers and Maintainers can use the Workbench to build a version of the lesson site on their own local system, and a set of [workflow descriptions](https://github.com/carpentries/actions) allows the site to be built on GitHub's cloud servers and served to the internet through [GitHub Pages](https://pages.github.com/).
 
 ![The summary view of a successful lesson build in the Actions tab of a GitHub repository](/blog/2025/02/successful-build-workflow.png)
 _This is what a successful lesson build workflow looks like on GitHub. If your lesson builds do not look this, the rest of the blog post is for you!_
 
-Although a lot of work has been done to make the Workbench easy to use, lesson developers will sometimes encounter problems with their lesson builds. This can be due to syntax errors and other issues with the content of the lesson, changes to the packages used in lessons built from R Markdown files, or problems with the infrastructure itself. 
+Although a lot of work has been done to make the Workbench easy to use, Lesson Developers will sometimes encounter problems with their lesson builds. This can be due to syntax errors and other issues with the content of the lesson, changes to the packages used in lessons built from R Markdown files, or problems with the infrastructure itself. 
 
-In this post, I try to distill the experience I have gained over the last few years working with the Workbench to provide some troubleshooting strategies that community members can use when they find that their lesson will not build. The steps described here will not solve every problem you might encounter, and I still get stuck on new problems from time to time. But I believe they can be used to find the cause of most problems that lesson developers and maintainers may encounter and, if that is you, I hope that this post is helpful.
+In this post, I try to distill the experience I have gained over the last few years working with the Workbench to provide some troubleshooting strategies that community members can use when they find that their lesson will not build. The steps described here will not solve every problem you might encounter, and I still get stuck on new problems from time to time. But I believe they can be used to find the cause of most problems that Lesson Developers and Maintainers may encounter and, if that is you, I hope that this post is helpful.
 
 _(Note: this post is based on a response I originally shared on the `#lesson-dev` channel of The Carpentries Slack workspace. The `#lesson-dev` and `#workbench` channels are a fantastic place to lurk and ask questions if you are using the Workbench for your own projects.)_
 
@@ -57,8 +57,8 @@ You can also send a message to <team@carpentries.org>, or [email me directly](ma
 
 To make it easier for the community to help you, please include the following information in your post:
 
-* the error message you received
-* a link to the project GitHub repository (ideally to the logs of the failing build workflow)
+* The error message you received.
+* A link to the project GitHub repository (ideally to the logs of the failing build workflow).
 
 A link to the GitHub repository allows other community members to look at the error themselves, and clone the project to investigate the problem in more detail.
 
