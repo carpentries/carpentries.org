@@ -8,11 +8,9 @@ time: "09:00:00"
 tags: ["Core Team", "Workshops", "Community Engagement"]
 ---
 
-
 # A Message From SherAaron Hurt
 
 Cheerfully, I get to share some exciting news! Two of our outstanding and well-deserving Core Team members have advanced in their roles at The Carpentries, Inc.
-
 
 ## Danielle Sieh, Workshops & Training Manager
 
