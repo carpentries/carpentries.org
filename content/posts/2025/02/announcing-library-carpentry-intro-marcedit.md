@@ -15,7 +15,7 @@ The lesson demonstrates using MarcEdit to profile, manipulate, and enhance libra
 
 ## What is covered in this lesson?
 
-The lesson includes ten substantive episodes that cover MarcEdit fundamentals such as working with MARC data files, profiling MARC data, manipulating MARC data, tasks, and integrations. Lesson episodes demonstrate how to open and edit a MARC binary file in the MarcEdit MARCEditor and enhance the data to conform to local and national cataloging best practices and standards. The sample data set is adapted from a small subset from the Open Library [CC0 Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/). The lesson covers how to profile and manipulate data in a single record, across all records, or in a subset of the records in the MARC file, covering functionalities like field count, reports by type of record, find & replace, edit shortcuts, and adding or building new fields. 
+The lesson includes ten substantive episodes that cover MarcEdit fundamentals such as working with MARC data files, profiling MARC data, manipulating MARC data, tasks, and integrations. Lesson episodes demonstrate how to open and edit a MARC binary file in the MarcEdit MARCEditor and enhance the data to conform to local and national cataloging best practices and standards. The sample data set is adapted from a small subset from the Open Library [CC0 Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/). The lesson covers how to profile and manipulate data in a single record, across all records, or in a subset of the records in the MARC file, covering functionalities like field count, reports by type of record, find and replace, edit shortcuts, and adding or building new fields. 
 
 The lesson episodes cover:
 
