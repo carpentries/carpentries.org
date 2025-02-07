@@ -47,5 +47,5 @@ We invite Carpentries Instructors to teach the new lesson and provide feedback v
 
 ## Course author biographies
 - Jennifer Eustis is the Metadata Librarian at the University of Massachusetts Amherst Libraries, where she supports the management of electronic resources and maintenance of metadata using batch processes. She is also a Carpentries Instructor and Maintainer.
-- Abigail Sparling is the Serials Metadata Librarian at the University of Alberta Library, where she supports resource description, management, and discovery. Carpentries instructor and maintainer.
+- Abigail Sparling is the Serials Metadata Librarian at the University of Alberta Library, where she supports resource description, management, and discovery. She is also a Carpentries Instructor and Maintainer.
 - Owen Stephens is a library and consultant from the UK. He has been active in Carpentries for 10 years, since developing one of the initial lessons, Introduction to OpenRefine, in 2014. Carpentries instructor and maintainer, and software development for open source library applications.
