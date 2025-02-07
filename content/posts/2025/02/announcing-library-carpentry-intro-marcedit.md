@@ -20,7 +20,7 @@ The lesson includes ten substantive episodes that cover MarcEdit fundamentals su
 The lesson episodes cover:
 
 - Navigating the top-level menu.
-- Working with MARC files, including how to create a readable MARC file from a MARC binary file
+- Working with MARC files, including how to create a readable MARC file from a MARC binary file.
 - Navigating the MarcEdit menu and learning about available features
 - Profiling MARC data
 - Manipulating MARC records in your file
