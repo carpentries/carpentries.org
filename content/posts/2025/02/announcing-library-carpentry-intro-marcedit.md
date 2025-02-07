@@ -3,7 +3,7 @@ layout: page
 authors: ["Jennifer Eustis", “Abigail Sparling”, “Owen Stephens”]  
 teaser: "Introduction to MarcEdit, a new lesson designed to introduce MarcEdit tools and features to profile, manipulate, and enhance MARC library data."
 title: "Library Carpentry Curriculum Advisory Committee Approves the Introduction to MarcEdit lesson"
-date: 2025-02-17
+date: 2025-02-18
 time: "09:00:00"
 tags: ["Curriculum", "Library Carpentry", "MarcEdit", "Curriculum Development"]
 ---
