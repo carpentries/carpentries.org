@@ -3,7 +3,7 @@ layout: page
 authors: ["SherAaron Hurt", "Danielle Sieh", "Angelique Trusler"]
 teaser: "Introducing our newest Junior Team Lead and Senior Program Manager"
 title: "Carpentries Core Team Promotions: Congratulations Angelique and Danielle!"
-date: 2025-02-10
+date: 2025-02-11
 time: "09:00:00"
 tags: ["Core Team", "Workshops", "Community Engagement"]
 ---
