@@ -39,7 +39,7 @@ The lesson was developed to help library and information workers manipulate and 
 The current Library Carpentry MarcEdit course has been developed and taught by the maintainers of the lesson and other members of the Carpentries communities. The development of this lesson owes much to Terry Reeese, the creator and maintainer of MarcEdit. 
 This is a new lesson in the beta stage and is being developed and maintained by Jennifer Eustis, Abigail Sparling, and Owen Stephens. The current maintainers plan to further develop the content to ensure that new MarcEdit features are incorporated as appropriate, and to add more instructor notes to the episodes.
 
-## Why was this lesson approved by the curriculum advisors?
+## Why was this lesson approved by the Curriculum Advisors?
 The LC-CAC approved the change from alpha to beta based on the pilot lessons taught. The maintainers have collected and integrated learner and instructor feedback from several pilot lessons, with plans to continue teaching the lesson in several in-person and online contexts.
 
 ## What you can do
