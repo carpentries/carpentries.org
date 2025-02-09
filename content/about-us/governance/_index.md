@@ -25,7 +25,7 @@ The Board uses standing Committees as a practical way to manage the work and eng
 
 ## Carpentries Bylaws and Policies
 
-The Carpentries Bylaws are located on the [website](https://docs.carpentries.org/topic_folders/governance/bylaws.html). Additionally, we have several [policies](https://docs.carpentries.org/topic_folders/policies/index.html) that govern how we operate, including our Code of Conduct, Privacy Policy, and Instructor's 'no-show' Policy.
+[The Carpentries Bylaws can be found here](/governance/carpentries_inc_bylaws.pdf). As well as our [Code of Conduct]({{< param handbook_url >}}/policies/coc/), we have several other policies that govern how we operate, including our [Privacy Policy]({{< param handbook_url >}}/policies/privacy.html), our [Instructor 'no-show' policy]({{< param handbook_url >}}/handbooks/instructors.html#instructor-training-attendance-policy) and [others]({{< param handbook_url >}}/policies).
 
 ## Contact the Board of Directors
 
