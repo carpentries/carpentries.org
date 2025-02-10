@@ -5,7 +5,7 @@ teaser: "Meet the NZ Regional Coordinator"
 title: "The Carpentries in New Zealand"
 date: 2019-03-04
 time: "09:00:00"
-tags: ["Community", "Community Discussions", "Regional Coordinators", "Australasia"]
+tags: ["Community", "Community Discussions", "Regional Coordinators", "Australasia", "New Zealand"]
 ---
 
 
