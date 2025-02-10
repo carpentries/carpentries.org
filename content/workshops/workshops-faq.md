@@ -190,19 +190,9 @@ The Workshops and Instruction Team can provide survey result links for past work
 Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request or register]({{< param amy_workshop_landing >}}) your workshop, you can indicate if the workshop is open to the public or not.
 {{< /accordion >}}
 
-{{< accordion title="How many times a year do I have to teach to be eligible to vote?" >}}
-
-Voting eligibility is dependent on an Instructor's history with The Carpentries. Please see our [Bylaws](/about-us/governance/#carpentries-bylaws-and-policies) for more information. 
-{{< /accordion >}}
-
 {{< accordion title="Are there email templates available for me to locate helpers?" >}}
 
 We have compiled several [email templates]({{< param handbook_url >}}/resources/workshops/email_templates.html) for you to be able to respond to various groups: participants, Instructors, and helpers.
-{{< /accordion >}}
-
-{{< accordion title="I do not see a [Regional Coordinator](/regionalcoordinators/) for my area. Who should I speak with regarding a workshop?" >}}
-
-If you live in an area that does not have a Regional Coordinator in that region, you are welcome to contact the Deputy Director of Workshops & Meetings at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}). This person is responsible for all workshops that do not have a Regional Coordinator.
 {{< /accordion >}}
 
 {{< accordion title="Can I charge Learners a fee to attend a workshop I host?" >}}
