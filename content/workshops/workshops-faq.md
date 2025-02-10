@@ -8,29 +8,6 @@ aliases:
 
 ## Pre-Workshop Questions
 
-{{< accordion title="Why is my workshop not listed on the carpentries.org webpage?" >}}
-
-There are three things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form]({{< param amy_workshop_landing >}}), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update.
-{{< /accordion >}}
-
-{{< accordion title="If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?" >}}
-
-A member of the Workshops and Instruction Team will contact the hosts/Instructors approximately two to three weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately one week prior to the workshop, the Workshops and Instruction Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately three days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshops and Instruction Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
-{{< /accordion >}}
-
-{{< accordion title="What is a slug? And how should I use it to name my workshop website?" >}}
-
-A slug is a unique identifier used by The Carpentries to connect a workshop with an organisation. Each workshop will have its own slug. The slug should use the following format YEAR-MM-DD-SITE-(online).
-
-* YEAR being replaced by the four-digit year (e.g. *2020*)
-* MM being replaced by the two-digit month (e.g. *03*)
-* DD being replaced by the two digits representing the first day of the workshop (e.g. *23*)
-* SITE being replaced by the organisation or location name (e.g. *stanford*)
-* If the workshop will take place online, please add online (e.g. *online*)
-
-This slug format is a part of a validation check in our system, including the dashes separating these variables.
-{{< /accordion >}}
-
 {{< accordion title="Should the Instructor or a member of the host institution be listed as the contact person on the workshop webpage?" >}}
 
 The contact person for the workshop webpage can be designated by the workshop organiser. The person listed should be able to answer questions regarding the workshop, such as attendance policy, waitlist, location, installation, etc. You can have multiple persons listed as the contact person if needed.
