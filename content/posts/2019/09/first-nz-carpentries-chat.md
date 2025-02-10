@@ -5,7 +5,7 @@ teaser: "Community members gather to discuss Carpentries successes and challenge
 title: "New Zealand Community Holds Its First Carpentries Chat"
 date: 2019-09-24
 time: "09:00:00"
-tags: ["Community", "Events", "Australasia"]
+tags: ["Community", "Events", "Australasia", "New Zealand"]
 ---
 
 
