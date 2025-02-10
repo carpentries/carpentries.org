@@ -84,16 +84,10 @@ Helpers are often recruited from the local community at the host site to support
 The Carpentries is not responsible for selecting helpers. This is the responsibility of the host organisation. It is the discretion of the organisation if they would like to reimburse the helpers for travel. [Here]({{< param handbook_url >}}/resources/workshops/checklists.html#helper-checklist) is more information regarding helpers.
 {{< /accordion >}}
 
-{{< accordion title="As an Instructor, will I still get credit for a workshop if the host cancelled?" >}}
-
-If you are scheduled to teach a Carpentries workshop and the host cancels, you will still receive credit for the workshop. If a workshop is scheduled and you have to withdraw from teaching, you will not receive credit for the workshop.
-{{< /accordion >}}
-
 {{< accordion title="How soon can I request a Carpentries workshop?" >}}
 
 The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of two to three months lead time to organise the workshop. If a request is less than two months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalised. 
 {{< /accordion >}}
-
 
 {{< accordion title="My currency is not USD, will I get invoiced in USD or my local currency?" >}}
 
