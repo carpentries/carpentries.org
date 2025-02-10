@@ -5,7 +5,7 @@ teaser: "NeSI celebrates being a Carpentries champion on our 25th Anniversary"
 title: "#Carpentries25 Testimonial Series: The New Zealand eScience Infrastructure (NeSI)"
 date: 2023-08-22
 time: "09:00:00"
-tags: ["Carpentries25", "Community", "Australasia"]
+tags: ["Carpentries25", "Community", "Australasia", "New Zealand"]
 ---
 
 _In July 2023, The Carpentries turned 25 years! On July 24th we [launched the #Carpentries25 anniversary celebrations](https://www.youtube.com/watch?v=VKAwEPLnqxA) which will continue for the remainder of the year with a series of monthly events and weekly activities highlighting the global and regional contributions and impact of The Carpentries community._
