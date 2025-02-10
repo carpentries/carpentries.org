@@ -23,19 +23,6 @@ The learner facing survey links are automatically generated on the workshop's we
 If you are planning a workshop, please notify the Workshops and Instruction Team of your planned workshop using the [workshop request form]({{< param amy_workshop_landing >}}). The Workshops and Instruction Team will send the link to view results of the survey one to two weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
 {{< /accordion >}}
 
-## Curriculum
-
-{{< accordion title="If I am only teaching portions of the Carpentries curriculum, do I still need to register my workshop?" >}}
-
-It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops, we can not provide support or share information with Instructors.
-
-If you are teaching a portion of The Carpentries curriculum or if the workshop does not align with the [Core Curriculum](/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops) we ask that you still [register]({{< param amy_workshop_landing >}}) your workshop and select the “Mix & Match” option for the question “Which Carpentries workshop are you teaching?”. *This option is only available for Self-Organised workshops. Centrally-Organised workshops are required to follow the Core Curricula.*
-{{< /accordion >}}
-
-{{< accordion title="When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?" >}}
-
-To be considered an official Carpentries workshop, you must follow the [Core Curricula](/workshops/host-workshop/#curriculum-requirements-for-centrally-organised-workshops). If you teach something other than what is listed on our webpage, we ask that you acknowledge that your workshop is "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register]({{< param amy_workshop_landing >}}) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources.
-{{< /accordion >}}
 
 ## Centrally-Organised Workshops
 
