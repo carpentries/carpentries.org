@@ -4,7 +4,7 @@ authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pa
 title: "Software Carpentry Workshop Attendance: a New Zealand Perspective"
 date: 2016-09-28
 time: "00:00:01"
-tags: ["Attendance", "Workshops", "Software Carpentry"]
+tags: ["Attendance", "Workshops", "Software Carpentry", "New Zealand"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
