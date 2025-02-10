@@ -59,28 +59,6 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 {{< /accordion >}}
 
 
-## Self-Organised Workshops
-
-{{< accordion title="Is there a fee for running a Self-Organised workshop?" >}}
-
-Self-Organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [pricing page](/support/pricing) for more information.
-{{< /accordion >}}
-
-{{< accordion title="How do I inform you I am running a Self-Organised workshop?" >}}
-
-When planning a Self-Organised workshop, we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [Self-Organised workshop form]({{< param amy_workshop_landing >}}). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](/workshops/upcoming-workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach.
-{{< /accordion >}}
-
-{{< accordion title="If I need help recruiting Instructors and/or helpers for a Self-Organised workshop, what are my options?" >}}
-
-If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors and/or helpers. Below are the channels you can use:
-
-* Any local or group specific mailing list on [Topicbox]({{< param topicbox >}})
-* Any local or group specific Slack channel
-
-These channels were designed specifically for community members to communicate about specific needs and to build local capacity.  Recruiting done in any other channel will be removed.
-{{< /accordion >}}
-
 ## Online Workshops
 
 {{< accordion title="I have never taught an online workshop, where should I begin?" >}}
