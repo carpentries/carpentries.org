@@ -21,7 +21,7 @@ The Carpentries is a registered 501(c)(3) non-profit based in Delaware, USA. The
 - Evidence-based, proven pedagogical training.
 - Workshops based on a learn-by-doing, ‘code with me’ approach.
 - A supportive learning culture.
-- A global community which subscribes to an inclusive code of conduct.
+- A global community which subscribes to an inclusive [Code of Conduct]({{< param handbook_url >}}/policies/coc/).
 
 
 ## Our vision
@@ -49,7 +49,7 @@ We help people build knowledge by creating a conducive environment for the excha
 {{< /section>}}
 
 {{< section title="Value all contributions" image="/images/values/value_all_contributions.png" >}}
-All contributions that follow our Code of Conduct are valuable.
+All contributions that follow our [Code of Conduct]({{< param handbook_url >}}/policies/coc/) are valuable.
 {{< /section>}}
 
 {{< section title="Always learning" image="/images/values/always_learning.png" >}}
