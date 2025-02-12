@@ -36,7 +36,7 @@ The Carpentries is a growing organisation that continually strives to reach new,
 
 **Objectives:**
 
-- Create and implement a program for developing Local Leadership, including mentorship for new Leaders, communication channels for connecting Local Leaders, and explicit training in our values, Code of Conduct, and Equity, Inclusion, and Accessibility.
+- Create and implement a program for developing Local Leadership, including mentorship for new Leaders, communication channels for connecting Local Leaders, and explicit training in our values, [Code of Conduct]({{< param handbook_url >}}/policies/coc/), and Equity, Inclusion, and Accessibility.
 - Develop a kit of resources, templates, and documentation to help build local communities and enable them to run their own CarpentryConnect events so that they can share experiences and learn from one another locally, regionally, and globally.
 - Develop a plan to work with local and regional communities to ensure they are supported appropriately by Regional Coordinators, Trainers, and other community roles that work in a location-specific manner.
 - Develop an Onboarding for Member Organisations that empowers them to build community locally and connect globally, including reports and recommendations for building local capacity for training and community; guidance for establishing an equitable, inclusive, and accessible culture of learning; and information on getting involved in the global Carpentries community.
@@ -48,7 +48,7 @@ The Carpentries is a growing organisation that continually strives to reach new,
 <br>
 **Rationale:**
 
-As an international community, we value inclusivity and want to continue to find our strength through diversity. We therefore want to lower barriers to participation by ensuring that our materials are accessible, that our Instructors are culturally responsive, and that our community continually strives to follow The Carpentries Code of Conduct in all organisational activities.
+As an international community, we value inclusivity and want to continue to find our strength through diversity. We therefore want to lower barriers to participation by ensuring that our materials are accessible, that our Instructors are culturally responsive, and that our community continually strives to follow The Carpentries [Code of Conduct]({{< param handbook_url >}}/policies/coc/) in all organisational activities.
 
 **Objectives:**
 
