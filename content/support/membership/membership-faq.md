@@ -54,7 +54,7 @@ Instructor travel expenses are the responsibility of the Member and are not cove
 Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#workshop-pricing) or added to an existing
 membership. If you would like to run a Centrally-Organised workshops in order to demonstrate the value of The Carpentries
 membership at your organisation, we will count the workshop fee towards a membership if purchased within twelve (12) months.<br><br>
-Workshops can cover curricula from any of our lesson programs: [Data Carpentry]({{< param dc-website >}}/lessons), [Library Carpentry]({{< param dc-website >}}/lessons), or [Software Carpentry]({{< param dc-website >}}/lessons).  An overview of available workshops is located on our [curricula page](/lessons/curriculum-summary/). Contact us at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) to learn more about our workshop operations.
+Workshops can cover curricula from any of our lesson programs: [Data Carpentry]({{< param dc-website >}}lessons), [Library Carpentry]({{< param dc-website >}}lessons), or [Software Carpentry]({{< param dc-website >}}lessons).  An overview of available workshops is located on our [curricula page](/lessons/curriculum-summary/). Contact us at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) to learn more about our workshop operations.
 {{< /accordion >}}
 
 {{< accordion title="How soon after signing my membership can I get started with hosting workshops?" >}}
