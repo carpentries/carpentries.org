@@ -29,9 +29,9 @@ If you are planning a workshop, please notify the Workshops and Instruction Team
 {{< accordion title="What is a Centrally-Organised workshop?" >}}
 
 A Centrally-Organised workshop is organised in collaboration with The Carpentries. The Workshops and Instruction Team (WIT) will locate Instructors, set up registration, and provide additional support during the workshop planning process. There is an administrative fee associated with Centrally-Organised workshops.
-Please visit our [host a workshop page](https://carpentries.org/workshops/host-workshop/#host-a-workshop) to learn more about Centrally-Organised workshops.
+Please visit our [host a workshop page](/workshops/host-workshop/#host-a-workshop) to learn more about Centrally-Organised workshops.
 
-[Resources for hosting a Carpentries workshop](https://docs.carpentries.org/resources/workshops/checklists.html) can be found in the Carpentries Handbook.
+[Resources for hosting a Carpentries workshop]({{< param handbook_url >}}/resources/workshops/checklists.html) can be found in the Carpentries Handbook.
 {{< /accordion >}}
 
 {{< accordion title="How much does a workshop cost?" >}}
