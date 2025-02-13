@@ -62,6 +62,7 @@
   et: false
   alt_text:
   mastodon: https://mstdn.science/@froggleston
+  bluesky: froggleston.carpentries.org
 
 - name: Oscar Masinyana
   pic: oscarmasinyana.jpg
@@ -109,3 +110,4 @@
   et: false
   alt_text:
   mastodon: https://mastodon.social/@angeliquetrusler
+  bluesky: angeliquetrusler.bsky.social
