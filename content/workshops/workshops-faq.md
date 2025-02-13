@@ -61,14 +61,16 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 
 ## Online Workshops
 
-{{< accordion title="I have never taught an online workshop, where should I begin?" >}}
+{{< accordion title="I have never hosted an online workshop, where should I begin?" >}}
 
-You can review the [Resources for Online Workshops]({{< param handbook_url >}}/resources/workshops/resources_for_online_workshops.html) in our handbook.
+Hosting an online workshop for the first time can be daunting. We have many great blog posts written by the community that you can reference to help with planning. 
+[The Software Sustainability Institute's Guidance for Running Online Training](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/) has 
+tips and tricks for everything from preparing your agenda to managing breakout rooms and advice on how to set up your workspace. Visit our [Resources for Online Workshops](https://docs.carpentries.org/resources/workshops/resources_for_online_workshops.html#resources-for-online-workshops) in our handbook for additional resources. 
 {{< /accordion >}}
 
-{{< accordion title="Does the workshop have to be two full days?" >}}
+{{< accordion title="Does my online workshop have to be two full days?" >}}
 
-Your workshop does not have to be two full days. You are encouraged to conduct your workshop over four half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.
+We understand that eight-hour days can feel long in an online setting. To make things more manageable, your workshop can be split into alternative formats: three 5-hour days or four 4-hour days. Please choose the schedule that works best for you and your learners!
 {{< /accordion >}}
 
 {{< accordion title="Will I be provided with a Zoom room to run my online workshop?" >}}
@@ -76,9 +78,9 @@ Your workshop does not have to be two full days. You are encouraged to conduct y
 For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing platform, we will be able to provide you with access to one of our Zoom rooms.
 {{< /accordion >}}
 
-{{< accordion title="How many Instructors are needed to teach the workshop?" >}}
+{{< accordion title="How many Instructors will The Carpentries recruit to teach my online workshop?" >}}
 
-Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [Resources for Online Workshops]({{< param handbook_url >}}/resources/workshops/resources_for_online_workshops.html).
+The Workshops and Instruction Team (WIT) will always recruit at least two Instructors for any workshop that you plan, online or in person. Because online workshops can be more challenging than workshops that are in person, WIT will recruit up to two additional Instructors for online workshops. Additional Instructors are dependent upon Instructor availability. 
 {{< /accordion >}}
 
 
