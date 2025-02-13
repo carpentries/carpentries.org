@@ -64,8 +64,8 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 {{< accordion title="I have never hosted an online workshop, where should I begin?" >}}
 
 Hosting an online workshop for the first time can be daunting. We have many great blog posts written by the community that you can reference to help with planning. 
-[The Software Sustainability Institute's Guidance for Running Online Training](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/) has 
-tips and tricks for everything from preparing your agenda to managing breakout rooms and advice on how to set up your workspace. Visit our [Resources for Online Workshops](https://docs.carpentries.org/resources/workshops/resources_for_online_workshops.html#resources-for-online-workshops) in our handbook for additional resources. 
+[The Software Sustainability Institute's Guidance for Running Online Training](/blog/2020/07/software-sustainability-institute-online-training-guidance/) has 
+tips and tricks for everything from preparing your agenda to managing breakout rooms and advice on how to set up your workspace. Visit our [Resources for Online Workshops]({{< param handbook_url >}}/resources/workshops/resources_for_online_workshops.html#resources-for-online-workshops) in our handbook for additional resources. 
 {{< /accordion >}}
 
 {{< accordion title="Does my online workshop have to be two full days?" >}}
