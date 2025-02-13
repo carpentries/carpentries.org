@@ -97,16 +97,16 @@ Teaching online is a challenge. We recommend a minimum of two Instructors and a 
 
 {{< accordion title="What happens if I need to cancel or postpone a planned workshop?" >}}
 
-**If you need to cancel your workshop**, please be sure to inform the Workshops and Instruction Team (WIT) by emailing workshops@carpentries.org. The WIT member that you have been working with will ensure that the workshop is removed from The Carpentries website and complete any other administrative tasks associated with the workshop.
+**If you need to cancel your workshop**, please be sure to inform the Workshops and Instruction Team (WIT) by emailing [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}). The WIT member that you have been working with will ensure that the workshop is removed from The Carpentries website and complete any other administrative tasks associated with the workshop.
 
-**If you need to postpone your workshop**, please email workshops@carpentries.org and the WIT member that you have been working with will help you select new dates for your workshop and complete any other administrative tasks associated with the workshop.
+**If you need to postpone your workshop**, please email [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) and the WIT member that you have been working with will help you select new dates for your workshop and complete any other administrative tasks associated with the workshop.
 
 *Please ensure that you inform your registrants of a canceled or postponed workshop via email or through your registration platform.*
 {{< /accordion >}}
 
 {{< accordion title="What is the difference between a Centrally-Organised workshop and a Self-Organised workshop?" >}}
 
-For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Team (WIT) will recruit Instructors, set up registration, and provide additional support while planning workshops. There is an [administrative fee](/support/pricing) for Centrally-Organised workshops. A Self-Organised workshop is planned independently of WIT, which means the host is connected with our [certified Instructors](/community/instructors/) and will work with them on all aspects of workshop organisation. Self-Organised workshops are free of charge. Please visit our [Host a Workshop](https://carpentries.org/workshops/host-workshop/) page to learn more about both workshop types. 
+For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Team (WIT) will recruit Instructors, set up registration, and provide additional support while planning workshops. There is an [administrative fee](/support/pricing) for Centrally-Organised workshops. A Self-Organised workshop is planned independently of WIT, which means the host is connected with our [certified Instructors](/community/instructors/) and will work with them on all aspects of workshop organisation. Self-Organised workshops are free of charge. Please visit our [Host a Workshop](/workshops/host-workshop/) page to learn more about both workshop types. 
 {{< /accordion >}}
 
 {{< accordion title="How do I get survey data/links for previous workshops?" >}}
@@ -138,4 +138,4 @@ The Instructors selected to teach workshops are volunteers and are not paid for 
 ## Further Resources
 
 Visit our [Membership FAQ page](/support/membership/membership-faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
-Visit our [Instructor Handbook FAQ](https://docs.carpentries.org/handbooks/instructors.html#faq) for frequently asked questions about the Self-Organised workshops process and the Instructor role. 
+Visit our [Instructor Handbook FAQ]({{< param handbook_url >}}/handbooks/instructors.html#faq) for frequently asked questions about the Self-Organised workshops process and the Instructor role. 
