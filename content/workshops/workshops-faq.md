@@ -8,9 +8,14 @@ aliases:
 
 ## Pre-Workshop Questions
 
+{{< accordion title="When planning workshop, how closely does the workshop have to stick to the Carpentries lesson plans??" >}}
+
+Centrally-Organised workshops must teach the Core Curriculum of a lesson plan. Visit our [Curricula Overview page](https://carpentries.org/lessons/curriculum-summary/) to learn more about what we have to offer!
+{{< /accordion >}}
+
 {{< accordion title="Should the Instructor or a member of the host institution be listed as the contact person on the workshop webpage?" >}}
 
-The contact person for the workshop webpage can be designated by the workshop organiser. The person listed should be able to answer questions regarding the workshop, such as attendance policy, waitlist, location, installation, etc. You can have multiple persons listed as the contact person if needed.
+The contact person for the workshop webpage can be designated by the workshop organiser. The person listed should be knowlegdable about the workshop so they can answer questions regarding the workshop such as attendance policy, waitlist, location, installation, etc. You can have multiple persons listed as the contact person if needed.
 {{< /accordion >}}
 
 {{< accordion title="Where do I find the pre/post survey for the learners to use?" >}}
