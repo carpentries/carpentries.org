@@ -31,7 +31,7 @@ Centrally-Organised workshops must teach a lesson program’s core curriculum an
 
 * A [Software Carpentry]({{< param swc-website >}}) workshop should include The Unix Shell, Version Control with Git, and a programming language (R or Python)  
 
-* A [Data Carpentry]({{< param dc-website >}}) workshop will vary based on its specific curriculum. It should generally include a lesson on one programming language (either R or Python) where applicable, as well as all other lessons outlined in the curriculum.  
+* A [Data Carpentry]({{< param dc-website >}}) workshop will vary based on its specific curriculum. It should generally include a lesson on one programming language (either R or Python) where applicable, as well as all other lessons outlined in the curriculum. *Data Carpentry (Genomics) workshops come with an additional fee for the use of Amazon Web Services (AWS) instances provided by The Carpentries. Please visit our [terms of agreement]() to learn more about the process of scheduling a Genomics workshop.*
 
 [Curricula overview](/lessons/curriculum-summary)
 {.button}
