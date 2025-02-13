@@ -11,11 +11,11 @@ aliases:
 
 There are two ways to host a workshop at The Carpentries: Centrally-Organised and Self-Organised. 
 
-A [Centrally-Organised workshop](https://carpentries.org/workshops/workshops-faq/#centrally-organised-workshops) is an integrative approach to planning a Carpentries event. Collaborate with the Carpentries Workshops and Instruction Team (WIT) to organise your workshop and a member of WIT will do the work to prepare your team for an exceptional workshop experience. Preparation from WIT includes recruitment of certified Instructors, setting up and providing access to Eventbrite for learner registration, arranging a virtual meeting space for online workshops when needed, and a wealth of resources and information to ensure a successful workshop. Centrally-Organised workshops come with an administrative fee, which you can learn more about on [our pricing page](https://carpentries.org/support/pricing). With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
+A [Centrally-Organised workshop](/workshops/workshops-faq/#centrally-organised-workshops) is an integrative approach to planning a Carpentries event. Collaborate with the Carpentries Workshops and Instruction Team (WIT) to organise your workshop and a member of WIT will do the work to prepare your team for an exceptional workshop experience. Preparation from WIT includes recruitment of certified Instructors, setting up and providing access to Eventbrite for learner registration, arranging a virtual meeting space for online workshops when needed, and a wealth of resources and information to ensure a successful workshop. Centrally-Organised workshops come with an administrative fee, which you can learn more about on [our pricing page](/support/pricing). With the assistance of WIT and your Instructors, a Centrally-Organised workshop is a great way to meet all of your workshop needs!
 
 A [Self-Organised workshop]() is a Carpentries workshop where the registration, recruitment of Instructors, and preparation for the workshop are managed by the host. Self-Organised workshops are free of cost to organise and allow for planning in a way that is more catered to the needs of the host and learners. While the majority of planning is dependent on the host and learner needs, we do have a few guidelines that we ask our Self-Organised workshop hosts to follow. Please visit the [Instructor Handbook FAQ]() to learn more about the requirements. 
 
-If you are interested in hosting a Centrally-Organised workshop, you can learn more on this page. If you are interested in hosting a Self-Organised workshop, [you can learn more about organising one in our handbook](https://docs.carpentries.org/handbooks/instructors.html#step-by-step-guides). 
+If you are interested in hosting a Centrally-Organised workshop, you can learn more on this page. If you are interested in hosting a Self-Organised workshop, [you can learn more about organising one in our handbook]({{< param handbook_url >}}/handbooks/instructors.html#step-by-step-guides). 
 
 ## Curriculum Requirements for Centrally-Organised Workshops 
 
@@ -53,7 +53,7 @@ Once you have requested your workshop, you can expect the following:
 * **Workshop**: Instructors will join you and your learners to teach a hands-on, data skills and coding workshop at your organisation!
 
 [Workshop Host Checklist]({{< param handbook_url >}}/resources/workshops/checklists.html#host-checklist): a more detailed review of the workshop organisation process
-[Workshops FAQ](https://carpentries.org/workshops/workshops-faq/): answers to commonly asked questions
+[Workshops FAQ](/workshops/workshops-faq/): answers to commonly asked questions
 [The Carpentries Handbook]({{< param handbook_url >}}/resources/workshops/): additional resources for organising a Carpentries workshop
 
 ## Workshop Pricing 
