@@ -112,36 +112,36 @@ The Workshops and Instruction Team (WIT) will always recruit at least two Instru
 
 {{< accordion title="What happens if I need to cancel or postpone a planned workshop?" >}}
 
-If you need to cancel your workshop, please be sure to inform your [Regional Coordinator](/regionalcoordinators/). They will ensure that the workshop is removed from our website and complete any other administrative tasks associated with the workshop.
+**If you need to cancel your workshop**, please be sure to inform the Workshops and Instruction Team (WIT) by emailing [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}). The WIT member that you have been working with will ensure that the workshop is removed from The Carpentries website and complete any other administrative tasks associated with the workshop.
 
-If you need to postpone your workshop please contact your [Regional Coordinator](/regionalcoordinators/). They will work with you to select the dates for the rescheduled workshop.
+**If you need to postpone your workshop**, please email [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) and the WIT member that you have been working with will help you select new dates for your workshop and complete any other administrative tasks associated with the workshop.
+
+*Please ensure that you inform your registrants of a canceled or postponed workshop via email or through your registration platform.*
 {{< /accordion >}}
 
 {{< accordion title="What is the difference between a Centrally-Organised workshop and a Self-Organised workshop?" >}}
 
-A Centrally-Organised workshop is organised by The Carpentries. We will locate Instructors, setup registration and provide additional support while planning workshops. There is an [administrative fee](/support/pricing) for Centrally-Organised workshops.
-
-A Self-Organised workshop is organised by the workshop instructor/organiser. This means you are already connected with our [certified Instructors](/community/instructors/) and will work with them on all aspects of workshop organisation. There is no administrative fee for Self-Organised workshops.
+For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Team (WIT) will recruit Instructors, set up registration, and provide additional support while planning workshops. There is an [administrative fee](/support/pricing) for Centrally-Organised workshops. A Self-Organised workshop is planned independently of WIT, which means the host is connected with our [certified Instructors](/community/instructors/) and will work with them on all aspects of workshop organisation. Self-Organised workshops are free of charge. Please visit our [Host a Workshop](/workshops/host-workshop/) page to learn more about both workshop types. 
 {{< /accordion >}}
 
 {{< accordion title="How do I get survey data/links for previous workshops?" >}}
 
-The Workshops and Instruction Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organisers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshops and Instruction Team (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshops and Instruction Team (WIT) can provide survey result links for past workshops (August 2018 - present) to Instructors and hosts affiliated with the workshop, or a member contact affiliated with the host organisation. To request survey results links, please send an email to WIT (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
 {{< /accordion >}}
 
 {{< accordion title="Can we restrict who participates in our workshops?" >}}
 
-Yes, it is up to the workshop organisers to decide who can attend a workshop. You can have it open to the public or restricted to people from your organisation. When you [request or register]({{< param amy_workshop_landing >}}) your workshop, you can indicate if the workshop is open to the public or not.
+Yes, it is up to the workshop organisers to decide who can attend a workshop. You can open it to the public or restrict it to people from your organisation. When you [request or register]({{< param amy_workshop_landing >}}) your workshop, you can indicate whether or not it is open to the public.
 {{< /accordion >}}
 
 {{< accordion title="Are there email templates available for me to locate helpers?" >}}
 
-We have compiled several [email templates]({{< param handbook_url >}}/resources/workshops/email_templates.html) for you to be able to respond to various groups: participants, Instructors, and helpers.
+We have compiled several [email templates]({{< param handbook_url >}}/resources/workshops/email_templates.html) to help you respond to various groups: participants, Instructors, and helpers.
 {{< /accordion >}}
 
 {{< accordion title="Can I charge Learners a fee to attend a workshop I host?" >}}
 
-Yes, you can charge learners a fee to attend a workshop. It is up to the host to decide if they will charge each participant. Often a nominal fee of $20 reduces the number of no-shows. Since most workshops have a wait list, it is best to be able to offer these spots to people on the waitlist instead of having an empty seat.
+Yes, you can charge learners a fee to attend a workshop. Often a nominal fee of $20 reduces the number of no-shows. Many workshops have a waitlist, so it is best to be able to offer open seats due to no-shows to people on the waitlist instead of having an empty seat.
 {{< /accordion >}}
 
 {{< accordion title="Can I pay Instructors a stipend?" >}}
@@ -153,3 +153,4 @@ The Instructors selected to teach workshops are volunteers and are not paid for 
 ## Further Resources
 
 Visit our [Membership FAQ page](/support/membership/membership-faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
+Visit our [Instructor Handbook FAQ]({{< param handbook_url >}}/handbooks/instructors.html#faq) for frequently asked questions about the Self-Organised workshops process and the Instructor role. 
