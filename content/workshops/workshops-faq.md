@@ -10,7 +10,7 @@ aliases:
 
 {{< accordion title="When planning workshop, how closely does the workshop have to stick to the Carpentries lesson plans??" >}}
 
-Centrally-Organised workshops must teach the Core Curriculum of a lesson plan. Visit our [Curricula Overview page](https://carpentries.org/lessons/curriculum-summary/) to learn more about what we have to offer!
+Centrally-Organised workshops must teach the Core Curriculum of a lesson plan. Visit our [Curricula Overview page](/lessons/curriculum-summary/) to learn more about what we have to offer!
 {{< /accordion >}}
 
 {{< accordion title="Should the Instructor or a member of the host institution be listed as the contact person on the workshop webpage?" >}}
