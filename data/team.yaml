@@ -8,7 +8,7 @@
   twitter: drkariljordan
   calendly: kariljordan
   et: true
-  alt_text: Headshot of Kari Jordan
+  image_alt: Headshot of Kari Jordan
   mastodon: https://mastodon.social/@drkariljordan
 
 - name: Erin Becker, PhD
@@ -21,7 +21,7 @@
   twitter: ErinSBecker
   calendly: ebecker-1
   et: true
-  alt_text: Headshot of Erin Becker
+  image_alt: Headshot of Erin Becker
 
 - name: Toby Hodges, PhD
   pronouns:  he/him/his
@@ -34,7 +34,7 @@
   calendly: tobyhodges
   et: false
   bluesky: tobyhodges.bsky.social
-  alt_text: Headshot of Toby Hodges
+  image_alt: Headshot of Toby Hodges
 
 - name: SherAaron Hurt
   pic: sheraaronhurt.jpg
@@ -47,7 +47,7 @@
   twitter: SherAaronHurt
   calendly: sheraaron
   et: false
-  alt_text: Headshot of SherAaron Hurt 
+  image_alt: Headshot of SherAaron Hurt 
 
 - name: Robert Davey, PhD
   pic: robertdavey.jpg
@@ -62,7 +62,7 @@
   calendly: froggleston
   orcid: 0000-0002-5589-7754
   et: false
-  alt_text: Headshot of Robert Davey
+  image_alt: Headshot of Robert Davey
   mastodon: https://mstdn.science/@froggleston
   bluesky: froggleston.carpentries.org
 
@@ -77,7 +77,7 @@
   calendly: oscar-masinyana-carpentries
   orcid: 0009-0006-9624-3278
   et: false
-  alt_text: African male with short dreadlocked hair, wearing reading glasses and smiling.
+  image_alt: African male with short dreadlocked hair, wearing reading glasses and smiling.
   mastodon: https://mastodon.social/@oscarsibabalwe
 
 - name: Maneesha Sane
@@ -89,7 +89,7 @@
   github: maneesha
   calendly: maneesha
   et: false
-  alt_text: Headshot of Maneesha Sane 
+  image_alt: Headshot of Maneesha Sane 
 
 - name: Danielle Sieh
   pronouns: she/her/hers
@@ -99,7 +99,7 @@
   email: danielle@carpentries.org
   calendly: daniellesieh
   et: false
-  alt_text: Headshot of Danielle Sieh
+  image_alt: Headshot of Danielle Sieh
 
 - name: Angelique Trusler, PhD
   pronouns: Any pronouns will do
@@ -110,6 +110,6 @@
   twitter: AngeliquePhd
   calendly: angelique_v
   et: false
-  alt_text: Headshot of Angelique Trusler
+  image_alt: Headshot of Angelique Trusler
   mastodon: https://mastodon.social/@angeliquetrusler
   bluesky: angeliquetrusler.bsky.social
