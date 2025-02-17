@@ -7,7 +7,7 @@ aliases:
 - /request-workshop/
 ---
 
-## Host a workshop
+## Host a Workshop
 
 We have two options for hosting a Carpentries workshop; Self-Organised and Centrally-Organised.
 

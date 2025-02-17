@@ -10,7 +10,7 @@ aliases:
 
 If you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us on social media, please use the contact details below:
 
-## By email 
+## By Email 
 
 * General enquiries: [{{< param team_email >}}](mailto:{{< param team_email >}})
 * Workshop enquiries: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
@@ -24,14 +24,14 @@ If you would like to ask us anything about The Carpentries, its community, and i
 * [Join The Carpentries Slack Workspace]({{< param slack_invite >}}) 
 * [Log into The Carpentries General Slack Channel]({{< param slack >}}/archives/C03LE48AY)
 
-## On social media
+## On Social Media
 
 * [YouTube]({{< param youtube >}})
 * [Mastodon]({{< param mastodon >}})
 * [LinkedIn]({{< param linkedin >}})
 
 
-## By mail
+## By Mail
 
 The Carpentries\
 200 B Street, STE F\
