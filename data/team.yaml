@@ -8,7 +8,7 @@
   twitter: drkariljordan
   calendly: kariljordan
   et: true
-  alt_text:
+  alt_text: Headshot of Kari Jordan
   mastodon: https://mastodon.social/@drkariljordan
 
 - name: Erin Becker, PhD
@@ -21,7 +21,7 @@
   twitter: ErinSBecker
   calendly: ebecker-1
   et: true
-  alt_text:
+  alt_text: Headshot of Erin Becker
 
 - name: Toby Hodges, PhD
   pronouns:  he/him/his
@@ -34,6 +34,7 @@
   calendly: tobyhodges
   et: false
   bluesky: tobyhodges.bsky.social
+  alt_text: Headshot of Toby Hodges
 
 - name: SherAaron Hurt
   pic: sheraaronhurt.jpg
@@ -46,7 +47,7 @@
   twitter: SherAaronHurt
   calendly: sheraaron
   et: false
-  alt_text:
+  alt_text: Headshot of SherAaron Hurt 
 
 - name: Robert Davey, PhD
   pic: robertdavey.jpg
@@ -61,7 +62,7 @@
   calendly: froggleston
   orcid: 0000-0002-5589-7754
   et: false
-  alt_text:
+  alt_text: Headshot of Robert Davey
   mastodon: https://mstdn.science/@froggleston
   bluesky: froggleston.carpentries.org
 
@@ -88,7 +89,7 @@
   github: maneesha
   calendly: maneesha
   et: false
-  alt_text:
+  alt_text: Headshot of Maneesha Sane 
 
 - name: Danielle Sieh
   pronouns: she/her/hers
@@ -98,7 +99,7 @@
   email: danielle@carpentries.org
   calendly: daniellesieh
   et: false
-  alt_text:
+  alt_text: Headshot of Danielle Sieh
 
 - name: Angelique Trusler, PhD
   pronouns: Any pronouns will do
@@ -109,6 +110,6 @@
   twitter: AngeliquePhd
   calendly: angelique_v
   et: false
-  alt_text:
+  alt_text: Headshot of Angelique Trusler
   mastodon: https://mastodon.social/@angeliquetrusler
   bluesky: angeliquetrusler.bsky.social
