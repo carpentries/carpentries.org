@@ -52,9 +52,10 @@ Once you have requested your workshop, you can expect the following:
 *  **Instructors Connected**: once confirmed, WIT will introduce you to your team of Instructors who will work with you to create a schedule and get to know your target audience. Instructors assigned to your workshop will also ready a website to supply you and your learners with the information needed to prepare for the workshop. 
 * **Workshop**: Instructors will join you and your learners to teach a hands-on, data skills and coding workshop at your organisation!
 
-[Workshop Host Checklist]({{< param handbook_url >}}/resources/workshops/checklists.html#host-checklist): a more detailed review of the workshop organisation process
-[Workshops FAQ](/workshops/workshops-faq/): answers to commonly asked questions
-[The Carpentries Handbook]({{< param handbook_url >}}/resources/workshops/): additional resources for organising a Carpentries workshop
+Learn more about the organisation process with the resources below:
+* [Workshop Host Checklist]({{< param handbook_url >}}/resources/workshops/checklists.html#host-checklist): a more detailed review of the workshop organisation process
+* [Workshops FAQ](/workshops/workshops-faq/): answers to commonly asked questions
+* [The Carpentries Handbook]({{< param handbook_url >}}/resources/workshops/): additional resources for organising a Carpentries workshop
 
 ## Workshop Pricing 
 
