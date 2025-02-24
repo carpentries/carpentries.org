@@ -30,7 +30,7 @@ Our vision is to be the leading inclusive community teaching data and coding ski
 
 ## Our mission
 
-The Carpentries empowers a diverse global community by equipping individuals with essential data and computational skills.  We promote efficient, open, and reproducible research practices.  By fostering collaborative development of openly available lessons and research-informed teaching methods, we build an inclusive network of practictioners and advocates who emphasise the critical role of software and data in advancing research.
+The Carpentries empowers a diverse global community by equipping individuals with essential data and computational skills.  We promote efficient, open, and reproducible research practices.  By fostering collaborative development of openly available lessons and research-informed teaching methods, we build an inclusive network of practitioners and advocates who emphasise the critical role of software and data in advancing research.
 
 <img src="images/mimi-thian.jpg" style="width: 50%; height: 50%" alt="People at a computer"/>
 
