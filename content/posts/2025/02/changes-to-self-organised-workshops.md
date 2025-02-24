@@ -3,7 +3,7 @@ layout: page
 authors: ["Danielle Sieh"] 
 teaser: "Updates to Self-Organised Workshops" 
 title: "Upcoming Changes to Self-Organised Workshops: Ensuring Sustainability and Continued Community Impact" 
-Date: 2025-02-17 
+Date: 2025-02-27 
 time: "09:00:00" 
 tags: ["Community", "Workshops", "Data Carpentry"] 
 ---
