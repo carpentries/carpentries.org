@@ -50,9 +50,9 @@ Early in 2024, WIT clarified the definition of SOWs. This will provide clarity, 
     * Genomics workshops requesting AWS instances should be submitted at least **five weeks** before the start date. We cannot provide AWS instances for any workshop submitted less than five weeks before the start date. 
     * All other SOWs should be submitted at least **three weeks** before the workshop.
     * SOWs submitted after the required submission deadline will still be processed. However, we cannot guarantee that they will be processed before the workshop's start date. 
-3. Mix-and-match workshops have been in pilot phase, but we will officially accept mix-and-match workshops that teach any combination of Carpentries lessons and episodes. Workshops that teach non-Carpentries lessons will not be accepted. Please submit workshops teaching lessons in the Incubator or Lab on [The Carpentries Incubator (carpentries-incubator.org)](https://carpentries-incubator.org/) page.
+3. Mix-and-match workshops have been in the pilot phase, but we will officially accept mix-and-match workshops that teach any combination of Carpentries lessons and episodes. Workshops that teach non-Carpentries lessons will not be accepted. Please submit workshops teaching lessons in the Incubator or Lab on [The Carpentries Incubator (carpentries-incubator.org)](https://carpentries-incubator.org/) page.
 
-Whew! Have you made it this far? We know this is A LOT of information and a lot of change. However, we truly hope that these updates will allow us to support the community better, while contributing to the sustainability of the organisation. 
+Whew! Have you made it this far? We know this is A LOT of information and a lot of change. However, we truly hope that these updates will allow us to support the community better while contributing to the sustainability of the organisation. 
 
 You can find more information about these changes in the [Instructor Handbook FAQ](https://docs.carpentries.org/handbooks/instructors.html#self-organised) and through a review of the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html). We are also available to respond to any questions, concerns, or feedback you have. Please don’t hesitate to email us at team@carpentries.org at any time.
 
