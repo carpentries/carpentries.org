@@ -41,7 +41,8 @@ We’ve made significant strides in implementing additional community-driven rec
 We launched quarterly calls in 2022 to provide a space for networking and knowledge-sharing. Our next call is scheduled for **[11 March 2025 at 14:00 UTC and 23:00 UTC](https://pad.carpentries.org/community-development-program)**. If you’re involved in community building, we encourage you to attend!
 
 
-### The Community Glossary and Carpentries Handbooks
+### _The Community Glossary and Carpentries Handbooks_
+
 
 The **[Community Glossary](https://github.com/carpentries/community-engagement/blob/main/glossary.md)** is available to clarify key terms. Additionally, we redeveloped our **[Carpentries Handbooks](https://docs.carpentries.org/index.html)** as part of our website redesign. 
 
