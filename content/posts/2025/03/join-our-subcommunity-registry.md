@@ -53,7 +53,8 @@ The **[Community Glossary](https://github.com/carpentries/community-engagement/b
 We audited our **[Slack](https://slack-invite.carpentries.org/)** and **[TopicBox](https://carpentries.topicbox.com/latest)** channels in 2022, and this effort is ongoing. We expanded our social media presence by adding **[Mastodon](https://mastodon.social/@thecarpentries@hachyderm.io)** and **[Bluesky](https://bsky.app/profile/carpentries.carpentries.org)** accounts. 
 
 
-### Event Registration for the Carpentries Community
+### _Event Registration for the Carpentries Community_
+
 
 Want to share an event with the community? You can post in our **#events Slack channel**, submit details for our **[newsletter](https://carpentries.org/about-us/newsletter/)**, or request that your event be added to **[The Carpentries Community Calendar](https://carpentries.org/community/events/)** by [emailing the **Community Engagement Team**](mailto:community@carpentries.org).
 
