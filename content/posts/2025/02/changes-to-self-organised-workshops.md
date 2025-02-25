@@ -43,7 +43,7 @@ Early in 2024, WIT clarified the definition of SOWs. This will provide clarity, 
 1.  For a SOW to be accepted, please make sure your workshop:
     *  Teaches one or more lessons from any of The Carpentries lesson programs (Software, Data, Library Carpentry).
     * Has at least one Carpentries certified Instructor teaching.
-    * Uses a Carpentries webpage with a naming convention that follows the required slug format (found [carpentries/workshop-template: The Carpentries Workshop Template (github.com)](https://github.com/carpentries/workshop-template)). 
+    * Uses a Carpentries webpage with a naming convention that follows the required slug format (as found on the [The Carpentries Workshop Template](https://github.com/carpentries/workshop-template)). 
     * [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment).
     * Abides by [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/).
 2. Submitting your SOW:
