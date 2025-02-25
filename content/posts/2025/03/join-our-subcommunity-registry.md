@@ -1,6 +1,7 @@
 ---
 layout: page
-authors: ["Angelique Trusler]
+authors: ["Angelique Trusler"]
+
 teaser: "Join Our Subcommunity Registry!"
 title: "Expanding Our Community: Subcommunity Invitations and Progress Update"
 date: 2025-03-03
