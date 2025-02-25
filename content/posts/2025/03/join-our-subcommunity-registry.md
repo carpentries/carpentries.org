@@ -47,7 +47,8 @@ We launched quarterly calls in 2022 to provide a space for networking and knowle
 The **[Community Glossary](https://github.com/carpentries/community-engagement/blob/main/glossary.md)** is available to clarify key terms. Additionally, we redeveloped our **[Carpentries Handbooks](https://docs.carpentries.org/index.html)** as part of our website redesign. 
 
 
-### Communication Channels
+### _Communication Channels_
+
 
 We audited our **[Slack](https://slack-invite.carpentries.org/)** and **[TopicBox](https://carpentries.topicbox.com/latest)** channels in 2022, and this effort is ongoing. We expanded our social media presence by adding **[Mastodon](https://mastodon.social/@thecarpentries@hachyderm.io)** and **[Bluesky](https://bsky.app/profile/carpentries.carpentries.org)** accounts. 
 
