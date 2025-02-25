@@ -35,7 +35,8 @@ If you have any questions about registering, please [contact the **Community Eng
 We’ve made significant strides in implementing additional community-driven recommendations. Here are some key updates:
 
 
-### Quarterly Community Calls for Subcommunity Leaders and Member Organisations
+### _Quarterly Community Calls for Subcommunity Leaders and Member Organisations_
+
 
 We launched quarterly calls in 2022 to provide a space for networking and knowledge-sharing. Our next call is scheduled for **[11 March 2025 at 14:00 UTC and 23:00 UTC](https://pad.carpentries.org/community-development-program)**. If you’re involved in community building, we encourage you to attend!
 
