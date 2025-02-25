@@ -20,7 +20,7 @@ The first change is for Data Carpentry Genomics workshops. Unfortunately, with A
 
 - Pricing will depend upon the number of instances and the number of days the workshop takes place.
 
-- To learn more about actual costs, please [visit the Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html) in the Workshops Resources section of The Carpentries Handbook. 
+- To learn more about actual costs, please [visit the Genomics Workshops Terms of Agreement]({{< param handbook_url >}}/resources/workshops/genomics_policy.html) in the Workshops Resources section of The Carpentries Handbook. 
 
 To ensure that Genomics SOWs remain accessible to all, Instructors outside of high-income regions (based on the [World Bank’s gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)):
 
@@ -30,13 +30,13 @@ To ensure that Genomics SOWs remain accessible to all, Instructors outside of hi
 
 Genomics workshops submitted prior to this blog post **will not** be affected by the changes and there will be **no additional charges** associated with those workshops.  
 
-Again, you can learn more about the actual costs in the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html). 
+Again, you can learn more about the actual costs in the [Genomics Workshops Terms of Agreement]({{< param handbook_url >}}/resources/workshops/genomics_policy.html). 
 
 We will continue to identify and pursue opportunities to obtain financial and in-kind support to cover costs for workshops, which would help us waive fees for Genomics workshops in the future.
 
 **General Changes to the Self-Organised Workshop Process**
 
-Early in 2024, WIT clarified the definition of SOWs. This will provide clarity, help reduce the time spent processing them, and ensure the data we collect aligns with the needs of The Carpentries' mission. Please take some time to [review the full definition of a SOW](https://docs.carpentries.org/handbooks/instructors.html#self-organised) in the Instructors FAQ section of The Carpentries Handbook. Below are a few important highlights:
+Early in 2024, WIT clarified the definition of SOWs. This will provide clarity, help reduce the time spent processing them, and ensure the data we collect aligns with the needs of The Carpentries' mission. Please take some time to [review the full definition of a SOW]({{< param handbook_url >}}/handbooks/instructors.html#self-organised) in the Instructors FAQ section of The Carpentries Handbook. Below are a few important highlights:
 
 
 
@@ -44,16 +44,16 @@ Early in 2024, WIT clarified the definition of SOWs. This will provide clarity, 
     *  Teaches one or more lessons from any of The Carpentries lesson programs (Software, Data, Library Carpentry).
     * Has at least one Carpentries certified Instructor teaching.
     * Uses a Carpentries webpage with a naming convention that follows the required slug format (as found on the [The Carpentries Workshop Template](https://github.com/carpentries/workshop-template)). 
-    * [Uses the Carpentries surveys for evaluation](https://carpentries.org/about-us/impact/#assessment).
-    * Abides by [The Carpentries Code of Conduct](https://docs.carpentries.org/policies/coc/).
+    * [Uses the Carpentries surveys for evaluation](/about-us/impact/#assessment).
+    * Abides by [The Carpentries Code of Conduct]({{< param handbook_url >}}/policies/coc/).
 2. Submitting your SOW:
     * Genomics workshops requesting AWS instances should be submitted at least **five weeks** before the start date. We cannot provide AWS instances for any workshop submitted less than five weeks before the start date. 
     * All other SOWs should be submitted at least **three weeks** before the workshop.
     * SOWs submitted after the required submission deadline will still be processed. However, we cannot guarantee that they will be processed before the workshop's start date. 
-3. Mix-and-match workshops have been in the pilot phase, but we will officially accept mix-and-match workshops that teach any combination of Carpentries lessons and episodes. Workshops that teach non-Carpentries lessons will not be accepted. Please submit workshops teaching lessons in the Incubator or Lab on [The Carpentries Incubator (carpentries-incubator.org)](https://carpentries-incubator.org/) page.
+3. Mix-and-match workshops have been in the pilot phase, but we will officially accept mix-and-match workshops that teach any combination of Carpentries lessons and episodes. Workshops that teach non-Carpentries lessons will not be accepted. Please submit workshops teaching lessons in the Incubator or Lab on [The Carpentries Incubator (carpentries-incubator.org)]({{< param incubator_link >}}) page.
 
 Whew! Have you made it this far? We know this is A LOT of information and a lot of change. However, we truly hope that these updates will allow us to support the community better while contributing to the sustainability of the organisation. 
 
-You can find more information about these changes in the [Instructor Handbook FAQ](https://docs.carpentries.org/handbooks/instructors.html#self-organised) and through a review of the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html). We are also available to respond to any questions, concerns, or feedback you have. Please don’t hesitate to email us at team@carpentries.org at any time.
+You can find more information about these changes in the [Instructor Handbook FAQ]({{< param handbook_url >}}/handbooks/instructors.html#self-organised) and through a review of the [Genomics Workshops Terms of Agreement]({{< param handbook_url >}}/resources/workshops/genomics_policy.html). We are also available to respond to any questions, concerns, or feedback you have. Please don’t hesitate to email us at team@carpentries.org at any time.
 
 Instructors, your impact has been immeasurable, and we truly value the expertise and passion you bring to our community. The upcoming changes are designed to ensure we can continue delivering on our mission, and your support is central to that success. Together, we’ve accomplished so much, and we are excited for the great things yet to come. Thank you for your hard work, enthusiasm, and for making such a positive impact on The Carpentries community. We simply couldn't do what we do without you!
