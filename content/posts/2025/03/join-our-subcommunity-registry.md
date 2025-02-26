@@ -9,7 +9,7 @@ time: "09:00:00"
 tags: ["Subcommunities", "Community"]
 ---
 
-The **Community Development Program**, launched in 2022, continues to support The Carpentries’ growing network of **subcommunities**—groups within our larger community that are local (e.g., University Carpentries Clubs), regional (e.g., Carpentries in Africa, Carpentries in the UK), domain-specific (e.g., HPC Carpentry), language-based (e.g., Carpentries-es), or interest-driven (e.g., Carpentries Offline). Subcommunities built around formal Carpentries roles (e.g., Instructors, Maintainers) fall outside this definition. 
+The **Community Development Program**, launched in 2022, continues to support The Carpentries’ growing network of **subcommunities** within our larger community that are local (e.g., University Carpentries Clubs), regional (e.g., Carpentries in Africa, Carpentries in the UK), domain-specific (e.g., HPC Carpentry), language-based (e.g., Carpentries-es), or interest-driven (e.g., Carpentries Offline). Subcommunities built around formal Carpentries roles (e.g., Instructors, Maintainers) fall outside this definition. 
 
 
 ## Join Our Subcommunity Registry!
