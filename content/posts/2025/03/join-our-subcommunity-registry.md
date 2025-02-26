@@ -32,7 +32,7 @@ If you have any questions about registering, please [contact the **Community Eng
 
 ## Progress on Subcommunity Support
 
-We’ve made significant strides in implementing additional community-driven recommendations. Here are some key updates:
+We have made significant strides in implementing additional community-driven recommendations. Here are some key updates:
 
 
 ### _Quarterly Community Calls for Subcommunity Leaders and Member Organisations_
