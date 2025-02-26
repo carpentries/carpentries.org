@@ -14,7 +14,7 @@ The **Community Development Program**, launched in 2022, continues to support Th
 
 ## Join Our Subcommunity Registry!
 
-Our community requested a **[subcommunity registry](https://carpentries.org/community/get-connected/)** that captures ongoing activities, websites, and communication channels. We are excited to announce that our **[subcommunity registration form](https://docs.google.com/forms/d/e/1FAIpQLSd3BKF2KGPc_vv3vyuMxs8bqsSHwZvM3C1v6wXaKwVUV8rT4g/viewform?usp=send_form)** is open all year round! If you haven’t registered your subcommunity yet, now is the time.
+Our community requested a **[subcommunity registry](https://carpentries.org/community/get-connected/)** that captures ongoing activities, websites, and communication channels. We are excited to announce that our **[subcommunity registration form](https://docs.google.com/forms/d/e/1FAIpQLSd3BKF2KGPc_vv3vyuMxs8bqsSHwZvM3C1v6wXaKwVUV8rT4g/viewform?usp=send_form)** is open all year round! If you have not registered your subcommunity yet, now is the time.
 
 
 ### _Why Register?_
