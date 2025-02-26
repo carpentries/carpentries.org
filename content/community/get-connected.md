@@ -20,8 +20,23 @@ The registry is designed to:
 
 A [registration form](https://forms.gle/t9zqxhyeGLGiSGFe7) is available for subcommunities to provide information about their ongoing activities, websites, and communication channels. If you’re unsure whether your subcommunity should register or have questions, please email the [Community Engagement Team](mailto:{{< param community_email >}}). 
 
-{{< subcommunity >}}
+### Regional Subcommunities
 
+The subcommunities listed in this section are subcommunities whose focus is Carpentries activities at a specified large geographical - regional or national or provincial or district - area.
+
+{{< subcommunity subcomm_type="regional" >}}
+
+### Local Subcommunities
+
+The subcommunities listed in this section are subcommunities whose focus is Carpentries activities at a specified local and institutional level - town or city or at a university or research institution.
+
+{{< subcommunity subcomm_type="local" >}}
+
+### Special Interest Groups
+
+The subcommunities listed in this section are subcommunities whose focus is Carpentries activities around a specific area of interest to The Carpentries community, whether this activity is conducted at a local, regional or global level.
+
+{{< subcommunity subcomm_type="interest" >}}
 
 ## Regional Communities Mailing Lists
 
