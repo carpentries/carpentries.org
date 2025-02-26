@@ -1,6 +1,6 @@
 --- 
 layout: page 
-authors: ["Danielle Sieh"] 
+authors: ["Robert Davey", "Toby Hodges", "SherAaron Hurt", "Danielle Sieh", "Angelique Trusler"] 
 teaser: "Updates to Self-Organised Workshops" 
 title: "Upcoming Changes to Self-Organised Workshops: Ensuring Sustainability and Continued Community Impact" 
 Date: 2025-02-27 
@@ -12,7 +12,7 @@ We are writing to inform the community about changes to Self-Organised workshops
 
 Running our programs openly and accessible requires ongoing investment in our staff, technology, and resources. While the community works to plan SOWs, a significant amount of administrative time and effort is required behind the scenes to support them. In 2024, the Workshops and Instruction Team (WIT) formed a project team of Carpentries Core Team members to assess the feasibility of a fee structure for SOWs. After several meetings and discussions, the team felt that introducing a fee for all SOWs might hinder their core goal and the empowerment they bring to the community. However, we have implemented a few changes to our processes to ensure we can continue providing support sustainably.
 
-**Changes to Genomics Workshops**
+## Changes to Genomics Workshops
 
 The first change is for Data Carpentry Genomics workshops. Unfortunately, with Amazon Web Services (AWS) instance costs rising (the total cost for The Carpentries in 2024 was $9,191.54) we have made the difficult decision **to charge for providing AWS instances for Genomics SOWs.**
 
@@ -34,7 +34,7 @@ Again, you can learn more about the actual costs in the [Genomics Workshops Term
 
 We will continue to identify and pursue opportunities to obtain financial and in-kind support to cover costs for workshops, which would help us waive fees for Genomics workshops in the future.
 
-**General Changes to the Self-Organised Workshop Process**
+## General Changes to the Self-Organised Workshop Process
 
 Early in 2024, WIT clarified the definition of SOWs. This will provide clarity, help reduce the time spent processing them, and ensure the data we collect aligns with the needs of The Carpentries' mission. Please take some time to [review the full definition of a SOW]({{< param handbook_url >}}/handbooks/instructors.html#self-organised) in the Instructors FAQ section of The Carpentries Handbook. Below are a few important highlights:
 
