@@ -1,6 +1,6 @@
 --- 
 layout: page 
-authors: ["Danielle Sieh"] 
+authors: ["Robert Davey", "Toby Hodges", "SherAaron Hurt", "Danielle Sieh", "Angelique Trusler"] 
 teaser: "Updates to Self-Organised Workshops" 
 title: "Upcoming Changes to Self-Organised Workshops: Ensuring Sustainability and Continued Community Impact" 
 Date: 2025-02-27 
