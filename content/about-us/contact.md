@@ -29,6 +29,7 @@ If you would like to ask us anything about The Carpentries, its community, and i
 * [YouTube]({{< param youtube >}})
 * [Mastodon]({{< param mastodon >}})
 * [LinkedIn]({{< param linkedin >}})
+* [Bluesky]({{< param bluesky >}})
 
 
 ## By mail
