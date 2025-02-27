@@ -25,13 +25,13 @@ about:
 - name: Governance
   pageRef: /about-us/governance
   weight: 30
-- name: Our team
+- name: Our Team
   pageRef: /about-us/team
   weight: 40
 - name: Financials
   pageRef: /about-us/financials
   weight: 50
-- name: Contact us
+- name: Contact Us
   pageRef: /about-us/contact
   weight: 70
 # Workshops page tabbed menu
@@ -39,13 +39,13 @@ workshops:
 - name: Workshops
   pageRef: /workshops
   weight: 10
-- name: Host a workshop
+- name: Host a Workshop
   pageRef: /workshops/host-workshop
   weight: 20
 - name: Workshops FAQ
   pageRef: /workshops/workshops-faq
   weight: 30
-- name: Upcoming workshops
+- name: Upcoming Workshops
   pageRef: /workshops/upcoming-workshops
   weight: 50
 # Community tabbed menu
@@ -87,7 +87,7 @@ cldt:
 main:
 # Main menu: About
 - identifier: about-us
-  name: About us
+  name: About Us
   url: "/about-us/"
   parent: null
   weight: 10
@@ -122,7 +122,7 @@ main:
   parent: about-us
   weight: 60
 - identifier: contact-us
-  name: Contact us
+  name: Contact Us
   pageRef: "/about-us/contact/"
   parent: about-us
   weight: 70
@@ -231,7 +231,7 @@ main:
   parent: communications
   weight: 30
 - identifier: contact
-  name: Contact us
+  name: Contact Us
   url: "/about-us/contact/"
   parent: communications
   weight: 40
@@ -250,38 +250,38 @@ footer:
   parent: null
   weight: 10
 - identifier: mission
-  name: Our mission
+  name: Our Mission
   url: "/about-us/#our-mission"
   parent: about-us-footer
   weight: 20
 - identifier: history
-  name: Our history
+  name: Our History
   url: "/about-us/#our-history"
   parent: about-us-footer
   weight: 30
 - identifier: values
-  name: Our values
+  name: Our Values
   url: "/about-us/#our-values"
   parent: about-us-footer
   weight: 40
 # Footer menu: Menu 2 (Our Community)
 - identifier: community-footer
-  name: Our community
+  name: Our Community
   url: "#"
   parent: null
   weight: 20
 - identifier: volunteers
-  name: Our volunteers
+  name: Our Volunteers
   url: /community/
   parent: community-footer
   weight: 20
 - identifier: governance
-  name: Our governance
+  name: Our Governance
   url: "/about-us/governance/"
   parent: community-footer
   weight: 30
 - identifier: get-involved
-  name: Get involved
+  name: Get Involved
   url: "/community/get-involved/"
   parent: community-footer
   weight: 40
@@ -297,12 +297,12 @@ footer:
   parent: membership-footer
   weight: 20
 - identifier: current-members
-  name: Current members
+  name: Current Members
   url: "/support/membership/member-list/"
   parent: membership-footer
   weight: 30
 - identifier: become-member
-  name: Become a member
+  name: Become a Member
   url: "/support/membership/"
   parent: membership-footer
   weight: 40
@@ -318,7 +318,7 @@ footer:
   parent: workshops-footer
   weight: 10 
 - identifier: workshops-upcoming
-  name: Upcoming workshops
+  name: Upcoming Workshops
   url: "/workshops/upcoming-workshops/"
   parent: workshops-footer
   weight: 20
@@ -334,7 +334,7 @@ footer:
   parent: null
   weight: 50
 - identifier: lessons-search
-  name: Search lessons
+  name: Search Lessons
   url: "/lessons/"
   parent: lessons-footer
   weight: 10
