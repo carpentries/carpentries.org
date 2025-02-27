@@ -601,7 +601,7 @@ subcommunities:
     - linkedin:  
 
 - name: Carpentries-ja
-  type: regional
+  type: interest
   member:
   description: Carpentries-ja is a subcommunity translating the Carpentries teaching materials into Japanese and conducting workshops in Japanese.
   activities: 
