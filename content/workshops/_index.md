@@ -10,7 +10,7 @@ aliases:
 
 The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. Our certified volunteer [Instructors](/community/instructors/) are [trained in pedagogy]({{< param instructor_training_curriculum >}}) that focuses on evidence-based teaching practices and creating a motivating and engaging environment for learners. Our workshops are inclusive and hands-on, empowering learners to develop new skills and build confidence in using them in their work.
 
-## Why The Carpentries workshops
+## Why The Carpentries Workshops
 
 {{< table features >}}
 <table>
@@ -48,7 +48,7 @@ There are many options for you to choose from! To help you decide which Lesson P
 [View upcoming workshops](/workshops/upcoming-workshops)
 {.button}
 
-## Request an accommodation 
+## Request an Accommodation 
 
 {{< accessibility >}}
 
