@@ -10,7 +10,7 @@ clean:
 
 ## serve        : run local server
 serve:
-	hugo serve 
+	hugo serve --buildFuture
 
 ## update-theme : bring theme changes to project
 update-theme: 
