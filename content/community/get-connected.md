@@ -22,7 +22,7 @@ A [registration form](https://forms.gle/t9zqxhyeGLGiSGFe7) is available for subc
 
 ### Regional Subcommunities
 
-The subcommunities listed in this section are subcommunities whose focus is Carpentries activities at a specified large geographical - regional or national or provincial or district - area.
+The subcommunities listed in this section are those whose focus is Carpentries activities at a specified large geographical - regional, national, provincial or district - area.
 
 {{< subcommunity subcomm_type="regional" >}}
 
