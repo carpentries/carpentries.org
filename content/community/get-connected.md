@@ -34,7 +34,7 @@ The subcommunities listed in this section are those whose focus is Carpentries a
 
 ### Special Interest Groups
 
-The subcommunities listed in this section are subcommunities whose focus is Carpentries activities around a specific area of interest to The Carpentries community, whether this activity is conducted at a local, regional or global level.
+The subcommunities listed in this section are those whose focus is Carpentries activities around a specific area of interest to The Carpentries community, whether this activity is conducted at a local, regional or global level.
 
 {{< subcommunity subcomm_type="interest" >}}
 
