@@ -4,7 +4,7 @@ authors: ["Angelique Trusler"]
 
 teaser: "Join Our Subcommunity Registry!"
 title: "Expanding Our Community: Subcommunity Invitations and Progress Update"
-date: 2025-03-07
+date: 2025-03-02
 time: "09:00:00"
 tags: ["Subcommunities", "Community"]
 ---
@@ -14,7 +14,7 @@ The **Community Development Program**, launched in 2022, continues to support Th
 
 ## Join Our Subcommunity Registry!
 
-Our community requested a **[subcommunity registry](https://carpentries.org/community/get-connected/)** that captures ongoing activities, websites, and communication channels. We are excited to announce that our **[subcommunity registration form](https://docs.google.com/forms/d/e/1FAIpQLSd3BKF2KGPc_vv3vyuMxs8bqsSHwZvM3C1v6wXaKwVUV8rT4g/viewform?usp=send_form)** is open all year round! If you have not registered your subcommunity yet, now is the time.
+Our community requested a **[subcommunity registry](/community/get-connected/)** that captures ongoing activities, websites, and communication channels. We are excited to announce that our **[subcommunity registration form](https://docs.google.com/forms/d/e/1FAIpQLSd3BKF2KGPc_vv3vyuMxs8bqsSHwZvM3C1v6wXaKwVUV8rT4g/viewform?usp=send_form)** is open all year round! If you have not registered your subcommunity yet, now is the time.
 
 
 ### _Why Register?_
@@ -27,7 +27,7 @@ The registry serves several important purposes:
 * **Recruit New Participants:** Welcome new members who share your interests.
 * **Receive Targeted Support:** Enable the Community Engagement Team to understand your needs better and offer tailored assistance.
 
-If you have any questions about registering, please [contact the **Community Engagement Team**](mailto:community@carpentries.org).
+If you have any questions about registering, please [contact the **Community Engagement Team**](mailto:{{< param community_email >}}).
 
 
 ## Progress on Subcommunity Support
@@ -44,21 +44,21 @@ We launched quarterly calls in 2022 to provide a space for networking and knowle
 ### _The Community Glossary and Carpentries Handbooks_
 
 
-The **[Community Glossary](https://github.com/carpentries/community-engagement/blob/main/glossary.md)** is available to clarify key terms. Additionally, we redeveloped our **[Carpentries Handbooks](https://docs.carpentries.org/index.html)** as part of our website redesign. 
+The **[Community Glossary](https://github.com/carpentries/community-engagement/blob/main/glossary.md)** is available to clarify key terms. Additionally, we redeveloped our **[Carpentries Handbooks]({{< param handbook_url >}})** as part of our website redesign. 
 
 
 ### _Communication Channels_
 
 
-We audited our **[Slack](https://slack-invite.carpentries.org/)** and **[TopicBox](https://carpentries.topicbox.com/latest)** channels in 2022, and this effort is ongoing. We expanded our social media presence by adding **[Mastodon](https://mastodon.social/@thecarpentries@hachyderm.io)** and **[Bluesky](https://bsky.app/profile/carpentries.carpentries.org)** accounts. 
+We audited our **[Slack]({{< param slack_invite >}})** and **[TopicBox]({{< param topicbox >}})** channels in 2022, and this effort is ongoing. We expanded our social media presence by adding **[Mastodon]({{< param mastodon >}})** and **[Bluesky]({{< param bluesky >}})** accounts. 
 
 
 ### _Event Registration for the Carpentries Community_
 
 
-Want to share an event with the community? You can post in our **#events Slack channel**, submit details for our **[newsletter](https://carpentries.org/about-us/newsletter/)**, or request that your event be added to **[The Carpentries Community Calendar](https://carpentries.org/community/events/)** by [emailing the **Community Engagement Team**](mailto:community@carpentries.org).
+Want to share an event with the community? You can post in our **#events Slack channel**, submit details for our **[newsletter](/about-us/newsletter/)**, or request that your event be added to **[The Carpentries Community Calendar](/community/events/)** by [emailing the **Community Engagement Team**](mailto:{{< param community_email >}}).
 
 
 ## Stay Connected!
 
-We invite you to engage with the Community Development Program by joining our **Slack channel ([#subcommunity](https://carpentries.slack.com/archives/C03249JLX36))** or subscribing to our **[TopicBox mailing list](https://carpentries.topicbox.com/groups/community-development)**. If you have feedback or ideas, please [contact the **Community Development Team**](mailto:community@carpentries.org). We look forward to strengthening and growing our Carpentries subcommunities together!
+We invite you to engage with the Community Development Program by joining our **Slack channel ([#subcommunity](https://carpentries.slack.com/archives/C03249JLX36))** or subscribing to our **[TopicBox mailing list](https://carpentries.topicbox.com/groups/community-development)**. If you have feedback or ideas, please [contact the **Community Development Team**](mailto:{{< param community_email >}}). We look forward to strengthening and growing our Carpentries subcommunities together!
