@@ -22,3 +22,5 @@ github.com/carpentries/carpentries-hugo-theme v0.0.0-20250107151528-355164865812
 github.com/carpentries/carpentries-hugo-theme v0.0.0-20250107151528-355164865812/go.mod h1:folIYik0FmlDRY0TIqSlFfhFi1OV+0mDYhBgsND+4JA=
 github.com/carpentries/carpentries-hugo-theme v0.0.0-20250108154310-c652aec770d5 h1:T0GzpWZB5tFEv3T7wsNlVJoz+CWnigU21p5i/O96gFw=
 github.com/carpentries/carpentries-hugo-theme v0.0.0-20250108154310-c652aec770d5/go.mod h1:folIYik0FmlDRY0TIqSlFfhFi1OV+0mDYhBgsND+4JA=
+github.com/carpentries/carpentries-hugo-theme v0.0.0-20250303160616-64ce1588d68d h1:WrsUb8EeaLnVDgTtugqHItd9aZ+DzkQnu7alPoaMKkQ=
+github.com/carpentries/carpentries-hugo-theme v0.0.0-20250303160616-64ce1588d68d/go.mod h1:folIYik0FmlDRY0TIqSlFfhFi1OV+0mDYhBgsND+4JA=
