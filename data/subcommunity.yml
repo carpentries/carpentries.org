@@ -1,13 +1,7 @@
 subcommunities:
 
 - name: Carpentries Italia
-  type:
-    - geographic_local: 
-    - geographic_regional: true 
-    - language: true
-    - domain:
-    - interest:
-    - other: 
+  type: regional 
   member: false 
   description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years, we organised three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
   activities: 
@@ -56,13 +50,7 @@ subcommunities:
     - linkedin:  
  
 - name: The Carpentries in Australia
-  type:
-    - geographic_local:
-    - geographic_regional: true 
-    - language: 
-    - domain:
-    - interest:
-    - other: 
+  type: regional
   member: False
   description: A subcommunity for Carpentries activity in Australia. We often link our activities with the equivalent subcommunity in New Zealand/Aotearoa.
   activities: 
@@ -112,13 +100,7 @@ subcommunities:
     - linkedin:  
  
 - name: PyAOS Carpentry 
-  type:
-    - geographic_local: true
-    - geographic_regional:  
-    - language: 
-    - domain: true 
-    - interest:
-    - other: 
+  type: interest
   member:
   description: The Python for Atmosphere and Ocean Science (PyAOS) subcommunity focuses on running workshops for those working / studying in the weather, ocean and climate sciences. It does this through maintaining lesson materials and supporting Instructors. 
   activities: 
@@ -167,13 +149,7 @@ subcommunities:
     - linkedin: 
  
 - name: Carpentries Offline
-  type:
-    - geographic_local:
-    - geographic_regional:
-    - language: 
-    - domain: 
-    - interest: true 
-    - other:  
+  type: interest
   member:
   description:  CarpentriesOffline aims to provide a solution for Instructors to run workshops in areas where there is no or limited Internet access.
   activities: 
@@ -222,13 +198,7 @@ subcommunities:
     - linkedin:  
  
 - name: Carpentries at Stanford University
-  type:
-    - geographic_local: true
-    - geographic_regional: true
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: local
   member: false
   description: The Carpentries at Stanford are administered by the University Libraries. This group coordinates workshops, events, and other trainings for the needs of the university community. 
   activities: 
@@ -277,13 +247,7 @@ subcommunities:
     - linkedin:  
 
 - name:  New Zealand/Aotearoa 
-  type:
-    - geographic_local: true
-    - geographic_regional: true
-    - language: 
-    - domain: true 
-    - interest: true
-    - other: 
+  type: regional
   member: true
   description: The New Zealand/Aotearoa subcommunity focuses on building community relationships within the Carpentries community in New Zealand/Aotearoa. New Zealand/Aotearoa has several Carpentries members and is represented on the Board of Directors of the organisation as well. 
   activities: 
@@ -332,13 +296,7 @@ subcommunities:
     - linkedin:  
 
 - name: Midwest (US) Carpentries Community
-  type:
-    - geographic_local:
-    - geographic_regional: true
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: regional
   member:
   description: This local subcommunity of workshop Instructors, Instructor Trainers, Helpers, and Lesson Developers includes faculty, librarians, researchers, research support staff, and students from across the United States Midwest.
   activities: 
@@ -389,13 +347,7 @@ subcommunities:
     - linkedin:
 
 - name: UW-Madison Carpentries Community
-  type:
-    - geographic_local: true
-    - geographic_regional:
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: local
   member: true
   description: This local subcommunity of workshop Instructors, helpers, and Lesson Developers includes research support staff from across the University of Wisconsin-Madison campus, faculty members, and graduate students. 
   activities: 
@@ -448,13 +400,7 @@ subcommunities:
 
 
 - name: Smithsonian Institution Carpentries 
-  type:
-    - geographic_local: true
-    - geographic_regional:
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: local
   member: true
   description: The Smithsonian Institution has been a Carpentries Member Organisation since 2017, and a Platinum Member since 2021. 
   activities: 
@@ -504,13 +450,7 @@ subcommunities:
     - linkedin:  
 
 - name: Heidelberg Carpentries
-  type:
-    - geographic_local: true
-    - geographic_regional:
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: local
   member:
   description: The Heidelberg Carpentries subcommunity organises semi-regular, informal meetups for community members in the area. These social events are an opportunity for community members to meet and talk about teaching and other Carpentries-related topics.
   activities: 
@@ -561,13 +501,7 @@ subcommunities:
 
 
 - name: University of California Santa Barbara
-  type:
-    - geographic_local: true
-    - geographic_regional:
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: local
   member: true
   description: The University of California Santa Barbara subcommunity hosts and organises data science workshops for the UCSB community. They also sponsor community members for Instructor certification.
   activities: 
@@ -617,13 +551,7 @@ subcommunities:
     - linkedin:  
 
 - name: HPC Carpentry
-  type:
-    - geographic_local:
-    - geographic_regional:
-    - language: 
-    - domain: true
-    - interest:
-    - other: 
+  type: interest
   member:
   description: HPC Carpentry represents a global community interested in documenting and teaching better practices in cluster-based scientific computing, especially the fundamentals of interacting with a large-scale, parallel, shared computing resource. 
   activities: 
@@ -673,13 +601,7 @@ subcommunities:
     - linkedin:  
 
 - name: Carpentries-ja
-  type:
-    - geographic_local:
-    - geographic_regional:
-    - language: true 
-    - domain: 
-    - interest:
-    - other: 
+  type: interest
   member:
   description: Carpentries-ja is a subcommunity translating the Carpentries teaching materials into Japanese and conducting workshops in Japanese.
   activities: 
@@ -729,13 +651,7 @@ subcommunities:
     - linkedin:  
 
 - name: Carpentry @ UiO
-  type:
-    - geographic_local: true
-    - geographic_regional:
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: local
   member: true
   description: We are a local community of Instructors, helpers, Instructor Trainers and fans of The Carpentries. The community grew out of a couple of Instructors in 2015 and found its home at the University of Oslo Library, which became a member institution.
   activities: 
@@ -786,13 +702,7 @@ subcommunities:
 
 
 - name: The Carpentries in Africa
-  type:
-    - geographic_local:
-    - geographic_regional: true
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: regional
   member:
   description: 
   activities: 
@@ -841,13 +751,7 @@ subcommunities:
     - linkedin:  
 
 - name: DACH-Region
-  type:
-    - geographic_local:
-    - geographic_regional: true  
-    - language: 
-    - domain: 
-    - interest:
-    - other: 
+  type: regional
   member: true  
   description: The DACH Region includes community members in the countries Germany, Austria, and Switzerland.
   activities: 
@@ -897,13 +801,7 @@ subcommunities:
     - linkedin:  
 
 - name: Carpentries @ VT
-  type:
-    - geographic_local: true
-    - geographic_regional: 
-    - language:
-    - domain:
-    - interest:
-    - other: 
+  type: local
   member: true 
   description: Carpentries @ VT is a community of Carpentries Instructors and Trainees connected to Virginia Tech. We organize 8-10 local workshops a year and meet monthly to support pedagogy and engagement with regional and international Carpentries communities. 
   activities: 
@@ -953,13 +851,7 @@ subcommunities:
     - linkedin:  
 
 - name: Carpentries México
-  type:
-    - geographic_local: true
-    - geographic_regional: 
-    - language:
-    - domain:
-    - interest:
-    - other: 
+  type: regional
   member:  
   description: The Carpentries community has grown to about 20 Instructors in Mexico. We aim to promote good programming practices by strengthening Carpentries' presence within the Spanish-speaking academic community.
   activities: 
@@ -1009,13 +901,7 @@ subcommunities:
     - linkedin: 
  
 - name: Carpentries US-Northeast
-  type:
-    - geographic_local: 
-    - geographic_regional: true
-    - language:
-    - domain:
-    - interest:
-    - other: 
+  type: regional
   member:  
   description: The US-Northeast Carpentries subcommunity convenes for semi-regular, informal get-togethers and mentoring opportunities. 
   activities: 
@@ -1065,13 +951,7 @@ subcommunities:
     - linkedin: 
  
 - name: Carpentries Ukraine
-  type:
-    - geographic_local: 
-    - geographic_regional: 
-    - language: true
-    - domain:
-    - interest:
-    - other: 
+  type: interest
   member:  
   description: Ukrainian Carpentries is a subcommunity translating the Carpentries teaching materials into Ukrainian language.
   activities: 
@@ -1122,13 +1002,7 @@ subcommunities:
     - github: https://github.com/ukrainian-carpentries 
 
 - name: Carpentries-Israel
-  type:
-    - geographic_local: true
-    - geographic_regional: 
-    - language: 
-    - domain:
-    - interest:
-    - other: 
+  type: regional
   member:  
   description: Carpentries-Israel began in 2024 with a Data Carpentry workshop in collaboration with ELIXIR and US-RSE that included learners from 8 Israeli research institutions. Carpentries-Israel aims to grow a local community of Carpentries instructors in order to meet the high level of interest for more Carpentries workshops hosted in Israel.
   activities: 
