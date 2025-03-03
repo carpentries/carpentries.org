@@ -28,7 +28,7 @@ The subcommunities listed in this section are those whose focus is Carpentries a
 
 ### Local Subcommunities
 
-The subcommunities listed in this section are subcommunities whose focus is Carpentries activities at a specified local and institutional level - town or city or at a university or research institution.
+The subcommunities listed in this section are those whose focus is Carpentries activities at a specified local and institutional level - town, city, at a university or research institution.
 
 {{< subcommunity subcomm_type="local" >}}
 
