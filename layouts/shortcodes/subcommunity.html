@@ -1,14 +1,25 @@
+<!-- 
+Get data from this project's yaml file.
+Get filter when shortcode is used in markdown content 
+Filter subcomms by that filter
+-->
+
 {{ $subcommunities := site.Data.subcommunity.subcommunities }}
+{{ $subcomm_type := .Get "subcomm_type"}}
+{{ if ne $subcomm_type "" }}
+    {{ $subcommunities = where $subcommunities "type" $subcomm_type }}
+{{ end }}
 
 {{ range $subcommunities }}
 
-<!-- check for website -->
-{{ if .website }}
-<h3><a href="{{ .website }}">{{ .name }} </a></h3>
-{{ else }}
-<h3>{{ .name }}</h3>
-{{ end }}  
-<!-- end website check -->
+{{ $title := .name | default "Subcommunity" }}
+{{ if or (eq $subcomm_type "") (eq .type $subcomm_type) }}
+<details class="border">
+  {{ with $title }}
+    <summary class="cursor-pointer bg-primary-100 py-2 px-4">{{ . }}</summary>
+  {{ end }}
+  <div class="p-4">
+
 
 <p>{{ .description }}</p>
 
@@ -20,19 +31,6 @@
 {{ $location = "" }}
 {{ end }}
 <!-- end location  check -->
-
-<!-- list group types  -->
-<div>
-    <b>Group type:</b>
-    {{ range .type }}
-    {{ if .geographic_regional }}Regional Group ({{ $location }}) / {{ end }}
-    {{ if .geographic_local }}Local Group {{ $location }} / {{ end }}
-    {{ if .communications }}Communications / {{ end }}
-    {{ if .language }}Language group / {{ end }}
-    {{ if .domain }}Domain Specific Group / {{ end }}
-    {{ if .interest }}Special Interest Group / {{ end }}
-    {{ end }} <!-- end range type -->
-</div>
 
 <!-- list group activities  -->
 <div>
@@ -53,6 +51,13 @@
 <div>
     <b>Connect: </b>
 
+    <!-- check for website -->
+    {{ if .website }}
+    <a href="{{ .website }}">Website</a> / 
+    {{ end }}  
+    <!-- end website check -->
+
+
     {{ range .contact }}
 
     {{ if .email }} Email: 
@@ -63,7 +68,7 @@
     {{ if .slack }}Slack: {{ .slack }} / {{ end }}
     {{ if .mailing_list }}<a href="{{ .mailing_list }}">Mailing list</a> / {{ end }}
     {{ if .contact_form }}<a href="{{ .contact_form }}">Contact form</a> / {{ end }}
-    {{ if .contact_person }}Contact person: {{ .contact_person }} / {{ end }}
+    {{ if .contact_person }}Contact person: {{ .contact_person }} {{ end }}
     {{ end }} <!-- end range contact-->
     {{ range .social_media }}
     {{ if .twitter }}<a href="https://twitter.com/{{ .twitter }}"><i class="fab fa-twitter"></i></a></td> / {{ end }}
@@ -71,5 +76,9 @@
     {{ end }} 
 </div>
 
-{{ end }} <!-- end range subcommunities -->
+</div>
+</details>
 
+{{ end }}
+
+{{ end }}
