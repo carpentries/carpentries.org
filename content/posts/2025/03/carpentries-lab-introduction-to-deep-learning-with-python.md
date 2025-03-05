@@ -49,7 +49,7 @@ During this period the main design of the lesson was drafted and the first pilot
 
 During the year of 2021, Dafne van Kuppevelt, Djura Smits, and Sven van der Burg from the Netherlands eScience Center 
 became involved and by the year 2022 Sven and Djura were the main contributors. In this period the lesson was taught a 
-lot by various organisations and all feedback went into an ever improving lesson.
+lot by various organisations and all feedback went into an ever-improving lesson.
 
 In the period from 2023 till now the lesson was really polished towards its final shape, thanks to contributions from 
 fresh team members Carsten Schnober and Pranav Chandramouli from the Netherlands eScience Center. This is the period that 
