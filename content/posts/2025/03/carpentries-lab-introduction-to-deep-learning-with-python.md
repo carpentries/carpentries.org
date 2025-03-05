@@ -14,7 +14,7 @@ and approved for inclusion in The Carpentries Lab on 6th February 2025.
 
 The Carpentries Lab was set up as a space for peer-reviewed lessons developed by the community. Designed to 
 complement [The Carpentries Incubator](https://carpentries-incubator.org/), where the community collaborates on the 
-development of new lessons on a wide range of topics, the Lab is intended to serve as a platform for open peer review of 
+development of new lessons on a wide range of topics, the Lab is intended to serve as a platform for open peer-review of 
 these community-developed lessons and the hosting of lessons that have passed through that review process.
 
 
