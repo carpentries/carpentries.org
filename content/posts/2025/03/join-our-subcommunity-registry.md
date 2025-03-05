@@ -4,7 +4,7 @@ authors: ["Angelique Trusler"]
 
 teaser: "Join Our Subcommunity Registry!"
 title: "Expanding Our Community: Subcommunity Invitations and Progress Update"
-date: 2025-03-07
+date: 2025-03-06
 time: "09:00:00"
 tags: ["Subcommunities", "Community"]
 ---
