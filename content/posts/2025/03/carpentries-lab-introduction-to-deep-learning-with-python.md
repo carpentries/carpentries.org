@@ -31,8 +31,8 @@ train their first neural network and understand the subsequent steps needed to i
 The lesson can be taught in a 2 day or 4 half-day workshop.
 
 
-![A section of the Introduction to Deep Learning lesson site](/blog/2025/03/intro-dl-screengrab.png)
-_A section of the Introduction to Deep Learning lesson site, featuring a Python code block and the data visualisation it produces. The output visualisation is a plot with two lines, labelled “root_mean_squared_error” and “val_root_mean_squared_error”. The plot axes are labelled “epochs” and “RSME”_
+![A section of the Introduction to Deep Learning lesson site, featuring a Python code block and the data visualisation it produces. The output visualisation is a plot with two lines, labelled “root_mean_squared_error” and “val_root_mean_squared_error”. The plot axes are labelled “epochs” and “RSME”.](/blog/2025/03/intro-dl-screengrab.png)
+_Part of the [Monitor the training Process](https://carpentries-lab.github.io/deep-learning-intro/3-monitor-the-model.html) episode of the lesson._
 
 ### A brief history of the development of this lesson
 
