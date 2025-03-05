@@ -9,11 +9,11 @@ tags: ["Curriculum", "Carpentries Lab", "Artificial Intelligence"]
 ---
 
 We are delighted to announce the addition of [a new community-developed lesson on deep learning](https://carpentries-lab.github.io/deep-learning-intro/) 
-to[ The Carpentries Lab](https://carpentries-lab.org/). The curriculum was [peer reviewed in the Lab Reviews repository](https://github.com/carpentries-lab/reviews/issues/25) 
+to[ The Carpentries Lab]({{< param lab_link >}}). The curriculum was [peer reviewed in the Lab Reviews repository](https://github.com/carpentries-lab/reviews/issues/25) 
 and approved for inclusion in The Carpentries Lab on 6th February 2025.
 
 The Carpentries Lab was set up as a space for peer-reviewed lessons developed by the community. Designed to 
-complement [The Carpentries Incubator](https://carpentries-incubator.org/), where the community collaborates on the 
+complement [The Carpentries Incubator]({{< param incubator_link >}}), where the community collaborates on the 
 development of new lessons on a wide range of topics, the Lab is intended to serve as a platform for open peer-review of 
 these community-developed lessons and the hosting of lessons that have passed through that review process.
 
