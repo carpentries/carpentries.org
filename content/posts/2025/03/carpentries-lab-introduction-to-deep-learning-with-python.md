@@ -36,7 +36,7 @@ _Part of the [Monitor the training Process](https://carpentries-lab.github.io/de
 
 ### A brief history of the development of this lesson
 
-What follows is a year-by-year history of the main contributors of the lesson. Of course, GitHub keeps the score, and all 
+What follows is a year-by-year history of the main contributors to the lesson. Of course, GitHub keeps the score, and all 
 contributions to the commit history, big and, especially, small, can be better tracked 
 [in this interactive contributor graph](https://github.com/carpentries-lab/deep-learning-intro/graphs/contributors). 
 Over the years 30 people contributed to this lesson!
