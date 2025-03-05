@@ -18,7 +18,7 @@ development of new lessons on a wide range of topics, the Lab is intended to ser
 these community-developed lessons and the hosting of lessons that have passed through that review process.
 
 
-## **About the curriculum**
+## About the curriculum
 
 The use of deep learning has seen a sharp increase in popularity and applicability over the last decade. While deep
 learning can be a useful tool for researchers from a wide range of domains, taking the first steps in the world of 
@@ -56,7 +56,7 @@ fresh team members Carsten Schnober and Pranav Chandramouli from the Netherlands
 the lesson was transitioned to The Carpentries Workbench and went through The Carpentries Lab review process.
 
 
-## **About the review process**
+## About the review process
 
 The curriculum was reviewed in [a public issue thread on The Carpentries Lab reviews repository](https://github.com/carpentries-lab/reviews/issues/25). 
 This was a slightly unusual case because one of the authors is a member of The Carpentries Curriculum Team and was the 
@@ -91,7 +91,7 @@ callout to the lesson to comment on this change, as they felt it represented a g
 ethics in data and deep learning during a workshop.
 
 
-## **Next steps**
+## Next steps
 
 The development team will of course keep on teaching this lesson at their institutes and keep on improving the lesson. We 
 will have to, since deep learning is such a rapidly moving field. But our main goal is to help as many others as possible 
@@ -111,7 +111,7 @@ review.
 Lessons in the Incubator can be submitted for review in the Lab by [opening an issue on the reviews repository](https://github.com/carpentries-lab/reviews/issues/new?assignees=tobyhodges&labels=review&template=review_submission.yml&title=%5BReview%5D%3A+).
 
 
-## **Acknowledgements**
+## Acknowledgements
 
 We would like to thank all instructors and helpers that taught the course, and the community of people that left 
 contributions to the project, no matter how big or small.
