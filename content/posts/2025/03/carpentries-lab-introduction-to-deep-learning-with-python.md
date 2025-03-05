@@ -9,7 +9,7 @@ tags: ["Curriculum", "Carpentries Lab", "Artificial Intelligence"]
 ---
 
 We are delighted to announce the addition of [a new community-developed lesson on deep learning](https://carpentries-lab.github.io/deep-learning-intro/) 
-to[ The Carpentries Lab]({{< param lab_link >}}). The curriculum was [peer reviewed in the Lab Reviews repository](https://github.com/carpentries-lab/reviews/issues/25) 
+to [The Carpentries Lab]({{< param lab_link >}}). The curriculum was [peer reviewed in the Lab Reviews repository](https://github.com/carpentries-lab/reviews/issues/25) 
 and approved for inclusion in The Carpentries Lab on 6th February 2025.
 
 The Carpentries Lab was set up as a space for peer-reviewed lessons developed by the community. Designed to 
@@ -58,7 +58,7 @@ the lesson was transitioned to The Carpentries Workbench and went through The Ca
 
 ## **About the review process**
 
-The curriculum was reviewed in[ a public issue thread on The Carpentries Lab reviews repository](https://github.com/carpentries-lab/reviews/issues/25). 
+The curriculum was reviewed in [a public issue thread on The Carpentries Lab reviews repository](https://github.com/carpentries-lab/reviews/issues/25). 
 This was a slightly unusual case because one of the authors is a member of The Carpentries Curriculum Team and was the 
 sole Editor of the Lab at the time of submission. (Three other community members have joined as Editors since.) 
 [Sarah M Brown](https://github.com/brownsarahm), formerly a long-standing member of the Trainers Leadership Committee, 
@@ -68,7 +68,7 @@ contributions as Editor, in particular by encouraging the authors to more deeply
 used in the lesson (read more about this below). 
 
 After the authors had responded to Sarah’s initial editorial checks, the curriculum was reviewed in detail by two 
-volunteers from The Carpentries community:[ Johanna Bayer](https://github.com/PaulaNietoG) and 
+volunteers from The Carpentries community: [Johanna Bayer](https://github.com/PaulaNietoG) and 
 [Mike Laverick](https://github.com/mike-ivs) (thanks to Erin Becker for helping to connect Sarah with these reviewers). 
 These reviewers were invited based on their expertise as Carpentries Instructors and their domain knowledge in machine 
 learning and related fields.
@@ -104,9 +104,8 @@ The wider Carpentries community can now [find the lesson in The Carpentries Lab]
 
 ## Become a Reviewer
 
-**The Carpentries Lab is looking for reviewers!** To volunteer to review a lesson in the Lab, please read
-[ our Guide for Reviewers](https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md), and
-[ register as a reviewer](https://forms.gle/cFD4nVjstTtVYoxg8) so we can contact you when relevant lessons are ready for 
+**The Carpentries Lab is looking for reviewers!** To volunteer to review a lesson in the Lab, please read [our Guide for Reviewers](https://github.com/carpentries-lab/reviews/blob/main/docs/reviewer_guide.md), and 
+[register as a reviewer](https://forms.gle/cFD4nVjstTtVYoxg8) so we can contact you when relevant lessons are ready for 
 review.
 
 Lessons in the Incubator can be submitted for review in the Lab by [opening an issue on the reviews repository](https://github.com/carpentries-lab/reviews/issues/new?assignees=tobyhodges&labels=review&template=review_submission.yml&title=%5BReview%5D%3A+).
