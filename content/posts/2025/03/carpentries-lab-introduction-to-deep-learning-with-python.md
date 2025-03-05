@@ -28,7 +28,7 @@ Introduction to Deep Learning covers the fundamentals of deep learning in a prac
 researchers who want to apply deep learning in their research. By the end of the course, students will be able to 
 train their first neural network and understand the subsequent steps needed to improve the model.
 
-The lesson can be taught in a 2 day or 4 half-day workshop.
+The lesson can be taught in a 2-day or 4 half-day workshop.
 
 
 ![A section of the Introduction to Deep Learning lesson site, featuring a Python code block and the data visualisation it produces. The output visualisation is a plot with two lines, labelled “root_mean_squared_error” and “val_root_mean_squared_error”. The plot axes are labelled “epochs” and “RSME”.](/blog/2025/03/intro-dl-screengrab.png)
