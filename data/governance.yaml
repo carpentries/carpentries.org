@@ -117,33 +117,53 @@ people:
 
 committees:
 
-- committee_name: "Audit Committee"
-  chair: 
+- committee_name: "Board of Directors Officers"
+  chair: Yanina Bellini Saibene
   members:
+    - Phil Brooks (Chair-Elect)
+    - Yo Yehudi (Secretary)
+    - François Michonneau (Treasurer)
+
+
+- committee_name: "Audit Committee"
+  chair: Mark Crowe
+  members:
+    - Samantha Ahern
     - Eboni Dotson
-    - Mark Crowe
 
 
 - committee_name: "Governance and Personnel Committee"
-  chair: 
+  chair: Luke Corbin
   members:
-    - Eboni Dotson
-    - Jannetta Steyn
-    - Nisha Ghatak
     - Yanina Bellini Saibene
+    - Phil Brooks
+    - Nisha Ghatak
+    - Jannetta Steyn
+    - François Michonneau
+    - Eboni Dotson
 
 - committee_name: "Finance Committee"
-  chair: 
+  chair: Paola Corrales
   members:
-    - Paola Corrales
+    - Yo Yehudi
+    - Stephanie Pulford
     - Mark Crowe
+    - François Michonneau
 
 
 - committee_name: "Program Committee"
-  chair: 
+  chair: Nisha Ghatak
   members:
-    - Jannetta Steyn
-    - Nisha Ghatak
-    - Paola Corrales
     - Yanina Bellini Saibene
+    - Stephanie Pulford
+    - Samantha Ahern
+    - Paola Corrales
+    - Phil Brooks
+    - Luke Corbin
+    - Jannetta Steyn
 
+
+- committee_name: "Code of Conduct Committee Liaison"
+  members: 
+    - Jannetta Steyn
+ 
