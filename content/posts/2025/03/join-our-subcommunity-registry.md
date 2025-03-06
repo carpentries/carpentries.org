@@ -38,7 +38,7 @@ We have made significant strides in implementing additional community-driven rec
 ### _Quarterly Community Calls for Subcommunity Leaders and Member Organisations_
 
 
-We launched quarterly calls in 2022 to provide a space for networking and knowledge-sharing. Our next call is scheduled for **[11 March 2025 at 14:00 UTC and 23:00 UTC](https://pad.carpentries.org/community-development-program)**. If you’re involved in community building, we encourage you to attend!
+We launched quarterly calls in 2022 to provide a space for networking and knowledge-sharing. Our next call is scheduled for **[11 March 2025 at 14:00 UTC and 12 March 02:00 UTC](https://pad.carpentries.org/community-development-program)**. If you’re involved in community building, we encourage you to attend!
 
 
 ### _The Community Glossary and Carpentries Handbooks_
