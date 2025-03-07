@@ -12,7 +12,7 @@ The Lesson Setup Instructions Task Force was [established in August 2024 to revi
 
 **Task force members:** Toby Hodges (Chair), Rob Davey, Matt Fisher, Nathaniel Porter, Jennifer Stubbs, Adam Taranto
 
-The full text of the task force’s recommendations can be found in the `carpentries/task-forces` repository on GitHub. Here we provide a summary, highlighting the changes that we expect to impact Instructors the most.
+[The full text of the task force’s recommendations](https://github.com/carpentries/task-forces/blob/main/2024/lesson-setup/lsitf-recommendations.md) can be found in the `carpentries/task-forces` repository on GitHub. Here we provide a summary, highlighting the changes that we expect to impact Instructors the most.
 
 
 ## 1. Add instructions to use WSL 2 for lessons taught in the Shell
