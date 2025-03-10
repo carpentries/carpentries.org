@@ -14,6 +14,12 @@ The Lesson Setup Instructions Task Force was [established in August 2024 to revi
 
 [The full text of the task force’s recommendations](https://github.com/carpentries/task-forces/blob/main/2024/lesson-setup/lsitf-recommendations.md) can be found in the `carpentries/task-forces` repository on GitHub. Here we provide a summary, highlighting the changes that we expect to impact Instructors the most.
 
+1. [Add instructions to use WSL 2 for lessons taught in the Shell](#1-add-instructions-to-use-wsl-2-for-lessons-taught-in-the-shell)
+2. [Continue using RStudio for now, but monitor the development of Positron](#2-continue-using-rstudio-for-now-but-monitor-the-development-of-positron)
+3. [Update Python instructions to use miniforge](#3-update-python-instructions-to-use-miniforge)
+4. [Add instructions to install VS Codium/VS Code for Python lessons](#4-add-instructions-to-install-vs-codiumvs-code-for-python-lessons)
+5. [Teach the fundamentals of environment management in novice Python lessons](#5-teach-the-fundamentals-of-environment-management-in-novice-python-lessons)
+
 
 ## 1. Add instructions to use WSL 2 for lessons taught in the Shell
 
@@ -62,7 +68,7 @@ The use of a mini forge should not force Instructors to change the way that they
 The shift away from Anaconda has additional implications beyond the need to update installation instructions. Recommendation 5 describes how this change will impact the content of Python lessons for novices.
 
 
-## Recommendation 4: Add instructions to install VS Codium/VS Code for Python lessons
+## 4. Add instructions to install VS Codium/VS Code for Python lessons
 
 **Current state:** Python installation instructions assume that workshops will be taught with Jupyter Notebooks, and no instructions are provided for installing an IDE for Python lessons.
 
@@ -77,7 +83,7 @@ Although the Curriculum Team will consider adopting Positron for this purpose at
 The task force is aware that some lessons (e.g. [Data Carpentry: Image Processing with Python](https://datacarpentry.github.io/image-processing/instructor/instructor-notes.html#working-with-jupyter-notebooks)) are designed to be taught with Jupyter, and the setup instructions for these lessons will not be changed to use an IDE. For those lessons where setup instructions are updated to include VS Codium/VS Code, members of the task force will suggest additional changes where needed to support this setup in the main lesson content.
 
 
-## Recommendation 5: Teach the fundamentals of environment management in novice Python lessons
+## 5. Teach the fundamentals of environment management in novice Python lessons
 
 **Current state:** Python lessons for novices do not discuss environments.
 
