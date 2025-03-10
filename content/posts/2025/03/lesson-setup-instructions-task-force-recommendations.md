@@ -89,7 +89,7 @@ The removal of Anaconda from the setup instructions for Carpentries lessons (Rec
 
 On the one hand, this presents a new challenge for Instructors: teaching novice learners the concepts and skills required to manage their Python environment (and finding room for this in an already packed workshop schedule). On the other hand, teaching learners these basics will help us ensure that we set them up to succeed in the long term after they leave a workshop. Furthermore, if we wish to move away from using Anaconda as our preferred Python distribution, there are no viable alternatives that can provide a complete base environment on learners’ local systems.
 
-**The task force recommends that Python lessons be updated to include a minimal discussion of environments and dependencies**. If you would like to contribute to conversations about exactly what these changes should look like, please watch out for relevant messages on the `#general` channel of The Carpentries Slack or [contact the Curriculum Team](mailto:curriculum@carpentries.org).
+**The task force recommends that Python lessons be updated to include a minimal discussion of environments and dependencies**. If you would like to contribute to conversations about exactly what these changes should look like, please watch out for relevant messages on the `#general` channel of The Carpentries Slack or [contact the Curriculum Team](mailto:{{< param curriculum_email >}}).
 
 
 ## Next steps
