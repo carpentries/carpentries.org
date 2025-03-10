@@ -14,14 +14,20 @@ The Lesson Setup Instructions Task Force was [established in August 2024 to revi
 
 [The full text of the task force’s recommendations](https://github.com/carpentries/task-forces/blob/main/2024/lesson-setup/lsitf-recommendations.md) can be found in the `carpentries/task-forces` repository on GitHub. Here we provide a summary, highlighting the changes that we expect to impact Instructors the most.
 
+1. [Add instructions to use WSL 2 for lessons taught in the Shell](#1-add-instructions-to-use-wsl-2-for-lessons-taught-in-the-shell)
+2. [Continue using RStudio for now, but monitor the development of Positron](#2-continue-using-rstudio-for-now-but-monitor-the-development-of-positron)
+3. [Update Python instructions to use miniforge](#3-update-python-instructions-to-use-miniforge)
+4. [Add instructions to install VS Codium/VS Code for Python lessons](#4-add-instructions-to-install-vs-codiumvs-code-for-python-lessons)
+5. [Teach the fundamentals of environment management in novice Python lessons](#5-teach-the-fundamentals-of-environment-management-in-novice-python-lessons)
+
 
 ## 1. Add instructions to use WSL 2 for lessons taught in the Shell
 
-**Current state:** Instructions direct participants working on Windows to install [Git for Windows](https://gitforwindows.org/) (which provides the Git Bash terminal).
-
-**After updates:** Instructions will recommend that participants working on Windows use [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/about), or install Git for Windows if they cannot access WSL 2.
-
-**Expected impact on Instructors:** Learners’ paths may vary between Windows systems using WSL 2 and Git Bash. Learners with WSL 2 can access the manpages of commands (unavailable in Git Bash).
+<table>
+<tr><td><strong>Current state:</strong></td><td>Instructions direct participants working on Windows to install <a href="https://gitforwindows.org/">Git for Windows</a> (which provides the Git Bash terminal).</td></tr>
+<tr><td><strong>After updates:</strong></td><td>Instructions will recommend that participants working on Windows use <a href="https://learn.microsoft.com/en-us/windows/wsl/about">WSL 2</a>, or install Git for Windows if they cannot access WSL 2.</td></tr>
+<tr><td><strong>Expected impact on Instructors:</strong></td><td>Learners’ paths may vary between Windows systems using WSL 2 and Git Bash. Learners with WSL 2 can access the manpages of commands (unavailable in Git Bash).</td></tr>
+</table>
 
 Git for Windows, which emulates a Linux environment on Windows systems, has served Instructors and learners well in Carpentries workshops for many years. However, Windows Subsystem Linux (WSL 2), released in 2020, provides a more complete Linux environment for Windows users. The task force felt that WSL 2 would give learners several advantages during and after the workshop, including a separate filesystem linked with access to the Windows environment and more complete options for installing additional software into their environment later.
 
@@ -30,11 +36,11 @@ Nevertheless, the task force determined that it was not yet right to drop suppor
 
 ## 2. Continue using RStudio for now, but monitor the development of Positron
 
-**Current state:** R lesson setup instructions recommend that learners install R Studio.
-
-**After updates:** No change.
-
-**Expected impact on Instructors:** No change.
+<table>
+<tr><td><strong>Current state:</strong></td><td>R lesson setup instructions recommend that learners install R Studio.</td></tr>
+<tr><td><strong>After updates:</strong></td><td>No change.</td></tr>
+<tr><td><strong>Expected impact on Instructors:</strong></td><td>No change.</td></tr>
+</table>
 
 Instructors have been successfully teaching lessons using R with R Studio for many years. Posit, the developers of R Studio, announced a new integrated development environment (IDE), [Positron](https://positron.posit.co/), in 2024. Although it is currently under early, rapid development and not yet ready for adoption at Carpentries workshops, the task force anticipates that Positron will replace R Studio as the IDE of choice for R users over the next few years. 
 
@@ -43,11 +49,11 @@ Instructors have been successfully teaching lessons using R with R Studio for ma
 
 ## 3. Update Python instructions to use miniforge
 
-**Current state:** For most Python lessons, learners are directed to install [Anaconda](https://www.anaconda.com/download).
-
-**After updates:** Instructions will direct learners to install [miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#miniforge), and create an environment containing the libraries required for core lessons aimed at novices.
-
-**Expected impact on Instructors:** Learners may need additional support setting up and activating the environment for use in the workshop. Further discussion of environments may be required during workshops (see recommendation 5).
+<table>
+<tr><td><strong>Current state:</strong></td><td>For most Python lessons, learners are directed to install <a href="https://www.anaconda.com/download">Anaconda</a>.</td></tr>
+<tr><td><strong>After updates:</strong></td><td>Instructions will direct learners to install <a href="https://github.com/conda-forge/miniforge">miniforge</a>, and create an environment containing the libraries required for core lessons aimed at novices.</td></tr>
+<tr><td><strong>Expected impact on Instructors:</strong></td><td>Learners may need additional support setting up and activating the environment for use in the workshop. Further discussion of environments may be required during workshops (see recommendation 5).</td></tr>
+</table>
 
 The task force considered a wide range of options for installing Python for lessons, from the currently used option, Anaconda, through a “vanilla” installation from python.org with an environment managed with pip to JupyterLab Desktop.
 
@@ -62,13 +68,13 @@ The use of a mini forge should not force Instructors to change the way that they
 The shift away from Anaconda has additional implications beyond the need to update installation instructions. Recommendation 5 describes how this change will impact the content of Python lessons for novices.
 
 
-## Recommendation 4: Add instructions to install VS Codium/VS Code for Python lessons
+## 4. Add instructions to install VS Codium/VS Code for Python lessons
 
-**Current state:** Python installation instructions assume that workshops will be taught with Jupyter Notebooks, and no instructions are provided for installing an IDE for Python lessons.
-
-**After updates:** Guidance for setting up Jupyter Notebooks will be retained as the default, accompanied by instructions to install [VS Codium](https://vscodium.com/) and [VS Code](https://code.visualstudio.com/).
-
-**Expected impact on Instructors:** Instructors will not be required to change the way they teach but will be more easily able to choose to ask learners to install an IDE for Python before a workshop.
+<table>
+<tr><td><strong>Current state:</strong></td><td>Python installation instructions assume that workshops will be taught with Jupyter Notebooks, and no instructions are provided for installing an IDE for Python lessons.</td></tr>
+<tr><td><strong>After updates:</strong></td><td>Guidance for setting up Jupyter Notebooks will be retained as the default, accompanied by instructions to install <a href="https://vscodium.com/">VS Codium</a> and <a href="https://code.visualstudio.com/">VS Code</a>.</td></tr>
+<tr><td><strong>Expected impact on Instructors:</strong></td><td>Instructors will not be required to change the way they teach but will be more easily able to choose to ask learners to install an IDE for Python before a workshop.</td></tr>
+</table>
 
 As mentioned above, R lessons have been taught with RStudio for many years already, and **the task force recommends that The Carpentries Instructor community consider teaching Python with an IDE** too. Although some changes would be required across the lessons, the group felt that teaching Python in an IDE would reflect common modern practice, and was excited by the possibilities it opens for using the same interface to teach all lessons in a workshop (e.g. Unix shell, Python, and Git within the IDE in a Software Carpentry workshop).
 
@@ -77,13 +83,13 @@ Although the Curriculum Team will consider adopting Positron for this purpose at
 The task force is aware that some lessons (e.g. [Data Carpentry: Image Processing with Python](https://datacarpentry.github.io/image-processing/instructor/instructor-notes.html#working-with-jupyter-notebooks)) are designed to be taught with Jupyter, and the setup instructions for these lessons will not be changed to use an IDE. For those lessons where setup instructions are updated to include VS Codium/VS Code, members of the task force will suggest additional changes where needed to support this setup in the main lesson content.
 
 
-## Recommendation 5: Teach the fundamentals of environment management in novice Python lessons
+## 5. Teach the fundamentals of environment management in novice Python lessons
 
-**Current state:** Python lessons for novices do not discuss environments.
-
-**After updates:** Lessons will include a minimal discussion of environments: e.g. what they are, why they are necessary, how to create one and use one, how and when to switch between them.
-
-**Expected impact on Instructors:** Instructors will need to make time to discuss environments when teaching Python in a workshop.
+<table>
+<tr><td><strong>Current state:</strong></td><td>Python lessons for novices do not discuss environments.</td></tr>
+<tr><td><strong>After updates:</strong></td><td>Lessons will include a minimal discussion of environments: e.g. what they are, why they are necessary, how to create one and use one, how and when to switch between them.</td></tr>
+<tr><td><strong>Expected impact on Instructors:</strong></td><td>Instructors will need to make time to discuss environments when teaching Python in a workshop.</td></tr>
+</table>
 
 The removal of Anaconda from the setup instructions for Carpentries lessons (Recommendation 3) means that the large base environment provided by that distribution will no longer be available. Instead, learners will need to create an environment and populate it with the required packages before they can follow a lesson. 
 
