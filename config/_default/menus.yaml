@@ -400,4 +400,7 @@ socials:
   params:
     img: "/youtube-logo.svg"
   weight: 60
-
+- name: Bluesky
+  url: "https://bsky.app/profile/carpentries.carpentries.org"
+  params:
+    img: "/bluesky-logo.svg"
