@@ -14,42 +14,19 @@
 
 {{ $all_members := sort $all_members "name" }}
 
-<h2>Platinum Members</h2>
-<ul>
-{{ range where $all_members "variant" "eq" "platinum"  }}
-<li style="margin: 0;">
-    <a href="https://{{ .domain }}">{{ .name }}</a> 
-    <img width="24" src = "/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block"> 
-</li>
-{{ end }}
-</ul>
+{{ $levels := slice "titanium" "platinum" "gold" "silver" "bronze" }}
 
-<h2>Gold Members</h2>
-<ul>
-{{ range where $all_members "variant" "eq" "gold"  }}
-<li style="margin: 0;">
-    <a href="https://{{ .domain }}">{{ .name }}</a> 
-    <img width="24" src = "/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block"> 
-</li>
+{{ range $levels }}
+    {{ $members := where $all_members "variant" "eq" . }}
+    {{ if $members }}
+        <h2>{{ title . }} Members</h2>
+        <ul>
+            {{ range $members }}
+            <li style="margin: 0;">
+                <a href="https://{{ .domain }}">{{ .name }}</a> 
+                <img width="24" src="/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block">
+            </li>
+            {{ end }}
+        </ul>
+    {{ end }}
 {{ end }}
-</ul>
-
-<h2>Silver Members</h2>
-<ul>
-{{ range where $all_members "variant" "eq" "silver"  }}
-<li style="margin: 0;">
-    <a href="https://{{ .domain }}">{{ .name }}</a> 
-    <img width="24" src = "/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block"> 
-</li>
-{{ end }}
-</ul>
-
-<h2>Bronze Members</h2>
-<ul>
-{{ range where $all_members "variant" "eq" "bronze"  }}
-<li style="margin: 0;">
-    <a href="https://{{ .domain }}">{{ .name }}</a> 
-    <img width="24" src = "/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block"> 
-</li>
-{{ end }}
-</ul>
