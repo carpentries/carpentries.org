@@ -8,8 +8,6 @@ time: "09:00:00"
 tags: ["Glosario", "Accessibility"]
 ---
 
-# Help Us Improve Glosario: Share Your Feedback!
-
 At The Carpentries, we are committed to building a more inclusive and accessible world for learners and researchers working with data and computing. One of our initiatives in this effort is [**Glosario**](https://glosario.carpentries.org/), a multilingual glossary developed to help individuals understand key computing and data science terms in their preferred language.
 
 To ensure Glosario meets the accessibility needs of our global community, we are surveying to gather feedback from current and potential users. Your insights will help us understand how to improve accessibility and enhance usability.
