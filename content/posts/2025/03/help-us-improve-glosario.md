@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Angelique Trusler"]
-teaser: "A short line describing the post that will display on the blog list page"
+teaser: "Take the survey before the end of the day on 31 March"
 title: "Help us Improve Glosario: Share Your Feedback!"
 date: 2025-03-17
 time: "09:00:00"
