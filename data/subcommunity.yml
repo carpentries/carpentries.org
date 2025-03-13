@@ -1090,7 +1090,7 @@ subcommunities:
   contact:
     - email: 
       - "a.nenadic@software.ac.uk"
-    - slack: "local-uk workspace"
+    - slack: "Carpentries workspace, #local-uk"
     - mailing_list: https://carpentries.topicbox.com/groups/local-uk
     - contact_form:  
     - contact_person: Aleksandra Nenadic
