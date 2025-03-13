@@ -1051,3 +1051,52 @@ subcommunities:
     - linkedin: https://www.linkedin.com/groups/13126506/
     - github: https://github.com/carpentries-israel
 
+- name: UK Carpentries Community
+  type: regional 
+  member: false 
+  description: The UK Carpentries Community is a supportive and inclusive space for Instructors, helpers, and workshop coordinators involved in teaching technical skills to researchers. It facilitates collaboration, knowledge sharing, and networking while assisting with workshop organisation, technical queries, and institutional membership.
+  activities:
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: 
+    - sow: true 
+    - fundraising:  
+    - student_programs:
+    - translation: 
+    - mentoring:
+    - other: 
+  volunteers: true
+  logo:
+  location: United Kingdom
+  country: GB
+  website: https://hackmd.io/V3ReKkEESzqyCNxWJdulOw 
+  tags:
+    - assessment:
+    - carpentry_connect: true
+    - communication: true
+    - community_discussion: true
+    - curriculum: true
+    - events: true
+    - governance: true
+    - inperson_workshops:
+    - instructor_development:
+    - instructor_training: 
+    - internationalisation:  
+    - membership:
+    - mentoring:
+    - online_workshops: true
+    - teaching: true
+    - other: 
+  contact:
+    - email: 
+      - "a.nenadic@software.ac.uk"
+    - slack: "local-uk workspace"
+    - mailing_list: https://carpentries.topicbox.com/groups/local-uk
+    - contact_form:  
+    - contact_person: Aleksandra Nenadic
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin:  
