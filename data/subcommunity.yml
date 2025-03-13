@@ -1087,8 +1087,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: a.nenadic@software.ac.uk
-    - slack: https://hackmd.io/V3ReKkEESzqyCNxWJdulOw
+    - email: "a.nenadic@software.ac.uk"
+    - slack: "local-uk workspace"
     - mailing_list: https://carpentries.topicbox.com/groups/local-uk
     - contact_form:  
     - contact_person: Aleksandra Nenadic
