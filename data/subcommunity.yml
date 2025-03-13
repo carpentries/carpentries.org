@@ -1055,6 +1055,7 @@ subcommunities:
   type: regional 
   member: false 
   description: The UK Carpentries Community is a supportive and inclusive space for Instructors, helpers, and workshop coordinators involved in teaching technical skills to researchers. It facilitates collaboration, knowledge sharing, and networking while assisting with workshop organisation, technical queries, and institutional membership.
+  activities:
     - carpentry_connect: true
     - communication: true
     - prof_dev: 
@@ -1087,7 +1088,8 @@ subcommunities:
     - teaching: true
     - other: 
   contact:
-    - email: "a.nenadic@software.ac.uk"
+    - email: 
+      - "a.nenadic@software.ac.uk"
     - slack: "local-uk workspace"
     - mailing_list: https://carpentries.topicbox.com/groups/local-uk
     - contact_form:  
