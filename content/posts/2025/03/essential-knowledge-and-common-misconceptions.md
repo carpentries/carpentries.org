@@ -26,7 +26,7 @@ Participants at the sessions considered different aspects to be most important t
   * asking for an explanation of what some code is doing or what an error message means.  
   * translating code between languages.  
   * describing what you want to do and having the LLM generate it for you.  
-* How to choose when an LLM is the appropriate tool for a given task, instead of searching the internet, for example, and why might you choose one tool over another.  
+* How to choose when an LLM is the appropriate tool for a given task, instead of searching the internet, for example, and why you might choose one tool over another.  
 * How generative AI differs from other forms of artificial intelligence.  
 * How changes to the prompt provided to an LLM can influence the output received.  
 * The ethical and security implications of using LLMs.
