@@ -14,7 +14,7 @@ Are you interested in contributing to the ongoing discussion of these topics in 
 
 ## Essential Knowledge
 
-Despite the valid [ethical concerns raised in January’s community discussions](https://www.carpentries.org/blog/2025/02/the-ethics-of-teaching-llms-in-carpentries-workshops/), I believe that Carpentries workshops need to include some discussion of large language models (LLMs) in order to remain relevant and to prepare our learners for the current reality they will be using their new skills in. 
+Despite the valid [ethical concerns raised in January’s community discussions](/blog/2025/02/the-ethics-of-teaching-llms-in-carpentries-workshops/), I believe that Carpentries workshops need to include some discussion of large language models (LLMs) in order to remain relevant and to prepare our learners for the current reality they will be using their new skills in. 
 
 However, one major obstacle to this is the restricted time available: a typical Carpentries workshop lasts two days, which is already a severely limited window within which to cover all of the concepts and skills we want to teach. Considering that teaching something supplemental to the existing curriculum necessarily reduces the time available for that other content, we should be careful to make our teaching about LLMs as concise as possible: introducing learners to only the things that will be most useful for them, without straying into additional discussion at the cost of other aspects of the workshop.
 
