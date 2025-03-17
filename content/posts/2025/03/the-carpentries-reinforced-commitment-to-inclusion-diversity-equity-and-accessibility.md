@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Kari L. Jordan", "Yanina Bellini Saibene"]  
 teaser: "Responding to injustice is about more than making a public statement."  
-title: "The Carpentries Reinforced Commitment to Inclusion, Diversity, Equity, and Accessibility"  
+title: "The Carpentries' Reinforced Commitment to Inclusion, Diversity, Equity, and Accessibility"  
 date: 2025-03-19  
 time: "09:00:00"  
 tags: ["Accessibility", "Equity and Inclusion"]  
