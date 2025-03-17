@@ -14,7 +14,7 @@ As a U.S.-based, global non-profit organisation serving hundreds of thousands of
 
 **We are here to unequivocally and explicitly reinforce our commitment to inclusion, diversity, equity, and accessibility.**
 
-The Carpentries proudly celebrates 27 years of service, a milestone made possible by our unwavering commitment to our [core values](https://carpentries.org/about-us/#our-values). These principles have guided our journey and shaped our impact. As we journey ahead, we reaffirm our dedication to **inclusivity and accessibility**, ensuring that our work remains people-centered and strengthened by **diversity**. We believe that by upholding these values in action, we can continue to serve our community in meaningful and lasting ways.
+The Carpentries proudly celebrates 27 years of service, a milestone made possible by our unwavering commitment to our [core values](/about-us/#our-values). These principles have guided our journey and shaped our impact. As we journey ahead, we reaffirm our dedication to **inclusivity and accessibility**, ensuring that our work remains people-centered and strengthened by **diversity**. We believe that by upholding these values in action, we can continue to serve our community in meaningful and lasting ways.
 
 In our community glossary, we offer the following definitions of those terms:
 
@@ -29,17 +29,17 @@ Our efforts ensure everyone, regardless of background, is equipped to promote ef
 
 To help support our community in these critical priorities, we would like to remind you of the following resources that are available to you:
 
-## [Code of Conduct](https://docs.carpentries.org/policies/coc/)
+## [Code of Conduct]({{< param handbook_url>}}/policies/coc/)
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. You can contact them by emailing [coc@carpentries.org](mailto:coc@carpentries.org).  
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. The Carpentries [Code of Conduct Committee](/coc-ctte/) is responsible for enforcing the Code of Conduct. You can contact them by emailing [{{< param coc_email >}}](mailto:{{< param coc_email >}}).  
 
-## [Accessibility Statement](https://carpentries.org/about-us/#diversity-equity-and-inclusion-statement)
+## [Accessibility Statement](/about-us/#diversity-equity-and-inclusion-statement)
 
 We are committed to providing inclusive and accessible content that enables all individuals, including those with disabilities, to participate and engage fully. To request an accommodation for a Carpentries event, please fill out the [accommodation request form](https://carpentries.typeform.com/to/B2OSYaD0).
 
-## [Diversity, Equity, and Inclusion Statement](https://carpentries.org/about-us/#diversity-equity-and-inclusion-statement)
+## [Diversity, Equity, and Inclusion Statement](/about-us/#diversity-equity-and-inclusion-statement)
 
-Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement. We encourage you to explore our [subcommunity registry](https://carpentries.org/community/get-connected/#subcommunity-registry) and [regional community mailing lists](https://carpentries.org/community/get-connected/#regional-communities-mailing-lists) to engage locally, and we are always available to learn from your diverse experiences. Email [community@carpentries.org](mailto:community@carpentries.org) to get in touch.
+Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement. We encourage you to explore our [subcommunity registry](/community/get-connected/#subcommunity-registry) and [regional community mailing lists](/community/get-connected/#regional-communities-mailing-lists) to engage locally, and we are always available to learn from your diverse experiences. Email [{{< param community_email >}}](mailto:{{< param community_email >}}) to get in touch.
 
 ## [Toolkit of IDEAS (Inclusion, Diversity, Equity and Accessibility Strategies](https://zenodo.org/records/10391883))
 
