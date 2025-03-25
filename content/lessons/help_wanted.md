@@ -5,11 +5,7 @@ aliases:
 - /help-wanted-issues/
 ---
 
-The table below lists all lessons labelled "Help wanted" and/or "good first issue" on many of our repositories and lesson repositories in [The Carpentries Incubator]({{< param incubator_link >}}). We hope it will help you find opportunities to contribute to Carpentries lessons and projects.
-
-If you are a Maintainer and would like to include issues from your lesson repository in this table, please read the [Information for Lesson Maintainers](#information-for-maintainers) at the end of the page.
-
-{{< help_wanted >}}
+This page is under development. The "Help Wanted" table will be restored by April 4, 2025.
 
 ## Information for Maintainers
 
