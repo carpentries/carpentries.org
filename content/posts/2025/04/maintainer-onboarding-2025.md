@@ -66,7 +66,7 @@ We anticipate that having the existing R lesson material to use as a reference w
 
 ## Application information
 
-Applications to join the 2025 Maintainer Onboarding cohort may be submitted via [the short application form](https://forms.gle/mamKTVWbv6zhM2869) until [the end of 11 April anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Maintainer+Onboarding+Call+for+Volunteers&iso=20250411T235959&p1=3926). 
+Applications to join the 2025 Maintainer Onboarding cohort may be submitted via [the short application form](https://forms.gle/mamKTVWbv6zhM2869) until the end of 11 April anywhere on Earth. [(Check your local time.)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Maintainer+Onboarding+Call+for+Volunteers&iso=20250411T235959&p1=3926). 
 
-If you have any questions about the application, about being a Maintainer, or about the redevelopment of the DC Ecology Python lesson, please reach out to [The Carpentries Curriculum Team](mailto:curriculum@carpentries.org) or [Maintainer Community Lead](mailto:ndporter@vt.edu).
+If you have any questions about the application, about being a Maintainer, or about the redevelopment of the DC Ecology Python lesson, please reach out to [The Carpentries Curriculum Team](mailto:curriculum@carpentries.org) or Nathaniel Porter, the [Maintainer Community Lead](mailto:ndporter@vt.edu).
 
