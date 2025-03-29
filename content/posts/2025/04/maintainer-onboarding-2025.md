@@ -34,12 +34,12 @@ Although Maintainer Onboarding will be held in English, we strongly encourage ap
 We are particularly in need of new Maintainers for the following lessons:
 
 * Data Carpentry:  
-  * [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/)
-  * [Introduction to Cloud Computing for Genomics](https://datacarpentry.org/cloud-genomics/)
-  * [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) (see note below)  
-  * [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/)
-  * [Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/)
-  * [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)
+  * [Foundations of Astronomical Data Science](https://datacarpentry.github.io/astronomy-python/)
+  * [Introduction to Cloud Computing for Genomics](https://datacarpentry.github.io/cloud-genomics/)
+  * [Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.github.io/python-ecology-lesson/) (see note below)  
+  * [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.github.io/R-ecology-lesson/)
+  * [Introduction to the Command Line for Genomics](https://datacarpentry.github.io/shell-genomics/)
+  * [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.github.io/spreadsheets-socialsci/)
 * Library Carpentry:  
   * [Data Intro for Archivists](https://librarycarpentry.org/lc-data-intro-archives/)
   * [Tidy Data for Librarians](https://librarycarpentry.org/lc-spreadsheets/)
