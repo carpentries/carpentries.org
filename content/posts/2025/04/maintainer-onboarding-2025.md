@@ -44,6 +44,9 @@ We are particularly in need of new Maintainers for the following lessons:
   * [Data Intro for Archivists](https://librarycarpentry.org/lc-data-intro-archives/)
   * [Tidy Data for Librarians](https://librarycarpentry.org/lc-spreadsheets/)
   * [Wikidata](https://librarycarpentry.github.io/lc-wikidata/)
+  * [Introduction to Python](https://librarycarpentry.github.io/lc-python-intro/)
+  * [Introduction to R](https://librarycarpentry.github.io/lc-r/)
+  * [Introducing Computational Thinking](https://librarycarpentry.github.io/lc-computational-thinking/)
 * Software Carpentry:  
   * [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
   * [Databases and SQL](https://swcarpentry.github.io/sql-novice-survey/)
