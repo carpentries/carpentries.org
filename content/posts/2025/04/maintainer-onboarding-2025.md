@@ -56,7 +56,7 @@ You will be asked to choose which technologies (e.g., R, Python) and topics or d
 
 ### Looking for Developer-Maintainers for DC Ecology Python {#looking-for-developer-maintainers-for-dc-ecology-python}
 
-Following [the adoption of a redesigned version of the Data Analysis and Visualization in R for Ecologists lesson last year](https://carpentries.org/blog/2024/07/dc-r-ecology-lesson-redesign-released/), there is now an opportunity for the Python lesson to be overhauled, realigning it with the narrative and learning objectives of its equivalent R lesson. 
+Following [the adoption of a redesigned version of the Data Analysis and Visualization in R for Ecologists lesson last year](/blog/2024/07/dc-r-ecology-lesson-redesign-released/), there is now an opportunity for the Python lesson to be overhauled, realigning it with the narrative and learning objectives of its equivalent R lesson. 
 So we are looking for volunteers who are keen to get involved with implementing these changes as well as taking responsibility for maintaining the repository. 
 These new lesson developer-Maintainers will join current Maintainer, Carlos Rodrigues, and collaborate on redeveloping the lesson with the support of the Curriculum Team.
 
@@ -68,5 +68,5 @@ We anticipate that having the existing R lesson material to use as a reference w
 
 Applications to join the 2025 Maintainer Onboarding cohort may be submitted via [the short application form](https://forms.gle/mamKTVWbv6zhM2869) until the end of 11 April anywhere on Earth. [(Check your local time.)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Maintainer+Onboarding+Call+for+Volunteers&iso=20250411T235959&p1=3926). 
 
-If you have any questions about the application, about being a Maintainer, or about the redevelopment of the DC Ecology Python lesson, please reach out to [The Carpentries Curriculum Team](mailto:curriculum@carpentries.org) or Nathaniel Porter, the [Maintainer Community Lead](mailto:ndporter@vt.edu).
+If you have any questions about the application, about being a Maintainer, or about the redevelopment of the DC Ecology Python lesson, please reach out to [The Carpentries Curriculum Team](mailto:{{< param curriculum_email >}}) or Nathaniel Porter, the [Maintainer Community Lead](mailto:ndporter@vt.edu).
 
