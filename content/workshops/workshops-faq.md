@@ -91,6 +91,13 @@ We understand that eight-hour days can feel long in an online setting. To make t
 For Centrally-Organised workshops, if your institution has a videoconferencing platform available, we recommend that you use that platform for The Carpentries workshop. This will reduce the time needed for workshop organisers and learners to learn a new system. However, if you do not have access to a video conferencing platform, we will be able to provide you with access to one of our Zoom rooms.
 {{< /accordion >}}
 
+{{< accordion title="Can I record my Centrally-Organised Carpentries workshop?" >}}
+
+Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that participants join in real time rather than relying on recordings.
+
+If you still plan to record, you must obtain consent from all attendees, including Instructors and Helpers. Please inform us in advance so we can notify Instructors during recruitment, though this may delay the recruiting process.
+{{< /accordion >}}
+
 {{< accordion title="How many Instructors will The Carpentries recruit to teach my online workshop?" >}}
 
 The Workshops and Instruction Team (WIT) will always recruit at least two Instructors for any workshop that you plan, online or in person. Because online workshops can be more challenging than workshops that are in person, WIT will recruit up to two additional Instructors for online workshops. Additional Instructors are dependent upon Instructor availability. 
