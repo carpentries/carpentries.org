@@ -26,7 +26,7 @@ Titanium membership, organisations must have at least one prior year of membersh
 {{< /accordion >}}
 
 {{< accordion title="What if those membership packages do not fit my institution’s needs?" >}}
-We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [{{< param membership_email >}}](mailto:{{site.membership_contact}}).
+We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
 {{< accordion title="Do I need to renew my membership each year?" >}}
