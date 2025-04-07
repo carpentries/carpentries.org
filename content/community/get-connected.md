@@ -61,6 +61,7 @@ All [mailing lists for The Carpentries]({{< param topicbox >}}) are hosted on To
 - [Heidelberg]({{< param topicbox >}}/local-heidelberg)
 - [United Kingdom]({{< param topicbox >}}/local-uk)
 - [Nordic countries]({{< param topicbox >}}/local-nordic)
+- [North Rhine-Westphalia, Germany]({{< param topicbox >}}/local-nrw)
 
 ### Latin America
 - [Latin America]({{< param topicbox >}}/local-latinoamerica)
