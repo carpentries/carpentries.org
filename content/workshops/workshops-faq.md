@@ -92,7 +92,7 @@ Contact the Instructors to ask if they offer open office hours or can provide a 
 
 {{< accordion title="What if I struggle with software setup before the workshop?" >}}
 
-Clear installation guides are provided on the workshop website, and If a pre-workshop installation session is being offered, you are encouraged to join for hands-on support.
+Clear installation guides are provided on the workshop website, and if a pre-workshop installation session is being offered, you are encouraged to join for hands-on support.
 Instructors will also help verify that everything is set up correctly in advance to minimise delays during the actual workshop. 
 {{< /accordion >}}
 
