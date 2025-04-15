@@ -92,7 +92,8 @@ Contact the Instructors to ask if they offer open office hours or can provide a 
 
 {{< accordion title="What if I struggle with software setup before the workshop?" >}}
 
-Clear installation guides are provided on the workshop website, and you are encouraged to join the pre-workshop installation session for hands-on support. Instructors will also help verify that everything is set up correctly in advance to minimise delays during the actual workshop. 
+Clear installation guides are provided on the workshop website, and If a pre-workshop installation session is being offered, you are encouraged to join for hands-on support.
+Instructors will also help verify that everything is set up correctly in advance to minimise delays during the actual workshop. 
 {{< /accordion >}}
 
 {{< accordion title="What if I fall behind during a remote workshop?" >}}
@@ -103,8 +104,6 @@ You can access workshop materials for self-paced review via the workshop website
 {{< accordion title="How are conflicts between Instructors or participants managed?" >}}
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants agree to abide by The Carpentries’ Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort violates the [Code of Conduct](https://docs.carpentries.org/policies/coc/).
-
-
 {{< /accordion >}}
 
 
