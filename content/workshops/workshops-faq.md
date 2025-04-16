@@ -103,7 +103,7 @@ You can access workshop materials for self-paced review via the workshop website
 
 {{< accordion title="How are conflicts between Instructors or participants managed?" >}}
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants agree to abide by The Carpentries’ Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort violates the [Code of Conduct](https://docs.carpentries.org/policies/coc/).
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants agree to abide by The Carpentries’ Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour that excludes, intimidates, or causes discomfort violates the [Code of Conduct](https://docs.carpentries.org/policies/coc/). If you believe someone violated the Code of Conduct during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2). The form may be completed anonymously, or you may include your contact information.
 {{< /accordion >}}
 
 
