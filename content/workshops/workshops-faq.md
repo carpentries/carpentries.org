@@ -131,6 +131,8 @@ For Centrally-Organised workshops, if your institution has a videoconferencing p
 Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another. To foster a comfortable online learning environment, we strongly recommend that participants join in real time rather than relying on recordings.
 
 If you still plan to record, you must obtain consent from all attendees, including Instructors and Helpers. Please inform us in advance so we can notify Instructors during recruitment, though this may delay the recruiting process.
+
+The Carpentries does not support recording through our Zoom rooms. If you choose to use a Carpentries Zoom room for your workshop, a recording will not be available after the event.
 {{< /accordion >}}
 
 {{< accordion title="How many Instructors will The Carpentries recruit to teach my online workshop?" >}}
