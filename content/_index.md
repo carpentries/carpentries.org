@@ -60,6 +60,8 @@ blocks:
   title: Our supporters
   copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
   logos:
+  - logo: sponsors/mellon.svg
+    url: https://www.mellon.org/
   - logo: sponsors/moore-logo.svg
     url: https://www.moore.org/
   - logo: sponsors/alfred-sloan-logo.svg
