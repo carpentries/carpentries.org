@@ -72,6 +72,41 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 {{< /accordion >}}
 
 
+## Learners
+
+{{< accordion title="What should I do if I experience internet connectivity issues during a workshop?" >}}
+
+Download all necessary materials in advance, including installation files, datasets, slides, and screenshots of live coding examples. Test your setup offline before the workshop begins. This will help ensure you can continue participating even with limited internet access.
+{{< /accordion >}}
+
+{{< accordion title="What if I can not access a laptop or reliable electricity?" >}}
+
+Limited access to technology or power outages (e.g., load shedding) can affect your participation. To prepare: Consider joining the workshop from a public space with stable infrastructure, such as a library, university lab, or coworking space. Planning can help reduce disruptions during the workshop.
+{{< /accordion >}}
+
+{{< accordion title="How can I stay engaged, and what if I miss a session?" >}}
+
+To stay on track, review the workshop materials available on the workshop website (e.g., lesson content, slides, datasets) if you miss a session or want to reinforce your learning. 
+Contact the Instructors to ask if they offer open office hours or can provide a brief recap. Please contact fellow participants for notes or discussion.
+{{< /accordion >}}
+
+{{< accordion title="What if I struggle with software setup before the workshop?" >}}
+
+Clear installation guides are provided on the workshop website, and if a pre-workshop installation session is being offered, you are encouraged to join for hands-on support.
+Instructors will also help verify that everything is set up correctly in advance to minimise delays during the actual workshop. 
+{{< /accordion >}}
+
+{{< accordion title="What if I fall behind during a remote workshop?" >}}
+
+You can access workshop materials for self-paced review via the workshop website.
+{{< /accordion >}}
+
+{{< accordion title="How are conflicts between Instructors or participants managed?" >}}
+
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants agree to abide by The Carpentries’ Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour that excludes, intimidates, or causes discomfort violates the [Code of Conduct](https://docs.carpentries.org/policies/coc/). If you believe someone violated the Code of Conduct during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2). The form may be completed anonymously, or you may include your contact information.
+{{< /accordion >}}
+
+
 ## Online Workshops
 
 {{< accordion title="I have never hosted an online workshop, where should I begin?" >}}
