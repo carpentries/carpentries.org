@@ -35,6 +35,23 @@ blocks:
   cta:
     copy: Find a workshop
     url: '/workshops/upcoming-workshops/'
+- layout: logo-grid
+  title: Our supporters
+  copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
+  logos:
+  - logo: sponsors/mellon.svg
+    url: https://www.mellon.org/
+  - logo: sponsors/moore-logo.svg
+    url: https://www.moore.org/
+  - logo: sponsors/alfred-sloan-logo.svg
+    url: https://sloan.org/
+  - logo: sponsors/chan-zuck-logo.svg
+    url: https://chanzuckerberg.com/
+  - logo: sponsors/posit_logo.svg
+    url: https://posit.co/
+  cta:
+    copy: Support us
+    url: /support/
 - layout: quote-slider
   slides:
     - quote: I went from a learner to an Instructor and completely changed the trajectory of my career. It helped me find my people. ❤️
@@ -56,21 +73,4 @@ blocks:
   cta:
     copy: Subscribe to newsletter
     url: '/about-us/newsletter/'
-- layout: logo-grid
-  title: Our supporters
-  copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
-  logos:
-  - logo: sponsors/mellon.svg
-    url: https://www.mellon.org/
-  - logo: sponsors/moore-logo.svg
-    url: https://www.moore.org/
-  - logo: sponsors/alfred-sloan-logo.svg
-    url: https://sloan.org/
-  - logo: sponsors/chan-zuck-logo.svg
-    url: https://chanzuckerberg.com/
-  - logo: sponsors/posit_logo.svg
-    url: https://posit.co/
-  cta:
-    copy: Support us
-    url: /support/
 ---
