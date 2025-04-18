@@ -71,6 +71,6 @@ blocks:
   - logo: sponsors/posit_logo.svg
     url: https://posit.co/
   cta:
-    copy: Become a sponsor
-    url: 'https://carpentries.typeform.com/to/EQdv1Qx4'
+    copy: Support us
+    url: /support/
 ---
