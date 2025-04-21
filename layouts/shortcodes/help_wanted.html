@@ -1,17 +1,22 @@
 {{ $help_wanted := dict }}
-
+{{ $data_available := false }}
 {{ $url := "https://feeds.carpentries.org/help_wanted_issues.json" }}
 
 {{ with resources.GetRemote $url }}
-  {{ with .Err }}
-    {{ errorf "%s" . }}
+  {{ if .Err }}
+    {{ printf "Unable to get remote resource %q" $url | warnf }}
   {{ else }}
+    {{ $data_available = true }}
     {{ $help_wanted = . | transform.Unmarshal }}
   {{ end }}
 {{ else }}
   {{ errorf "Unable to get remote resource %q" $url }}
 {{ end }}
 
+{{ if not $data_available }}
+<strong>Help wanted data is not currently available.</strong>
+
+{{ else }}
 <table>
     <thead>
         <tr>
@@ -56,3 +61,5 @@
 {{ end }}
 
 </table>
+
+{{ end }}
