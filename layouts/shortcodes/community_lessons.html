@@ -1,5 +1,7 @@
 {{ $community_lessons := dict }}
 
+
+
 {{ $url := "https://feeds.carpentries.org/community_lessons.json" }}
 
 {{ with resources.GetRemote $url }}
@@ -13,7 +15,7 @@
 {{ end }}
 
 
-<table>
+<table id="community_lessons">
 <thead>
     <tr>
     <th>Lesson Title</th>
