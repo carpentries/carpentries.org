@@ -3,6 +3,7 @@ title: Community Lessons
 layout: single
 aliases:
 - /community-lessons/
+datatable: true 
 ---
 
 The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials - [The Carpentries Incubator]({{< param incubator_link >}}) and [The Carpentries Lab]({{< param lab_link >}}).

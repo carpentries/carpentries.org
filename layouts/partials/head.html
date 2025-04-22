@@ -9,6 +9,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
 <script defer src="https://cdn.jsdelivr.net/npm/@glidejs/glide@3.5.x"></script>
 <script src="https://kit.fontawesome.com/3a6fac633d.js" crossorigin="anonymous"></script>
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+<!-- jQuery and DataTables JS -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 <script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDoNotTrack", true]);
@@ -31,3 +37,8 @@ _paq.push(['enableLinkTracking']);
 {{ partialCached "head/js.html" . }}
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/schema.html" . }}
+
+{{ if .Params.datatable }}
+{{ partial "datatable.html" . }}
+{{ end }}
+
