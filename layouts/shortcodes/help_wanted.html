@@ -1,6 +1,6 @@
 {{ $help_wanted := dict }}
 {{ $data_available := false }}
-{{ $url := "https://feeds.carpentries.org/help_wanted_issues.json" }}
+{{ $url := "https://feeds.carpentries.org/lessons_help_wanted.json" }}
 
 {{ with resources.GetRemote $url }}
   {{ if .Err }}
@@ -19,7 +19,7 @@ the Carpentries Curriculum Team at curriculum@carpentries.org if you have any qu
 
 
 {{ else }}
-<table>
+<table class="sortable_table">
     <thead>
         <tr>
         <th>Issue Title</th>
@@ -28,7 +28,6 @@ the Carpentries Curriculum Team at curriculum@carpentries.org if you have any qu
         <th>Created on</th>
         <th>Last updated</th>
         <th>Labels</th>
-        <th>Type</th>
         </tr>
     </thead>
 
@@ -37,26 +36,23 @@ the Carpentries Curriculum Team at curriculum@carpentries.org if you have any qu
 
 <tr>
     <td>
-        <a href="{{ .url }}">{{ .title }}</a>
+        <a href="{{ .issue_url }}">{{ .issue_title }}</a>
     </td>
     <td>
-        <a href="https://github.com/{{ .full_repo }}">{{ .description }}</a>
+        <a href="{{ .repo_url }}">{{ .repo_description }}</a>
         
     </td>
     <td>
-        <a href="https://github.com/{{ .org_name }}">{{ .org_name }}</a>
+        <a href="{{ .org_url }}">{{ .org_full_name }}</a>
     </td>
     <td>
-        {{ dateFormat (site.Params.date_format | default "2 January, 2006") .created_at }}
+        {{ .created_at }}
     </td>
     <td>
-        {{ dateFormat (site.Params.date_format | default "2 January, 2006") .updated_at }}
+        {{ .updated_at }}
     </td>
     <td>
         {{ .labels }}
-    </td>
-    <td>
-        {{ .type }}
     </td>
 </tr>
 
