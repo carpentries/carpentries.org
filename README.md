@@ -37,5 +37,5 @@ tags: ["Data Carpentry", "Community"]
 ---
 ```
 
-**Blog post tags:** Whenever possible, make sure the tags are from our [list of existing tags](https://carpentries.org/blog/posts-by-tags/).
+**Blog post tags:** Please only make use of the tags from our [list of existing tags](https://docs.carpentries.org/resources/communications/select-blog-tags.html). If you feel there is a tag that fits your post, that is not in the list, please [reach out to us](mailto:community@carpentries.org).
 
