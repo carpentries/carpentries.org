@@ -4,7 +4,6 @@ layout: single
 cascade:
   nav: workshops
 aliases:
-- /workshops/
 - /learn/
 ---
 
