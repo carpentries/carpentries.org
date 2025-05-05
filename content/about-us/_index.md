@@ -38,7 +38,7 @@ The Carpentries empowers a diverse global community by equipping individuals wit
 
 Shared values and goals have long been the starting point of communities of practice as they identify changes they want to see and start working together towards these changes. The Carpentries community share nine core values.
 
-## At The Carpentries we…
+### At The Carpentries we...
 
 {{< section title="Act Openly" image="/images/values/act_openly.png" >}}
 We believe that transparency, honesty, and fairness are keys to fostering trust within an open community.
@@ -52,6 +52,8 @@ We help people build knowledge by creating a conducive environment for the excha
 All contributions that follow our [Code of Conduct]({{< param handbook_url >}}/policies/coc/) are valuable.
 {{< /section>}}
 
+### We are...
+
 {{< section title="Always learning" image="/images/values/always_learning.png" >}}
 We are responsive, curious, receptive to feedback, and eager to learn.
 {{< /section>}}
@@ -59,6 +61,8 @@ We are responsive, curious, receptive to feedback, and eager to learn.
 {{< section title="Inclusive of all" image="/images/values/inclusive_of_all.png" >}}
 We welcome and respect all community members, regardless of their identity or expression.
 {{< /section>}}
+
+### We champion...
 
 {{< section title="People first" image="/images/values/people_first.png" >}}
 Individuals who make up our community are the most important part of our organisation and our strongest resource.
