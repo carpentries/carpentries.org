@@ -68,7 +68,7 @@ The Carpentries workshops are offered on-demand, not on a set schedule. We ask f
 
 {{< accordion title="My currency is not USD, will I get invoiced in USD or my local currency?" >}}
 
-If your organization does not accept invoices in USD, please let us know. The Workshops and Instruction Team will connect you with the Management Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
+If your organisation does not accept invoices in USD, please let us know. The Workshops and Instruction Team will connect you with the Management Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
 {{< /accordion >}}
 
 
