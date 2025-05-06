@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["CLDT", "Curriculum"]  
 ---
 
-_This blog post was first published on [Deborah Udoh's personal blog site](https://medium.com/@deborahudoh02/lessons-on-lessons-how-cldt-is-shaping-our-approach-c16be44fae19), and again on the [Software Sustainability Institute's news and blogs hub](https://www.software.ac.uk/blog/lessons-lessons-how-cldt-shaping-our-approach). It is republished here with only slight formating variations to ensure conformity with The Carpentries blog posts style guide._ 
+_This blog post was first published on [Deborah Udoh's personal blog site](https://medium.com/@deborahudoh02/lessons-on-lessons-how-cldt-is-shaping-our-approach-c16be44fae19), and again on the [Software Sustainability Institute's news and blogs hub](https://www.software.ac.uk/blog/lessons-lessons-how-cldt-shaping-our-approach). It is republished here with only slight formatting variations to ensure conformity with The Carpentries blog posts style guide._ 
 
 ---
 
