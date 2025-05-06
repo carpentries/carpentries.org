@@ -23,7 +23,7 @@ One of the standout aspects of the training was the **simplicity and clarity** o
 
 The training was **highly interactive**, with numerous breakout sessions that **encouraged teamwork** and application of new knowledge. These sessions allowed us to collaborate effectively, refine our lesson drafts, and exchange ideas. We also appreciated the facilitators’ commitment to **continuous feedback** — at every step, they checked in to ensure we understood the content and had space to ask questions.
 
-A particularly memorable part of the training was the structured approach to lesson development. We learned to start with preliminary considerations, such as identifying our target audience, understanding their prerequisite knowledge, and pinpointing knowledge gaps. From there, we moved into crafting clear learning objectives and exercises, and using storytelling to make lessons more engaging.
+A particularly memorable part of the training was the structured approach to lesson development. We learned to start with preliminary considerations, such as identifying our target audience, understanding their prerequisite knowledge, and pinpointing knowledge gaps. From there, we moved into crafting clear learning objectives and exercises and using storytelling to make lessons more engaging.
 
 We were also introduced to the **Carpentries Workbench** as a platform for hosting our lesson, which was incredibly exciting. Learning about different types of [fenced divs](http://github.com/jgm/commonmark-hs/blob/master/commonmark-extensions/test/fenced_divs.md) and how they render on the site was an eye-opener. The wealth of additional reading resources provided us with valuable opportunities to explore concepts further at our own pace.
 
