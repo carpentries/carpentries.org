@@ -3,8 +3,7 @@ layout: page
 authors: ["Pre-Seeds Team"]  
 teaser: "The Pre-Seeds team participated in Part One of The Carpentries' Collaborative Lesson Development Training, and here is their recap!"  
 title: "Lessons on Lessons: How The Carpentries' Collaborative Lesson Development Training (CLDT) is Shaping our Approach"  
-Date: 2025-05-09  
-
+date: 2025-05-09  
 time: "09:00:00"  
 tags: ["CLDT", "Curriculum"]  
 ---
