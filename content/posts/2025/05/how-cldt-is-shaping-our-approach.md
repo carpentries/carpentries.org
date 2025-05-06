@@ -18,7 +18,7 @@ On the 25th to 28th of March, the **Pre-Seeds team participated in Part One of T
 
 One of the standout aspects of the training was the **simplicity and clarity** of the sections. The lessons were structured in a way that was easy to follow, with a great balance of theoretical concepts and hands-on practice. The “show and tell” approach made it easier to understand and retain information, ensuring that learning was interactive rather than passive.
 
-![Screenshot of a Zoom meeting where an instructor is teaching from a colourful slide showing “The life cycle of a lesson.”](/blog/2025/05/lesson life cycle screenshot.jpg)
+![Screenshot of a Zoom meeting where an instructor is teaching from a colourful slide showing “The life cycle of a lesson.”](/blog/2025/05/lesson-life-cycle-screenshot.jpg)
 
 
 The training was **highly interactive**, with numerous breakout sessions that **encouraged teamwork** and application of new knowledge. These sessions allowed us to collaborate effectively, refine our lesson drafts, and exchange ideas. We also appreciated the facilitators’ commitment to **continuous feedback** — at every step, they checked in to ensure we understood the content and had space to ask questions.
@@ -33,7 +33,7 @@ While the training was well-structured and engaging, we felt that having **a lit
 
 ## What Will We Do Differently?
 
-![Image showing a lesson website hosted on the Carpentries Workbench. The lesson is titled “Introduction to research: What is research?” with an overview and some objectives below.](/blog/2025/05/pre seeds lesson screenshot.jpg)
+![Image showing a lesson website hosted on the Carpentries Workbench. The lesson is titled “Introduction to research: What is research?” with an overview and some objectives below.](/blog/2025/05/pre-seeds-lesson-screenshot.jpg)
 
 The insights we gained from CLDT will significantly impact how we design and refine our lessons. Moving forward, we will:
 
