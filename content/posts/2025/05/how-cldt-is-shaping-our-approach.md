@@ -13,7 +13,7 @@ _This blog post was first published on [Deborah Udoh's personal blog site](https
 
 ---
 
-On the 25th to 28th of March, the **Pre-Seeds team participated in Part One of The Carpentries' [Collaborative Lesson Development Training](https://carpentries.org/lesson-development/)** (CLDT). It was an enriching experience, and we are deeply grateful to our facilitators, [Toby Hodges](https://www.linkedin.com/in/toby-hodges-b572382b3/), [Aleksandra Nenadic](https://www.linkedin.com/in/aleksandra-nenadic-bb64b96/), and the larger Carpentries leadership team. We learned a lot and want to share our reflections on what worked well, what could be improved, and how this training will shape our approach moving forward.
+On the 25th to 28th of March, the **Pre-Seeds team participated in Part One of The Carpentries' [Collaborative Lesson Development Training](/lesson-development/)** (CLDT). It was an enriching experience, and we are deeply grateful to our facilitators, [Toby Hodges](https://www.linkedin.com/in/toby-hodges-b572382b3/), [Aleksandra Nenadic](https://www.linkedin.com/in/aleksandra-nenadic-bb64b96/), and the larger Carpentries leadership team. We learned a lot and want to share our reflections on what worked well, what could be improved, and how this training will shape our approach moving forward.
 
 ## What Worked Well?
 
