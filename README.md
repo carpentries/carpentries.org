@@ -17,7 +17,7 @@ General content is in one of the folders in the `content` folder.  These folders
 **File names and location**  
 Blog posts go in the `content/posts/YYYY/MM` folder.  Images for the blog posts go in the corresponding `static/blog/YYYY/MM` folder. Note YYYY is the four digit year and MM is the two digit month. Be sure the file location and the blog post date as defined in the yaml metadata (see below) match up.
 
-The file name should **not** include a date.  The file name should be entirely in lowercase and include the `.md` extension.
+The file name should **not** include a date.  The file name should be entirely in lowercase and include the `.md` extension.  The file name should include alphanumeric characters and underscores only (no spaces or other punctuation or special characters).
 
 **File metadata**
 
