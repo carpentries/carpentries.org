@@ -21,7 +21,7 @@ The file name should **not** include a date.  The file name should be entirely i
 
 **File metadata**
 
-The file should begin with yaml metadata (data contained within three hyphens at the top of the file). An example is below:
+The file should begin with yaml metadata (data contained within three hyphens at the top of the file). Note that the keys are all in lowercase, and strings are represented by straight quotes (`"Name"` and not `“Name”`).  An example is below:
 
 ```
 ---
