@@ -33,7 +33,7 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 |High Income         |$1,500                                 |$6,000                                |
 |Upper-Middle Income |$1,125                                 |$4,500                                |
 |Lower-Middle Income |$750                                   |$3,000                                |
-|Low Income          |$375                                   |$1,000                                |
+|Low Income          |$375                                   |$1,500                                |
 {{< /table >}}
 
 ## Collaborative Lesson Development Training Pricing
