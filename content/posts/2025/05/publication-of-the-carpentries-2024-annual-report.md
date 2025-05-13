@@ -8,7 +8,8 @@ time: "12:00:00"
 tags: ["Reports", "Communications"]  
 ---
 
-The past year’s Annual Report and Financial Statement are now available on the The Carpentries website. Continuing with the approach we adopted for reporting in 2023, we have dissolved the distinction between the 2024 Annual and Financial Reports and merged both into one Annual Report, accompanied by a Financial Statement. 
+The past year’s Annual Report and Financial Statement are now available on The Carpentries website. Continuing with the approach we adopted for reporting in 2023, we have dissolved the distinction between the 2024 Annual and Financial Reports and merged both into one Annual Report, accompanied by a Financial Statement. 
+
 
 The 2024 Annual Report can be found on our website’s [Impact]([https://carpentries.org/reports/](https://carpentries.org/reports/)) page, and the 2024 Financial Statement is on our website's [Financials]([https://www.carpentries.org/about-us/financials/](https://www.carpentries.org/about-us/financials/)) page.
 
