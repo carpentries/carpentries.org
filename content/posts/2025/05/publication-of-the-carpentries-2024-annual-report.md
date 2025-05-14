@@ -11,7 +11,7 @@ tags: ["Reports", "Communications"]
 The past year’s Annual Report and Financial Statement are now available on The Carpentries website. Continuing with the approach we adopted for reporting in 2023, we have dissolved the distinction between the 2024 Annual and Financial Reports and merged both into one Annual Report, accompanied by a Financial Statement. 
 
 
-The 2024 Annual Report can be found on our website’s [Impact]([https://carpentries.org/reports/](https://carpentries.org/reports/)) page, and the 2024 Financial Statement is on our website's [Financials]([https://www.carpentries.org/about-us/financials/](https://www.carpentries.org/about-us/financials/)) page.
+The 2024 Annual Report can be found on our website’s [Impact](/reports/) page, and the 2024 Financial Statement is on our website's [Financials](/about-us/financials/) page.
 
 The report highlights key achievements of The Carpentries community and Core Team during 2024 and gives a snapshot of priorities for 2025. It includes a message from John Chodacki, the then-chair of our newly constituted Board of Directors during 2024, as well as a message from our Executive Director, Dr. Kari L. Jordan. 
 
