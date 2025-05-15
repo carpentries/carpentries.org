@@ -15,12 +15,12 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 
 
 {{< table >}}
-|                    |Workshop Fee (USD)|
-|------------------- |---------------   |
-|High Income         |$3,000            |
-|Upper-Middle Income |$2,250            |
-|Lower-Middle Income |$1,500            |
-|Low Income          |$750              |
+| Income Level         | Workshop Fee (USD) | Membership fee |
+|----------------------|--------------------|----------------|
+| High Income          | $3,000             | $1500          |
+| Upper-Middle Income  | $2,250             | $1125          |
+| Lower-Middle Income  | $1,500             | $750           |
+| Low Income           | $750               | $375           |
 {{< /table >}}
 
 ## Instructor Training Pricing
@@ -28,13 +28,17 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 Recruit your own trainees and The Carpentries Instructor Training will provide them the skills to teach effective workshops. Through our 16-hour, hands-on training, they will learn the basics of educational psychology and evidence-based teaching practices. For more information about Instructor Training, visit our [Instructor Training page](/instructor-training/).
 
 {{< table >}}
-|                    | Instructor Training Seat |
-|--------------------|--------------------------|
-|High Income         |$1,500                    |
-|Upper-Middle Income |$1,125                    |
-|Lower-Middle Income |$750                      |
-|Low Income          |$375                      |
+| Income Level         | Instructor Training Seat  | Membership fee |
+|----------------------|---------------------------|----------------|
+| High Income          | $1,500                    | $900           |
+| Upper-Middle Income  | $1,125                    | $675           |
+| Lower-Middle Income  | $750                      | $450           |
+| Low Income           | $375                      | $225           |
 {{< /table >}}
+
+## Instructor Trainer Training Pricing
+
+Instructor Trainer Training is an essential step for individuals interested in teaching The Carpentries Instructor Training Events and contributing to the growth of our community. The training includes 10 weekly one-hour sessions that explore The Carpentries’ teaching philosophy and the educational research behind our curriculum. Pricing for Instructor Trainer Training varies based on country income classification. For detailed pricing information or to inquire about participation, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 ## Collaborative Lesson Development Training Pricing
 
