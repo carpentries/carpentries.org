@@ -38,7 +38,7 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 
 ## Instructor Trainer Training Pricing
 
-Instructor Trainer Training is an essential step for individuals interested in teaching The Carpentries Instructor Training Events and contributing to the growth of our community. The training includes 10 weekly one-hour sessions that explore The Carpentries’ teaching philosophy and the educational research behind our curriculum. Pricing for Instructor Trainer Training varies based on country income classification. For detailed pricing information or to inquire about participation, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
+Instructor Trainer Training is an essential step for individuals interested in teaching The Carpentries Instructor Training events and contributing to the growth of our community. The training includes 10 weekly one-hour sessions that explore The Carpentries’ teaching philosophy and the educational research behind our curriculum. Pricing for Instructor Trainer Training varies based on country income classification. For detailed pricing information or to inquire about participation, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 ## Collaborative Lesson Development Training Pricing
 
