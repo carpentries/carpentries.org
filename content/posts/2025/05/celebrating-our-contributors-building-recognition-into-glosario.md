@@ -36,10 +36,19 @@ As of 12 May 2025, 206 contributors are now listed on the [Glosario Repository](
 .contribs sub {
   bottom: 0 !important;
   --tw-prose-links-underline: none !important;
+  display: block;
+  word-wrap: break-word;
+  white-space: pre;
+  padding-bottom: 10px;
+  padding-top: 10px;  
 }
 
 .contribs b {
   font-size: 100% !important;
+}
+
+.contribs a {
+  text-decoration: none !important;
 }
 </style>
 
