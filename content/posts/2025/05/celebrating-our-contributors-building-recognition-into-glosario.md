@@ -3,7 +3,7 @@ layout: page
 authors: ["Angelique Trusler", "Robert Davey"]
 teaser: "Building a welcoming and inclusive community"
 title: "Recognising Our Global Contributors: Glosario’s Next Chapter"
-date: 2025-05-27
+date: 2025-05-21
 time: "09:00:00"
 tags: ["Glosario", "Accessibility", "Lesson Infrastructure","Internationalisation"]
 ---
@@ -300,7 +300,7 @@ As of 12 May 2025, 206 contributors are now listed on the [Glosario Repository](
 
 ## Building a Kind and Inclusive Community
 
-We aim to create a glossary and a kind, welcoming, and inclusive community. We want people from all over the world to feel that their voices are heard and valued.
+We aim to create a glossary and a kind, welcoming, and inclusive community. We want people from all over the world to feel that their voices are recognised and valued.
 
 We are also wanting to improve how people contribute. We hope to include better instructions, easier tools, and helpful videos. These changes will make it simpler for new contributors to join and help grow Glosario.
 
