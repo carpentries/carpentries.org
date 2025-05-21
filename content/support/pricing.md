@@ -7,7 +7,9 @@ cascade:
 
 ## Overview
 
-All fees are dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html). All fees listed are in USD and represent costs for not-for-profit organisations and academic institutions. Pricing for for-profit organisations is four times the price listed for non-profit organisations.
+All fees are dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html). 
+
+**All fees listed are in USD.** Pricing for for-profit organisations is four times the price listed for not-for-profit organisations and academic institutions.
 
 ## Workshop Pricing
 
