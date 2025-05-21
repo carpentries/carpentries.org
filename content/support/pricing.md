@@ -24,6 +24,8 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 |Lower-Middle Income |$1,500                   |$6,000                   |
 |Low Income          |$750                     |$3,000                     |
 
+Note: Members are eligible for a 50% discount off the listed fees.
+
 {{< /table >}}
 
 ## Instructor Training Pricing
@@ -38,6 +40,8 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 |Lower-Middle Income |$750                                   |$3,000                                |
 |Low Income          |$375                                   |$1,500                                |
 {{< /table >}}
+
+Note: Members are eligible for a 40% discount off the listed fees.
 
 ## Instructor Trainer Training Pricing
 
