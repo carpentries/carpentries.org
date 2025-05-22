@@ -20,6 +20,10 @@ The registry is designed to:
 
 A [registration form](https://forms.gle/t9zqxhyeGLGiSGFe7) is available for subcommunities to provide information about their ongoing activities, websites, and communication channels. If you’re unsure whether your subcommunity should register or have questions, please email the [Community Engagement Team](mailto:{{< param community_email >}}). 
 
+### Creating a Logo for Your Subcommunity
+
+To submit an application to modify [The Carpentries Logo](https://docs.carpentries.org/resources/communications/logos.html#links-to-logo-files) for your subcommunity, you should email the Community Engagement Team at community@carpentries.org. Be sure to follow the approved [guidelines](https://docs.carpentries.org/resources/communications/logos.html), such as maintaining the logo’s shape and orientation, and using Carpentries red (Hex: FF4955) for added text. The team will review your proposal and either approve it or assist you in developing a version that meets the policy standards.
+
 ### Regional Subcommunities
 
 The subcommunities listed in this section are those whose focus is Carpentries activities at a specified large geographical - regional, national, provincial or district - area.
