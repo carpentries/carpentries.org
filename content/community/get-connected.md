@@ -22,8 +22,7 @@ A [registration form](https://forms.gle/t9zqxhyeGLGiSGFe7) is available for subc
 
 ### How to Create Your Carpentries Subcommunity Logo
 
-To submit an application to modify [The Carpentries Logo]({{< param handbook_url >}}/resources/communications/logos.html#links-to-logo-files) for your subcommunity, you should email the Community Engagement Team at {{< param community_email >}}. 
-. Be sure to follow the approved [guidelines]({{< param handbook_url >}}/resources/communications/logos.html) for modifying The Carpentries logo, such as maintaining the logo’s shape and orientation, and using Carpentries red (Hex: FF4955) for added text. The team will review your proposal and either approve it or assist you in developing a version that meets the policy standards.
+To submit an application to modify [The Carpentries Logo]({{< param handbook_url >}}/resources/communications/logos.html#links-to-logo-files) for your subcommunity, you should email the Community Engagement Team at [{{< param community_email >}}](mailto:{{< param community_email >}}). Be sure to follow the approved [guidelines]({{< param handbook_url >}}/resources/communications/logos.html) for modifying The Carpentries logo, such as maintaining the logo’s shape and orientation, and using Carpentries red (Hex: FF4955) for added text. The team will review your proposal and either approve it or assist you in developing a version that meets the policy standards.
 
 ### Regional Subcommunities
 
