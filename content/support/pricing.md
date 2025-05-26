@@ -24,7 +24,7 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 |Lower-Middle Income |$1,500                   |$6,000                   |
 |Low Income          |$750                     |$3,000                     |
 
-Note: Members are eligible for a 50% discount off the listed fees.
+Note: Members are eligible for a 40% discount off the listed fees.
 
 {{< /table >}}
 
