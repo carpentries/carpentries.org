@@ -5,7 +5,7 @@ teaser: "Reporting on the March *AI and The Carpentries* community discussion se
 title: "AI Community Discussion Session Report: Case Studies to Inform Curriculum"  
 Date: 2025-05-29  
 time: "09:00:00"  
-tags: ["Curriculum", "Artificial Intelligence"]  
+tags: ["Curriculum", "Artificial Intelligence", "Lessons"]  
 ---
 
 In March, The Carpentries hosted a pair of *AI and The Carpentries* sessions, the last we currently have planned in this series. These sessions, titled *Case Studies to Inform Carpentries Curriculum*, were an opportunity to hear directly from community leaders and learn from their teaching experience with and about large language models (LLMs). After several open discussion sessions facilitated by members of the Core Team, we took a deeper dive into the perspectives and expertise of particular community members.
