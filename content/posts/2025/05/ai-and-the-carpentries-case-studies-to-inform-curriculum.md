@@ -22,8 +22,8 @@ We are so grateful to the three presenters for their contributions: thank you, B
 
 ## What’s Next?
 
-There are no more AI and The Carpentries sessions planned. If you would like to propose a topic or present something to the community, please [contact](mailto:team@carpentries.org) us.
+There are no more AI and The Carpentries sessions planned. If you would like to propose a topic or present something to the community, please [contact](mailto:{{< param team_email >}}) us.
 
-Since a pull request adding guidance on generative AI was merged into the Software Carpentry *Plotting and Programming with Python* lesson, community members have proposed similar changes to the other Data Carpentry, Library Carpentry, and Software Carpentry lessons. There is still time to get involved, and we would love your help! Join the #genai-lesson-updates channel on Slack ([join the Slack workspace](https://slack-invite.carpentries.org/)) or [contact Toby Hodges](mailto:tobyhodges@carpentries.org) to learn more about the process.
+Since a pull request adding guidance on generative AI was merged into the Software Carpentry *Plotting and Programming with Python* lesson, community members have proposed similar changes to the other Data Carpentry, Library Carpentry, and Software Carpentry lessons. There is still time to get involved, and we would love your help! Join the #genai-lesson-updates channel on Slack ([join the Slack workspace]({{< param slack_invite >}})) or [contact Toby Hodges](mailto:tobyhodges@carpentries.org) to learn more about the process.
 
 The Curriculum Team will soon invite developers of ML/AI-related lessons in The Carpentries Incubator to join calls and discuss the possibility of coordinating their efforts to form curricula for new workshops.
