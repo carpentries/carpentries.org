@@ -109,15 +109,6 @@
     url: http://swcarpentry.github.io/sql-novice-survey
 -
     program: LC
-    name: Workshop Overview
-    description: A lesson to introduce Library Carpentry and summarise the lessons that can be taught in a workshop.
-    tool:
-    skill:
-    language: English
-    domain: Library
-    url: https://librarycarpentry.org/lc-overview/
--
-    program: LC
     name: Introduction to Working with Data (Regular Expressions)
     description: An introduction to working with data using regular expressions, for people with library- and information-related roles who want to learn how to perform pattern-based searches in large bodies of text.
     tool: Regular expressions
@@ -170,15 +161,6 @@
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-spreadsheets/
--
-    program: LC
-    name: Introduction to Webscraping
-    description: (will be removed from LC lessons page)
-    tool: 
-    skill:
-    language: English
-    domain: Library
-    url: https://librarycarpentry.org/lc-webscraping/
 -
     program: LC
     name: Introduction to Python for Librarians
@@ -431,21 +413,4 @@
     language: English
     domain: Imaging
     url: https://datacarpentry.org/image-processing/
--
-    program: DC
-    name: Introduction to Stata for Economics
-    description: (alpha)
-    tool:
-    skill:
-    language: English
-    domain: Economics
-    url: https://datacarpentry.org/stata-economics/
--
-    program: DC
-    name: Introduction to the Command Line for Economics
-    description: (alpha)
-    tool:
-    skill:
-    language: English
-    domain: Economics
-    url: https://datacarpentry.org/shell-economics/
+
