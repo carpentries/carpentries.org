@@ -58,7 +58,7 @@
     name: La Terminal de Unix
     description:
     tool: Shell
-    skill:
+    skill: Automating tasks; Tracking versions
     language: Spanish
     domain: General
     url: http://swcarpentry.github.io/shell-novice-es
@@ -67,7 +67,7 @@
     name: Control de versiones con Git
     description:
     tool: Git
-    skill:
+    skill: Collaborating
     language: Spanish
     domain: General
     url: http://swcarpentry.github.io/git-novice-es
@@ -76,7 +76,7 @@
     name: R para Análisis Científicos Reproducibles
     description:
     tool: R
-    skill:
+    skill: Data visualisation; Programming
     language: Spanish
     domain: General
     url: http://swcarpentry.github.io/r-novice-gapminder-es
@@ -109,15 +109,6 @@
     url: http://swcarpentry.github.io/sql-novice-survey
 -
     program: LC
-    name: Workshop Overview
-    description: A lesson to introduce Library Carpentry and summarise the lessons that can be taught in a workshop.
-    tool:
-    skill:
-    language: English
-    domain: Library
-    url: https://librarycarpentry.org/lc-overview/
--
-    program: LC
     name: Introduction to Working with Data (Regular Expressions)
     description: An introduction to working with data using regular expressions, for people with library- and information-related roles who want to learn how to perform pattern-based searches in large bodies of text.
     tool: Regular expressions
@@ -139,7 +130,7 @@
     name: OpenRefine
     description: An introduction to working with data in OpenRefine, for people with library- and information-related roles who want to learn how to clean, filter, and transform large volumes of tabular data.
     tool: OpenRefine
-    skill:
+    skill: Data cleaning
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-open-refine/
@@ -156,8 +147,8 @@
     program: LC
     name: SQL
     description: An introduction to relational database management with SQLite, for people with library- and information-related roles who want to learn how to summarise and connect information in large volumes of data.
-    tool:
-    skill:
+    tool: SQL; SQLite
+    skill: Accessing data
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-sql/
@@ -165,26 +156,17 @@
     program: LC
     name: Tidy Data for Librarians
     description: An exploration of good practices in data organisation and wrangling in spreadsheets, for librarians and those in information-related roles.
-    tool:
-    skill:
+    tool: Spreadsheets
+    skill: Data organisation
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-spreadsheets/
 -
     program: LC
-    name: Introduction to Webscraping
-    description: (will be removed from LC lessons page)
-    tool:
-    skill:
-    language: English
-    domain: Library
-    url: https://librarycarpentry.org/lc-webscraping/
--
-    program: LC
     name: Introduction to Python for Librarians
     description: An introduction to programming in Python for librarians with little or no previous programming experience who want to learn how to write programs that can automate the processing of large volumes of information. (alpha)
     tool: Python
-    skill:
+    skill: Programming; Data visualisation
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-python-intro/
@@ -193,7 +175,7 @@
     name: Introduction to Data for Archivists
     description: An exploration of good practices and useful skills for working with data, for archivists who want to learn how to work with data and to match patterns in large volumes of text. (alpha)
     tool: Regular expressions
-    skill:
+    skill: Pattern matching
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-data-intro-archives/
@@ -202,7 +184,7 @@
     name: Introduction to R for Librarians
     description: An introduction to programming in R for librarians with little or no previous programming experience who want to learn how to write programs to analyse large volumes of data and visualise the results. (alpha)
     tool: R
-    skill:
+    skill: Programming; Data visualisation
     language: English
     domain: Library
     url: https://librarycarpentry.org/lc-r/
@@ -238,7 +220,7 @@
     name: Data Cleaning with OpenRefine for Ecologists
     description: An introduction to the OpenRefine tool, aimed at ecologists who want to clean and format data effectively and automatically track the changes they make.
     tool: OpenRefine
-    skill:
+    skill: Data cleaning
     language: English
     domain: Ecology
     url: https://datacarpentry.org/OpenRefine-ecology-lesson/
@@ -274,7 +256,7 @@
     name: Análisis y visualización de datos usando Python
     description: (beta)
     tool: Python
-    skill:
+    skill: Data visualisation; Programming
     language: Spanish
     domain: Ecology
     url: https://datacarpentry.org/python-ecology-lesson-es/
@@ -346,7 +328,7 @@
     name: Introduction to Geospatial Concepts
     description: An overview of the core concepts of geospatial data, for researchers who want to start working with raster or vector data.
     tool:
-    skill:
+    skill: Data organisation
     language: English
     domain: Geospatial
     url: https://datacarpentry.org/organization-geospatial/
@@ -391,7 +373,7 @@
     name: Data Cleaning with OpenRefine for Social Scientists
     description: An introduction to the OpenRefine tool, aimed at social scientists who want to clean and format data effectively and automatically track the changes they make.
     tool: OpenRefine
-    skill:
+    skill: Data cleaning
     language: English
     domain: Social Sciences
     url: https://datacarpentry.org/openrefine-socialsci/
@@ -418,7 +400,7 @@
     name: Data Management with SQL for Social Scientists
     description: An introduction to relational databases and the SQL language that can be used to query them, for social scientists who want to store and access data effectively. (alpha)
     tool: SQL
-    skill:
+    skill: Data visualisation; Accessing data
     language: English
     domain: Social Sciences
     url: https://datacarpentry.org/sql-socialsci/
@@ -431,21 +413,4 @@
     language: English
     domain: Imaging
     url: https://datacarpentry.org/image-processing/
--
-    program: DC
-    name: Introduction to Stata for Economics
-    description: (alpha)
-    tool:
-    skill:
-    language: English
-    domain: Economics
-    url: https://datacarpentry.org/stata-economics/
--
-    program: DC
-    name: Introduction to the Command Line for Economics
-    description: (alpha)
-    tool:
-    skill:
-    language: English
-    domain: Economics
-    url: https://datacarpentry.org/shell-economics/
+
