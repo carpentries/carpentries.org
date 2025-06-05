@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Erin Becker", "Kari L. Jordan"]  
 teaser: "Due to NSF’s new requirements preventing awardees operating programs that advance or promote DEI, The Carpentries has withdrawn our application for funding."  
-title: "Announcing withdrawal of NSF Pathways to Enable Open-Source Ecosystems Proposal"  
+title: "Announcing Withdrawal of NSF Pathways to Enable Open-Source Ecosystems Proposal"  
 date: 2025-06-09  
 time: "18:00:00"  
 tags: ["Core Values", "Grants"]  
@@ -16,7 +16,7 @@ After months of going through the vetting process and navigating the ever-changi
 
 Diversity is a fundamental [core value](https://carpentries.org/about-us/\#our-values) of The Carpentries. As stated in our [reinforced commitment to diversity, equity, and inclusion](https://carpentries.org/blog/2025/03/the-carpentries-reinforced-commitment-to-inclusion-diversity-equity-and-accessibility/) statement, 
 
-    “Our efforts ensure everyone, regardless of background, is equipped to promote efficient, open, and reproducible research practices. We are strengthening our organisation’s impact by cultivating an inclusive and equitable community. We remain committed to advancing our core values and mission, prioritising work that fosters inclusion, equity, and accessibility. We look forward to collaborating with funders who share our vision and are eager to support these efforts.” 
+> “Our efforts ensure everyone, regardless of background, is equipped to promote efficient, open, and reproducible research practices. We are strengthening our organisation’s impact by cultivating an inclusive and equitable community. We remain committed to advancing our core values and mission, prioritising work that fosters inclusion, equity, and accessibility. We look forward to collaborating with funders who share our vision and are eager to support these efforts.” 
 
 We are proud to have been recommended, and believe in the value of our proposed POSE project. However, we are rescinding our proposal and will not pursue funding through the National Science Foundation, or other US federal funding agencies with similar requirements, as long as these requirements are in place.
 
