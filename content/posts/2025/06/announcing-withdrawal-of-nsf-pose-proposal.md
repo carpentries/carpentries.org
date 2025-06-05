@@ -24,7 +24,7 @@ The work we proposed as part of our POSE project would significantly strengthen 
 
 A new incubation framework would allow emerging Lesson Programs, like [the incoming HPC Carpentry](https://carpentries.org/blog/2024/07/hpc-carpentry-incubation-announcement/), to join our ecosystem more easily, expanding our reach across disciplines and global communities. Streamlined translation workflows would ensure lesson materials are accessible in multiple languages, supporting regional leaders in organising localised training using materials in their communities’ primary languages.
 
-Ultimately, this work would help us avoid volunteer burnout, proactively support new community roles, and align programming with real capacity. As we grow into [our new identity as an independent nonprofit](https://carpentries.org/blog/2025/01/new\_year\_message\_from\_exec\_team/), this funding would position us to be more adaptable, sustainable, and responsive to our community’s evolving needs.
+Ultimately, this work would help us avoid volunteer burnout, proactively support new community roles, and align programming with real capacity. As we grow into [our new identity as an independent non-profit](https://carpentries.org/blog/2025/01/new\_year\_message\_from\_exec\_team/), this funding would position us to be more adaptable, sustainable, and responsive to our community’s evolving needs.
 
 ## Ways you can support us
 Since we are no longer in the running for this funding, we are actively seeking donors and a cohort of funders who align with our mission and core values and want to support this work. 
