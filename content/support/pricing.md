@@ -23,6 +23,9 @@ Our Centrally-Organised Workshops bring hands-on computational and data skill wo
 |Upper-Middle Income |$2,250                   |$9,000                   |
 |Lower-Middle Income |$1,500                   |$6,000                   |
 |Low Income          |$750                     |$3,000                     |
+
+Note: Members are eligible for a 40% discount off the listed fees.
+
 {{< /table >}}
 
 ## Instructor Training Pricing
@@ -37,6 +40,12 @@ Recruit your own trainees and The Carpentries Instructor Training will provide t
 |Lower-Middle Income |$750                                   |$3,000                                |
 |Low Income          |$375                                   |$1,500                                |
 {{< /table >}}
+
+Note: Members are eligible for a 40% discount off the listed fees.
+
+## Instructor Trainer Training Pricing
+
+Instructor Trainer Training is an essential step for individuals interested in teaching The Carpentries Instructor Training events and contributing to the growth of our community. The training includes 10 weekly one-hour sessions that explore The Carpentries’ teaching philosophy and the educational research behind our curriculum. Pricing for Instructor Trainer Training varies based on country income classification. For detailed pricing information or to inquire about participation, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
 
 ## Collaborative Lesson Development Training Pricing
 
