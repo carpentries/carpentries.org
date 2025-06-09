@@ -31,13 +31,13 @@ Since we are no longer in the running for this funding, we are actively seeking 
 
 Here is what you can do to help:
 
-- [Make a recurring donation.]({{< param donation_form >}})
+- [Make a recurring donation]({{< param donation_form >}}).
 - [Reach out to potential donors on our behalf]({{< param handbook_url >}}/resources/general/donation-request-resources.html).   
-- Connect us with potential donors and program officers via [email.](mailto:{{< param team_email >}})
+- Connect us with potential donors and program officers via [email](mailto:{{< param team_email >}}).
 - [Collaborate with us to apply for grants]({{< param handbook_url >}}/resources/general/collaborating-on-grants.html).   
-- Learn more about our [sponsorship program.](/support/sponsorship/)  
+- Learn more about our [sponsorship program](/support/sponsorship/).  
 - [Get in touch]({{< param membership_email >}}) about establishing a Carpentries Membership for your university, lab, or organisation.  
-- Continue being an advocate for The Carpentries’ within your local community!
+- Continue being an advocate for The Carpentries within your local community!
 
 This is a challenging period for those of us committed to realising the promise of diversity, equity, and inclusion throughout the world. It is more important than ever for us to draw strength from one another and redouble our efforts to build the equitable future we all deserve.
 
