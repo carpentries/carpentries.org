@@ -15,6 +15,8 @@ All fees are dependent on the purchasing organisation's geographic location, acc
 
 Our Centrally-Organised Workshops bring hands-on computational and data skill workshops to your organisation. The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. For more information about our Workshops, visit our [Workshops page](/workshops/).
 
+[Self-organised workshops](https://docs.carpentries.org/handbooks/instructors.html#self-organised) are free to organise. However, if you need AWS instances for Genomics Self-organised or Centrally-organised workshops, additional fees apply. Please refer to the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html) for additional information.
+
 
 {{< table >}}
 |                    |Workshop Fee (Non-profit)|Workshop Fee (Corporate)|
