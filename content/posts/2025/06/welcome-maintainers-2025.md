@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Toby Hodges", "Erin Becker", “Nathaniel Porter”]
+authors: ["Toby Hodges", "Erin Becker", "Nathaniel Porter"]
 teaser: "Thirty new Lesson Maintainers badged"
 title: "Welcome to our Newest Lesson Maintainers!"
 date: 2025-06-16
