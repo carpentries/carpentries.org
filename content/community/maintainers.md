@@ -9,4 +9,4 @@ Maintainers are responsible for the day-to-day upkeep of our lessons - making su
 
 This page lists our current Maintainers. Previous Maintainers are listed on our [Maintainer Alumni](/community/maintainer-alumni) page. 
 
-{{< persons feed="https://feeds.carpentries.org/all_maintainers.json" where="active_status,Active Maintainer" >}}
+{{< persons feed="https://feeds.carpentries.org/all_maintainers.json" where="active_status,Active" >}}
