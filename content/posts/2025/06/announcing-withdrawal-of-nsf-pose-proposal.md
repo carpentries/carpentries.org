@@ -36,7 +36,7 @@ Here is what you can do to help:
 - Connect us with potential donors and program officers via [email](mailto:{{< param team_email >}}).
 - [Collaborate with us to apply for grants]({{< param handbook_url >}}/resources/general/collaborating-on-grants.html).   
 - Learn more about our [sponsorship program](/support/sponsorship/).  
-- [Get in touch]({{< param membership_email >}}) about establishing a Carpentries Membership for your university, lab, or organisation.  
+- [Get in touch](mailto:{{< param membership_email >}}) about establishing a Carpentries Membership for your university, lab, or organisation.  
 - Continue being an advocate for The Carpentries within your local community!
 
 This is a challenging period for those of us committed to realising the promise of diversity, equity, and inclusion throughout the world. It is more important than ever for us to draw strength from one another and redouble our efforts to build the equitable future we all deserve.
