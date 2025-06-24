@@ -20,7 +20,7 @@ To explore this further, we deposited our lesson datasets into a generalist repo
 
 Then, in our [Python Gapminder lesson](https://swcarpentry.github.io/python-novice-gapminder/), we adjusted the lesson to showcase this. Traditionally, we teach students how to load a local CSV file from the local filesystem using pandas. In the GREI-enhanced version of the lesson, we added a new challenge: what if that file came from a repository like Zenodo? What if learners could use a DOI to fetch data directly via an API and cite it properly in their research? These kinds of integrations change the framing—from “how do I analyse this file?” to “how do I responsibly work with, and contribute back to, the research ecosystem?”
 
-Well, we did that. You can find the [uploaded gapminder data files on Zenodo](https://doi.org/10.5281/zenodo.14768556) and you can explore the modified lessons here:
+Well, we did that. You can find the [uploaded gapminder data files on Zenodo](https://doi.org/10.5281/zenodo.14768556), and you can explore the modified lessons here:
 
 * [Shell Novice (NIH-GREI fork)](https://nih-grei.github.io/shell-novice/)  
 * [Python Gapminder (NIH-GREI fork)](https://nih-grei.github.io/python-novice-gapminder/)
