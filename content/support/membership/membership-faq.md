@@ -13,6 +13,7 @@ aliases:
 - **Hands-on, practice-based training in teaching**. Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.
 - **Computational and data skills training**. Gain access to our pool of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across various disciplines.
 - **Values-driven community of practice**. Become part of our inclusive community, centred on building strength through diversity and empowering community collaboration through lifelong learning.
+{{< /accordion >}}
 
 {{< accordion title="What are the standard membership packages you offer?" >}}
 We offer Bronze, Silver, and Gold membership packages, each with an allotted number of Centrally-Organised [workshops](/workshops).
