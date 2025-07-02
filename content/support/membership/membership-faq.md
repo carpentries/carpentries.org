@@ -9,6 +9,11 @@ aliases:
 
 ## Memberships
 
+{{< accordion title="What are the benefits of a Carpentries membership?" >}}
+- **Hands-on, practice-based training in teaching**. Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.
+- **Computational and data skills training**. Gain access to our pool of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across various disciplines.
+- **Values-driven community of practice**. Become part of our inclusive community, centred on building strength through diversity and empowering community collaboration through lifelong learning.
+
 {{< accordion title="What are the standard membership packages you offer?" >}}
 We offer Bronze, Silver, and Gold membership packages, each with an allotted number of Centrally-Organised [workshops](/workshops).
 Silver and Gold memberships also include seats in our [Instructor Training](https://carpentries.github.io/instructor-training/)
@@ -45,7 +50,18 @@ A list of our [current Member organisations](/members/) can be found on our webs
 help in making contact with the person in charge of your institutional membership, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
+{{< accordion title="How do I get started with my membership?" >}}
+- [Review the Code of Conduct](https://docs.carpentries.org/policies/coc/):  We are committed to fostering a welcoming and supportive environment for everyone. By participating in this community, you agree to uphold our Code of Conduct, which ensures respectful and inclusive engagement.
+
+- [Schedule an Onboarding Session](https://calendly.com/carpentries-membership/onboarding): Join a 30-minute onboarding session with a Core Team member to learn how to maximise your membership. This session provides valuable insights, tips, and an opportunity to ask questions.
+{{< /accordion >}}
+
 ## Workshops
+
+
+{{< accordion title="What is the difference between a Centrally-Organised workshop and a Self-Organised workshop?" >}}
+For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Team (WIT) will recruit Instructors, set up registration, and provide additional support while planning workshops. A Self-Organised workshop is planned independently of WIT, which means the host is connected with our [certified Instructors](https://carpentries.org/community/instructors/) and will work with them on all aspects of workshop organisation. Self-organised workshops are free of charge. However, if you need AWS instances for Genomics Self-organised or Centrally-organised workshops, additional fees apply. Please refer to the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html) for additional information. Please visit our [Host a Workshop page](https://carpentries.org/workshops/host-workshop/) to learn more about both workshop types.
+{{< /accordion >}}
 
 {{< accordion title="How do your workshops run?" >}}
 For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Member contact to find
@@ -68,6 +84,24 @@ Yes! Once you start building a team of certified Instructors, you can work with 
 {{< accordion title="What if I want to run more Centrally-Organised workshops than my agreement allows?" >}}
 All members are eligible to purchase additional Centrally-Organised workshops at a discount.
 Our current [pricing is here](/support/pricing/#workshop-pricing).
+{{< /accordion >}}
+
+{{< accordion title="How do I request a Centrally-Organised Workshop?" >}}
+Planning a successful Carpentries workshop starts with selecting the right curriculum for your audience. Review the available [curricula](https://carpentries.org/lessons/curriculum-summary/) to determine which lessons best align with your learners' needs. Once you've identified the most suitable curriculum, choose potential workshop dates at least 10 weeks in advance to allow ample time for preparation, Instructor recruitment, and logistical arrangements. After finalising the details, complete and submit the [Workshop Request Form](https://amy.carpentries.org/forms/request_workshop/) to initiate the official workshop request process. 
+{{< /accordion >}}
+
+{{< accordion title="Do I need to notify The Carpentries about Self-Organised Workshops?" >}}
+Yes, complete the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/) so the workshop can be listed on our website, and you can receive the necessary resources and support.
+{{< /accordion >}}
+
+{{< accordion title="What happens if I need to cancel or postpone a planned workshop?" >}}
+If you need to cancel your workshop, please inform the Workshops and Instruction Team (WIT) by emailing [workshops@carpentries.org](mailto:workshops@carpentries.org). The WIT member you have been working with will ensure that the workshop is removed from The Carpentries website and complete any other administrative tasks associated with it.
+
+If you need to postpone your workshop, please email workshops@carpentries.org. The WIT member you have been working with will help you select new dates and complete any other administrative tasks associated with the workshop. Please ensure that you inform your registrants of a cancelled or postponed workshop via email or through your registration platform.
+{{< /accordion >}}
+
+{{< accordion title="How do I obtain survey data or links for previous workshops?" >}}
+The Workshops and Instruction Team (WIT) can provide survey result links for past workshops (August 2018 - present) to Instructors and hosts that either taught at, hosted the workshop, or a programmatic contact to a members organisation (see Membership Management). To request survey results links, please send an email to WIT (via [workshops@carpentries.org](mailto:workshops@carpentries.org)) with your request and include a link to the workshop website(s) and/or slug(s).
 {{< /accordion >}}
 
 ## Instructor Training
@@ -128,6 +162,59 @@ In the case of [no shows]({{< param handbook_url >}}/handbooks/instructors.html#
 In the event of [partial absences]({{< param handbook_url >}}/handbooks/instructors.html#partial-absence) trainees who miss up to 4 hours (1 half day) of an event can schedule a 45-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Workshops and Training. 
 
 [Ineligibility for Makeup Opportunities]({{< param handbook_url >}}/handbooks/instructors.html#ineligibility-for-makeup-opportunities): Trainees who miss an event **in full without cancelling within 7 days (no-show)** or who miss part of an event but **do not request a makeup opportunity within 7 days** are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}) to be advised on their options for re-admission.
+{{< /accordion >}}
+
+## Instructor Trainers in a Membership
+
+{{< accordion title="What are Instructor Trainers?" >}}
+Instructor Trainers teach The Carpentries Instructor Training Events. They train new Instructors in the basics of educational psychology and evidence-based teaching practices. They also support and play a leadership role in overseeing the Instructor Training program.
+
+[Instructor Trainer Training](https://carpentries.github.io/trainer-training/) is the process by which we onboard new Instructor Trainers. It consists of 10 weekly one-hour sessions, during which we discuss The Carpentries’ teaching philosophy and review supporting materials that summarise the research underpinning our [Instructor Training curriculum](https://carpentries.github.io/instructor-training/).
+{{< /accordion >}}
+
+{{< accordion title="Are there any discounts available for Instructor Trainers?" >}}
+Organisations supporting [Instructor Trainers](https://docs.carpentries.org/handbooks/instructor_trainers.html#roles-and-responsibilities), who engage in service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount on their membership fee equivalent to six (6) seats in Instructor Training per active Instructor Trainers. Members can choose whether they would like the Trainers discount applied as a monetary benefit or added to their account. This discount is available at any membership level, for each Instructor Trainer who has participated in the following, up to 1 year before renewal:
+- Teach at least two (2) Instructor Training events for the global Carpentries community.
+{{< /accordion >}}
+
+{{< accordion title="How do I purchase an Instructor Trainer Training seat?" >}}
+The Instructor Trainer Training seats can be added to your Membership package at any time—either during the initial agreement or afterwards. To request Instructor Trainer Training seats, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
+{{< /accordion >}}
+
+
+## Collaborative Lesson Development Training
+
+{{< accordion title="What is Collaborative Lesson Development Training?" >}}
+[Collaborative Lesson Development Training](https://carpentries.org/lesson-development/) teaches essential skills and best practices for designing and developing lessons as open-source projects. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
+{{< /accordion >}}
+
+{{< accordion title="How do I purchase Collaborative Lesson Development Training seats?" >}}
+To attend Collaborative Lesson Development Training, email [membership@carpentries.org](mailto:membership@carpentries.org). 
+{{< /accordion >}}
+
+
+## Membership Management
+
+{{< accordion title="Who are the Programmatic member contacts?" >}}
+Programmatic member contacts are the primary liaisons for an organisation’s membership, ensuring seamless communication and effective management of membership benefits. They receive essential updates, coordinate membership activities, and facilitate engagement with The Carpentries community. We recommend having at least two Member Contacts per organisation to ensure continuity and shared responsibility.
+{{< /accordion >}}
+
+{{< accordion title="How do I update Member Contacts?" >}}
+Email [membership@carpentries.org](mailto:membership@carpentries.org) to update your contacts.
+{{< /accordion >}}
+
+{{< accordion title="What is the Membership Mailing List?" >}}
+Programmatic member contacts are added to this mailing list for quarterly updates and announcements.
+{{< /accordion >}}
+
+## Member Engagement
+
+{{< accordion title="What are Quarterly Membership Updates?" >}}
+Every three months, Programmatic member contacts receive a detailed email outlining membership usage and trainee progress, helping them track engagement and maximise the benefits of their organisation’s membership.
+{{< /accordion >}}
+
+{{< accordion title="What are Community Development Program Calls?" >}}
+These [calls](https://pad.carpentries.org/community-development-program) take place every three months and offer valuable opportunities for networking, sharing updates, and fostering community growth.
 {{< /accordion >}}
 
 ## Contact us
