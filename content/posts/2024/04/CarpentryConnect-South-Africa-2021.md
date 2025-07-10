@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-authors: ["Angelique Trusler, PhD"]
+authors: ["Angelique Trusler"]
 teaser: "An estimated 300GB of mobile data was provided to 71 attendees."
 title: "CarpentryConnect South Africa 2021 - A global event"
 breadcrumb: "CarpentryConnect South Africa 2021 - A global event"
