@@ -206,7 +206,7 @@ main:
   weight: 30
 - identifier: donate
   name: Donate
-  url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497"
+  url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website"
   parent: support
   weight: 40
 # Communications menu
