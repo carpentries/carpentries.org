@@ -23,12 +23,12 @@ The Australian Research Data Commons coordinates a national [Carpentries partner
 - Join the Slack channel: https://swcarpentry.slack.com/archives/CH9MDCTSM
 
 ### Blog Posts Highlighting The Subcommunity
-- [Carpentry Connect 2024 Australia & Aotearoa New Zealand] (https://ardc.edu.au/article/powering-research-through-skills-highlights-from-the-ardc-digital-research-skills-summit-2024/#:~:text=23%20May%3A%20Carpentry%20Connect%202024)
-- [#Carpentries25 Testimonial Series: Damien]Irving(https://carpentries.org/blog/2023/08/carpentries25-testimonial-series-damien-irving/)
+- [Carpentry Connect 2024 Australia & Aotearoa New Zealand](https://ardc.edu.au/article/powering-research-through-skills-highlights-from-the-ardc-digital-research-skills-summit-2024/#:~:text=23%20May%3A%20Carpentry%20Connect%202024)
+- [#Carpentries25 Testimonial Series: Damien Irving](https://carpentries.org/blog/2023/08/carpentries25-testimonial-series-damien-irving/)
 - [I Can’t Believe I Survived Without It: Learning Data and Software Skills with The Carpentries](https://ardc.edu.au/article/i-cant-believe-i-survived-without-it-learning-data-and-software-skills-with-the-carpentries)
 - [Carpentries Partnership for Australia to Uplift Digital Research Skills](https://ardc.edu.au/project/the-carpentries-partnership/)
 - [Supporting The Carpentries](https://carpentries.org/blog/2019/09/supporting-the-carpentries/)
-[The Carpentries in Australia: Community Discussion Summary](https://carpentries.org/blog/2019/05/aus-community-call-summary/) 
+- [The Carpentries in Australia: Community Discussion Summary](https://carpentries.org/blog/2019/05/aus-community-call-summary/) 
 - [Sydney ResBaz - A Big Success](https://carpentries.org/blog/2018/07/resbaz-sydney/)
 
 ### Social Media Highlight
@@ -60,13 +60,7 @@ This subcommunity focuses on building relationships within the Carpentries commu
 
 ### Social Media Highlight
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7348116120408596481" 
-        height="500" 
-        width="100%" 
-        frameborder="0" 
-        allowfullscreen="" 
-        title="LinkedIn Post"></iframe>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7345560325003321347?collapsed=1" height="478" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## Next subcommunity meeting
 
