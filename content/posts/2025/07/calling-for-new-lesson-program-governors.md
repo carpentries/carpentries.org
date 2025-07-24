@@ -48,7 +48,7 @@ Please complete the form by the [end of Thursday 28th August (anywhere on Earth)
 
 ## Contact
 
-Contact the Curriculum Team with questions about Lesson Program Governance Committees and/or the application and onboarding process. Or you can contact the current members of the committees directly with questions about their experience and activities:
+Contact the [Curriculum Team ](mailto:{{< param curriculum_email >}}) with questions about Lesson Program Governance Committees and/or the application and onboarding process. Or you can contact the current members of the committees directly with questions about their experience and activities:
 
 * [Contact the Library Carpentry Governance Committee](mailto:lc-governors@lists.carpentries.org).  
 * [Contact the Software Carpentry Governance Committee](mailto:swc-governors@lists.carpentries.org).
