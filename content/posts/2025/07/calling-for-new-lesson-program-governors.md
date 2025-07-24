@@ -42,7 +42,7 @@ We hope that new members of the committee will continue some of this work, espec
 
 ## How to apply
 
-To volunteer to join either Governance Committee, please [fill out this short form](https://docs.google.com/forms/d/e/1FAIpQLSev7i4UwpBm-nEz1-mBomqpOSw8avjQkDvNGE-lJ4r6QDwBmg/viewform?usp=dialog). With support from the Curriculum Team, responses will be filtered then reviewed by the current members of the relevant committee. Incoming committee members will be onboarded by the current committees, including a discussion of ongoing projects and committee operations.
+To volunteer to join either Governance Committee, please [fill out this short form](https://docs.google.com/forms/d/e/1FAIpQLSev7i4UwpBm-nEz1-mBomqpOSw8avjQkDvNGE-lJ4r6QDwBmg/viewform?usp=dialog). With support from the Curriculum Team, responses will be filtered and then reviewed by the current members of the relevant committee. Incoming committee members will be onboarded by the current committees, including a discussion of ongoing projects and committee operations.
 
 Please complete the form by the [end of Thursday 28th August (anywhere on Earth)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+volunteer+to+join+the+LCGC+or+SWGC&iso=20250828T2359&p1=3926). 
 
