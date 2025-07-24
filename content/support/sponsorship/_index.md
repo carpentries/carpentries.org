@@ -113,6 +113,6 @@ Attend one Data, Software, or Library Carpentry [workshop](/workshops/) (in-pers
 
 In addition to the sponsorship program, we value all monetary contributions. Please support The Carpentries’ growing community as an ally by donating any amount.
 
-[Donate]({{< param donation_form >}})
+[Donate]({{< param donate_url >}})
 {.button} 
 

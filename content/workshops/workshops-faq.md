@@ -190,7 +190,7 @@ Yes, you can charge learners a fee to attend a workshop. Often a nominal fee of 
 
 {{< accordion title="Can I pay Instructors a stipend?" >}}
 
-The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation]({{< param donation_form >}}) to The Carpentries to support instructor development.
+The Instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time, we require the host to cover travel expenses. If you would like to support our Instructors, you are encouraged to make a targeted [donation]({{< param donate_url >}}) to The Carpentries to support instructor development.
 {{< /accordion >}}
 
 
