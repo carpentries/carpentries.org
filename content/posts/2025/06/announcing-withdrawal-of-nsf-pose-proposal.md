@@ -31,7 +31,7 @@ Since we are no longer in the running for this funding, we are actively seeking 
 
 Here is what you can do to help:
 
-- [Make a recurring donation]({{< param donation_form >}}).
+- [Make a recurring donation]({{< param donate_url >}}).
 - [Reach out to potential donors on our behalf]({{< param handbook_url >}}/resources/general/donation-request-resources.html).   
 - Connect us with potential donors and program officers via [email](mailto:{{< param team_email >}}).
 - [Collaborate with us to apply for grants]({{< param handbook_url >}}/resources/general/collaborating-on-grants.html).   
