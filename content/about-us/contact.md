@@ -8,6 +8,22 @@ aliases:
 - /contact
 ---
 
+The Carpentries is a registered 501(c)(3) non-profit based in Delaware, USA.
+
+Here is our federal information:
+
+Taxpayer Identification Number (TIN)(EIN): 92-1581581  
+Unique Entity ID (UEI): C626R96S6Q38  
+DUNS#: 119411113  
+CAGE: 9ZYD5  
+
+And here are our public documents and governance structure:
+
+[Policies and legal documents]({{< param handbook_url >}}/policies)  
+[Governance](/about-us/governance/)  
+[Annual Reports](/about-us/impact/#annual-reports)  
+[Financial Reports and Statements](/about-us/financials/)  
+
 If you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us or the community on social media and our mailing lists, please use the contact details below:
 
 ## By Email 
