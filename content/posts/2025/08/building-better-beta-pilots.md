@@ -56,7 +56,7 @@ More recently, the content was modified to improve accessibility and align its p
 
 **Please try teaching the lesson and let us know how it goes!**
 
-Two [beta pilot workshops](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html) of the lesson are already scheduled, and we are hoping to find more Instructors in the community who are interested in testing it out and providing feedback. 
+Two [beta pilot workshops]({{< param handbook_url >}}/resources/curriculum/lesson-life-cycle.html) of the lesson are already scheduled, and we are hoping to find more Instructors in the community who are interested in testing it out and providing feedback. 
 Since it builds on the themes of existing Software Carpentry lessons, we expect that the content will be relevant to many in the Instructor community.
 
 Our goal is to submit the lesson for adoption as a curriculum for official Software Carpentry workshops. 
