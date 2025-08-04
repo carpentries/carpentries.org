@@ -16,7 +16,7 @@ More sessions are planned this month to explore what might be taught in a worksh
 ## What does The Carpentries have to say about genAI for coding?
 GenAI tools are increasingly widespread, marketed as assistants to or replacements for humans in almost every cognitive task. 
 This has prompted a great deal of discussion, including within The Carpentries, where we hosted a series of community discussions summarised in a series of blog posts.
-([Find all blog posts with the “Artificial Intelligence” tag](https://carpentries.org/blog/posts-by-tags/#blog-tag-artificial-intelligence).)
+([Find all blog posts with the “Artificial Intelligence” tag](/blog/posts-by-tags/#blog-tag-artificial-intelligence).)
 
 One conclusion drawn from those initial discussions, which remains true, is that workshops teaching the basics of coding and data analysis to novice learners are still needed.
 The effective use of genAI to produce code and – even more importantly – the ability to critically evaluate what is produced, requires that the user first has a grasp of the fundamentals of coding.
@@ -39,7 +39,7 @@ How would researchers feel about admitting to relying on genAI to craft or under
 ## How can The Carpentries help?
 I have grown increasingly (and reluctantly) convinced that The Carpentries, with an established, global network of computer-literate educators and a strong commitment to promote efficient, open, and reproducible research practices, is well placed to offer guidance and encourage better decision-making on this topic. 
 
-Many ethical concerns about the use of genAI remain, as [outlined in a previous blog post](https://carpentries.org/blog/2025/02/the-ethics-of-teaching-llms-in-carpentries-workshops/). 
+Many ethical concerns about the use of genAI remain, as [outlined in a previous blog post](/blog/2025/02/the-ethics-of-teaching-llms-in-carpentries-workshops/). 
 My reluctance is based on those, as well as the perception that we remain in a hype bubble around genAI. 
 But the inescapable reality is that many people *are* using genAI for coding and, especially for simple tasks where high-quality resources have been used to train models, these tools *can* produce scripts that work – often on the first try.
 Regardless of whether the bubble bursts soon or not, the technology itself is here to stay.
@@ -72,5 +72,5 @@ If you have experience, expertise, and perspectives to share in a nuanced discus
 * [19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AI+Carpentry+Curriculum+Discussion&iso=20250812T19&p1=%3A&ah=1)
 
 **Thanks for reading to the end!**
-If you have any questions or concerns about the issues discussed in this post, please [get in touch with the Curriculum Team by email](mailto:curriculum@carpentries.org) or feel free to reach out to me directly on Slack.
+If you have any questions or concerns about the issues discussed in this post, please [get in touch with the Curriculum Team by email](mailto:{{< param curriculum_email >}}) or feel free to reach out to me directly on Slack.
 Similarly, if you could not join the previous or upcoming sessions but want to get involved with the curriculum development effort, please get in touch!
