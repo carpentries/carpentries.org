@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: [ "CarpentryCon"]
 ---
 
-Inspired by the "[CarpentryCon Experienced by the African Carpentry Task Force]({% link _posts/2018/07/2018-07-01-actf-carpcon-post.md %})" blog post,
+Inspired by the "[CarpentryCon Experienced by the African Carpentry Task Force](/blog/2018/07/actf-carpcon-post/)" blog post,
 we decided to copycat our friends from the other side of the Atlantic
 and share our experience.
 
