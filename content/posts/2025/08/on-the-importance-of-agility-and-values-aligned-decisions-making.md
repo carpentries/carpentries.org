@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Kari L. Jordan"]  
 teaser: "Navigating unprecedented challenges requires courage and practical solutions; we are here to collaborate."  
-title: "On the importance of agility and values-aligned decisions-making"  
+title: "On the Importance of Agility and Values-Aligned Decisions-Making"  
 date: 2025-08-12  
 time: "18:00:00"  
 tags: ["Core Values", "Community"]  
@@ -26,4 +26,5 @@ The impact we hope to achieve extends beyond an individual organisation's succes
 We stand at a pivotal moment, not just for The Carpentries, but for the future of the open-source movement. With your continued support, we can formalise and expand the methodologies we have developed to meet today's challenges head-on. Together, we can build a more values-aligned, financially sustainable, and agile ecosystem, one where strategic decision-making is guided by mission and community, not short-term pressures. If our vision resonates with you, we invite you to collaborate, share, and invest in this work. Your partnership will help us equip more leaders, strengthen more organisations, and drive lasting, sector-wide transformation. [Get in touch with us](mailto:community@carpentries.org) to collaborate.
 
 [Donate to The Carpentries]({{< param donate_url >}})
+
 {.button}
