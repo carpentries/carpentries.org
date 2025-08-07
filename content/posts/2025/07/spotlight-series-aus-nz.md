@@ -8,19 +8,19 @@ time: "09:00:00"
 tags: ["Australasia", "Oceania", "Community"]
 ---
 
-The *Subcommunity Spotlight* blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](https://carpentries.org/community/get-connected/#subcommunities) and highlight their activities. A [subcommunity](https://carpentries.org/community/get-connected/) brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries Club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
+The *Subcommunity Spotlight* blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](https://carpentries.org/community/get-connected/#subcommunities) and highlight their activities. A subcommunity brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
 To learn more or get involved in a subcommunity, join the #subcommunity channel on Slack or reach out via email at [community@carpentries.org](mailto:community@carpentries.org). If you lead a subcommunity and would like to be featured in a future edition of this series, we’d love to hear from you!
 
 ## The Carpentries in Australia
 
 The Carpentries in Australia is a regionally connected subcommunity that fosters Carpentries activity across the country, often collaborating with its counterpart in Aotearoa/New Zealand.
-The Australian Research Data Commons coordinates a national [Carpentries partnership](https://ardc.edu.au/project/the-carpentries-partnership/), helping researchers rapidly build foundational data and software skills through Instructor certification. Most workshops in Australia are run by the Queensland Cyber Infrastructure Foundation (QCIF), the Pawsey Supercomputing Research Centre, and Curtin University.
+The Australian Research Data Commons coordinates [a national Carpentries partnership](https://ardc.edu.au/project/the-carpentries-partnership/), helping researchers rapidly build foundational data and software skills through Instructor certification. Most workshops in Australia are run by the Queensland Cyber Infrastructure Foundation (QCIF), the Pawsey Supercomputing Research Centre, and Curtin University.
 
 ### How You Can Contact This Subcommunity
-- Community point of contact: Damien Irving, admin-au@carpentries.org 
-- Australian Research Data Commons Carpentries Partnership: Liz Stokes, contact@ardc.edu.au 
-- Join the mailing list: https://carpentries.topicbox.com/groups/local-aunz 
-- Join the Slack channel: https://swcarpentry.slack.com/archives/CH9MDCTSM
+- Community point of contact: Damien Irving, admin-au@carpentries.org. 
+- Australian Research Data Commons Carpentries Partnership: Liz Stokes, contact@ardc.edu.au. 
+- Join the mailing list: https://carpentries.topicbox.com/groups/local-aunz. 
+- Join the Slack channel: https://swcarpentry.slack.com/archives/CH9MDCTSM.
 
 ### Blog Posts Highlighting The Subcommunity
 - [Carpentry Connect 2024 Australia & Aotearoa New Zealand](https://ardc.edu.au/article/powering-research-through-skills-highlights-from-the-ardc-digital-research-skills-summit-2024/#:~:text=23%20May%3A%20Carpentry%20Connect%202024)
@@ -39,12 +39,12 @@ ARDC has partnered with the ADSN team, inc. researchers from QUT, @curtinunivers
 
 ## The Carpentries in Aotearoa/New Zealand
 
-This subcommunity focuses on building relationships within the Carpentries community in Aotearoa/New Zealand. Aotearoa has several Carpentries members and is also represented on The Carpentries’ Board of Directors. The Carpentries in New Zealand has hosted various CarpentryConnects, sharing announcements and opportunities relevant to the New Zealand community, hosting self-organised workshops, and offering professional development.
+This subcommunity focuses on building relationships within the Carpentries community in Aotearoa/New Zealand. Aotearoa has several Carpentries members and is also represented on The Carpentries’ Board of Directors. The Carpentries in New Zealand has hosted various CarpentryConnects, sharing announcements and opportunities relevant to the New Zealand community, hosting Self-Organised workshops, and offering professional development.
 
 ### How You Can Contact This Subcommunity
-- Community point of contact: Nisha Ghatak, nisha.ghatak@reannz.co.nz
-- Join the mailing list: https://carpentries.topicbox.com/groups/local-aunz 
-- Join the Slack channel: https://swcarpentry.slack.com/archives/CH9MDCTSM
+- Community point of contact: Nisha Ghatak, nisha.ghatak@reannz.co.nz.
+- Join the mailing list: https://carpentries.topicbox.com/groups/local-aunz. 
+- Join the Slack channel: https://swcarpentry.slack.com/archives/CH9MDCTSM.
 
 ### Blog Posts Highlighting The Subcommunity
 - [Carpentry Connect 2024 Australia & Aotearoa New Zealand](https://ardc.edu.au/article/powering-research-through-skills-highlights-from-the-ardc-digital-research-skills-summit-2024/#:~:text=23%20May%3A%20Carpentry%20Connect%202024)
