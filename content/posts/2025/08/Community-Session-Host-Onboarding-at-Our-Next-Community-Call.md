@@ -20,7 +20,7 @@ We are seeking community hosts to lead brief community sessions:
 
 💡 **Interested?** Add your name to the etherpad here: https://pad.carpentries.org/community-sessions-2025. **Not ready to host** but still want to attend? You are welcome! Come meet others in the community, ask questions, and learn how to get started or deepen your engagement. 
 
-- 🗓️ Date: Monday, 19 August 2025
+- 🗓️ Date: Tuesday, 19 August 2025
 - 🕑 Time: 14:00 UTC
 - 📍 Etherpad sign-up: https://pad.carpentries.org/community-sessions-2025
 
