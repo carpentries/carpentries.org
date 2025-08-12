@@ -5,7 +5,7 @@ teaser: "The Carpentries in Australia often link their activities with the equiv
 title: "Subcommunity Spotlight: Australia and Aotearoa/New Zealand"
 date: 2025-08-15
 time: "09:00:00"
-tags: ["Australasia", "Oceania", "Community"]
+tags: ["Australasia", "Community"]
 ---
 
 The *Subcommunity Spotlight* blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](https://carpentries.org/community/get-connected/#subcommunities) and highlight their activities. A subcommunity brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
