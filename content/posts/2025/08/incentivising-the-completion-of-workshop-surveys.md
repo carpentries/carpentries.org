@@ -1,7 +1,7 @@
 ---  
 layout: page  
 authors: ["Jannetta S. Steyn"]  
-teaser: "Some tips on how to encourage learner completetion of Carpentries workshop surveys."  
+teaser: "Some tips on how to encourage learner completion of Carpentries workshop surveys."  
 title: "Incentivising the Completion of Workshop Surveys: Tips for Instructors"  
 date: 2025-08-18  
 time: "09:00:00"  
