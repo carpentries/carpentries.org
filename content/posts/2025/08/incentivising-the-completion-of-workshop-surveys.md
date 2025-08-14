@@ -7,7 +7,7 @@ date: 2025-08-18
 time: "09:00:00"  
 tags: ["Assessment", "Feedback", "Instructors", "Workshops"]  
 ---
-_This blog post was first published on [Jannetta Steyn's personal blog site](https://hackmd.io/MA8b7C0KS9utV-Ca6KQsPQ?view), and  it is republished here with only slight formatting variations to ensure conformity with The Carpentries blog posts style guide._ 
+_This blog post was first published on [Jannetta Steyn's personal blog site](https://hackmd.io/MA8b7C0KS9utV-Ca6KQsPQ?view), and  it is republished here with only slight formatting variations to ensure conformity with The Carpentries blog posts style guide._
 
 ---
 As all Carpentries Instructors probably know, it is very hard to get people to complete workshop surveys. It was time to find a solution, but what can we do to inspire folks to complete yet another boring survey. Despite all my promises to learners that we look at and consider all the comments and feedback we get, it has been a miracle every time we get more than 50% of attendees to complete it. Giving people time, at the end of the lesson, to complete the survey helped a bit, but not much.
@@ -24,6 +24,7 @@ It might be worth to point out, to learners, that the overall statistics for wor
 
 
 ![3d printed keyrings made from Bash, Python Foundation, GitHub, and R logos](/blog/2025/08/icons-image.jpg)
+
 _3d printed keyrings for the different lessons_
 
 |Date|Pre|Post|Attended|%|
@@ -49,4 +50,5 @@ _3d printed keyrings for the different lessons_
 
 The design and print files for these keyrings are open source and can be found on one (or both) of my 3D print profile pages at:
 - Makerworld: https://makerworld.com/en/@jannetta/upload
+
 - Printables: https://www.printables.com/@tarrentaal_110298.
