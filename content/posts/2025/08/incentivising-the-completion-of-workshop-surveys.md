@@ -7,9 +7,7 @@ date: 2025-08-18
 time: "09:00:00"  
 tags: ["Assessment", "Feedback", "Instructors", "Workshops"]  
 ---
-_This blog post was first published on [Jannetta Steyn's personal blog site](https://hackmd.io/MA8b7C0KS9utV-Ca6KQsPQ?view), and  it is republished here with only slight formatting variations to ensure conformity with The Carpentries blog posts style guide._
 
----
 As all Carpentries Instructors probably know, it is very hard to get people to complete workshop surveys. It was time to find a solution, but what can we do to inspire folks to complete yet another boring survey. Despite all my promises to learners that we look at and consider all the comments and feedback we get, it has been a miracle every time we get more than 50% of attendees to complete it. Giving people time, at the end of the lesson, to complete the survey helped a bit, but not much.
 
 Fortunately, I'm a maker. Thus, when presented with a problem I immediately start thinking of something I can make to fix it. As a maker I have a 3D printer and I love printing stuff, especially stuff that are useful and not just aesthetic. So, for me, the natural thing to do is to 3D print something, at least semi-useful, that would serve as an incentive to learners to complete the survey at the end of the lesson. Key tags came to mind - those with the logo of the lesson topic we presented.
@@ -52,3 +50,4 @@ The design and print files for these keyrings are open source and can be found o
 - Makerworld: https://makerworld.com/en/@jannetta/upload
 
 - Printables: https://www.printables.com/@tarrentaal_110298.
+
