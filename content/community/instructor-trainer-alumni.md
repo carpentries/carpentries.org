@@ -9,4 +9,4 @@ aliases:
 
 We like to acknowledge all of our community members and their continued support. Our Instructor Trainer Alumni are people who have played an active role in the Instructor Trainer community but are not currently active. 
 
-{{< persons feed="https://feeds.carpentries.org/all_trainers.json" where="active_status,Inactive Trainer" >}}
+{{< persons feed="https://feeds.carpentries.org/all_trainers.json" where="active_status,Inactive" >}}

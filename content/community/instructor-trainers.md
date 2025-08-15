@@ -10,4 +10,4 @@ The Instructor Trainer community is a group of experienced Instructors, local ch
 
 Instructor Trainers may temporarily or permanently step away from this role. To continue to acknowledge their contributions to The Carpentries, we list them as [Trainer Alumni](/community/instructor-trainer-alumni/).
 
-{{< persons feed="https://feeds.carpentries.org/all_trainers.json" where="active_status,Active Trainer" >}}
+{{< persons feed="https://feeds.carpentries.org/all_trainers.json" where="active_status,Active" >}}
