@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Cera Fisher", "Amanda Kis", "Jesse Sadler", "Jannetta Steyn", "Jon Wheeler"]  
 teaser: "Things accomplished and what is to come."  
-title: "Introducing the new Instructor Trainers Leadership Committee for 2025"  
+title: "Introducing the New Instructor Trainers Leadership Committee for 2025"  
 date: 2025-08-20
 time: "18:00:00"  
 tags: ["Instructor Trainers Leadership Committee", "Instructor Trainers"]  
@@ -34,4 +34,5 @@ I'm a senior research software engineer and head of training and community in th
 
 ### Jon Wheeler 
 I am a data curation librarian at the University of New Mexico, in Albuquerque, New Mexico (US). In addition to consulting with researchers on the management, sharing, and preservation of their data, I lead a statewide network of Carpentries Instructors in the coordination and delivery of Carpentries workshops at higher education institutions across New Mexico. Sharing in the accomplishments of this statewide Carpentries community over the past five years has given me a great appreciation for the commitment I see at every level of the Carpentries—local, national, and global. I value the energy and enthusiasm that Instructors and Instructor Trainers bring to the workshop experience, and encourage everyone in the Instructor Trainers community to stay engaged as we navigate recent organisational changes. We look forward to seeing you at the monthly Instructor Trainer meetings! 
+
 
