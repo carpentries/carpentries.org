@@ -14,7 +14,7 @@ Fortunately, I'm a maker. Thus, when presented with a problem I immediately star
 
 I googled 3D print designs a bit but couldn't quite find what I was looking for. Fortunately most open source software have a .svg version of their logo and the rest is relatively easy with OpenSCAD, which is my go-to design software. Now, at the end of each lesson we give folks time to complete the surveys with the promise that they can get a key ring when they are done.
 
-In the spirit of The Carpentries, you can find the data with a graph below - created with Python. We run each lesson as a workshop. The last six workshops were concluded with the promise of a keyring if the post-workshop survey was completed before they left or a promise of being spammed if not. The mean percentage for completing workshops for the first 12 workshops were 58.58333333% and 83.33333% for the last six. I think we can safely say that bribery does work.
+In the spirit of The Carpentries, you can find the data with a graph below - created with Python. We run each lesson as a workshop. The last six workshops were concluded with the promise of a keyring if the post-workshop survey was completed before they left or a promise of being spammed if not. The mean percentage for completing workshops for the first 12 workshops were 58.58333333 per cent and 83.33333 per cent for the last six. I think we can safely say that bribery does work.
 
 It might be worth to point out, to learners, that the overall statistics for workshops registered with The Carpentries are available at https://workshop-reports.carpentries.org/?aggregate-workshops. And if, as an Instructor, you wonder why you should register your workshops - keep these statistics in mind. It is used to advertise how The Carpentries contribute to research and helps strengthen our case when applying for grants and awards.
 
@@ -50,6 +50,7 @@ The design and print files for these keyrings are open source and can be found o
 - Makerworld: https://makerworld.com/en/@jannetta/upload
 
 - Printables: https://www.printables.com/@tarrentaal_110298.
+
 
 
 
