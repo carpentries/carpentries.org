@@ -12,6 +12,8 @@ All lessons are self-contained, but many form part of a larger curriculum and ar
 
 All of our lessons have been collaboratively developed by members of The Carpentries community, and subsequently updated and polished based on extensive testing and feedback from Instructors.
 
+Our lessons are built using the [Workbench](/workbench), a custom open-source software framework written in R.
+
 ## Search lessons
 
 Our lesson collection is extensive. Use the search bar to find a particular lesson (e.g. The Unix Shell) or lessons related to a general topic (e.g. data organisation). Use the filtering options to narrow down your results or browse lessons by category.  Clear filters before performing a new search.
