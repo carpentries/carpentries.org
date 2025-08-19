@@ -56,3 +56,4 @@ We also provide a pre-built Docker image that is used for our official GitHub le
 
 Have you used the Workbench in your own lessons or teaching materials? Please do cite us!
 
+Kamvar, Z. N., Davey, R., Armstrong, M., Barnes, K., Becker, E., Bellini Saibene, Y., Brown, S., Chisholm, R., Colomb, J., Companjen, B., Feickert, M., Gruson, H., Hodges, T., Michonneau, F., Malfait, M., Nitta, J. H., Konovalov, O., Raden, M., Reed, P., Sheargrub, Theodorakis, D., (2025). **The Carpentries Workbench**. https://carpentries.org/workbench
