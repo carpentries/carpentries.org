@@ -7,7 +7,7 @@ hideToc: false
 The Carpentries Workbench is a open-source and portable lesson infrastructure built with the R programming language.
 We aim to provide a robust software framework so The Carpentries and its community is able to freely build reliable, stylish, and accessible online learning materials.
 
-All our lessons across our lesson programs, including those in development in the Carpentries Incubator and Lab, are built using the Workbench.
+All our lessons across our lesson programs, including those in development in the [Carpentries Incubator](https://carpentries-incubator.org/) and [Lab](https://carpentries-lab.org/), are built using the Workbench.
 
 We welcome contributions to the Workbench so please do connect with us over on GitHub!
 
