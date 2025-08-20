@@ -8,7 +8,8 @@ time: "18:00:00"
 tags: ["Instructor Trainers Leadership Committee", "Instructor Trainers"]  
 ---
 
-In March, the [Instructor Trainer](https://carpentries.org/trainers/) community held its fifth annual election for [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) (ITLC), a committee that provides governance and development support to our growing subcommunity of Instructor Trainers, and makes decisions on behalf of that community that affect our Instructor Training program and related policies.
+In March, members of the [Instructor Trainer](https://carpentries.org/trainers/) community were invited to vote in its fifth annual election for the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) (ITLC). ITLC provides governance and development support to our growing subcommunity of Instructor Trainers, and makes decisions on behalf of that community that affect our Instructor Training program and related policies. However, this year an election was not required because the number of candidates (four) was fewer than the number of available seats (five). All four candidates were thus appointed by default, and to ensure all seats were filled, the committee appointed a fifth member.
+
 
 In their fourth year as an elected body, the ITLC focused on adapting communication workflows to support the Core Team and Instructor Trainers community following staffing changes at the Carpentries. Specific outcomes include: 
 
