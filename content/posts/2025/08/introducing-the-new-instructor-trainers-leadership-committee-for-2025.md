@@ -8,7 +8,7 @@ time: "18:00:00"
 tags: ["Instructor Trainers Leadership Committee", "Instructor Trainers"]  
 ---
 
-In March, members of the [Instructor Trainer](https://carpentries.org/trainers/) community were invited to vote in its fifth annual election for the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) (ITLC). ITLC provides governance and development support to our growing subcommunity of Instructor Trainers, and makes decisions on behalf of that community that affect our Instructor Training program and related policies. However, this year an election was not required because the number of candidates (four) was fewer than the number of available seats (five). All four candidates were thus appointed by default, and to ensure all seats were filled, the committee appointed a fifth member.
+In March, members of the [Instructor Trainer](/trainers/) community were invited to vote in its fifth annual election for the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) (ITLC). ITLC provides governance and development support to our growing subcommunity of Instructor Trainers, and makes decisions on behalf of that community that affect our Instructor Training program and related policies. However, this year an election was not required because the number of candidates (four) was fewer than the number of available seats (five). All four candidates were thus appointed by default, and to ensure all seats were filled, the committee appointed a fifth member.
 
 
 In their fourth year as an elected body, the ITLC focused on adapting communication workflows to support the Core Team and Instructor Trainers community following staffing changes at the Carpentries. Specific outcomes include: 
@@ -35,6 +35,7 @@ I'm a senior research software engineer and head of training and community in th
 
 ### Jon Wheeler 
 I am a data curation librarian at the University of New Mexico in Albuquerque, New Mexico (US). In addition to consulting with researchers on the management, sharing, and preservation of their data, I lead a statewide network of Carpentries Instructors in the coordination and delivery of Carpentries workshops at higher education institutions across New Mexico. Sharing in the accomplishments of this statewide Carpentries community over the past five years has given me a great appreciation for the commitment I see at every level of the Carpentries—local, national, and global. I value the energy and enthusiasm that Instructors and Instructor Trainers bring to the workshop experience, and encourage everyone in the Instructor Trainers community to stay engaged as we navigate recent organisational changes. We look forward to seeing you at the monthly Instructor Trainer meetings! 
+
 
 
 
