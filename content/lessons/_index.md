@@ -12,7 +12,7 @@ All lessons are self-contained, but many form part of a larger curriculum and ar
 
 All of our lessons have been collaboratively developed by members of The Carpentries community, and subsequently updated and polished based on extensive testing and feedback from Instructors.
 
-Our lessons are built using the [Workbench](/workbench), a custom open-source software framework written in R.
+Our lessons are built using [The Carpentries Workbench](/workbench), a custom open-source software framework written in R.
 
 ## Search lessons
 
