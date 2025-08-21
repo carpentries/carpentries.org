@@ -18,22 +18,22 @@ The code for the Workbench is open sourced under a permissible MIT licence.
 
 It comprises three R packages:
 
-- [pegboard](https://github.com/carpentries/pegboard)
-- [sandpaper](https://github.com/carpentries/sandpaper)
-- [varnish](https://github.com/carpentries/varnish)
+- [{pegboard}](https://github.com/carpentries/pegboard)
+- [{sandpaper}](https://github.com/carpentries/sandpaper)
+- [{varnish}](https://github.com/carpentries/varnish)
 
 
 ## Prebuilt Packages
 
-### conda
+### Conda
 
 There are conda packages available for the Workbench software:
 
-- [pegboard](https://anaconda.org/conda-forge/r-pegboard)
-- [sandpaper](https://anaconda.org/conda-forge/r-sandpaper)
-- [varnish](https://anaconda.org/conda-forge/r-varnish)
+- [r-pegboard](https://anaconda.org/conda-forge/r-pegboard)
+- [r-sandpaper](https://anaconda.org/conda-forge/r-sandpaper)
+- [r-varnish](https://anaconda.org/conda-forge/r-varnish)
 
-### docker
+### Docker
 
 We also provide a pre-built Docker image that is used for our official GitHub lesson builds, and can be used locally for your own:
 
@@ -44,9 +44,9 @@ We also provide a pre-built Docker image that is used for our official GitHub le
 
 - [Workbench](https://carpentries.github.io/workbench/)
 
-- [Pegboard Vignettes](https://carpentries.r-universe.dev/pegboard/doc/manual.html)
-- [Sandpaper Vignettes](https://carpentries.r-universe.dev/sandpaper/doc/manual.html)
-- [Varnish Vignettes](https://carpentries.r-universe.dev/varnish/doc/manual.html)
+- [{pegboard} Vignettes](https://carpentries.r-universe.dev/pegboard/doc/manual.html)
+- [{sandpaper} Vignettes](https://carpentries.r-universe.dev/sandpaper/doc/manual.html)
+- [{varnish} Vignettes](https://carpentries.r-universe.dev/varnish/doc/manual.html)
 
 - [Workbench Developers Guide](https://carpentries.github.io/workbench-dev/)
 
