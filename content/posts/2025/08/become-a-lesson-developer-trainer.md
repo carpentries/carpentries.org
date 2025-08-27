@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Collaborative Lesson Development Training", "Curriculum"]  
 ---
 
-Do you have experience in lesson/curriculum development? Want to share that expertise with others in The Carpentries community? Interested in helping to build the Carpentries Incubator community? If so, **apply to join the upcoming round of Lesson Developer Trainer Training**!
+Do you have experience in lesson/curriculum development? Want to share that expertise with others in The Carpentries community? Interested in helping to build the Carpentries Incubator community? If so, **[apply to join the upcoming round of Lesson Developer Trainer Training](https://docs.google.com/forms/d/e/1FAIpQLSc4v3qx7fj5t6tobCiEMGUp9uz3-9Fm5UgbToeVPInlOHuR_w/viewform)**!
 
 ## What do Lesson Developer Trainers do?
 
@@ -39,5 +39,6 @@ The training is suitable to anybody in the community who has experience of lesso
 We want to hear from any community members with relevant experience and interest in becoming a Lesson Developer Trainer. Due to current patterns of demand for Collaborative Lesson Development Training, we are particularly keen to certify new Lesson Developer Trainers who can teach events suitable to community members based in the Americas (roughly, between UTC-5 and UTC-9). 
 
 ## Details and contact
+
 
 Please fill out [this short form](https://forms.gle/NzDJrXYyKTy7mTEV6) to apply to join Lesson Developer Trainer Training before the end of [Sunday 21 September, anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+apply+to+join+Lesson+Developer+Trainer+Training&iso=20250921T235959&p1=3926). [Contact the Curriculum Team](mailto:curriculum@carpentries.org) with questions about the training and the role of Lesson Developer Trainer.
