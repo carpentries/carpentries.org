@@ -16,7 +16,8 @@ Certified Lesson Developer Trainers teach The Carpentries [Collaborative Lesson 
 
 ![CLDT hexagonal sticker](/blog/2025/08/CLDT-hex-sticker.png)
 
-Active Lesson Developer Trainers are expected to teach one to two Collaborative Lesson Development Training events (four x four hours) each year, host at least two one hour discussion sessions each year, and join monthly community calls with other Trainers. (Total time commitment approximately 30 - 50 hours per year.)
+Active Lesson Developer Trainers are expected to teach one to two Collaborative Lesson Development Training events each year (16 hours total per training event), host at least two one-hour discussion sessions each year, and join monthly community calls with other Trainers. (Total time commitment approximately 30 - 50 hours per year.)
+
 
 ## What are the benefits of being a Lesson Developer Trainer?
 
