@@ -12,7 +12,7 @@ Do you have experience in lesson/curriculum development? Want to share that expe
 
 ## What do Lesson Developer Trainers do?
 
-Certified Lesson Developer Trainers teach The Carpentries [Collaborative Lesson Development Training](https://carpentries.org/lesson-development/) to community members who want to learn how to design and develop open source lessons in collaboration with others. They lead training events and join community meetings with other Lesson Developer Trainers to discuss topics relevant to the training and lesson development in general.
+Certified Lesson Developer Trainers teach The Carpentries [Collaborative Lesson Development Training](/lesson-development/) to community members who want to learn how to design and develop open source lessons in collaboration with others. They lead training events and join community meetings with other Lesson Developer Trainers to discuss topics relevant to the training and lesson development in general.
 
 ![CLDT hexagonal sticker](/blog/2025/08/CLDT-hex-sticker.png)
 
@@ -43,3 +43,4 @@ We want to hear from any community members with relevant experience and interest
 
 
 Please fill out [this short form](https://forms.gle/NzDJrXYyKTy7mTEV6) to apply to join Lesson Developer Trainer Training before the end of [Sunday 21 September, anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+apply+to+join+Lesson+Developer+Trainer+Training&iso=20250921T235959&p1=3926). [Contact the Curriculum Team](mailto:curriculum@carpentries.org) with questions about the training and the role of Lesson Developer Trainer.
+
