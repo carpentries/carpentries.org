@@ -3,8 +3,8 @@ layout: page
 authors: ["Kari L. Jordan", "Erin Becker", "Daniela Saderi", "Vanessa Fairhurst", "Patricia Herterich", "Noam Ross", "Yanina Bellini Saibene", "Leah Wasser", "Yo Yehudi"]  
 teaser: "Building resilience in open science starts with collaboration."  
 title: "From Surviving to Thriving: A Convening to Reclaim and Sustain Open Science Communities"  
-date: 2025-09-11  
-time: "18:00:00"  
+date: 2025-09-15  
+time: "12:00:00"  
 tags: ["Grants", "Equity and Inclusion", "Strategic Plan"]  
 ---  
 
@@ -43,5 +43,6 @@ Facilitated by [Wildly Open](https://wildlyopen.com/), we are excited to explore
 * Stronger ties among our organisations that extend beyond the convening, creating lasting impact.
 
 ## The Bigger Picture
+
 
 This convening is not an isolated event. It's the first step in scaling a movement that reimagines how values-driven open science organisations can grow together, share resources, and strengthen the ecosystem we collectively serve. By working together, we can ensure that the future of open science is not only innovative, but also equitable, sustainable, and resilient.   
