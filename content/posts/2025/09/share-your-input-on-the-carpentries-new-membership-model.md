@@ -14,7 +14,7 @@ Last year, many of you shared your perspectives in our [2024 member survey](http
 
 We've developed a draft vision for the new membership model, and we want to make sure it reflects what matters most to you. Our follow-up survey focuses on specific questions that will directly influence the final design.
 
-[Take the survey now]
+[Take the Survey Now]
 
 By sharing your thoughts, you'll help us ensure our new program is:
 
@@ -24,8 +24,9 @@ By sharing your thoughts, you'll help us ensure our new program is:
 
 Your input now will shape the final version of our new membership program, ensuring it is truly co-created with the people who make The Carpentries what it is.
 
-[Take the survey now]
+[Take the Survey Now]
 
 Thank you for lending your perspective once again. With your partnership, we're building the future of The Carpentries together.
+
 
 
