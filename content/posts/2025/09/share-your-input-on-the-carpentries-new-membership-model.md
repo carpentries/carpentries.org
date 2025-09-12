@@ -17,8 +17,6 @@ We've developed a draft vision for the new membership model, and we want to make
 [Take the survey now]({{< param https://carpentries.typeform.com/to/toWWTXNW >}})
 {.button}
 
-[Take the survey now](https://carpentries.typeform.com/to/toWWTXNW){: .btn}
-
 By sharing your thoughts, you'll help us ensure our new program is:
 
 * **Community-centered** – built around the values and needs of our global network.  
@@ -30,7 +28,5 @@ Your input now will shape the final version of our new membership program, ensur
 [Take the survey now]({{< https://carpentries.typeform.com/to/toWWTXNW >}})
 {.button}
 
-[Take the survey now](https://carpentries.typeform.com/to/toWWTXNW){: .btn}
-
-
 Thank you for lending your perspective once again. With your partnership, we're building the future of The Carpentries together.
+
