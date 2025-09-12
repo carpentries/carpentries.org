@@ -14,7 +14,7 @@ Last year, many of you shared your perspectives in our [2024 member survey](http
 
 We've developed a draft vision for the new membership model, and we want to make sure it reflects what matters most to you. Our follow-up survey focuses on specific questions that will directly influence the final design.
 
-[Take the survey now]({{< https://carpentries.typeform.com/to/toWWTXNW >}})
+[Take the survey now]({{< param https://carpentries.typeform.com/to/toWWTXNW >}})
 {.button}
 
 [Take the survey now](https://carpentries.typeform.com/to/toWWTXNW){: .btn}
@@ -31,5 +31,6 @@ Your input now will shape the final version of our new membership program, ensur
 {.button}
 
 [Take the survey now](https://carpentries.typeform.com/to/toWWTXNW){: .btn}
+
 
 Thank you for lending your perspective once again. With your partnership, we're building the future of The Carpentries together.
