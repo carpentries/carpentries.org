@@ -4,7 +4,7 @@ authors: ["Erin Becker", "Kari L. Jordan"]
 teaser: "The Carpentries has developed a draft vision for the new membership model, and would like your input towards its final design."  
 title: "We're Almost There: Share Your Input on The Carpentries' New Membership Model"  
 date: 2025-09-17  
-time: "18:00:00"  
+time: "08:00:00"  
 tags: ["Membership", "Feedback", "Community"]  
 ---
 
@@ -29,6 +29,7 @@ Your input now will shape the final version of our new membership program, ensur
 {.button}
 
 Thank you for lending your perspective once again. With your partnership, we're building the future of The Carpentries together.
+
 
 
 
