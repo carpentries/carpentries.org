@@ -102,7 +102,7 @@
     program: SWC
     name: Using Databases and SQL
     description: An introduction to querying and managing relational databases with SQLite, for researchers and others who want to learn how to access, filter and summarise large volumes of data.
-    tool: SQL; SQLite
+    tool: SQL
     skill: Accessing data
     language: English
     domain: General
@@ -399,7 +399,7 @@
     program: DC
     name: Data Management with SQL for Social Scientists
     description: An introduction to relational databases and the SQL language that can be used to query them, for social scientists who want to store and access data effectively. (alpha)
-    tool: SQL; SQLite
+    tool: SQL
     skill: Data visualisation; Accessing data
     language: English
     domain: Social Sciences
