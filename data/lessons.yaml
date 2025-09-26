@@ -147,7 +147,7 @@
     program: LC
     name: SQL
     description: An introduction to relational database management with SQLite, for people with library- and information-related roles who want to learn how to summarise and connect information in large volumes of data.
-    tool: SQL; SQLite
+    tool: SQL
     skill: Accessing data
     language: English
     domain: Library
@@ -228,7 +228,7 @@
     program: DC
     name: Data Management with SQL for Ecologists
     description: An introduction to relational databases and the SQL language that can be used to query them, for ecologists who want to store and access data effectively.
-    tool: SQL; SQLite
+    tool: SQL
     skill: Data visualisation; Accessing data
     language: English
     domain: Ecology
