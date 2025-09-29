@@ -56,7 +56,7 @@
 -
     program: SWC
     name: La Terminal de Unix
-    description:
+    description: Una lección introductoria a la terminal de Unix (shell). Para investigadores y otras personas que quieran aprender cómo automatizar tareas repetitivas y combinar fácilmente tareas pequeñas en flujos de trabajo más grandes y poderosos.
     tool: Shell
     skill: Automating tasks; Tracking versions
     language: Spanish
@@ -65,7 +65,7 @@
 -
     program: SWC
     name: Control de versiones con Git
-    description:
+    description: Una lección introductoria a Git y Github. Para investigadores y otras personas que quieran aprender cómo generar historial de versiones de sus archivos y colaborar más fácilmente en proyectos. 
     tool: Git
     skill: Collaborating
     language: Spanish
@@ -74,7 +74,7 @@
 -
     program: SWC
     name: R para Análisis Científicos Reproducibles
-    description:
+    description: Una lección introductoria a R que enfatiza la creación de análisis de datos reproducibles utilizando ejemplos de procesamiento de datos y visualización. 
     tool: R
     skill: Data visualisation; Programming
     language: Spanish
@@ -254,7 +254,7 @@
 -
     program: DC
     name: Análisis y visualización de datos usando Python
-    description: (beta)
+    description: (beta) Una lección introductoria a Python diseñada para personas sin experiencia en programación que quieran aprender a cargar, procesar, sintetizar y visualizar datos. 
     tool: Python
     skill: Data visualisation; Programming
     language: Spanish
