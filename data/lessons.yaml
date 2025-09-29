@@ -101,8 +101,8 @@
 -
     program: SWC
     name: Using Databases and SQL
-    description: An introduction to querying and managing relational databases with SQLite, for researchers and others who want to learn how to access, filter and summarise large vlumes of data.
-    tool: SQL; SQLite
+    description: An introduction to querying and managing relational databases with SQLite, for researchers and others who want to learn how to access, filter and summarise large volumes of data.
+    tool: SQL
     skill: Accessing data
     language: English
     domain: General
@@ -147,7 +147,7 @@
     program: LC
     name: SQL
     description: An introduction to relational database management with SQLite, for people with library- and information-related roles who want to learn how to summarise and connect information in large volumes of data.
-    tool: SQL; SQLite
+    tool: SQL
     skill: Accessing data
     language: English
     domain: Library
@@ -164,7 +164,7 @@
 -
     program: LC
     name: Introduction to Python for Librarians
-    description: An introduction to programming in Python for librarians with little or no previous programming experience who want to learn how to write programs that can automate the processing of large volumes of information. (alpha)
+    description: An introduction to programming in Python for librarians with little or no previous programming experience who want to learn how to write programs that can automate the processing of large volumes of information. (beta)
     tool: Python
     skill: Programming; Data visualisation
     language: English
@@ -192,7 +192,7 @@
     program: DC
     name: Foundations of Astronomical Data Science
     description: An introduction to core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum is aimed at researchers and others, who want to perform database operations (SQL queries, joins, filtering) and to create publication-quality visualisations with astronomy data.
-    tool: Python
+    tool: Python; SQL
     skill: Data visualisation; Accessing data; Programming
     language: English
     domain: Astronomy
@@ -228,7 +228,7 @@
     program: DC
     name: Data Management with SQL for Ecologists
     description: An introduction to relational databases and the SQL language that can be used to query them, for ecologists who want to store and access data effectively.
-    tool: SQL; SQLite
+    tool: SQL
     skill: Data visualisation; Accessing data
     language: English
     domain: Ecology
@@ -308,7 +308,7 @@
 -
     program: DC
     name: Intro to R and RStudio for Genomics
-    description: An introduction to using R for novice programmers who want to use the language to perform reproducible analyses of tabular genomics data, and visualise the results. (alpha)
+    description: An introduction to using R for novice programmers who want to use the language to perform reproducible analyses of tabular genomics data, and visualise the results. (beta)
     tool: R
     skill: Data visualisation; Programming
     language: English
@@ -407,7 +407,7 @@
 -
     program: DC
     name: Image Processing with Python
-    description: An introduction to the core concepts and fundamental steps of image data processing, for researchers and others who want to use Python to programmatically segment images and extract individual objects for downstream analysis. (beta)
+    description: An introduction to the core concepts and fundamental steps of image data processing, for researchers and others who want to use Python to programmatically segment images and extract individual objects for downstream analysis.
     tool: Python
     skill: Data visualisation; Image Processing; Programming
     language: English
