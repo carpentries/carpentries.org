@@ -37,3 +37,28 @@ tags: ["Data Carpentry", "Community"]
 
 **Blog post tags:** Please only make use of the tags from our [list of existing tags](https://docs.carpentries.org/resources/communications/select-blog-tags.html). If you feel there is a tag that fits your post, that is not in the list, please [reach out to us](mailto:community@carpentries.org).
 
+### Formatting URLs
+
+#### Using relative URLs
+
+Within a website, use relative URLs, not absolute URLs.  For example:  
+Use: `/community/events/`  
+Not: `https://carpentries.org/community/events/`  
+URLs to external websites should use the complete URL.  
+
+#### Using site variables
+
+For all commonly used URLs, use the [site variables as defined in this list](/blob/main/config/_default/params.yaml). Syntax: `[text goes here]({{< param link_name >}})`.  For example:  
+Use: `[Instructor Training]({{< param instructor_training_curriculum >}})`    
+Not: `[Instructor Training](https://carpentries.github.io/instructor-training/)`    
+
+Open an issue if a commonly used URL is not in this list.
+
+### Formatting buttons
+
+Links can appear as buttons using the `{.button}` feature.  Use standard markown formatting all on one line, with the `{.button}` on a new line.  For example:
+```
+[Take the Survey Now](https://carpentries.typeform.com/to/123456)
+{.button}
+```
+
