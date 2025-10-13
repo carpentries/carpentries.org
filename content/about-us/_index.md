@@ -86,6 +86,17 @@ We empower a diverse group of people to work with data and code to answer the qu
 
 The Carpentries administration and other essential operations are held together by a small [Core Team](/about-us/team/), but the majority of our impact is achieved through the efforts of volunteer participants in our global and local communities. The global [Carpentries community](/community/) consists of Instructors, Trainers, Maintainers, Lesson Developers, Member Organisations, committee or task force members, and other supporters who participate, synchronously or asynchronously, in building our programs for all to share.
 
+## Our Code of Conduct
+
+
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by [The Carpentries’ Code of Conduct]({{< param handbook_url >}}/policies/coc/) and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+
+* Use welcoming and inclusive language.
+* Be respectful of different viewpoints and experiences.
+* Gracefully accept constructive criticism.
+* Focus on what is best for the community.
+* Show courtesy and respect towards other community members.
+
 ## Our History
 
 We have a rich history that dates back to 1998 when Software Carpentry was founded with the mission of teaching lab skills for research computing. At that time, Greg Wilson and Brent Gorda taught workshops to teach researchers software development skills. Greg continued this work, building a collection of collaboratively-developed and openly-available lessons, as well as community of instructors who used those lessons to teach workshops.
