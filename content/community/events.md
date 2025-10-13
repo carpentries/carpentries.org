@@ -12,6 +12,13 @@ There are many opportunities to join community meetings, subcommittees and debri
 
 {{< accessibility >}}
 
+## Code of Conduct
+
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by [The Carpentries’ Code of Conduct]({{< param handbook_url >}}/policies/coc/) and accept the procedures by which any Code of Conduct incidents are resolved.  
+
+## Calendar of Events
+
+
 <div id='calendar' markdown="0"></div>
 
 <hr>
