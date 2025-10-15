@@ -235,13 +235,18 @@ main:
   url: "/about-us/contact/"
   parent: communications
   weight: 40
-
 # Search
 - identifier: search
   name: Search
   url: '/search/'
   parent: null 
   weight: 70
+# Donate 
+- identifier: donate-menu
+  name: Donate
+  url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website"
+  weight: 80
+
 footer:
 # Footer menu: Menu 1 (About us)
 - identifier: about-us-footer

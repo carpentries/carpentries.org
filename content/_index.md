@@ -12,6 +12,8 @@ blocks:
       url: /community/get-involved/
     - copy: Become an Instructor
       url: /instructor-training/
+    - copy: Donate to The Carpentries
+      url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website"
 - layout: hero
   title: The Carpentries teaches foundational coding and data science skills to researchers worldwide.
   image: /images/hero-background.jpg
