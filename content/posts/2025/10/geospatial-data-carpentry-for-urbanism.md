@@ -10,7 +10,7 @@ tags: ["Carpentries Incubator", "Community"]
 
 Researchers from the Department of Urbanism Design and members of the Digital Competence Centre at TU Delft have worked since 2023 on the curriculum [Geospatial Data Carpentry for Urbanism](https://carpentries-incubator.github.io/r-geospatial-urban/), currently in [The Carpentries Incubator](https://github.com/carpentries-incubator/r-geospatial-urban). 
 
-This curriculum, inspired by the pre-existing [Geospatial Data Carpentry](https://datacarpentry.org/lessons/#geospatial), part of The Carpentries, was designed to introduce learners from the domain of urbanism to the use of R programming when analysing and visualising vector and raster data. It also introduces basic GIS operations using R. These skills are particularly relevant when working in the urban design field, but can be applied to other urbanism-related ones.
+This curriculum, inspired by the pre-existing [Geospatial Data Carpentry](https://datacarpentry.org/lessons/#geospatial), part of The Carpentries, was designed to introduce learners from the domain of urbanism to the use of R programming when analysing and visualising vector and raster data. It also introduces basic GIS operations using R. These skills are particularly relevant when working in the field of urbanism, but can be applied to other urbanism-related ones.
 
 The team has successfully held two alpha workshops in February 2024 and February 2025 at TU Delft, and is now looking for community members and Instructors to host and teach [beta pilot workshops](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html) with the revised curriculum in 2025 and 2026. 
 
