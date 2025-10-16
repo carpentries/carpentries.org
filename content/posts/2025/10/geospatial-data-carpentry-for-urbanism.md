@@ -1,6 +1,6 @@
 ---  
 layout: page  
-authors: ["Daniele Cannatella", "Clémentine Cottineau", "Claudiu Forgaci"]  
+authors: ["Daniele Cannatella", "Clémentine Cottineau-Mugadza", "Claudiu Forgaci"]  
 teaser: "Please test the lesson and help its creators improve it."  
 title: "Calling for Beta Pilot Workshops: Geospatial Data Carpentry for Urbanism"  
 date: 2025-10-21  
