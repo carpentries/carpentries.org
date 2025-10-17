@@ -14,7 +14,7 @@ You can read and download the full report here: [The Carpentries Strategic Plan 
 The report highlights achievements such as:  
 
 - Building capacity through local leadership programmes, new resources, and community events.  
-- Embedding equity, inclusion, and accessibility into our operations and teaching practices.  
+- Embedding diversity, equity, inclusion, and accessibility into our operations and teaching practices.  
 - Expanding professional development opportunities for volunteers and Core Team members.  
 - Establishing structured processes for lesson development, maintenance, and review.  
 - Strengthening our organisational infrastructure and financial resilience.  
