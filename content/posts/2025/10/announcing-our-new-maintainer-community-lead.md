@@ -4,7 +4,7 @@ authors: ["Jose Niño Muriel"]
 teaser: "Announcing our new Maintainer Community Lead"
 title: "Join Us in Welcoming Jose Niño Muriel as Our New Maintainer Community Lead!"
 date: 2025-10-17
-time: "18:00:00"
+time: "09:00:00"
 tags: ["Community", "Maintainers"]
 ---
 
@@ -20,3 +20,4 @@ As the new Maintainer Community Lead, I’m excited to support the incredible gr
 
 
 I’m very much looking forward to getting to know all of you and to supporting your work in the months ahead.
+
