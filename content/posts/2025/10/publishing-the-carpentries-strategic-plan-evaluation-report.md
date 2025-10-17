@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan", "Oscar Masinyana", "SherAaron Hurt"]
 teaser: "We are pleased to share the evaluation report of our 2020-2025 Strategic Plan, now publicly available on Zenodo. This marks the conclusion of one chapter and sets the stage for the next."
 title: "Reflecting on Five Years: Publishing The Carpentries Strategic Plan Evaluation Report (2020-2025)"
 date: 2025-10-22
-time: "18:00:00"
+time: "09:00:00"
 tags: ["Strategic Plan"]
 ---
 As The Carpentries community, we have spent the past five years working towards six ambitious goals to strengthen our global network of learners, Instructors, Maintainers, and Member Organisations. Our **Strategic Plan Evaluation Report (2020–2025)** is now published and archived on Zenodo, providing a comprehensive review of the progress we made together.  
@@ -42,5 +42,6 @@ This new plan continues our commitment to openness, sustainability, and inclusiv
 We invite you to read the evaluation report, reflect on our shared progress, and prepare for the exciting work ahead as we enter the next stage of our journey together.  
 
 Stay tuned for the release of the **Strategic Plan for 2026–2028** in the coming weeks.  
+
 
 
