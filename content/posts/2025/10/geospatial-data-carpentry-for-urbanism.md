@@ -10,9 +10,9 @@ tags: ["Carpentries Incubator", "Community"]
 
 Researchers from the Department of Urbanism and members of the Digital Competence Centre at TU Delft have worked since 2023 on the curriculum [Geospatial Data Carpentry for Urbanism](https://carpentries-incubator.github.io/r-geospatial-urban/), currently in [The Carpentries Incubator](https://github.com/carpentries-incubator/r-geospatial-urban). 
 
-This curriculum, inspired by the pre-existing [Geospatial Data Carpentry](https://datacarpentry.org/lessons/#geospatial), part of The Carpentries, was designed to introduce learners from the domain of urbanism to the use of R programming when analysing and visualising vector and raster data. It also introduces basic GIS operations using R. These skills are particularly relevant when working in the field of urbanism, but can be applied to other urbanism-related ones.
+This curriculum, inspired by the pre-existing [Geospatial Data Carpentry]({{< param dc_website >}}/lessons/#geospatial), part of The Carpentries, was designed to introduce learners from the domain of urbanism to the use of R programming when analysing and visualising vector and raster data. It also introduces basic GIS operations using R. These skills are particularly relevant when working in the field of urbanism, but can be applied to other urbanism-related ones.
 
-The team has successfully held two alpha workshops in February 2024 and February 2025 at TU Delft, and is now looking for community members and Instructors to host and teach [beta pilot workshops](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html) with the revised curriculum in 2025 and 2026. 
+The team has successfully held two alpha workshops in February 2024 and February 2025 at TU Delft, and is now looking for community members and Instructors to host and teach [beta pilot workshops]({{< param handbook_url >}}/resources/curriculum/lesson-life-cycle.html) with the revised curriculum in 2025 and 2026. 
 
 ## Lesson Profile
 
@@ -94,5 +94,6 @@ If you are willing and able to teach the lesson to your community in a beta pilo
 After a pilot is complete, we ask Instructors and hosts to submit feedback based on their experience via our [issue template](https://github.com/carpentries-incubator/r-geospatial-urban/issues/new?template=pilot_workshop_feedback.yml). We would also be happy to meet with you again to debrief on your experience.
 
 ## Acknowledgments
+
 
 The development of the lesson has been possible due to the voluntary and collaborative effort of academic staff and PhD Candidates from the Department of Urbanism at TU Delft, members of the [TU Delft Digital Competence Center (DCC)](https://www.tudelft.nl/digital-competence-centre), the [Rbanism](https://rbanism.org/) community and team members of [4TU.ResearchData](https://data.4tu.nl/). The developer team would like to express their sincere gratitude to [TU Delft Library](https://www.tudelft.nl/library) for supporting and facilitating this initiative, as well as to Ashley Cryan, who helped develop this lesson at an early stage.
