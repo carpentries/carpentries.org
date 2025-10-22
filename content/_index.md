@@ -53,6 +53,12 @@ blocks:
     url: https://posit.co/
   - logo: sponsors/navigation_fund_logo.svg
     url: https://www.navigation.org/
+- layout: logo-grid
+  title: Our Affiliations
+  copy: This is some text about our affiliations.
+  logos:
+  - logo: sponsors/us_rse.png
+    url: https://us-rse.org/
   cta:
     copy: Support us
     url: /support/
