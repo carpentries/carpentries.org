@@ -51,6 +51,8 @@ blocks:
     url: https://chanzuckerberg.com/
   - logo: sponsors/posit_logo.svg
     url: https://posit.co/
+  - logo: sponsors/navigation_fund_logo.svg
+    url: https://www.navigation.org/
   cta:
     copy: Support us
     url: /support/
