@@ -55,7 +55,7 @@ blocks:
     url: https://www.navigation.org/
 - layout: logo-grid
   title: Our Affiliations
-  copy: This is some text about our affiliations.
+  copy: From time to time, The Carpentries collaborates with other open science organisations through partnerships, membership affiliations, reciprocal commitments, and by participating in the programs of affiliate organisations.
   logos:
   - logo: sponsors/us_rse.png
     url: https://us-rse.org/
