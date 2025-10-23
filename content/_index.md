@@ -53,15 +53,15 @@ blocks:
     url: https://posit.co/
   - logo: sponsors/navigation_fund_logo.svg
     url: https://www.navigation.org/
+  cta:
+    copy: Support us
+    url: /support/
 - layout: logo-grid
   title: Our Affiliations
   copy: From time to time, The Carpentries collaborates with other open science organisations through partnerships, membership affiliations, reciprocal commitments, and by participating in the programs of affiliate organisations.
   logos:
   - logo: sponsors/us_rse.png
     url: https://us-rse.org/
-  cta:
-    copy: Support us
-    url: /support/
 - layout: quote-slider
   slides:
     - quote: I went from a learner to an Instructor and completely changed the trajectory of my career. It helped me find my people. ❤️
