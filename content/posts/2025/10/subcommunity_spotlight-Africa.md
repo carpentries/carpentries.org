@@ -3,7 +3,7 @@ layout: page
 authors: ["Angelique Trusler"]
 teaser: "The first Carpentries Workshop in Africa was held in 2013."
 title: "Subcommunity Spotlight: Africa"
-date: 2025-10-29
+date: 2025-10-28
 time: "09:00:00"
 tags: ["Africa", “Community”]
 ---
@@ -33,19 +33,19 @@ The Task Force was revived in December 2017, this time led by African Instructor
 The second African Task Force concluded its activities in December 2018.
 Some South African-based initiatives received funding through the [Rural Campuses Connection Project II (RCCP II)](https://carpentries.org/blog/2019/01/african-task-force-update/), which supported local training and coordination until March 2019. As a result of these efforts, more than 180 African Instructors have completed Instructor Training events to date. 
 
-**How You Can Contact This Subcommunity**
+### How You Can Contact This Subcommunity
 - Community point of contact: Angelique Trusler, [admin-af@carpentries.org](mailto:admin-af@carpentries.org) 
 - Join the mailing list: https://carpentries.topicbox.com/groups/local-africa 
 - Join the Slack channel: https://carpentries.slack.com/archives/CR7AT9F08 
 
-**Blog Posts Highlighting The Subcommunity**
+### Blog Posts Highlighting The Subcommunity
 - [#Carpentries25 Testimonial Series: Jean Baptiste Fankam Fankam](https://carpentries.org/blog/2023/09/carpentries25-testimonial-series-jean-baptiste-fankam-fankam/)
 - [Wins and Challenges of Running a Carpentry Workshop in South Africa during Load shedding](https://carpentries.org/blog/2023/05/wins-and-challenges-of-running-a-carpentry-workshop-in-south-africa-during-load-shedding/)
 - [IoT for Novices in South Africa](https://carpentries.org/blog/2022/12/iot-for-novices/)
 - [CarpentryConnect South Africa 2021 - A global event](https://carpentries.org/blog/2022/04/carpentryconnect-south-africa-2021/)
 - [Glosario: African contributions](https://carpentries.org/blog/2021/11/glosario-african-contributions/)
 
-## Social Media Highlight
+### Social Media Highlight
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:reamkuxr6f63i5foyzo4b4pl/app.bsky.feed.post/3m2r3msz2q225" data-bluesky-cid="bafyreid2wjviefrp6dwga3phsvmeyah2s5nz6gon7n7k6cnfu7exog56bu" data-bluesky-embed-color-mode="system"><p lang="en">Our Associate Director of Community @angeliquetrusler.bsky.social is at #pyconafrica2025! She&#x27;s engaging with the Africa Pycon community, and on Friday at 09h30 she&#x27;ll be on the panel, &#x27;Teaching Meets Practice: Building Stronger Code Education Together&#x27;. 🌟 For more details: za.pycon.org/schedule/<br><br><a href="https://bsky.app/profile/did:plc:reamkuxr6f63i5foyzo4b4pl/post/3m2r3msz2q225?ref_src=embed">[image or embed]</a></p>&mdash; The Carpentries (<a href="https://bsky.app/profile/did:plc:reamkuxr6f63i5foyzo4b4pl?ref_src=embed">@carpentries.carpentries.org</a>) <a href="https://bsky.app/profile/did:plc:reamkuxr6f63i5foyzo4b4pl/post/3m2r3msz2q225?ref_src=embed">October 9, 2025 at 1:49 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:esvg6tmrcwovdqxpm37xprvx/app.bsky.feed.post/3lsvdksy4hk2r" data-bluesky-cid="bafyreib2niaowbjqm2j5agcllofe3kdij64bam3occ6oufvuwrg6sxoybi" data-bluesky-embed-color-mode="system"><p lang="en">Honoured to be Gratitude of the Month with @simisani.bsky.social by @carpentries.carpentries.org 🎉 for sharing our experiences curating @weare.rladies.org!
 Proud to uplift R-Ladies voices 💜
