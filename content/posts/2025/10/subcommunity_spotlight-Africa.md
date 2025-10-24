@@ -3,7 +3,7 @@ layout: page
 authors: ["Angelique Trusler"]
 teaser: "The first Carpentries Workshop in Africa was held in 2013."
 title: "Subcommunity Spotlight: Africa"
-date: 2025-10-295
+date: 2025-10-29
 time: "09:00:00"
 tags: ["Africa", “Community”]
 ---
