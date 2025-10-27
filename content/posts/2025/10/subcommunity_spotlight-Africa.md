@@ -12,12 +12,13 @@ The Subcommunity Spotlight blog series aims to raise awareness of [the many vibr
 To learn more or get involved in a subcommunity, join the #subcommunity channel on Slack or reach out via email at [community@carpentries.org](mailto:community@carpentries.org). If you lead a subcommunity and would like to be featured in a future edition of this series, we’d love to hear from you!
 ## The Carpentries in Africa 
 The Carpentries in Africa is a vibrant regional subcommunity of The Carpentries. Since 2017, we have been hosting monthly community calls on the fourth Thursday of each month, providing a space for scholars across the continent to connect, share experiences, and learn from one another.
-These sessions explore a wide range of topics relevant to our community, including:
-Past and upcoming workshops
-Challenges unique to teaching in Africa
-Available resources and opportunities
-Regional events and collaborations.
 
+These sessions explore a wide range of topics relevant to our community, including:
+
+- Past and upcoming workshops
+- Challenges unique to teaching in Africa
+- Available resources and opportunities
+- Regional events and collaborations.
 
 ### Historical support
 
@@ -29,9 +30,7 @@ The Task Force was revived in December 2017, this time led by African Instructor
 - Deepen familiarity with Carpentries lessons
 - Reinforce key instructional skills.
 
-
-The second African Task Force concluded its activities in December 2018.
-Some South African-based initiatives received funding through the [Rural Campuses Connection Project II (RCCP II)](https://carpentries.org/blog/2019/01/african-task-force-update/), which supported local training and coordination until March 2019. As a result of these efforts, more than 180 African Instructors have completed Instructor Training events to date. 
+The second African Task Force concluded its activities in December 2018. Some South African-based initiatives received funding through the [Rural Campuses Connection Project II (RCCP II)](https://carpentries.org/blog/2019/01/african-task-force-update/), which supported local training and coordination until March 2019. As a result of these efforts, more than 180 African Instructors have completed Instructor Training events to date. 
 
 ### How You Can Contact This Subcommunity
 - Community point of contact: Angelique Trusler, [admin-af@carpentries.org](mailto:admin-af@carpentries.org) 
@@ -50,8 +49,6 @@ Some South African-based initiatives received funding through the [Rural Campuse
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:esvg6tmrcwovdqxpm37xprvx/app.bsky.feed.post/3lsvdksy4hk2r" data-bluesky-cid="bafyreib2niaowbjqm2j5agcllofe3kdij64bam3occ6oufvuwrg6sxoybi" data-bluesky-embed-color-mode="system"><p lang="en">Honoured to be Gratitude of the Month with @simisani.bsky.social by @carpentries.carpentries.org 🎉 for sharing our experiences curating @weare.rladies.org!
 Proud to uplift R-Ladies voices 💜
 #RLadies #RStats<br><br><a href="https://bsky.app/profile/did:plc:esvg6tmrcwovdqxpm37xprvx/post/3lsvdksy4hk2r?ref_src=embed">[image or embed]</a></p>&mdash; Njoki Njuki 🏳️‍🌈 (<a href="https://bsky.app/profile/did:plc:esvg6tmrcwovdqxpm37xprvx?ref_src=embed">@njokinjuki.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:esvg6tmrcwovdqxpm37xprvx/post/3lsvdksy4hk2r?ref_src=embed">July 1, 2025 at 11:00 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
-
 
 ## Next subcommunity meeting
 
