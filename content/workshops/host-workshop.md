@@ -27,7 +27,7 @@ All standard workshops must teach a lesson program’s core curriculum and can n
 
 * A [Data Carpentry]({{< param dc-website >}}) workshop will vary based on its specific curriculum. It should generally include a lesson on one programming language (either R or Python) where applicable, as well as all other lessons outlined in the curriculum. *Data Carpentry (Genomics) workshops come with an additional fee for the use of Amazon Web Services (AWS) instances provided by The Carpentries. Please visit our [terms of agreement]({{< param handbook_url >}}/resources/workshops/genomics_policy.html) to learn more about the process of scheduling a Genomics workshop.*
 
-Only Self-Organised workshops offer flexibility to customize lessons, as long as all content is based on Carpentries materials. For more information, visit the [Instructors Handbook]{{< param handbook_url >}}/handbooks/instructors.html#self-organised).
+Only Self-Organised workshops offer flexibility to customize lessons, as long as all content is based on Carpentries materials. For more information, visit the [Instructors Handbook]({{< param handbook_url >}}/handbooks/instructors.html#self-organised).
 
 [Curricula overview](/lessons/curriculum-summary)
 {.button}
