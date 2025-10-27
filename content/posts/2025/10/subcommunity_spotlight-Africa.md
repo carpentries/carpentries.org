@@ -5,7 +5,7 @@ teaser: "The first Carpentries Workshop in Africa was held in 2013."
 title: "Subcommunity Spotlight: Africa"
 date: 2025-10-28
 time: "09:00:00"
-tags: ["Africa", “Community”]
+tags: ["Africa", "Community"]
 ---
 
 The Subcommunity Spotlight blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](/community/get-connected/#subcommunities) and highlight their activities. A brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries Club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
