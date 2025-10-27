@@ -8,8 +8,8 @@ time: "09:00:00"
 tags: ["Africa", “Community”]
 ---
 
-The Subcommunity Spotlight blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](https://carpentries.org/community/get-connected/#subcommunities) and highlight their activities. A brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries Club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
-To learn more or get involved in a subcommunity, join the #subcommunity channel on Slack or reach out via email at [community@carpentries.org](mailto:community@carpentries.org). If you lead a subcommunity and would like to be featured in a future edition of this series, we’d love to hear from you!
+The Subcommunity Spotlight blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](/community/get-connected/#subcommunities) and highlight their activities. A brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries Club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
+To learn more or get involved in a subcommunity, join the #subcommunity channel on Slack or reach out via email at [{{< param community_email >}}](mailto:{{< param community_email >}}). If you lead a subcommunity and would like to be featured in a future edition of this series, we’d love to hear from you!
 ## The Carpentries in Africa 
 The Carpentries in Africa is a vibrant regional subcommunity of The Carpentries. Since 2017, we have been hosting monthly community calls on the fourth Thursday of each month, providing a space for scholars across the continent to connect, share experiences, and learn from one another.
 
@@ -30,7 +30,7 @@ The Task Force was revived in December 2017, this time led by African Instructor
 - Deepen familiarity with Carpentries lessons
 - Reinforce key instructional skills.
 
-The second African Task Force concluded its activities in December 2018. Some South African-based initiatives received funding through the [Rural Campuses Connection Project II (RCCP II)](https://carpentries.org/blog/2019/01/african-task-force-update/), which supported local training and coordination until March 2019. As a result of these efforts, more than 180 African Instructors have completed Instructor Training events to date. 
+The second African Task Force concluded its activities in December 2018. Some South African-based initiatives received funding through the [Rural Campuses Connection Project II (RCCP II)](/blog/2019/01/african-task-force-update/), which supported local training and coordination until March 2019. As a result of these efforts, more than 180 African Instructors have completed Instructor Training events to date. 
 
 ### How You Can Contact This Subcommunity
 - Community point of contact: Angelique Trusler, [admin-af@carpentries.org](mailto:admin-af@carpentries.org) 
@@ -38,11 +38,11 @@ The second African Task Force concluded its activities in December 2018. Some So
 - Join the Slack channel: https://carpentries.slack.com/archives/CR7AT9F08 
 
 ### Blog Posts Highlighting The Subcommunity
-- [#Carpentries25 Testimonial Series: Jean Baptiste Fankam Fankam](https://carpentries.org/blog/2023/09/carpentries25-testimonial-series-jean-baptiste-fankam-fankam/)
-- [Wins and Challenges of Running a Carpentry Workshop in South Africa during Load shedding](https://carpentries.org/blog/2023/05/wins-and-challenges-of-running-a-carpentry-workshop-in-south-africa-during-load-shedding/)
-- [IoT for Novices in South Africa](https://carpentries.org/blog/2022/12/iot-for-novices/)
-- [CarpentryConnect South Africa 2021 - A global event](https://carpentries.org/blog/2022/04/carpentryconnect-south-africa-2021/)
-- [Glosario: African contributions](https://carpentries.org/blog/2021/11/glosario-african-contributions/)
+- [#Carpentries25 Testimonial Series: Jean Baptiste Fankam Fankam](/blog/2023/09/carpentries25-testimonial-series-jean-baptiste-fankam-fankam/)
+- [Wins and Challenges of Running a Carpentry Workshop in South Africa during Load shedding](/blog/2023/05/wins-and-challenges-of-running-a-carpentry-workshop-in-south-africa-during-load-shedding/)
+- [IoT for Novices in South Africa](/blog/2022/12/iot-for-novices/)
+- [CarpentryConnect South Africa 2021 - A global event](/blog/2022/04/carpentryconnect-south-africa-2021/)
+- [Glosario: African contributions](/blog/2021/11/glosario-african-contributions/)
 
 ### Social Media Highlight
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:reamkuxr6f63i5foyzo4b4pl/app.bsky.feed.post/3m2r3msz2q225" data-bluesky-cid="bafyreid2wjviefrp6dwga3phsvmeyah2s5nz6gon7n7k6cnfu7exog56bu" data-bluesky-embed-color-mode="system"><p lang="en">Our Associate Director of Community @angeliquetrusler.bsky.social is at #pyconafrica2025! She&#x27;s engaging with the Africa Pycon community, and on Friday at 09h30 she&#x27;ll be on the panel, &#x27;Teaching Meets Practice: Building Stronger Code Education Together&#x27;. 🌟 For more details: za.pycon.org/schedule/<br><br><a href="https://bsky.app/profile/did:plc:reamkuxr6f63i5foyzo4b4pl/post/3m2r3msz2q225?ref_src=embed">[image or embed]</a></p>&mdash; The Carpentries (<a href="https://bsky.app/profile/did:plc:reamkuxr6f63i5foyzo4b4pl?ref_src=embed">@carpentries.carpentries.org</a>) <a href="https://bsky.app/profile/did:plc:reamkuxr6f63i5foyzo4b4pl/post/3m2r3msz2q225?ref_src=embed">October 9, 2025 at 1:49 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
