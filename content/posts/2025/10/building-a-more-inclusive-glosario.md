@@ -36,7 +36,7 @@ Navigation on [glosario.carpentries.org](https://glosario.carpentries.org/) was 
 The integration of the **All Contributors bot** on GitHub now automatically acknowledges our 222 [contributors](https://github.com/carpentries/glosario?tab=readme-ov-file#contributors) across various roles; from translation and review to documentation and planning. These visible recognitions celebrate [the many forms of contribution that keep Glosario growing](/blog/2025/05/celebrating-our-contributors-building-recognition-into-glosario/).  
 
 ### New Opportunities for Feedback  
-To support continuous improvement, contributors can now send suggestions directly via the [Help Page](https://glosario.carpentries.org/help/) or by emailing [community@carpentries.org](mailto:community@carpentries.org).  
+To support continuous improvement, contributors can now send suggestions directly via the [Help Page](https://glosario.carpentries.org/help/) or by emailing [{{< param community_email >}}](mailto:{{< param community_email >}}).  
 
 
 ##  Looking Ahead  
