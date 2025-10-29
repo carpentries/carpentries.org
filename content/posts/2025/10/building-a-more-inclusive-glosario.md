@@ -11,17 +11,17 @@ tags: ["Glosario", "Accessibility", "Lesson Infrastructure"]
 
 Over the past year, with support from the [Andrew W. Mellon Foundation](https://mellon.org/), The Carpentries has made incredible progress in improving [**Glosario**](https://glosario.carpentries.org/), our open, multilingual glossary for computing and data science terms.  
 
-In [2025](/blog/2025/01/building-an-inclusive-future-in-data-science/), we focused on **making Glosario more accessible, inclusive, and community-driven**. Guided by feedback from our community, we enhanced the ways people can contribute, learn, and be recognised for their work.  
+In 2025, we focused on [**making Glosario more accessible, inclusive, and community-driven**](/blog/2025/01/building-an-inclusive-future-in-data-science/). Guided by feedback from our community, we enhanced the ways our community members can contribute, learn, and be recognised for their work.  
 
 ##  Join Our Final 2025 Co-Working Session  
 
-You are invited to the [**Glosario Community Co-Working Session**](https://pad.carpentries.org/Glosario_Codefest_2024)  
+You are invited to the next and final [**Glosario Community Co-Working Session**](https://pad.carpentries.org/Glosario_Codefest_2024) for 2025.  
 🗓 **Wednesday, 5 November 2025**  
 🕒 **15:00 UTC**  
 
 During this session, we will share updates on all the work completed under the Mellon Foundation grant, including accessibility improvements and contributor recognition. This is also a space to connect, collaborate, and celebrate our contributors around the world.  
 
-[View the event on our Community Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTZubWQwZ2s0Ym81MXVjM25lZDFnZGk3YXJfMjAyNTExMDVUMTUwMDAwWiBvc2V1dW9odDB0dmpib2tnZzNub2g4YzQ3Z0Bn&tmsrc=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com)  
+[View the event on our Community Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTZubWQwZ2s0Ym81MXVjM25lZDFnZGk3YXJfMjAyNTExMDVUMTUwMDAwWiBvc2V1dW9odDB0dmpib2tnZzNub2g4YzQ3Z0Bn&tmsrc=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).  
 
 
 ##  What We Achieved in 2025
@@ -33,7 +33,7 @@ We introduced simpler ways to contribute, including a [Google Form submission pr
 Navigation on [glosario.carpentries.org](https://glosario.carpentries.org/) was redesigned to make it easier to explore terms and understand related translations. We also updated visual contrast and interface elements to meet WCAG 2.1 accessibility standards.  
 
 ### Contributor Recognition  
-The integration of the **All Contributors bot** on GitHub now automatically acknowledges our 222 [contributors](https://github.com/carpentries/glosario?tab=readme-ov-file#contributors) across various roles; from translation and review to documentation and planning. These visible recognitions celebrate the many forms of contribution that keep Glosario growing.  
+The integration of the **All Contributors bot** on GitHub now automatically acknowledges our 222 [contributors](https://github.com/carpentries/glosario?tab=readme-ov-file#contributors) across various roles; from translation and review to documentation and planning. These visible recognitions celebrate [the many forms of contribution that keep Glosario growing](/blog/2025/05/celebrating-our-contributors-building-recognition-into-glosario/).  
 
 ### New Opportunities for Feedback  
 To support continuous improvement, contributors can now send suggestions directly via the [Help Page](https://glosario.carpentries.org/help/) or by emailing [community@carpentries.org](mailto:community@carpentries.org).  
