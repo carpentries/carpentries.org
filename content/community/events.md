@@ -8,7 +8,7 @@ aliases:
 
 There are many opportunities to join community meetings, subcommittees and debriefing sessions. Find links to them on this [Etherpad](http://pad.carpentries.org/pad-of-pads), and subscribe to the Google calendar below or use this [ics feed](https://calendar.google.com/calendar/ical/oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com/public/basic.ics) to watch all that is going on throughout our community.
 
-## Request an accommodation 
+## Request accessibility support 
 
 {{< accessibility >}}
 
