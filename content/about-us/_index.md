@@ -122,13 +122,13 @@ The Carpentries is committed to providing inclusive and accessible content that 
 
 If there are any aspects of our community including the website, community discussions, instruction, or the design of our lessons that result in barriers to your inclusion, please [email us](mailto:{{< param team_email >}}) with as much information as possible including the name, location, and date of the event you attended, or any relevant links that provide context (e.g. Slack, GitHub).
 
-### Request an accommodation
+### Request an accessibility support
 
 At The Carpentries, we are committed to building a diverse, equitable, and inclusive community that values all individuals and their unique identities. We prioritise accessibility and inclusivity in our curricula and programs and value transparency, fairness, and honesty to build trust within our community. Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement.
 
-To request an accommodation for a Carpentries event, please fill out the [accommodation request form]({{< param accommodation_request >}}).
+To request an accessibility support for a Carpentries event, please fill out the [accessibility support request form]({{< param accommodation_request >}}).
 
-If you have questions or need assistance with the accommodation form please [email us](mailto:{{< param team_email>}}).
+If you have questions or need assistance with the accessibility support form please [email us](mailto:{{< param team_email>}}).
 
 ### Resources
 
