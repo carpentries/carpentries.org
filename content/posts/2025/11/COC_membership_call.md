@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Sarah Stamps"]
+authors: ["D. Sarah Stamps"]
 teaser: "The Carpentries Code of Conduct Committee is inviting applications from community members"
 title: "Join the Code of Conduct Committee: Help Foster a Welcoming and Inclusive Carpentries Community"
 date: 2025-11-12
