@@ -9,7 +9,7 @@ tags: ["Code of Conduct", "Community"]
 ---
 
 
-The Carpentries is committed to providing a welcoming and supportive environment for all people, and our [Code of Conduct](https://docs.carpentries.org/policies/coc/) (CoC) serves as the framework for this commitment. [The Code of Conduct Committee](https://carpentries.org/community/coc_ctte/) (CoCC) is responsible for managing the Code of Conduct, handling reports of conduct violations, and advocating for the CoC in the community.
+The Carpentries is committed to providing a welcoming and supportive environment for all people, and our [Code of Conduct]({{< param handbook_url >}}/policies/coc/) (CoC) serves as the framework for this commitment. [The Code of Conduct Committee](/community/coc_ctte/) (CoCC) is responsible for managing the Code of Conduct, handling reports of conduct violations, and advocating for the CoC in the community.
 
 The Carpentries Code of Conduct Committee is currently recruiting new members. We seek 3-4 community members who are passionate about ensuring that The Carpentries is a welcoming space, who have time to dedicate to the committee, and who bring diversity to the committee. Additionally, although it is beneficial, not having previous experience with this kind of work is not a requirement.
 
