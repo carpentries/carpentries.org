@@ -58,12 +58,18 @@ We conduct pre- and post-event surveys for both Carpentries Workshops and Traini
 [Preview the Post-Workshop Survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 {.button}
 
+[Aggregate Workshop Survey Results](https://workshop-reports.carpentries.org/?aggregate-workshops)
+{.button}
+
 ### The Carpentries Instructor Training Surveys
 
 [Preview the Pre-Training Survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html)
 {.button}
 
 [Preview the Post-Training Survey](https://carpentries.github.io/assessment-archives/instructor-training-post/instructor-training-post.html)
+{.button}
+
+[Aggregate Instructor Training Survey Results](https://workshop-reports.carpentries.org/?aggregate-instructor-training)
 {.button}
 
 ### Measuring the Long-Term Impact of Our Workshops
