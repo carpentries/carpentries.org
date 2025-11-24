@@ -12,7 +12,7 @@ _This blog post was [first published on LinkedIn](https://www.linkedin.com/pulse
 
 ---
 
-[Fresh off the pilot](https://carpentries.org/blog/2025/05/how-cldt-is-shaping-our-approach/), we went into the second phase of [The Carpentries Collaborative Lesson Development Training](https://carpentries.org/lesson-development/) (CLDT2), with a clearer understanding of our learners’ needs and a list of ways to make the lessons even better.
+[Fresh off the pilot](/blog/2025/05/how-cldt-is-shaping-our-approach/), we went into the second phase of [The Carpentries Collaborative Lesson Development Training](/lesson-development/) (CLDT2), with a clearer understanding of our learners’ needs and a list of ways to make the lessons even better.
 
 The second phase of The Carpentries training helped us fine-tune what we had started: improving lesson flow, refining exercises, and enhancing accessibility features across the board.
 
@@ -56,3 +56,4 @@ We want to extend our immense gratitude to [The Carpentries](https://www.linkedi
 ## What’s Next?
 
 Well, some exciting announcements will follow this post! Stay tuned!
+
