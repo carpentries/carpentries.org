@@ -12,9 +12,9 @@ _This blog post was [first published on LinkedIn](https://www.linkedin.com/pulse
 
 ---
 
-[Fresh off the pilot](https://carpentries.org/blog/2025/05/how-cldt-is-shaping-our-approach/), we went into the second phase of the Carpentries Collaborative Lesson Development Training (CLDT: Part 2), with a clearer understanding of our learners’ needs and a list of ways to make the lessons even better.
+[Fresh off the pilot](https://carpentries.org/blog/2025/05/how-cldt-is-shaping-our-approach/), we went into the second phase of [The Carpentries Collaborative Lesson Development Training](https://carpentries.org/lesson-development/) (CLDT: Part 2), with a clearer understanding of our learners’ needs and a list of ways to make the lessons even better.
 
-The second phase of the Carpentries training helped us fine-tune what we had started: improving lesson flow, refining exercises, and enhancing accessibility features across the board.
+The second phase of The Carpentries training helped us fine-tune what we had started: improving lesson flow, refining exercises, and enhancing accessibility features across the board.
 
 This timing couldn’t have been more ideal. Having just delivered the pilot, we were able to immediately apply the principles we learned in CLDT2 to iterate on our materials and delivery strategy. We tested new approaches, restructured activities based on feedback, and improved how we scaffold learning across modules.
 
@@ -24,21 +24,21 @@ The training also gave us the confidence and clarity to think about sustainabili
 
 CLDT2 was a space for reflection on the first part of the training and how we applied the lessons learned to our pilot workshop. It also expanded our horizon on what it means to work together long-term. The workshops focused on:
 
-Reflection on pilot workshops – Each team shared what worked, what didn’t, and how learners responded. For instance, in our case, which was an online workshop, we had hiccups with internet glitches, but it helped having a team distributed across different locations. Other members of the team quickly stepped in to cover sessions when the internet connection suddenly dropped.
+*Reflection on pilot workshops* – Each team shared what worked, what didn’t, and how learners responded. For instance, in our case, which was an online workshop, we had hiccups with internet glitches, but it helped having a team distributed across different locations. Other members of the team quickly stepped in to cover sessions when the internet connection suddenly dropped.
 
 Also, hearing other projects’ stories gave us fresh ideas for improving our own modules. It was also reassuring to hear that other teams had similar challenges as we did. It helped to know that some of these challenges were not unique to us. :)
 
-GitHub for project management and collaboration – We dug deeper into using GitHub not just as a code repository, but as a hub for transparent project management: issues, pull requests, and milestones became ways to collaborate openly. The different teams explored how version control can reduce confusion and make it easier for multiple contributors to work in parallel. A huge plus was having the time to practice creating issues, pull requests, and labels.
+*GitHub for project management and collaboration* – We dug deeper into using GitHub not just as a code repository, but as a hub for transparent project management: issues, pull requests, and milestones became ways to collaborate openly. The different teams explored how version control can reduce confusion and make it easier for multiple contributors to work in parallel. A huge plus was having the time to practice creating issues, pull requests, and labels.
 
-Sustainability and community building – We brainstormed ways to ensure lessons can outlive their original authors by inviting new contributors and documenting workflows clearly. Since attending the training, we’ve made significant progress in moving from Google Docs to GitHub as a storage location for our documentation.
+*Sustainability and community building* – We brainstormed ways to ensure lessons can outlive their original authors by inviting new contributors and documenting workflows clearly. Since attending the training, we’ve made significant progress in moving from Google Docs to GitHub as a storage location for our documentation.
 
 ### Lessons Learned
 
 From CLDT2, a few clear lessons are shaping Pre-Seeds going forward:
 
-1. Reflection multiplies growth – Sharing openly about challenges is as valuable as sharing successes.  
-2. Collaboration thrives on transparency – Tools like GitHub help us manage projects in ways that are visible, inclusive, and easier to sustain.  
-3. Sustainability requires planning – Lesson development is not a one-off task; it’s a living process that thrives when more voices are involved.
+1. *Reflection multiplies growth* – Sharing openly about challenges is as valuable as sharing successes.  
+2. *Collaboration thrives on transparency* – Tools like GitHub help us manage projects in ways that are visible, inclusive, and easier to sustain.  
+3. *Sustainability requires planning* – Lesson development is not a one-off task; it’s a living process that thrives when more voices are involved.
 
 ### Impact on Pre-Seeds
 
