@@ -12,7 +12,8 @@ tags: ["Library Carpentry", "Community"]
 
 November 2025 marks the tenth anniversary of [the very first Library Carpentry workshop](https://librarycarpentry.github.io/city-november-2015/) at the Centre for Information Science, City University London. Past and present contributors to the lesson program got together last week to celebrate the milestone, share their memories, and express their gratitude for the many successes of the project over the last decade.
 
-[Watch a recording of the session on The Carpentries YouTube channel](https://www.youtube.com/watch?v=DgjbwiJzyvY){.button}
+[Watch a recording of the session on The Carpentries YouTube channel](https://www.youtube.com/watch?v=DgjbwiJzyvY)
+{.button}
 
 Organised by the Library Carpentry Governance Committee, the event featured perspectives from some of the influential figures in the history of the project, including:
 
@@ -31,3 +32,4 @@ To everyone who has participated in Library Carpentry over the last ten years, w
 
 
 If you are interested in finding out more about the Library Carpentry curriculum please visit the [Lesson pages](https://librarycarpentry.org/lessons/)*,* where we host a number of [core lessons](https://librarycarpentry.org/lessons/#core-curriculum), as well as an [extended curriculum](https://librarycarpentry.org/lessons/#extended-curriculum). Many of the lessons within the extended curriculum are currently [in development](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html) and The Library Carpentry Governance Committee are looking for Instructors to teach lessons and provide feedback. If you are interested in teaching any of these lessons please [do get in touch](mailto:lc-governors@lists.carpentries.org) and we will support you in any way we can.
+
