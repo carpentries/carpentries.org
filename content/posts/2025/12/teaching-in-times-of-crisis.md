@@ -9,7 +9,7 @@ tags: ["CarpentryCon", "Community", "Feedback"]
 ---
  
 ## Introduction 
-Hello Carpentries community! In this blog post, we'll explore how educators can effectively teach during such difficult times, drawing insights from a virtual workshop at CarpentryCon we ran back in 2022. The challenges that instructors are facing in 2025 are certainly different from those faced in 2022. Many of us were deeply concerned with the return to in-person activities following the pandemic-related closures. Others were embedded in discourse surrounding the 2022 presidential election in the United States. We also saw the initial outbreak of the present-day conflicts in Ukraine and Palestine. 
+Hello Carpentries community! In this blog post, we'll explore how educators can effectively teach during such difficult times, drawing insights from a virtual workshop at [CarpentryCon](https://2022.carpentrycon.org/) we ran back in 2022. The challenges that instructors are facing in 2025 are certainly different from those faced in 2022. Many of us were deeply concerned with the return to in-person activities following the pandemic-related closures. Others were embedded in discourse surrounding the 2022 presidential election in the United States. We also saw the initial outbreak of the present-day conflicts in Ukraine and Palestine. 
 
 Each of these issues, and indeed innumerable personal events, have the potential to alter or disrupt the lives of students and instructors alike. Indeed, additional novel challenges will undoubtedly present themselves in the future. Nonetheless, we've found that many of the lessons we learned back in 2022 have enduring implications, and we wanted to share them with you.  
 
@@ -57,5 +57,6 @@ We also observed some themes emerge, including:
 2. Clear communication is always required, and can be a great source of comfort. As instructors, we know we cannot ignore crises when they present themselves, even if we don't know exactly what to say. Simply stating boundaries, expectations, and flexibility goes a long way to establishing trustworthiness and creating a healthy learning environment.   
 
 3. Empathy is especially important in times of crisis. It was noted that everyone experiences crises differently, so there isn't a single solution that is going to be best. Instead, aiming for flexibility is more likely to get us to actionable or ideal situations. 
+
 
 Perhaps the most valuable part of this workshop was the cultivating of a sense of community. Crises are situations that feel, or are, dangerous, unstable, and uncomfortable. Running throughout all of the discussions was an emphasis on solid relationships and mutual support, which stands in opposition to the crisis. Not only was this expressed in the discussions, but it was also being demonstrated in real time as we formed connections within the CarpentryCon session!
