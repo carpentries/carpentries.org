@@ -1,6 +1,6 @@
 ---  
 layout: page  
-authors: ["Lorena Almaraz", "Johnny Dubois", "Jordan Pedersen", "Frances Wong"]  
+authors: ["Lorena Almaraz", "Johnny Dubois", "Frances Wong"]  
 teaser: ""  
 title: "Teaching in Times of Crisis: Insights from CarpentryCon"  
 date: 2025-12-10  
@@ -60,3 +60,4 @@ We also observed some themes emerge, including:
 3. Empathy is especially important in times of crisis. It was noted that everyone experiences crises differently, so there is not a single solution that is going to be best. Instead, aiming for flexibility is more likely to get us to actionable or ideal situations. 
 
 Perhaps the most valuable part of this workshop was the cultivating of a sense of community. Crises are situations that feel, or are, dangerous, unstable, and uncomfortable. Running throughout all of the discussions was an emphasis on solid relationships and mutual support, which stands in opposition to the crisis. Not only was this expressed in the discussions, but it was also being demonstrated in real time as we formed connections within the CarpentryCon session!
+
