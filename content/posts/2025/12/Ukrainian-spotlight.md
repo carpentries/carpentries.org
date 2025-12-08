@@ -27,16 +27,16 @@ Contact person: Olexandr Konovalov
 
 
 ### Blog Posts and Other Media Highlighting The Subcommunity
-- [Translating Software Carpentry lessons into Ukrainian language: a status update](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/)
-- [Ukrainian Carpentries Translation Guide](https://github.com/ukrainian-carpentries/translation-guide/blob/main/UkrainianCarpentriesTranslationGuide.pdf)
-- [Ukrainian Carpentries Community - English Version](https://ukrainian-carpentries.github.io/en/) 
 - [Ukrainian Carpentries Community - Ukrainian Version](https://ukrainian-carpentries.github.io/) 
-- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/) 
-- [Glosario Ukrainian page](https://glosario.carpentries.org/uk/) 
-- [Ефективне співробітництво за допомогою Git та GitHub: досвід фахівця](https://fitm.kubg.edu.ua/pro-fakultet/news/podiji/2350-git-github.html) 
-- [В Острозькій академії відбувся весняний семінар комп'ютерної школи](https://www.oa.edu.ua/ua/info/news/2024/06-03-01)
-- [Lecturer of the Department of Computer Science and Information Technologies participated in the seminar “Version Control with GIT” under the program “Research Software Camp: Careers and Skills in Research Software”](https://knit.kname.edu.ua/en/8-novosty/303-teachers-of-the-department-of-computer-science-and-information-technology-participated-in-the-seminar-version-control-using-git-as-part-of-the-program-research-software-camp-careers-and-skills-in-research-software) 
-- [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software) 
+- [Ukrainian Carpentries Community - English Version](https://ukrainian-carpentries.github.io/en/) 
+- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/)
+- [Ukrainian Glosario page](https://glosario.carpentries.org/uk/) 
+- [Ukrainian Carpentries Translation Guide](https://github.com/ukrainian-carpentries/translation-guide/blob/main/UkrainianCarpentriesTranslationGuide.pdf)
+- [Translating Software Carpentry lessons into Ukrainian language: a status update](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/)
+- Feedback from training events:
+    - [В Острозькій академії відбувся весняний семінар комп'ютерної школи](https://www.oa.edu.ua/ua/info/news/2024/06-03-01)
+    - [Ефективне співробітництво за допомогою Git та GitHub: досвід фахівця](https://fitm.kubg.edu.ua/pro-fakultet/news/podiji/2350-git-github.html) 
+    - [Lecturer of the Department of Computer Science and Information Technologies participated in the seminar “Version Control with GIT” under the program “Research Software Camp: Careers and Skills in Research Software”](https://knit.kname.edu.ua/en/8-novosty/303-teachers-of-the-department-of-computer-science-and-information-technology-participated-in-the-seminar-version-control-using-git-as-part-of-the-program-research-software-camp-careers-and-skills-in-research-software) 
 
 
 ### Social Media Highlight
