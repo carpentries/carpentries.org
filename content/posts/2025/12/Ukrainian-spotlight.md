@@ -29,7 +29,7 @@ Contact person: Olexandr Konovalov
 - [Ukrainian Carpentries Translation Guide](https://github.com/ukrainian-carpentries/translation-guide/blob/main/UkrainianCarpentriesTranslationGuide.pdf)
 - [Ukrainian Carpentries Community - English Version](https://ukrainian-carpentries.github.io/en/) 
 - [Ukrainian Carpentries Community - Ukrainian Version](https://ukrainian-carpentries.github.io/) 
-- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/0) 
+- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/) 
 - [Glosario Ukrainian page](https://glosario.carpentries.org/uk/) 
 - [Ефективне співробітництво за допомогою Git та GitHub: досвід фахівця](https://fitm.kubg.edu.ua/pro-fakultet/news/podiji/2350-git-github.html) 
 - [В Острозькій академії відбувся весняний семінар комп'ютерної школи](https://www.oa.edu.ua/ua/info/news/2024/06-03-01)
