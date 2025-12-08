@@ -42,6 +42,6 @@ Contact person: Olexandr Konovalov
 
 ## Next subcommunity meeting
 
-The community meets on the 4th Friday of each month at 16:00 Ukrainian time. The next joint meeting for The Carpentries in Ukraine will be held on [27 February, 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Ukraine+Carpentries+Call&iso=20251128T14&p1=1440&ah=1). Sign up [here](https://hackmd.io/drNoAPc5QpqH4nWm71YJkg)!
+The community meets on the 4th Friday of each month at 16:00 Ukrainian time. The next joint meeting for The Carpentries in Ukraine will be held on [23 January, 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Ukraine+Carpentries+Call&iso=20260123T14&p1=1440&ah=1). Sign up [here](https://hackmd.io/drNoAPc5QpqH4nWm71YJkg)!
 
 
