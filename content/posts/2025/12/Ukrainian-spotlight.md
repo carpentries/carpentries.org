@@ -5,21 +5,21 @@ teaser: "For Ukraine, building an active Carpentries subcommunity means more tha
 title: "Subcommunity Spotlight: Ukraine"
 date: 2025-12-12
 time: "09:00:00"
-tags: ["Ukraine", "Community"]
+tags: ["Internationalisation", "Community"]
 ---
 
 The Subcommunity Spotlight blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](/community/get-connected/#subcommunities) and highlight their activities. A brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries Club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
 To learn more or get involved in a subcommunity, join the #subcommunity channel on Slack or reach out via email at [{{< param community_email >}}](mailto:{{< param community_email >}}). If you lead a subcommunity and would like to be featured in a future edition of this series, we’d love to hear from you!
 
 ## The Carpentries in Ukraine
-The Ukrainian Carpentries is a subcommunity within The Carpentries, focusing on supporting learners and Instructors by translating teaching materials into Ukrainian. The subcommunity is made up of researchers at different institutions in Ukraine and across the globe who collaborate remotely because they are internally displaced within Ukraine or refugees abroad. By increasing access to foundational coding and data skills, the community enables researchers and learners in Ukraine to participate more fully in open, collaborative science. 
+The Ukrainian Carpentries is a subcommunity within The Carpentries, focusing on supporting learners and Instructors by translating teaching materials into Ukrainian. The subcommunity is made up of researchers at different institutions in Ukraine and across the globe who collaborate remotely because they are either internally displaced within Ukraine or refugees abroad. By increasing access to foundational coding and data skills, the community enables researchers and learners in Ukrainian to participate more fully in open, collaborative science. 
 
-For Ukraine, building an active Carpentries subcommunity means more than just learning foundational data and coding skills. Such training in open science practices contributes to the implementation of the [Ukrainian Open Science plan](https://www.opengovpartnership.org/members/ukraine/commitments/UA0090/), adopted in October 2022. In the current context of the Russia-Ukraine war, it also means the ability to properly share the data and their analysis to tell the world about the impact of Russia’s aggression on Ukrainian society, economics, education, ecology, etc.  By working on GitHub, the subcommunity also preserves data and keeps it accessible in case institutional data storage facilities suffer power outages or damage from Russian military attacks.
+For Ukraine, building an active Carpentries subcommunity means more than just learning foundational data and coding skills. Such training in open science practices contributes to the implementation of the [Ukrainian Open Science plan](https://www.opengovpartnership.org/members/ukraine/commitments/UA0090/), adopted in October 2022. In the current context of the Russia-Ukraine war, it also means the ability to share data and analysis about the impact of Russia’s aggression on Ukrainian society, economics, education, ecology, etc.  By working on GitHub, the subcommunity also preserves this data and makes it accessible in case institutional data storage facilities suffer power outages or damage from Russian military attacks.
 
 Meeting on the fourth Friday of each month, the Ukrainian Carpentries provides a space for sharing knowledge, strengthening connections, and growing local capacity. Some earlier highlights include the May 2024 [report on their activities](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/) and the [“Software Carpentry for Ukraine”](https://pure.st-andrews.ac.uk/ws/portalfiles/portal/317409931/SoftwareCarpentryForUkraine_Konovalov.pdf) presentation at the [UK–Ukraine Networking and Research Twinning Showcase 2025](https://www.digital-ukraine.co.uk/), reflecting their ongoing commitment to inclusive and accessible teaching. 
 
 ### How You Can Contact This Subcommunity
-Email: [obk1@st-andrews.ac.uk[(mailto:obk1@st-andrews.ac.uk)] 
+Email: [obk1@st-andrews.ac.uk](mailto:obk1@st-andrews.ac.uk) 
 Slack: [#local-ukrainian](https://carpentries.slack.com/archives/C079LV9KYEB) 
 Contact person: Olexandr Konovalov
 
