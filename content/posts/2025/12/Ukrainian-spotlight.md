@@ -34,7 +34,7 @@ Contact person: Olexandr Konovalov
 - [Ефективне співробітництво за допомогою Git та GitHub: досвід фахівця](https://fitm.kubg.edu.ua/pro-fakultet/news/podiji/2350-git-github.html) 
 - [В Острозькій академії відбувся весняний семінар комп'ютерної школи](https://www.oa.edu.ua/ua/info/news/2024/06-03-01)
 - [Lecturer of the Department of Computer Science and Information Technologies participated in the seminar “Version Control with GIT” under the program “Research Software Camp: Careers and Skills in Research Software”](https://knit.kname.edu.ua/en/8-novosty/303-teachers-of-the-department-of-computer-science-and-information-technology-participated-in-the-seminar-version-control-using-git-as-part-of-the-program-research-software-camp-careers-and-skills-in-research-software) 
-- [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software] 
+- [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software) 
 
 
 ### Social Media Highlight
