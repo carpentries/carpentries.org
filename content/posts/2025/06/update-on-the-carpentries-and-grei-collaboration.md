@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["John Chodacki", "Steve Diggs", " Erin Becker", "Kari L. Jordan", "Emily Katz"]
+authors: ["John Chodacki", "Steve Diggs", "Erin Becker", "Kari L. Jordan", "Emily Katz"]
 teaser: "Learn about the important steps taken toward co-creating new lesson content!"
 title: "Building Skills with Generalist Repositories: An Update on the Carpentries + GREI Collaboration"
 date: 2025-06-26
