@@ -12,7 +12,7 @@ A new version of The Carpentries Workbench was released this month, and included
 
 ## *Cite This Lesson* Pages
 
-[*Cite This Lesson* pages](https://carpentries.github.io/lesson-development-training/citation.html) will now be included in any lesson with a `CITATION.cff` file in the source repository. By displaying contributor information as a part of the lesson website, these pages will provide a lot more visibility to all the people who have made a lesson what it is. The Curriculum Team has been hoping to provide this kind of acknowledgement to lesson contributors for many years, and this is a major step towards the establishment of a regular release cycle for Carpentries lessons.
+[*Cite This Lesson* pages](https://carpentries.github.io/lesson-development-training/citation.html) will now be included in any lesson with a `CITATION.cff` file in the source repository. By displaying contributor information as a part of the lesson website, these pages will provide a lot more visibility to all the people who have made the lesson what it is. The Curriculum Team has been hoping to provide this kind of acknowledgement to lesson contributors for many years, and this is a major step towards the establishment of a regular release cycle for Carpentries lessons.
 
 ![Screenshot of the Acknowledgements and Citations section of a lesson, with a Cite This Lesson page.](/blog/2025/12/cite-this-lesson.png)
 
