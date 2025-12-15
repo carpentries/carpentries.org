@@ -18,7 +18,7 @@ A new version of The Carpentries Workbench was released this month, and included
 
 Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons will receive support from the Curriculum Team to populate a `CITATION.cff` in their lesson repository during the first months of 2026\. Community members using the Workbench to develop and maintain their own lessons (in the Incubator and elsewhere) can refer to the [documented recommendations for the contents of the citation file](https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable) when creating their own `CITATION.cff`.
 
-If you teach a lesson or adapt them for your own projects, please cite the lesson (and [the Workbench itself](https://carpentries.org/workbench/#cite-the-workbench)) in any written reports, publications, etc. you make.
+If you teach a lesson or adapt it for your own projects, please cite the lesson (and [the Workbench itself](https://carpentries.org/workbench/#cite-the-workbench)) in any written reports, publications, etc. you make.
 
 ## Mermaid Diagram Support
 
