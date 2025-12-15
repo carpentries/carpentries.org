@@ -18,7 +18,7 @@ A new version of The Carpentries Workbench was released this month, and included
 
 Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons will receive support from the Curriculum Team to populate a `CITATION.cff` in their lesson repository during the first months of 2026\. Community members using the Workbench to develop and maintain their own lessons (in the Incubator and elsewhere) can refer to the [documented recommendations for the contents of the citation file](https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable) when creating their own `CITATION.cff`.
 
-If you teach a lesson or adapt it for your own projects, please cite the lesson (and [the Workbench itself](https://carpentries.org/workbench/#cite-the-workbench)) in any written reports, publications, etc. you make.
+If you teach a lesson or adapt it for your own projects, please cite the lesson (and [the Workbench itself](/workbench/#cite-the-workbench)) in any written reports, publications, etc. you make.
 
 ## Mermaid Diagram Support
 
@@ -28,10 +28,11 @@ The latest release also includes support for [Mermaid.js diagrams](https://merma
 
 Another feature, contributed by [Renato Alves](https://github.com/unode), provides a way for lesson maintainers to [link out to versions of that lesson available in other languages](https://carpentries.github.io/sandpaper-docs/editing.html#offering-4-languages-english-spanish-german-and-italian). This will be immediately helpful to some community members who have produced translated/localised versions of lessons already. 
 
-It also represents an important step to supporting the ongoing internationalisation efforts of the Carpentries community, taking place [on CrowdIn](https://carpentries.crowdin.com/). Watch this space for more progress on that front: documentation about internationalisation is planned for [the community handbook](https://docs.carpentries.org/) in 2026, and the Core Team hopes to be able to support closer integration/alignment of these community efforts with official lesson maintenance soon too. In the meantime, community members interested in getting involved in the localisation of lessons should join the `#internationalisation` channel on Slack.
+It also represents an important step to supporting the ongoing internationalisation efforts of the Carpentries community, taking place [on CrowdIn](https://carpentries.crowdin.com/). Watch this space for more progress on that front: documentation about internationalisation is planned for [the community handbook]({{< param handbook_url >}}) in 2026, and the Core Team hopes to be able to support closer integration/alignment of these community efforts with official lesson maintenance soon too. In the meantime, community members interested in getting involved in the localisation of lessons should join the `#internationalisation` channel on Slack.
 
 ## Coming Soon: Improved Lesson Build/Maintenance Workflows
 
 Finally, although not in this release, major improvements are coming to the workflows that build and maintain lessons on GitHub in January. We had hoped to roll them out already, but need a little more time to test everything out and make sure that the upgrade will not be disruptive.
+
 
 The improvements will be worth the wait: they will bring major improvements to the stability of the infrastructure through the use of containers, and reduce the time it takes to build and deploy lessons when changes are made to the content. The availability of maintained containers for the Workbench will also provide an easy way for community members to install the infrastructure on their local system.
