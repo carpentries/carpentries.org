@@ -14,7 +14,7 @@ We would like to encourage our [local, regional and special interest Carpentries
 
 ## How to design your subcommunity logo
 
-In 2022, The Carpentries adopted a [Carpentries Logo and Name Usage Policy](https://docs.carpentries.org/resources/communications/logos.html), which outlines the accepted usage and modification of The Carpentries trademarks. 
+In 2022, The Carpentries adopted a [Carpentries Logo and Name Usage Policy]({{< param handbook_url >}}/resources/communications/logos.html), which outlines the accepted usage and modification of The Carpentries trademarks. 
 
 ![A screenshot of the handbook landing page with the logo policy.](/blog/2025/12/logo-policy-page.png)
 _Screenshot of the Carpentries Handbook landing page for the Carpentries Logo and Name Usage Policy_.
@@ -26,4 +26,4 @@ The policy further distinguishes between uses and modifications that do and thos
 We wish to bring this policy to the attention of our subcommunities, who often have to decide when and how to use The Carpentries trademarks within their local communities. 
 
 
-Please familiarise yourself with this policy, and if you have any questions, please reach out to us at [community@carpentries.org](mailto:community@carpentries.org). 
+Please familiarise yourself with this policy, and if you have any questions, please reach out to us at [{{< param community_email >}}](mailto:{{< param community_email >}}). 
