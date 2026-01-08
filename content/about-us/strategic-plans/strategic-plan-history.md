@@ -3,6 +3,7 @@ title: "Our Strategic Plan for 2020-2025"
 hideToc: true
 ---
 
+**_View our [current strategic plan here](/about-us/strategic-plans/strategic-plan)._**
 
 The Carpentries was founded in January 2018 via the merger of Software Carpentry and Data Carpentry and was joined later that year by Library Carpentry. All three of these organisations have been dedicated to teaching computing and data skills to their various communities. United under The Carpentries we have the opportunity to work together toward a bigger and broader vision of the future.
 
