@@ -19,4 +19,4 @@ aliases:
 
 <hr>
 
-[View our Strategic Plan history](/about-us/strategic-plan-history). 
+[View our Strategic Plan history](/about-us/strategic-plans/strategic-plan-history). 
