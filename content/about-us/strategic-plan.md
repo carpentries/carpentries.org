@@ -1,5 +1,5 @@
 ---
-title: "Our Strategic Plan for 2020-2025"
+title: "Our Strategic Plan for 2026-2028"
 hideToc: true
 aliases:
 - /strategic-plan/
@@ -14,3 +14,8 @@ aliases:
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG9vocjfW8&#x2F;a0YscUirz2O2OMMrm8ldYA&#x2F;view?utm_content=DAG9vocjfW8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The Carpentries Strategic Plan for 2026-2028</a> by The Carpentries
+
+
+<hr>
+
+[View our Strategic Plan history](/about-us/strategic-plan-history). 
