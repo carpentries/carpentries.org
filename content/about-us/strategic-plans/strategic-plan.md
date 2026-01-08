@@ -3,6 +3,7 @@ title: "Our Strategic Plan for 2026-2028"
 hideToc: true
 aliases:
 - /strategic-plan/
+- /about-us/strategic-plan/
 ---
 
 
