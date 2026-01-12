@@ -29,6 +29,7 @@ For the purposes of this page, we define the following terms:
 
 #### Build regional and local capacity to empower sustainable communities.
 <br>
+
 **Rationale:**
 
 The Carpentries is a growing organisation that continually strives to reach new, diverse communities. We want to make available the necessary support and resources to ensure that local and regional capacity can be built in a sustainable manner. This goal will empower Local and Regional Leaders and communities, including Member organisations, to create a self-sustaining network of equitable, inclusive, and accessible learning.
@@ -45,6 +46,7 @@ The Carpentries is a growing organisation that continually strives to reach new,
 
 #### Intentionally incorporate equity, inclusion, and accessibility to support a diverse community.
 <br>
+
 **Rationale:**
 
 As an international community, we value inclusivity and want to continue to find our strength through diversity. We therefore want to lower barriers to participation by ensuring that our materials are accessible, that our Instructors are culturally responsive, and that our community continually strives to follow The Carpentries [Code of Conduct]({{< param handbook_url >}}/policies/coc/) in all organisational activities.
@@ -62,6 +64,7 @@ As an international community, we value inclusivity and want to continue to find
 
 #### Provide opportunities for growth and professional development of our volunteers and Core Team.
 <br>
+
 **Rationale:**
 
 As an organisation that values a growth mindset and believes that our community is our strongest resource, we want to ensure our Core Team and our volunteers are afforded opportunities to grow professionally and personally in clear, structured ways. In this way, we will strengthen our community as a whole.
@@ -78,6 +81,7 @@ As an organisation that values a growth mindset and believes that our community 
 
 #### Facilitate the creation and maintenance of relevant, high-quality, Community-curated curricula.
 <br>
+
 **Rationale:**
 
 We teach foundational coding and data skills to researchers worldwide through Data, Library, and Software Carpentry workshops. The curricula for these workshops are maintained by Community volunteers as well as our Core Team. We want to ensure that our curriculum Maintainers and volunteers are valued and that new members are welcomed as part of lesson development programs. We want to ensure that new lessons are developed and maintained in a structured and sustainable way.
@@ -94,6 +98,7 @@ We teach foundational coding and data skills to researchers worldwide through Da
 
 #### Strengthen organisational structure and capacity to be strategic and responsive.
 <br>
+
 **Rationale:**
 
 As an international volunteer organisation, we need a responsive and transparent organisational structure that ensures that our Community members and Core Team members are valued and treated equally. Refining and streamlining processes will allow us to use our resources more efficiently so that we can spend more time and effort in areas that will help us achieve our other goals. Diversification of our revenue streams will improve organisational stability and allow us to plan farther into the future, enable new communities to join us and realise our vision.
@@ -123,6 +128,7 @@ As an international volunteer organisation, we need a responsive and transparent
 
 #### Advocate for our values and vision to empower more people to work with data and software.
 <br>
+
 **Rationale:**
 
 To become the leading inclusive community teaching computing and data skills, we want to advocate for our Community's values and develop synergies globally to empower people and enable them to reach their potential. Our mission includes promoting and modelling the importance of software and data in research; we want to empower more members of our Community to advocate in these areas both inside and outside of our organisation.
