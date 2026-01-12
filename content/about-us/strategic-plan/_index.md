@@ -1,9 +1,7 @@
 ---
 title: "Our Strategic Plan for 2026-2028"
+layout: single 
 hideToc: true
-aliases:
-- /strategic-plan/
-- /about-us/strategic-plan/
 ---
 
 
@@ -16,7 +14,6 @@ aliases:
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG9vocjfW8&#x2F;a0YscUirz2O2OMMrm8ldYA&#x2F;view?utm_content=DAG9vocjfW8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">The Carpentries Strategic Plan for 2026-2028</a> by The Carpentries
 
-
 <hr>
 
-[Archived: The Carpentries Strategic Plan for 2020-2025](/about-us/strategic-plans/strategic-plan-history). 
+[Archived: The Carpentries Strategic Plan for 2020-2025](/about-us/strategic-plan/strategic-plan-history). 
