@@ -19,4 +19,4 @@ aliases:
 
 <hr>
 
-[View our Strategic Plan history](/about-us/strategic-plans/strategic-plan-history). 
+[Archived: The Carpentries Strategic Plan for 2020-2025](/about-us/strategic-plans/strategic-plan-history). 
