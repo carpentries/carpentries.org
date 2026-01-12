@@ -16,4 +16,4 @@ hideToc: true
 
 <hr>
 
-[Archived: The Carpentries Strategic Plan for 2020-2025](/about-us/strategic-plan/strategic-plan-history). 
+[Archived: The Carpentries Strategic Plan for 2020-2025](/about-us/strategic-plan/strategic-plan-history)
