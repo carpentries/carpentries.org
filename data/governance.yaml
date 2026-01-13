@@ -118,9 +118,9 @@ people:
 committees:
 
 - committee_name: "Board of Directors Officers"
-  chair: Yanina Bellini Saibene
+  chair: Phil Brooks 
   members:
-    - Phil Brooks (Chair-Elect)
+    - Nisha Ghatak (Chair-Elect)
     - Yo Yehudi (Secretary)
     - François Michonneau (Treasurer)
 
@@ -133,9 +133,9 @@ committees:
 
 
 - committee_name: "Governance and Personnel Committee"
-  chair: Luke Corbin
+  chair: Yanina Bellini Saibene 
   members:
-    - Yanina Bellini Saibene
+    - Luke Corbin
     - Phil Brooks
     - Nisha Ghatak
     - Jannetta Steyn
@@ -152,11 +152,11 @@ committees:
 
 
 - committee_name: "Program Committee"
-  chair: Nisha Ghatak
+  chair: Samantha Ahern
   members:
     - Yanina Bellini Saibene
     - Stephanie Pulford
-    - Samantha Ahern
+    - Nisha Ghatak
     - Paola Corrales
     - Phil Brooks
     - Luke Corbin
