@@ -20,7 +20,7 @@ CAGE: 9ZYD5
 And here are our public documents and governance structure:
 
 [Articles of Incorporation](https://drive.google.com/file/d/12jjIYZdF9y9hfPZibQPRltpS92LMYsZ_/view)  
-[IRS Form 990](https://projects.propublica.org/nonprofits/organizations/921581581/202503179349310965/full)
+[IRS Form 990](https://projects.propublica.org/nonprofits/organizations/921581581/202503179349310965/full)  
 [Policies and legal documents]({{< param handbook_url >}}/policies)  
 [Governance](/about-us/governance/)  
 [Annual Reports](/about-us/impact/#annual-reports)  
