@@ -19,11 +19,12 @@ CAGE: 9ZYD5
 
 And here are our public documents and governance structure:
 
+[Articles of Incorporation](https://drive.google.com/file/d/12jjIYZdF9y9hfPZibQPRltpS92LMYsZ_/view)  
 [Policies and legal documents]({{< param handbook_url >}}/policies)  
 [Governance](/about-us/governance/)  
 [Annual Reports](/about-us/impact/#annual-reports)  
 [Financial Reports and Statements](/about-us/financials/)  
-[Articles of Incorporation](https://drive.google.com/file/d/12jjIYZdF9y9hfPZibQPRltpS92LMYsZ_/view) 
+
 
 If you would like to ask us anything about The Carpentries, its community, and its services, or you simply wish to follow and engage with us or the community on social media and our mailing lists, please use the contact details below:
 
