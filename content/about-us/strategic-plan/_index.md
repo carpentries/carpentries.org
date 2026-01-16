@@ -2,6 +2,8 @@
 title: "Our Strategic Plan for 2026-2028"
 layout: single 
 hideToc: true
+aliases:
+- /strategic-plan/
 ---
 
 
