@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Kari L. Jordan"]  
 teaser: "Learn how we are advancing curriculum, strengthening community leadership, and building a more sustainable and equitable future for The Carpentries."  
-title: "Our 2026-2028 Bridge Strategic Plan is here."  
+title: "Our 2026-2028 Bridge Strategic Plan is here"  
 date: 2026-01-26  
 time: "09:00:00"  
 tags: ["Strategic Plan", "Community", "Roadmap", "Lessons"]  
@@ -42,5 +42,6 @@ Importantly, this plan is designed to help us learn. Some initiatives will succe
 This 2026–2028 Bridge Strategic Plan is not something we are doing alone. It is shaped by the contributions of our Instructors, Lesson Developers, Maintainers, Subcommunity Leaders, partners, Core Team, and supporters around the world. Your participation, feedback, and leadership continue to be central to everything we do.
 
 We are happy to share more about how this plan will come to life in the months ahead, including opportunities to get involved, pilot new initiatives, and help shape what comes next for The Carpentries. Until then, check out the whole plan on [our website](/about-us/strategic-plan/).
+
 
 Thank you for being part of this community and for continuing to build with us.
