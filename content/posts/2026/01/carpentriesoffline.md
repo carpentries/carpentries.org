@@ -36,9 +36,9 @@ Lastly, we are working on a mini high-performance computer (miniHPC) built from 
 
 
 ## Blog Posts and Other Media Highlighting The Subcommunity
-- [#Carpentries25 Testimonial Series: Jannetta Steyn](https://carpentries.org/blog/2023/07/carpentries25-testimonial-series-jannetta-steyn/)
-- [CarpentriesOffline — CarpentryCon 2022 feedback and call for help](https://carpentries.org/blog/2022/12/carpentries-offline-carpentrycon/)
-- [Running Software/Data and Library Carpentries workshops offline](https://carpentries.org/blog/2022/07/carpentries-offline/)
+- [#Carpentries25 Testimonial Series: Jannetta Steyn](/blog/2023/07/carpentries25-testimonial-series-jannetta-steyn/)
+- [CarpentriesOffline — CarpentryCon 2022 feedback and call for help](/blog/2022/12/carpentries-offline-carpentrycon/)
+- [Running Software/Data and Library Carpentries workshops offline](/blog/2022/07/carpentries-offline/)
 - [Testing CarpentriesOffline](https://www.software.ac.uk/blog/testing-carpentriesoffline)
 - [CarpentriesOffline at CCHB24](https://www.software.ac.uk/blog/carpentriesoffline-cchb24)
 
