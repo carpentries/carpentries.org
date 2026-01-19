@@ -12,7 +12,7 @@ tags: ["Internationalisation", "Community"]
 The Subcommunity Spotlight blog series aims to raise awareness of [the many vibrant subcommunities within The Carpentries](/community/get-connected/#subcommunities) and highlight their activities. A brings together a subset of the broader Carpentries community. It may be local (e.g., a university-based Carpentries Club), regional (e.g., The Carpentries in Africa), or special interest-driven (e.g., HPC Carpentry, Carpentries-es, CarpentriesOffline). The series aims to foster connections among members, whether they live in the same region, speak a common language, or share similar interests.
 To learn more or get involved in a subcommunity, join the #subcommunity channel on Slack or reach out via email at [{{< param community_email >}}](mailto:{{< param community_email >}}). If you lead a subcommunity and would like to be featured in a future edition of this series, we’d love to hear from you!
 
-##CarpentriesOffline
+## CarpentriesOffline
 
 CarpentriesOffline was born out of the Software Sustainability Institute’s 2021 Collababorations Workshop. The idea was formed by a team during the Collaborative Ideas session, and the implementation began on the Hack Day. Our aim was to find a solution to the challenges encountered when running workshops with limited or no Internet access. CarpentriesOffline might also be of interest to those wanting to deliver High Performance Computing workshops without access to an HPC (or difficulty getting students registered on an HPC). 
 
@@ -30,7 +30,7 @@ How You Can Contact This Subcommunity
 - Website: https://carpentriesoffline.org
 
 
-##Blog Posts and Other Media Highlighting The Subcommunity
+## Blog Posts and Other Media Highlighting The Subcommunity
 - [#Carpentries25 Testimonial Series: Jannetta Steyn](https://carpentries.org/blog/2023/07/carpentries25-testimonial-series-jannetta-steyn/)
 - [CarpentriesOffline — CarpentryCon 2022 feedback and call for help](https://carpentries.org/blog/2022/12/carpentries-offline-carpentrycon/)
 - [Running Software/Data and Library Carpentries workshops offline](https://carpentries.org/blog/2022/07/carpentries-offline/)
@@ -45,7 +45,7 @@ How You Can Contact This Subcommunity
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7311451836136255488?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
-##How can you support Carpentries Offline
+## How can you support Carpentries Offline
 
 - Join their meetings
 - Use the [materials](https://carpentriesoffline.org/documentation/) and [lessons](https://carpentriesoffline.org/lessons/)
