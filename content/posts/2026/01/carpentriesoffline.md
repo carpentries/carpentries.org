@@ -17,14 +17,18 @@ CarpentriesOffline was born out of the Software Sustainability Institute’s 202
 
 The CarpentriesOffline community is currently working on three solutions to help Instructors deliver workshops.  The first is a Python package called offlinedatasci that scrapes all learning materials from the web and downloads them to your local laptop or desktop. The package is available for download from [PyPI](https://pypi.org/project/offlinedatasci/). The package gives an Instructor access to the notes while teaching, even when they are offline. This same package is used in the creation of a disk image  (our second solution) that the CarpentriesOffline team is making available to turn a Raspberry Pi single board computer into an access point and web server which allows students to connect to the Raspberry Pi, simulating limited Internet access and giving them access to learning materials and downloading of software and data for the lessons. Lastly, we are working on a mini high-performance computer (miniHPC) built from Raspberry Pis. This miniHPC enables delivery of the HPC Carpentry lessons when access to institutional HPCs is problematic.
 
+<figure>
+  ![Pixie the first mini HPC prototype](https://carpentriesoffline.github.io/images/mini-HPC-proto1-600px.jpg)
+  <figcaption>Pixie, the initial mini HPC prototype.</figcaption>
+</figure>
 
-![Pixie the first mini HPC prototype](https://carpentriesoffline.github.io/images/mini-HPC-proto1-600px.jpg)
+<figure>
+  ![Pixie updated](https://carpentriesoffline.github.io/images/pixie.jpg)
+  <figcaption>Pixie updated.</figcaption>
+</figure>
 
 
-![Pixie updated](https://carpentriesoffline.github.io/images/pixie.jpg)
-
-
-How You Can Contact This Subcommunity
+### How You Can Contact This Subcommunity
 - Email: team@carpentriesoffline.org
 - Slack: #carpentries-offline
 - Website: https://carpentriesoffline.org
