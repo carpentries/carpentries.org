@@ -51,7 +51,7 @@ After attending this training, participants will be able to:
 
 ### Training structure
 
-<img alt="The structure of Collaborative Lesson Development Training" src="images/cldt-checkout.svg" style='width: 67%'>
+<img alt="The structure of Collaborative Lesson Development Training" src="images/cldt-checkout.svg">
 
 During the training, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. They will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench]({{< param workbench_link >}}), the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
 
