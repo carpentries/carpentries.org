@@ -36,6 +36,6 @@ Through these discounts, we want to more clearly demonstrate the value of our co
 
 ## What is next? 
 
-If your organisation is already a Member, they will be invited to set up a Partnership at their next renewal. If your organisation does not yet have a Membership, we invite you to connect with us to help establish a Partnership at your institution. You can connect with us at [membership@carpentries.org](mailto:membership@carpentries.org) or [schedule a meeting](https://calendly.com/carpentries-membership/15-minutes-membership-questions-support). 
+If your organisation is already a Member, you will be invited to set up a Partnership at your next renewal. If your organisation does not yet have a Membership, we invite you to connect with us to help establish a Partnership at your institution. You can connect with us at [membership@carpentries.org](mailto:membership@carpentries.org) or [schedule a meeting](https://calendly.com/carpentries-membership/15-minutes-membership-questions-support). 
 
 We hope you’re as excited about these upcoming changes as we are. Please do not hesitate to reach out with any questions or concerns (or excitement!) between now and April. We are excited to engaging with you and your organisations as Partners in the coming year!
