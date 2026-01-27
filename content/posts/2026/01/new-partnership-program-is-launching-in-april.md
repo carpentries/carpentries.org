@@ -10,7 +10,7 @@ tags: ["Membership", "Community"]
 
 ## Introducing the new Partnership Program
 
-With much-valued input from our community, we have been working over the past few years on ways to improve our Membership program to meet the needs of our community’s partner organisations and institutions. After considering and engaging with feedback from our community surveys from [September 2024](https://carpentries.org/blog/2024/09/launching-the-carpentries-membership-program-survey/) and again in [September 2025](https://carpentries.org/blog/2025/09/share-your-input-on-the-carpentries-new-membership-model/), we are so pleased to announce that we have redesigned our Membership program into a new model called the **Partnership program** that can be tailored to suit varying institutional needs. Plans are underway to launch the redesigned program in April this year!
+With much-valued input from our community, we have been working over the past few years on ways to improve our Membership program to meet the needs of our community’s partner organisations and institutions. After considering and engaging with feedback from our community surveys from [September 2024](/blog/2024/09/launching-the-carpentries-membership-program-survey/) and again in [September 2025](/blog/2025/09/share-your-input-on-the-carpentries-new-membership-model/), we are so pleased to announce that we have redesigned our Membership program into a new model called the **Partnership program** that can be tailored to suit varying institutional needs. Plans are underway to launch the redesigned program in April this year!
 
 Feedback from our community pointed out that our existing Membership tiers do not always align perfectly with all institutions’ needs. (For a summary of the feedback that was collated from the community surveys, please check out the feedback reports prepared for The Carpentries by the consulting agency, Wildly Open.) In response to this feedback, we have designed our new Partnership program to be more flexible and to offer a wider variety of benefit options. Next time your institution enters a Partnership agreement with The Carpentries or renews an existing Membership, they can now design a **customised Partnership package** that is targeted towards the institution’s specific needs. 
 
@@ -37,5 +37,6 @@ Through these discounts, we want to more clearly demonstrate the value of our co
 ## What is next? 
 
 If your organisation is already a Member, you will be invited to set up a Partnership at your next renewal. If your organisation does not yet have a Membership, we invite you to connect with us to help establish a Partnership at your institution. You can connect with us at [membership@carpentries.org](mailto:membership@carpentries.org) or [schedule a meeting](https://calendly.com/carpentries-membership/15-minutes-membership-questions-support). 
+
 
 We hope you’re as excited about these upcoming changes as we are. Please do not hesitate to reach out with any questions or concerns (or excitement!) between now and April. We are excited to engage with you and your organisations as Partners in the coming year!
