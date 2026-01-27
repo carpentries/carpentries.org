@@ -40,3 +40,4 @@ If your organisation is already a Member, you will be invited to set up a Partne
 
 
 We hope you’re as excited about these upcoming changes as we are. Please do not hesitate to reach out with any questions or concerns (or excitement!) between now and April. We are excited to engage with you and your organisations as Partners in the coming year!
+
