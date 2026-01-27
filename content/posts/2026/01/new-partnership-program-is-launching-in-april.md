@@ -21,7 +21,7 @@ Existing Membership benefits, which will continue to be available through Partne
 * Multi-day trainings leading to certification - including Instructor Training and Collaborative Lesson Development Training.
 * Multi-day workshops in data science and computational skills (Data Carpentry, Library Carpentry, and Software Carpentry workshops). 
 
-In addition, the Partnership program will make new service offerings available, including shorter-format professional development training for faculty, researchers, staff, and students. New offerings will include:  
+In addition, the Partnership program will introduce new service offerings, including shorter-format professional development training for faculty, researchers, staff, and students. New offerings will include:  
 
 * Short (2-3 hours) trainings on topics such as effective collaboration on remote teams, running effective online meetings, GitHub collaboration skills, and more. 
 * Single-day pedagogical training designed to broadly increase instructional skill across your organisation. This training is appropriate for individuals in teaching roles who do not plan to teach Carpentries workshops. 
