@@ -1,0 +1,33 @@
+{{ $url := "https://feeds.carpentries.org/all_badged_people.json" }}
+
+
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "Failed to fetch persons data: %s" . }}
+  {{ else }}
+    {{ $data := . | transform.Unmarshal }}
+    
+    {{ $persons := $data }}
+    {{ if reflect.IsMap $data }}
+      {{ $persons = index $data "persons" }}
+    {{ end }}
+    
+    {{ range $persons }}
+      {{ $content := dict
+        "path" (string .person_name)
+        "title" .person_name
+        "params" (dict
+          "github" (string .github)
+          "person_name" (string .person_name)
+          "country" (string .country)
+          "twitter" (string .twitter)
+          "badges" (string .badges)
+          "maintainer" .is_maintainer
+          "trainer" .is_trainer
+          "instructor" .is_instructor
+        )
+      }}
+      {{ $.AddPage $content }}
+    {{ end }}
+  {{ end }}
+{{ end }}
