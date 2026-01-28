@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Kari L. Jordan", "Phil Brooks"]
-teaser: "”With a renewed Board, clear strategy, and strong foundation, The Carpentries is entering 2026 focused on governance, sustainability, and empowering our global community to thrive.”"
+teaser: "With a renewed Board, clear strategy, and strong foundation, The Carpentries is entering 2026 focused on governance, sustainability, and empowering our global community to thrive."
 title: "Introducing the 2026-2027 Carpentries Board of Directors"
 date: 2026-02-03
 time: "09:00:00"
 tags: ["Governance", "Board of Directors", "Strategic Plan"]
 ---
 
-# Introducing the 2026–2027 Carpentries Board of Directors
+## Introducing the 2026–2027 Carpentries Board of Directors
 
 We are excited to share an update that reflects both progress and possibility. The past year marked a major inflection point for The Carpentries as we completed our transition to an independent non-profit and began operating with a new governance model. In the future, our Board of Directors will continue to work alongside the Core Team, community, and our partners to advance our mission and deliver on the strategic priorities outlined in our bridge [2026-2028 Strategic Plan](https://carpentries.org/about-us/strategic-plan/).
 
@@ -60,5 +60,6 @@ Thank you for being part of this journey. We are energised by what lies ahead an
 
 With appreciation and optimism,  
 *Kari & Phil*
+
 
 
