@@ -1,33 +1,27 @@
-{{ $url := "https://feeds.carpentries.org/all_badged_people.json" }}
+{{ $persons := .Site.Data.badges }}
 
-
-{{ with resources.GetRemote $url }}
-  {{ with .Err }}
-    {{ errorf "Failed to fetch persons data: %s" . }}
+{{ range $persons }}
+  {{ if and .person_name (ne .person_name "") }}
+    {{ $content := dict
+      "path" (.person_name | urlize)
+      "title" .person_name
+      "params" (dict
+        "person_name" .person_name
+        "github" .github
+        "family" .family
+        "personal" .personal
+        "country" .country
+        "twitter" .twitter
+        "active_status" .active_status
+        "workshop_list" .workshop_list
+        "badges" .badges 
+        "maintainer" (string .maintainer)
+        "instructor" (string .instructor)
+        "trainer" (string .trainer)
+      )
+    }}
+    {{ $.AddPage $content }}
   {{ else }}
-    {{ $data := . | transform.Unmarshal }}
-    
-    {{ $persons := $data }}
-    {{ if reflect.IsMap $data }}
-      {{ $persons = index $data "persons" }}
-    {{ end }}
-    
-    {{ range $persons }}
-      {{ $content := dict
-        "path" (string .person_name)
-        "title" .person_name
-        "params" (dict
-          "github" (string .github)
-          "person_name" (string .person_name)
-          "country" (string .country)
-          "twitter" (string .twitter)
-          "badges" (string .badges)
-          "maintainer" .is_maintainer
-          "trainer" .is_trainer
-          "instructor" .is_instructor
-        )
-      }}
-      {{ $.AddPage $content }}
-    {{ end }}
+    {{ warnf "Missing data: %v" . }}
   {{ end }}
 {{ end }}
