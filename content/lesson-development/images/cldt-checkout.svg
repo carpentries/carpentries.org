@@ -155,18 +155,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5986926"
-     inkscape:cx="556.60619"
-     inkscape:cy="105.16017"
+     inkscape:zoom="1.1553737"
+     inkscape:cx="590.80891"
+     inkscape:cy="57.62591"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4843"
+     inkscape:current-layer="g1022"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1147"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -179,7 +179,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -213,7 +213,7 @@
                  y="49.86433" />
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
+                 style="font-weight:600;font-size:5.9629px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
                  x="216.91003"
                  y="56.312122"
                  id="text1412-0"><tspan
@@ -221,7 +221,7 @@
                    id="tspan1410-2"
                    x="216.91003"
                    y="56.312122"
-                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">lesson design skills</tspan></text>
+                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.9629px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">lesson design skills</tspan></text>
             </g>
             <g
                id="g1587"
@@ -236,7 +236,7 @@
                  y="59.86433" />
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
+                 style="font-weight:600;font-size:5.9629px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
                  x="216.90962"
                  y="66.346016"
                  id="text1412-0-9"><tspan
@@ -244,7 +244,7 @@
                    id="tspan1410-2-5"
                    x="216.90962"
                    y="66.346016"
-                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">infrastructure skills</tspan></text>
+                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.9629px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">infrastructure skills</tspan></text>
             </g>
             <g
                id="g1592"
@@ -259,7 +259,7 @@
                  y="75.155998" />
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
+                 style="font-weight:600;font-size:5.9629px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.216715"
                  x="216.96649"
                  y="81.60379"
                  id="text1412-0-0"><tspan
@@ -267,12 +267,12 @@
                    id="tspan1410-2-2"
                    x="216.96649"
                    y="81.60379"
-                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">collaboration skills</tspan></text>
+                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.9629px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.216715">collaboration skills</tspan></text>
             </g>
           </g>
           <text
              xml:space="preserve"
-             style="font-weight:600;font-size:3.93162px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.150953"
+             style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.150953"
              x="252.31555"
              y="44.321423"
              id="text1412-4"><tspan
@@ -280,11 +280,11 @@
                id="tspan1410-0"
                x="252.31555"
                y="44.321423"
-               style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.93162px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.150953">* participation required for </tspan><tspan
+               style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.150953">* participation required for </tspan><tspan
                sodipodi:role="line"
                x="252.31555"
-               y="49.235947"
-               style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.93162px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.150953"
+               y="49.172115"
+               style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.150953"
                id="tspan1253">Lesson Developer certification</tspan></text>
           <g
              id="g4843"
@@ -300,18 +300,72 @@
                id="path1305"
                sodipodi:nodetypes="ccc" />
             <g
-               id="g1289"
-               transform="matrix(1.0688083,0,0,1.0688083,-4.2384254,-26.40095)">
+               id="g1955"
+               transform="translate(0,-32.966604)">
               <rect
-                 style="fill:#383838;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linejoin:round"
+                 style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:1.06881;stroke-linejoin:round"
+                 id="rect915-0"
+                 width="19.573284"
+                 height="17.119389"
+                 x="183.93411"
+                 y="78.524948" />
+              <text
+                 xml:space="preserve"
+                 style="font-weight:600;font-size:5.69588px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.261989"
+                 x="236.57214"
+                 y="85.62365"
+                 id="text1412-9-8-8"><tspan
+                   sodipodi:role="line"
+                   x="236.57214"
+                   y="85.62365"
+                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.69588px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.261989"
+                   id="tspan1450-7-8">pilot workshop</tspan><tspan
+                   sodipodi:role="line"
+                   x="236.57214"
+                   y="92.7435"
+                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.69588px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.261989"
+                   id="tspan1197">debrief*</tspan></text>
+            </g>
+            <g
+               id="g1961"
+               transform="translate(0,22.595919)">
+              <rect
+                 style="fill:#fc757e;fill-opacity:1;stroke:none;stroke-width:1.06881;stroke-linejoin:round"
+                 id="rect915-0-5"
+                 width="19.573284"
+                 height="17.119389"
+                 x="183.93411"
+                 y="47.962914" />
+              <text
+                 xml:space="preserve"
+                 style="font-weight:600;font-size:5.69588px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.252641"
+                 x="236.03004"
+                 y="54.469242"
+                 id="text1412-9-8-8-8"><tspan
+                   sodipodi:role="line"
+                   x="236.03004"
+                   y="54.469242"
+                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.69588px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.252641"
+                   id="tspan1197-9"
+                   dy="0 0 0 0 0 0 0">GitHub skill-up</tspan><tspan
+                   sodipodi:role="line"
+                   x="236.03004"
+                   y="61.589092"
+                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.69588px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.252641"
+                   id="tspan1949">(optional)</tspan></text>
+            </g>
+            <g
+               id="g1022">
+              <rect
+                 style="fill:#383838;fill-opacity:1;stroke:none;stroke-width:1.06881;stroke-linejoin:round"
                  id="rect833"
-                 width="146.50549"
-                 height="1.7785451"
-                 x="8.524951"
-                 y="94.621735" />
+                 width="156.58629"
+                 height="1.9009238"
+                 x="4.8731132"
+                 y="74.731544" />
               <g
                  id="g1680"
-                 transform="matrix(1.2208791,0,0,1.2208791,-16.90018,-42.815467)"
+                 transform="matrix(1.3048857,0,0,1.3048857,-22.301478,-72.162476)"
                  style="stroke-width:0.819081">
                 <rect
                    style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:0.621885;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
@@ -336,157 +390,116 @@
                    y="99.452858" />
               </g>
               <path
-                 style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="m 8.8301702,95.401526 v 4.397706"
+                 style="fill:none;stroke:#383838;stroke-width:0.534404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 5.1993338,75.564993 v 4.700304"
                  id="path1169" />
               <path
-                 style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="m 45.303931,95.401526 v 4.397706"
+                 style="fill:none;stroke:#383838;stroke-width:0.534404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 44.182792,75.564993 v 4.700304"
                  id="path1169-0" />
               <path
-                 style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="m 118.25146,95.401526 v 4.397706"
+                 style="fill:none;stroke:#383838;stroke-width:0.534404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 122.14972,75.564993 v 4.700304"
                  id="path1169-1" />
               <path
-                 style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="m 154.72523,95.401526 v 4.397706"
+                 style="fill:none;stroke:#383838;stroke-width:0.534404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 161.13318,75.564993 v 4.700304"
                  id="path1169-9" />
               <path
-                 style="fill:none;stroke:#383838;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="m 81.777696,95.424456 v 4.397696"
+                 style="fill:none;stroke:#383838;stroke-width:0.534404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 83.166255,75.589501 v 4.700294"
                  id="path1169-1-2" />
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
-                 x="41.575344"
-                 y="104.56847"
+                 style="font-weight:600;font-size:12.8893px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.282788"
+                 x="40.197647"
+                 y="85.362694"
                  id="text1280"><tspan
                    sodipodi:role="line"
                    id="tspan1278"
-                   x="41.575344"
-                   y="104.56847"
-                   style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">0.5</tspan></text>
+                   x="40.197647"
+                   y="85.362694"
+                   style="font-size:5.52402px;fill:#383838;fill-opacity:1;stroke-width:0.282788">0.5</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
-                 x="80.077293"
-                 y="104.56847"
+                 style="font-weight:600;font-size:12.8893px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.282788"
+                 x="81.348854"
+                 y="85.362694"
                  id="text1280-1"><tspan
                    sodipodi:role="line"
                    id="tspan1278-3"
-                   x="80.077293"
-                   y="104.56847"
-                   style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">1</tspan></text>
+                   x="81.348854"
+                   y="85.362694"
+                   style="font-size:5.52402px;fill:#383838;fill-opacity:1;stroke-width:0.282788">1</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
-                 x="7.2796578"
-                 y="104.56847"
+                 style="font-weight:600;font-size:12.8893px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.282788"
+                 x="3.5421333"
+                 y="85.362694"
                  id="text1280-8"><tspan
                    sodipodi:role="line"
                    id="tspan1278-8"
-                   x="7.2796578"
-                   y="104.56847"
-                   style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">0</tspan></text>
+                   x="3.5421333"
+                   y="85.362694"
+                   style="font-size:5.52402px;fill:#383838;fill-opacity:1;stroke-width:0.282788">0</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
-                 x="114.32908"
-                 y="104.55036"
+                 style="font-weight:600;font-size:12.8893px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.282788"
+                 x="117.95744"
+                 y="85.343346"
                  id="text1280-9"><tspan
                    sodipodi:role="line"
                    id="tspan1278-4"
-                   x="114.32908"
-                   y="104.55036"
-                   style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">1.5</tspan></text>
+                   x="117.95744"
+                   y="85.343346"
+                   style="font-size:5.52402px;fill:#383838;fill-opacity:1;stroke-width:0.282788">1.5</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:12.0595px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.264583"
-                 x="153.14795"
-                 y="104.58913"
+                 style="font-weight:600;font-size:12.8893px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:1;stroke-width:0.282788"
+                 x="159.44737"
+                 y="85.384773"
                  id="text1280-3"><tspan
                    sodipodi:role="line"
                    id="tspan1278-9"
-                   x="153.14795"
-                   y="104.58913"
-                   style="font-size:5.16839px;fill:#383838;fill-opacity:1;stroke-width:0.264583">2</tspan></text>
+                   x="159.44737"
+                   y="85.384773"
+                   style="font-size:5.52402px;fill:#383838;fill-opacity:1;stroke-width:0.282788">2</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:6.89118px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
-                 x="53.523136"
-                 y="113.71841"
+                 style="font-weight:600;font-size:4.47534px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.1623"
+                 x="62.917652"
+                 y="92.832535"
                  id="text1412"><tspan
                    sodipodi:role="line"
                    id="tspan1410"
-                   x="53.523136"
-                   y="113.71841"
-                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.89118px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.264583">training time (days)</tspan></text>
+                   x="62.917652"
+                   y="92.832535"
+                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.47534px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';fill:#383838;fill-opacity:1;stroke-width:0.1623">training time (days)</tspan></text>
               <text
                  xml:space="preserve"
-                 style="font-weight:600;font-size:7.75258px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.264583"
-                 x="81.77813"
-                 y="75.486771"
+                 style="font-weight:600;font-size:5.69588px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.194084"
+                 x="83.120644"
+                 y="54.862144"
                  id="text1412-9-8"><tspan
                    sodipodi:role="line"
-                   x="81.77813"
-                   y="75.486771"
-                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.75258px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.264583"
+                   x="83.120644"
+                   y="54.862144"
+                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.69588px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.194084"
                    id="tspan1450-7">training event*</tspan></text>
-            </g>
-            <g
-               id="g1955"
-               transform="translate(0,-32.966604)">
               <rect
-                 style="fill:#719eff;fill-opacity:1;stroke:none;stroke-width:1.06881;stroke-linejoin:round"
-                 id="rect915-0"
-                 width="19.573284"
+                 style="fill:#fc757e;fill-opacity:1;stroke:none;stroke-width:0.803526;stroke-linejoin:round"
+                 id="rect915-0-5-7"
+                 width="11.062743"
                  height="17.119389"
-                 x="183.93411"
-                 y="78.524948" />
-              <text
-                 xml:space="preserve"
-                 style="font-weight:600;font-size:7.48242px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.261989"
-                 x="236.57214"
-                 y="85.237671"
-                 id="text1412-9-8-8"><tspan
-                   sodipodi:role="line"
-                   x="236.57214"
-                   y="85.237671"
-                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.48242px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.261989"
-                   id="tspan1450-7-8">pilot workshop</tspan><tspan
-                   sodipodi:role="line"
-                   x="236.57214"
-                   y="94.590698"
-                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.48242px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.261989"
-                   id="tspan1197">debrief*</tspan></text>
-            </g>
-            <g
-               id="g1961"
-               transform="translate(0,22.595919)">
+                 x="97.795425"
+                 y="57.612148" />
               <rect
-                 style="fill:#fc757e;fill-opacity:1;stroke:none;stroke-width:1.06881;stroke-linejoin:round"
-                 id="rect915-0-5"
-                 width="19.573284"
+                 style="fill:#fc757e;fill-opacity:1;stroke:none;stroke-width:0.803526;stroke-linejoin:round"
+                 id="rect915-0-5-7-9"
+                 width="11.062743"
                  height="17.119389"
-                 x="183.93411"
-                 y="47.962914" />
-              <text
-                 xml:space="preserve"
-                 style="font-weight:600;font-size:7.40833px;line-height:1.25;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#383838;fill-opacity:0.807843;stroke-width:0.252641"
-                 x="236.03004"
-                 y="54.098083"
-                 id="text1412-9-8-8-8"><tspan
-                   sodipodi:role="line"
-                   x="236.03004"
-                   y="54.098083"
-                   style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.40833px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.252641"
-                   id="tspan1197-9"
-                   dy="0 0 0 0 0 0 0">GitHub skill-up</tspan><tspan
-                   sodipodi:role="line"
-                   x="236.03004"
-                   y="63.358498"
-                   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.40833px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold Italic';text-align:center;text-anchor:middle;fill:#383838;fill-opacity:0.807843;stroke-width:0.252641"
-                   id="tspan1949">(optional)</tspan></text>
+                 x="138.67288"
+                 y="57.612156" />
             </g>
           </g>
         </g>
