@@ -2,6 +2,18 @@
 
 {{ range $persons }}
   {{ if and .person_name (ne .person_name "") }}
+
+   {{ $instructor_activity_array := slice }}
+   {{ if .instructor_activity_list }}
+      {{ $instructor_activity_array = split .instructor_activity_list "," }}
+   {{ end }}
+
+   {{ $helper_activity_array := slice }}
+   {{ if .helper_activity_list }}
+      {{ $helper_activity_array = split .helper_activity_list "," }}
+   {{ end }}
+
+
     {{ $content := dict
       "path" (.person_name | urlize)
       "title" .person_name
@@ -12,8 +24,9 @@
         "personal" .personal
         "country" .country
         "twitter" .twitter
-        "active_status" .active_status
         "instructor_activity_list" .instructor_activity_list
+        "instructor_act" $instructor_activity_array
+        "helper_act" $helper_activity_array
         "helper_activity_list" .helper_activity_list
         "badges" .badges 
         "maintainer" (string .maintainer)
