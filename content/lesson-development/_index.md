@@ -23,12 +23,14 @@ The Lesson Developer Handbook provides detailed information, resources, and othe
 Collaborative Lesson Development Training teaches essential skills
 and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
 
+[Visit the training curriculum]({{< param cldt_curriculum >}}).
+
 ### Target audience
 
-Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. [The curriculum]({{< param cldt_curriculum >}}) was developed with a focus on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.  Trainees join the training in teams of two to five people, and at least one member of each team should have attended [Instructor Training](/instructor-training/).
+Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. The training focuses on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.  Trainees join in teams of two to five people, and at least one member of each team should have attended [Instructor Training](/instructor-training/).
 
 ### What will you learn?
-The training teaches fundamental concepts, skills, and good practice in three key areas:
+Collaborative Lesson Development Training teaches fundamental concepts, skills, and good practice in three key areas:
 
 * Lesson design and development.
 * Collaboration.
@@ -49,15 +51,13 @@ After attending this training, participants will be able to:
 
 ### Training structure
 
-<img alt="The structure of Collaborative Lesson Development Training" src="images/cldt-structure.svg" style='width: 67%'>
+<img alt="The structure of Collaborative Lesson Development Training" src="images/cldt-checkout.svg">
 
-The training takes place in two parts, separated by an extended break where participants test their new lessons.
+During the training, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. They will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench]({{< param workbench_link >}}), the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
 
-In the first part, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. Trainees will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench]({{< param workbench_link >}}), the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
+Trainees are encouraged to trial part of their new lesson after the training, using this opportunity to gather vital feedback on their lesson design. To complete their certification, they are required to participate in a debrief session, hosted by a Lesson Developer Trainer, where they reflect on the experience of trying out their new lesson and plan next steps for the completion and improvement of the new curriculum.
 
-Trainees will trial part of their new lesson with a real audience during the break between this first part and the conclusion of the training, using this opportunity to gather vital feedback on their lesson design.
-
-When they return for the second and final part of the training, trainees will reflect on this experience and discuss how to approach the remaining stages of lesson development. In the concluding stages of the training,  trainees will learn principles and practices to ensure they can continue to collaborate effectively on the project.
+Trainees are also eligible to join an optional _GitHub Skill-up_ session, included in the price of the training. These skill-up sessions are recommended for any trainees who are not already using GitHub for collaborative development on a regular basis.
 
 ## Pricing
 
