@@ -60,4 +60,4 @@ Lastly, we are working on a mini high-performance computer (miniHPC) built from 
 
 ## Next subcommunity meeting
 
-The community meets on the **4th Friday of each month at 14:00 UTC**. The next joint meeting for CarpentriesOffline will be held on [6 February, 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentriesOffline+Call&iso=20260206T14&p1=1440&ah=1). Sign up [here](https://hackmd.io/@jannettasteyn/CarpentriesOffline033)!
+The community meets on the **4th Friday of each month at 14:00 UTC**. The next joint meeting for CarpentriesOffline will be held on [6 February, 14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentriesOffline+Call&iso=20260206T14&p1=1440&ah=1). Sign up [here](https://hackmd.io/@CarpentriesOffline/CarpentriesOffline033)!
