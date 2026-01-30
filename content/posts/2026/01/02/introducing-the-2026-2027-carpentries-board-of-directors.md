@@ -10,7 +10,7 @@ tags: ["Governance", "Board of Directors", "Strategic Plan"]
 
 ## Introducing the 2026–2027 Carpentries Board of Directors
 
-We are excited to share an update that reflects both progress and possibility. The past year marked a major inflection point for The Carpentries as we completed our transition to an independent non-profit and began operating with a new governance model. In the future, our Board of Directors will continue to work alongside the Core Team, community, and our partners to advance our mission and deliver on the strategic priorities outlined in our bridge [2026-2028 Strategic Plan](/about-us/strategic-plan/).
+We are excited to share an update that reflects both progress and possibility. The past year marked a major inflexion point for The Carpentries as we completed our transition to an independent non-profit and began operating with a new governance model. In the future, our Board of Directors will continue to work alongside the Core Team, community, and our partners to advance our mission and deliver on the strategic priorities outlined in our bridge [2026-2028 Strategic Plan](/about-us/strategic-plan/).
 
 This moment is about continuity and renewal: honouring the leadership that brought us here, welcoming new voices, and aligning our governance work with our goals for impact, sustainability, and community scale.
 
