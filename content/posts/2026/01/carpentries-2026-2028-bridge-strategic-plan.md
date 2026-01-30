@@ -41,7 +41,7 @@ Importantly, this plan is designed to help us learn. Some initiatives will succe
 ### Moving Forward Together  
 This 2026–2028 Bridge Strategic Plan is not something we are doing alone. It is shaped by the contributions of our Instructors, Lesson Developers, Maintainers, Subcommunity Leaders, partners, Core Team, and supporters around the world. Your participation, feedback, and leadership continue to be central to everything we do.
 
-We are happy to share more about how this plan will come to life in the months ahead, including opportunities to get involved, pilot new initiatives, and help shape what comes next for The Carpentries. Until then, check out the whole plan on [our website](/about-us/strategic-plan/).
-
+We are happy to share more about how this plan will come to life in the months ahead, including opportunities to get involved, pilot new initiatives, and help shape what comes next for The Carpentries. Until then, check out the whole plan on our [website](/about-us/strategic-plan/), or on [Zenodo](https://zenodo.org/records/18339002).
 
 Thank you for being part of this community and for continuing to build with us.
+
