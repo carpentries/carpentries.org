@@ -11,6 +11,8 @@ tags:
   - Library Carpentry
   - Lessons
   - Community
+  - Instructors
+  - Pilot Workshops
 ---
 
 The **Lessons for Librarians in Open Science Principles and Methods** project, funded by the Institute of Museum and Library Services (IMLS), has reached an exciting milestone. Over the past two years, we've worked with 27 expert authors across 14 teams to develop 15 new lesson repositories focused on open science for librarians.
