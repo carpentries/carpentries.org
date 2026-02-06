@@ -9,11 +9,11 @@ date: 2026-02-10
 time: "09:00:00"
 tags:
   - Library Carpentry
-  - Open Science
+  - Lessons
   - Community
 ---
 
-The **"Lessons for Librarians in Open Science Principles and Methods"** project, funded by the Institute of Museum and Library Services (IMLS), has reached an exciting milestone. Over the past two years, we've worked with 27 expert authors across 14 teams to develop 15 new lesson repositories focused on open science for librarians.
+The **Lessons for Librarians in Open Science Principles and Methods** project, funded by the Institute of Museum and Library Services (IMLS), has reached an exciting milestone. Over the past two years, we've worked with 27 expert authors across 14 teams to develop 15 new lesson repositories focused on open science for librarians.
 
 ![Screenshot of the Open Science Curriculum Hub showing a grid of lesson cards with titles, status badges, and topics. Lessons include containers and virtual machines, authoring open science, data dashboards, and more.](/blog/2026/02/open-science-curriculum-hub.jpg)
 
@@ -81,4 +81,4 @@ All lesson materials are openly licensed and freely available. For more informat
 
 Ready to pilot a lesson? [Open an issue using our Pilot Interest template](https://github.com/ucla-imls-open-sci/ucla-imls-open-sci.github.io/issues/new?template=pilot-interest.yml) or reach out directly to Tim Dennis ([tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu)).
 
-Help us turn these drafts into battle-tested resources for the global library community.
+Help us turn these drafts into real-world tested resources for the global library community.
