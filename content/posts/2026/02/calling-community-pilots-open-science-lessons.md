@@ -19,7 +19,7 @@ The **Lessons for Librarians in Open Science Principles and Methods** project, f
 
 ![Screenshot of the Open Science Curriculum Hub showing a grid of lesson cards with titles, status badges, and topics. Lessons include containers and virtual machines, authoring open science, data dashboards, and more.](/blog/2026/02/open-science-curriculum-hub.jpg)
 
-One of these lessons, [Data Management Plans 101](https://librarycarpentry.org/lc-dmp101/), has already been officially adopted by Library Carpentry. The remaining 14 lessons are currently in **Alpha** status and ready for community piloting. To move them toward **Beta** and eventual adoption, we need the Carpentries community to help us test them in real-world settings.
+One of these lessons, [Data Management Plans 101]({{< param lc-website >}}lc-dmp101/), has already been officially adopted by Library Carpentry. The remaining 14 lessons are currently in **Alpha** status and ready for community piloting. To move them toward **Beta** and eventual adoption, we need the Carpentries community to help us test them in real-world settings.
 
 ## How You Can Help
 
@@ -64,7 +64,7 @@ All lessons are designed for 1.5 to 4 hours of instruction and are built on The 
 When you sign up to pilot a lesson:
 
 1.  **Preparation:** We can connect you with the original lesson authors for a "teach-through" or to answer technical questions about setup and delivery.
-2.  **Execution:** Use [The Carpentries guide on Preparing to Teach](https://carpentries.github.io/lesson-development-training/preparing.html) to structure your session. Pilots can be formal workshops or informal brown-bag sessions.
+2.  **Execution:** Use [The Carpentries guide on Preparing to Teach]({{< param cldt_curriculum >}}preparing.html) to structure your session. Pilots can be formal workshops or informal brown-bag sessions.
 3.  **Feedback:** After your workshop, provide feedback via GitHub issues on the lesson repository. We strongly encourage using observers or "minute cards" to capture learner experiences in real time.
 
 Your feedback will directly inform lesson refinement and help shape these materials into stable, community-tested resources.
