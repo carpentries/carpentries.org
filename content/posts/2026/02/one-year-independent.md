@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Erin Becker"]
-teaser: "Sharing key learnings from our fist year as an independent non-profit organisation."
+teaser: "Sharing key learnings from our first year as an independent non-profit organisation."
 title: "One Year Independent: What We’ve Learned from Our Fiscal Sponsorship Transition"
 date: 2026-02-12
 time: "09:00:00"
