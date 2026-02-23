@@ -24,7 +24,7 @@ I am delighted with the results: at the time of writing, The Carpentries Incubat
 
 The transition of an existing lesson from *styles* to the Workbench is a complex and delicate process. Community members reported that the documented workflow was difficult to follow and too sensitive to differences in the local computing environment. These factors created a greater dependency on the Curriculum Team to support lesson transitions.
 
-Thankfully, once successfully configured, the lesson transition process was usually very fast. The Curriculum Team developed plenty of experience with the kinds of formatting issues that could disrupt a transition and were able to successfully migrate the community's lessons relatively quickly. Nevertheless, weâ€™re grateful to be able to move on to the next project!
+Thankfully, once successfully configured, the lesson transition process was usually very fast. The Curriculum Team developed plenty of experience with the kinds of formatting issues that could disrupt a transition and were able to successfully migrate the community's lessons relatively quickly. Nevertheless, we're grateful to be able to move on to the next project!
 
 ## What difference does this make?
 
