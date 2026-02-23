@@ -31,6 +31,6 @@ Thankfully, once successfully configured, the lesson transition process was usua
 Consistency of infrastructure used across all of the lesson repositories in our ecosystem has many advantages. It gives us greater confidence that we can help lesson developers with troubleshooting, ensures that all lessons benefit from the increased accessibility provided by the Workbench, and further simplifies the process of providing future infrastructure updates.
 
 
-Thank you to everyone who helped make this process a success, and to the developers and Maintainers of the *styles* infrastructure that this community built so many fantastic lessons with over the years.
+Thank you to everyone who helped make this process a success, to the developers and Maintainers of the *styles* infrastructure that this community built so many fantastic lessons with over the years, and to the developers and contributors to the Workbench who are carrying this work into the future!
 
 
