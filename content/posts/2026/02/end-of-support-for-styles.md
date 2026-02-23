@@ -1,8 +1,8 @@
 ---  
 layout: page  
 authors: ["Toby Hodges"]  
-teaser: "Bidding a fond farewell to our previous lesson infrastructure."  
-title: "End of Support for _styles_"  
+teaser: "Bidding a fond farewell to the former lesson template, _styles_."  
+title: "End of Support for Our Previous Lesson Infrastructure"  
 date: 2026-02-25  
 time: "09:00:00"  
 tags: ["Curriculum", "Incubator", "Infrastructure", "Carpentries Workbench"]  
@@ -18,7 +18,7 @@ Over the last twelve months, more lesson developers either transitioned their re
 
 I am delighted with the results: at the time of writing, The Carpentries Incubator includes 136 lesson repositories that are using the Workbench infrastructure, with transition pending on 14 more repositories. 63 lesson repositories have been archived, many of which were dormant or had received no commits since their initial creation. The Curriculum Team has transitioned 15 Incubator and Lab repositories to the Workbench since 2025, and a handful more where we received requests for help from projects outside of The Carpentries.
 
-![A diagram indicating the transition status of all 213 lesson repositories in the Incubator](subsetting-status-incubator.png)
+![A diagram indicating the transition status of all 213 lesson repositories in the Incubator](/blog/2026/02/sunsetting-status-incubator.png)
 
 ## What was difficult?
 
@@ -32,4 +32,5 @@ Consistency of infrastructure used across all of the lesson repositories in our 
 
 
 Thank you to everyone who helped make this process a success, and to the developers and Maintainers of the *styles* infrastructure that this community built so many fantastic lessons with over the years.
+
 
