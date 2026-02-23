@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Curriculum", "Incubator", "Infrastructure", "Carpentries Workbench"]  
 ---
 
-Following the [January 2025 announcement](https://carpentries.org/blog/2025/01/sunsetting-styles-support-incubator/) that The Carpentries would sunset support for our previous lesson infrastructure, *styles*, at the end of last year, the Curriculum Team has been archiving repositories that had not migrated to The Carpentries Workbench over the last few weeks.
+Following the [January 2025 announcement](/blog/2025/01/sunsetting-styles-support-incubator/) that The Carpentries would sunset support for our previous lesson infrastructure, *styles*, at the end of last year, the Curriculum Team has been archiving repositories that had not migrated to The Carpentries Workbench over the last few weeks.
 
 All of our official lessons had been expertly transitioned by Zhian Kamvar, our former Lesson Infrastructure Developer and architect of the Workbench, during the initial rollout of the new tooling in 2023. By the beginning of 2025, the majority of the community's lessons in The Carpentries Incubator and Carpentries Lab had either been created with the Workbench or already been converted to use it. This included many that were migrated to the Workbench during a hackathon session at CarpentryConnect Heidelberg 2024, led by Aleksandra Nenadic and Matthew Bluteau. 
 
@@ -32,5 +32,6 @@ Consistency of infrastructure used across all of the lesson repositories in our 
 
 
 Thank you to everyone who helped make this process a success, to the developers and Maintainers of the *styles* infrastructure that this community built so many fantastic lessons with over the years, and to the developers and contributors to the Workbench who are carrying this work into the future!
+
 
 
