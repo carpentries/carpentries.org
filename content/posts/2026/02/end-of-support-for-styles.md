@@ -18,7 +18,7 @@ Over the last twelve months, more lesson developers either transitioned their re
 
 I am delighted with the results: at the time of writing, The Carpentries Incubator includes 136 lesson repositories that are using the Workbench infrastructure, with transition pending on 14 more repositories. 63 lesson repositories have been archived, many of which were dormant or had received no commits since their initial creation. The Curriculum Team has transitioned 15 Incubator and Lab repositories to the Workbench since 2025, and a handful more where we received requests for help from projects outside of The Carpentries.
 
-![A diagram indicating the transition status of all 213 lesson repositories in the Incubator](https://carpentriesoffline.github.io/images/subsetting-status-incubator.png)
+![A diagram indicating the transition status of all 213 lesson repositories in the Incubator](/blog/2026/02/subsetting-status-incubator.png)
 
 ## What was difficult?
 
@@ -29,5 +29,6 @@ Thankfully, once successfully configured, the lesson transition process was usua
 ## What difference does this make?
 
 Consistency of infrastructure used across all of the lesson repositories in our ecosystem has many advantages. It gives us greater confidence that we can help lesson developers with troubleshooting, ensures that all lessons benefit from the increased accessibility provided by the Workbench, and further simplifies the process of providing further infrastructure updates.
+
 
 Thank you to everyone who helped make this process a success, and to the developers and Maintainers of the *styles* infrastructure that this community built so many fantastic lessons with over the years.
