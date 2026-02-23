@@ -10,7 +10,7 @@ aliases:
 - /partnership/
 ---
 
-## Become A Member
+## Become A Partner
 
 Jump start your local data skills training efforts with a Carpentries Partnership. 
 By partnering with The Carpentries, organisations join a global, professional skill-building community dedicated to teaching foundational data and computational skills. 
@@ -30,7 +30,7 @@ Partners gain access to a comprehensive suite of training programs, consultation
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Professional development.</b> Keep your team's skills relevant to the evolving digital workforce with short-format training in remote collaboration, effective meeting facilitation, and more.</td>
+        <td><b>Professional development.</b> Keep your team's skills relevant to the evolving digital workplace with short-format training in remote collaboration, effective meeting facilitation, and more.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -41,7 +41,7 @@ Partners gain access to a comprehensive suite of training programs, consultation
 
 ## Partnership Levels
 
-Our Partnership program is maximally flexible to enable you to build the service package that works best for your team. 
+Our Partnership program is flexible to enable you to build the service package that works best for your team. 
 We offer four Partnership levels and encourage you to contact us to discuss more customisation options. 
 Annual Partnership fees are as listed below for high-income economies. 
 Institutions located in upper-middle, lower-middle, and low-income economies are eligible for 25%, 50%, or 75% reduced pricing, respectively.
@@ -57,6 +57,8 @@ Service options that can be included in your Partnership subscription include:
 
 [View our current pricing tiers](/support/pricing/#partnership-pricing).
 {.button} 
+
+<!--- continue editing here --->
 
 ### Bronze Membership
 
