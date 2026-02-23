@@ -14,7 +14,7 @@ Following the successful recruitment of new members to Governance Committees for
 
 ## What is a Lesson Program Governor?
 
-LPGCs oversee the **strategy** of the lesson program, **advocate** for the project in their networks, and act as a **point of contact** for the project e.g., liaising with the Board of Directors, the Core Team, and the wider community. [Learn more about the powers and responsibilities of the committees in a previous blog post](/blog/2023/01/lpgc-call-for-volunteers/) and check out [the Lesson Program Governors Handbook](https://docs.carpentries.org/handbooks/lesson_program_governors.html) for other resources that support this community role.
+LPGCs oversee the **strategy** of the lesson program, **advocate** for the project in their networks, and act as a **point of contact** for the project e.g., liaising with the Board of Directors, the Core Team, and the wider community. [Learn more about the powers and responsibilities of the committees in a previous blog post](/blog/2023/01/lpgc-call-for-volunteers/) and check out [the Lesson Program Governors Handbook]({{< param handbook_url >}}/handbooks/lesson_program_governors.html) for other resources that support this community role.
 
 **Data Carpentry differs from other lesson programs** due to the diverse range of curricula. We do not expect individual Governors or the committee as a whole to have expertise in every domain covered by the current set of Data Carpentry workshops. Instead, the Data Carpentry Governance Committee will collaborate with our Curriculum Advisors and the Core Team to guide the overall development of the lesson program.
 
@@ -38,6 +38,7 @@ Please complete the form by [the end of Tuesday 10th March 2026 (anywhere on Ear
 
 ## Contact
 
-[Contact the Curriculum Team](mailto:curriculum@carpentries.org) with questions about Lesson Program Governance Committees and/or the application and onboarding process.
+[Contact the Curriculum Team](mailto:{{< param curriculum_email >}}) with questions about Lesson Program Governance Committees and/or the application and onboarding process.
+
 
 
