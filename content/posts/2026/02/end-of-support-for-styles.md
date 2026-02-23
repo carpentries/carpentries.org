@@ -1,7 +1,7 @@
 ---  
 layout: page  
 authors: ["Toby Hodges"]  
-teaser: "Bidding a fond farewell to the former lesson template, _styles_."  
+teaser: "Bidding a fond farewell to the former lesson template."  
 title: "End of Support for Our Previous Lesson Infrastructure"  
 date: 2026-02-25  
 time: "09:00:00"  
