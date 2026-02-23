@@ -1,29 +1,36 @@
 ---
-title: The Carpentries Memberships
+title: The Carpentries Partnerships
 layout: single
 cascade:
-  nav: membership
+  nav: partnership
 widgets:
 - newsletter
 aliases:
 - /membership/
+- /partnership/
 ---
 
 ## Become A Member
 
-Jump start your local data skills training efforts with a Carpentries Membership. First, we’ll begin with a series of engaging, hands-on workshops on your choice of topics from our 45+ lessons. Then, we’ll train a group of your community members to continue delivering data skills training far beyond your membership end date. Our highly-sought after Instructor Training program will upskill local leaders to lead effective, evidence-based learning experiences for your community. You will also join our global network of 100+ member organisations and connect with peers around challenges and opportunities in data skills training.
+Jump start your local data skills training efforts with a Carpentries Partnership. 
+By partnering with The Carpentries, organisations join a global, professional skill-building community dedicated to teaching foundational data and computational skills. 
+Partners gain access to a comprehensive suite of training programs, consultation services, community engagement opportunities, and resources, enabling them to grow local communities focused on teaching and learning data skills.
 
-## Why Membership?
+## Why Partnership?
 
 {{< table features >}}
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>Hands-on, practice-based training in teaching.</b> Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.</td>
+        <td><b>Hands-on, practice-based training in teaching and lesson development.</b> Receive priority access to our Instructor Training and Collaborative Lesson Development programs, which will empower high-quality lesson creation and instruction at your institution.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Computational and data skills training.</b> Gain access to our pool of 3,400+ certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
+        <td><b>Computational and data skills training.</b> Gain access to our global network of thousands of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
+    </tr>
+    <tr>
+        <td>Has Feature</td>
+        <td><b>Professional development.</b> Keep your team's skills relevant to the evolving digital workforce with short-format training in remote collaboration, effective meeting facilitation, and more.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -32,11 +39,23 @@ Jump start your local data skills training efforts with a Carpentries Membership
    </table>
 {{< /table >}}
 
-## Membership Levels
+## Partnership Levels
 
-We offer five customisable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
+Our Partnership program is maximally flexible to enable you to build the service package that works best for your team. 
+We offer four Partnership levels and encourage you to contact us to discuss more customisation options. 
+Annual Partnership fees are as listed below for high-income economies. 
+Institutions located in upper-middle, lower-middle, and low-income economies are eligible for 25%, 50%, or 75% reduced pricing, respectively.
+Economy classification is based on the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
 
-[View our current pricing tiers](/support/pricing/#membership-pricing).
+Service options that can be included in your Partnership subscription include: 
+
+- A workshop using one of our data science or computational skills curricula, or
+- two (2) seats in a certification program (Instructor Training or Collaborative Lesson Development Training), or
+- four (4) seats in our new Learner-Centered Teaching program, or
+- sixteen (16) seats in one of our short-format professional development courses, or
+- a fractional combination of the above.
+
+[View our current pricing tiers](/support/pricing/#partnership-pricing).
 {.button} 
 
 ### Bronze Membership
