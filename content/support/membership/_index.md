@@ -63,21 +63,21 @@ Partnership packages at the **Expand**, **Scale**, and **Transform** levels allo
 
 ### Launch Partnership
 
-Appropriate for organisations in the early stages of establishing a local community of practice in data science and computational research skills.
-A Launch Partnership can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing
-organisational investment.
+Appropriate for organisations in the early stages of establishing a local community of practice around data science and computational research skills, a Launch Partnership can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing
+organisational investment. 
 
 ### Expand Partnership
 
-An Expand Partnership is ideal for organisations with 
+For organisations ready to increase their training capacity, an Expand Partnership provides multiple options for skill development and community building. 
+Organisations at the Expand level may elect to train up to six individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve seats in our Learner-Centered Training program, or combine either of those paths with short-format professional development opportunities for their staff and students.
 
 ## Scale Partnership
 
-
+Designed for organisations seeking broad impact, a Scale Partnership enables coordinated delivery of training efforts across multiple departments and sustained programming for long-lasting growth of overall institutional capacity. 
 
 ### Transform Partnership
 
-Best for organisations that are ready to scale up their local workshop offerings and start becoming independent of The Carpentries' administrative support.
+Intended for organisations pursuing truly institution-wide change, a Transform Partnership enables large-scale capacity building and sustained, organisation-wide impact. 
 
 ### In addition to the benefits above, all Partnerships include:
 
