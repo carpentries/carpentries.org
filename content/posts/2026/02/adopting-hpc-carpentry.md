@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Annajiat Alim Rasel", "Trevor Keller", "Alan O’Cais", "Wirawan Purwanto", "Andrew Reid", "Toby Hodges"]  
 teaser: "The HPC Carpentry Steering Committee and Carpentries Director of Curriculum reflect on an exciting moment in the history of the project."  
-title: "HPC Carpentry Approved as The Carpentries' Latest Lesson Program"  
+title: "HPC Carpentry Approved as The Carpentries' Fourth Lesson Program"  
 date: 2026-02-26  
 time: "09:00:00"  
 tags: ["HPC Carpentry"]  
@@ -10,7 +10,7 @@ tags: ["HPC Carpentry"]
 
 ![The HPC Carpentry logo alongside those of Data Carpentry, Library Carpentry, and Software Carpentry. HPC Carpentry will join these projects as a lesson program of The Carpentries.](/blog/2026/02/four-lesson-programs-row.png)
 
-On 5 February 2026, our Board of Directors voted unanimously to approve the adoption of [HPC Carpentry](https://hpc-carpentry.org/) as the fourth official lesson program of The Carpentries. In this post, our Director of Curriculum and members of the HPC Carpentry Steering Committee reflect on an exciting moment and explore what is involved in operationalising a new lesson program.
+On 5 February 2026, our Board of Directors voted unanimously to approve the adoption of [HPC Carpentry](https://hpc-carpentry.org/) as the fourth official lesson program of The Carpentries, joining the Data Carpentry, Library Carpentry, and Software Carpentry lesson programs. In this post, our Director of Curriculum and members of the HPC Carpentry Steering Committee reflect on an exciting moment and explore what is involved in operationalising a new lesson program.
 
 ---
 
