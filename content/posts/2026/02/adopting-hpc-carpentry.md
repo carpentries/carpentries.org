@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Annajiat Alim Rasel", "Trevor Keller", "Alan O’Cais", "Wirawan Purwanto", "Andrew Reid", "Toby Hodges"]  
 teaser: "The HPC Carpentry Steering Committee and Carpentries Director of Curriculum reflect on an exciting moment in the history of the project."  
-title: "HPC Carpentry Approved as The Carpentries Latest Lesson Program"  
+title: "HPC Carpentry Approved as The Carpentries' Latest Lesson Program"  
 date: 2026-02-26  
 time: "09:00:00"  
 tags: ["HPC Carpentry"]  
