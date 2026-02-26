@@ -30,7 +30,7 @@ This is the perfect time to get involved with the HPC Carpentry community! Here 
 
 * Share this blog post with your network.  
 * [Teach an HPC Carpentry workshop](https://www.hpc-carpentry.org/register-workshop/).  
-* [Join an HPC Carpentry community meeting](https://carpentries.org/community/events/#calendar-of-events).  
+* [Join an HPC Carpentry community meeting](/community/events/#calendar-of-events).  
 * [Contribute to an HPC Carpentry lesson](https://www.hpc-carpentry.org/community-lessons/).  
 * Volunteer to maintain an HPC Carpentry lesson in the upcoming round of Maintainer Onboarding, to be announced on this blog next week. 
 
@@ -42,7 +42,7 @@ We are excited! It has been a long time coming, and there are good reasons HPC C
 
 Supported by HPC Carpentry and compute resources provided by the community, Annajiat has already inspired and enabled ~1000 undergraduate and postgraduate students and researchers in Bangladesh, leading to the creation of a new elective undergraduate course on Parallel, Distributed, and High-Performance Computing (HPC), postgraduate courses on Distributed Computing Systems and Parallel Algorithms, and frequent workshops on a range of topics. Andrew, Trevor, Wirawan and others have delivered workshops at many institutions around North America, including multiple invited visits to Lawrence Livermore National Laboratory. Alan has led a similar program of workshops in Europe, and the community has delivered plenty more in their local communities. As a lesson program of The Carpentries, we will be able to grow this impact even further, touching the lives of more learners, globally.
 
-A perennial danger of projects like this is the temptation to get into the weeds on technical issues at the expense of the health of the project as a whole. The Lesson Program Incubation process, with its [list of criteria](https://docs.carpentries.org/resources/curriculum/lesson-programs.html#phase-2-incubation), helped to remind us that what we were seeking was more than a technical solution to delivering content. Ultimately, it was about changing the lives of learners for the better, with lessons that benefit from learner and instructor feedback, a supportive community, and a program that empowers learners to move forward with greater confidence, independently of their background.
+A perennial danger of projects like this is the temptation to get into the weeds on technical issues at the expense of the health of the project as a whole. The Lesson Program Incubation process, with its [list of criteria]({{< param handbook_url >}}/resources/curriculum/lesson-programs.html#phase-2-incubation), helped to remind us that what we were seeking was more than a technical solution to delivering content. Ultimately, it was about changing the lives of learners for the better, with lessons that benefit from learner and instructor feedback, a supportive community, and a program that empowers learners to move forward with greater confidence, independently of their background.
 
 We would not have made it to this pivotal moment without the efforts of many HPC Carpentry community members past and present. Many thanks to everyone who has contributed to the project, hosted or taught a workshop, and engaged with the community up to now. Our deepest gratitude in particular to Peter Steinbach, Benson Muite, Marc-André Hermanns, Christina Koch, Md. Intekhabul Hafiz, M. Abdur Rahman, and Jannetta Steyn.
 
