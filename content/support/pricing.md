@@ -8,89 +8,73 @@ cascade:
 ## Overview
 
 All fees are dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html). 
+Fees listed below are for organisations in high-income economies.
+Institutions located in upper-middle, lower-middle, and low-income economies are eligible for 25%, 50%, or 75% reduced pricing, respectively.
 
-**All fees listed are in USD.** Pricing for for-profit organisations is four times the price listed for not-for-profit organisations and academic institutions.
+Prices listed below are applicable to non-profit, academic, and government organisations. 
+For corporate pricing, contact us at [partnership@carpentries.org](mailto:partnership@carpentries.org).
 
-## Workshop Pricing
+## Partnership Pricing
+
+Jump start your local data skills training efforts with a Carpentries Partnership. 
+By partnering with The Carpentries, organisations join a global, professional skill-building community dedicated to teaching foundational data and computational skills. 
+Partners gain access to a comprehensive suite of training programs, consultation services, community engagement opportunities, and resources, enabling them to grow local communities focused on teaching and learning data skills. 
+For more information about Partnership, visit our [Partnership page](/support/partnership/).
+
+### Partnership Packages
+
+{{< table >}}
+| **Tier**  | **Annual Subscription (USD)** | **Service Options** |
+| --------- | ------------------------------| ------------------- |
+| Launch    | $2,000                        | 1                   |
+| Expand    | $6,000                        | 3                   |
+| Scale     | $10,000                       | 5                   |
+| Transform | $16,000                       | 8                   |
+| Custom    | *Contact us*                  | *Contact us*        |
+{{< /table >}}
+
+## Add On and A la Carte Services
+
+Non-Partners can purchase services at the a la carte prices listed below. 
+Partner organisations can add services to their existing Partnership package at the discounted Partner price.
+
+{{< table >}}
+| **Program**  | **Description** | **Length** | **A la Carte Price (USD)** | **Partner Price (USD)** |
+| ------------ | --------------- | ---------- | -------------------------- | ----------------------- |
+| **Data Science / Computational Skills Workshops** | Backed by The Carpentries team and taught by certified Instructors, these two full-day sessions impart essential skills for efficient and reproducible data and code using The Carpentries high quality lesson materials developed and tested by our community. | Two days | $3,200 / workshop | $2,400 / workshop |
+| **Certification Programs** | **Instructor Training** <br> An interactive introduction to the fundamentals of educational psychology and evidence-based teaching practices. | Two days | $1,600 / seat | $1,200 / seat |
+|                            | **Collaborative Lesson Development Training** <br> Teaches essential skills and good practices for designing and developing a lesson as an open source project. | Two days | $1,600 / seat | $1,200 / seat |
+| **Professional Development Courses** | **Learner-Centered Teaching** <br> Equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. | One day | $800 / seat | $600 / seat |
+|                                      | **Short-Format Professional Development** <br> Learning sessions on specific competencies, knowledge, or skills. For a list of current courses see [link]. | 2-3 hours | $200 / seat | $150 / seat |
+{{< /table >}}
+
+## Individual Services
+
+
+
+### Workshops
 
 Our Centrally-Organised Workshops bring hands-on computational and data skill workshops to your organisation. The Carpentries teaches workshops around the world on the foundational skills to work effectively and reproducibly with data and code. For more information about our Workshops, visit our [Workshops page](/workshops/).
 
 [Self-organised workshops](https://docs.carpentries.org/handbooks/instructors.html#self-organised) are free to organise. However, if you need AWS instances for Genomics Self-organised or Centrally-organised workshops, additional fees apply. Please refer to the [Genomics Workshops Terms of Agreement](https://docs.carpentries.org/resources/workshops/genomics_policy.html) for additional information.
 
-
-{{< table >}}
-|                    |Workshop Fee (Non-profit)|Workshop Fee (Corporate)|
-|------------------- |------------------------ |------------------------ |
-|High Income         |$3,000                   |$12,000                  |
-|Upper-Middle Income |$2,250                   |$9,000                   |
-|Lower-Middle Income |$1,500                   |$6,000                   |
-|Low Income          |$750                     |$3,000                     |
-
-Note: Members are eligible for a 40% discount off the listed fees.
-
-{{< /table >}}
-
-## Instructor Training Pricing
+### Instructor Training
 
 Recruit your own trainees and The Carpentries Instructor Training will provide them the skills to teach effective workshops. Through our 16-hour, hands-on training, they will learn the basics of educational psychology and evidence-based teaching practices. For more information about Instructor Training, visit our [Instructor Training page](/instructor-training/).
 
-{{< table >}}
-|                    | Instructor Training Seat (Non-profit) | Instructor Training Seat (Corporate) |
-|--------------------|---------------------------------------|--------------------------------------|
-|High Income         |$1,500                                 |$6,000                                |
-|Upper-Middle Income |$1,125                                 |$4,500                                |
-|Lower-Middle Income |$750                                   |$3,000                                |
-|Low Income          |$375                                   |$1,500                                |
-{{< /table >}}
+### Collaborative Lesson Development Training
 
-Note: Members are eligible for a 40% discount off the listed fees.
+Collaborative Lesson Development Training gives your community members the skills they need to design and implement effective, accessible curriculum together. Our two-part, 24-hour training teaches best practices in curriculum design and collaborative development of an open source lesson website. For more information about Collaborative Lesson Development, visit our [Collaborative Lesson Development page](/lesson-development/).
+
+### Learner-Centered Teaching
+
+### Short-format Professional Development
+
+
 
 ## Instructor Trainer Training Pricing
 
 Instructor Trainer Training is an essential step for individuals interested in teaching The Carpentries Instructor Training events and contributing to the growth of our community. The training includes 10 weekly one-hour sessions that explore The Carpentries’ teaching philosophy and the educational research behind our curriculum. Pricing for Instructor Trainer Training varies based on country income classification. For detailed pricing information or to inquire about participation, please contact us at [membership@carpentries.org](mailto:membership@carpentries.org).
-
-## Collaborative Lesson Development Training Pricing
-
-Collaborative Lesson Development Training gives your community members the skills they need to design and implement effective, accessible curriculum together. Our two-part, 24-hour training teaches best practices in curriculum design and collaborative development of an open source lesson website. For more information about Collaborative Lesson Development, visit our [Collaborative Lesson Development page](/lesson-development/).
-
-{{< table >}}
-|                    | Base fee: 2 people (Non-profit) | Each additional person (Non-profit) |Base fee: 2 people (Corporate) | Each additional person (Corporate) |
-|--------------------|-----------|--------------|---------------|--------------------| 
-|High Income         |$5,000     | $1000        |$20,000        |$4,000              |
-|Upper-Middle Income |$3,750     | $750         |$15,000        |$3,000              | 
-|Lower-Middle Income |$2,500     | $500         |$10,000        |$2,000              |
-|Low Income          |$1,250     | $250         |$5,000         |$1,000              | 
-{{< /table >}}
-
-## Membership Pricing
-
-Memberships include a bundle of Workshops and Instructor Training seats for organisations seeking to provide computational and data training to their community. Members can add-on additional Workshops, Instructor Training seats, and Collaborative Lesson Development Training seats to their Membership package at a 40% discount to the prices shown above. For more information about Membership, visit our [Membership page](/support/membership/).
-
-### Non-profit pricing
-
-{{< table >}}
-|                                 | Bronze | Silver | Gold    | Platinum | Titanium |
-|------------------------         |--------|--------|---------| ---------| -------- |
-|**Centrally-Organised workshops**| 2      | 2      | 1       | 0        |   0      |
-|**Instructor Training seats**    | 0      | 5      | 14      | 15       |   0      |
-|High Income                      | $3,600 | $8,100 | $16,200 | $13,500  |   $5,000 |
-|Upper-Middle Income              | $2,700 | $6,075 | $12,150 | $10,125  |   $3,570 |
-|Lower-Middle Income              | $1,800 | $4,050 | $8,150  | $6,750   |   $2,500 |
-|Low Income                       | $900   | $2,025 | $4,050  | $3,375   |   $1,250 |
-{{< /table >}}
-
-### Corporate pricing
-
-{{< table >}}
-|                                 | Bronze   | Silver  | Gold    | Platinum | Titanium  |
-|------------------------         |----------|---------|---------| ---------| --------- |
-|**Centrally-Organised workshops**| 2        | 2       | 1       | 0        |   0       |
-|**Instructor Training seats**    | 0        | 5       | 14      | 15       |   0       |
-|High Income                      | $14,400  | $32,400 | $64,800 | $54,000  |   $20,000 |
-|Upper-Middle Income              | $10,800  | $24,300 | $48,600 | $40,500  |   $14,280 |
-|Lower-Middle Income              | $7,200   | $16,200 | $32,600 | $27,000  |   $10,000 |
-|Low Income                       | $3,600   | $8,100  | $16,200 | $13,500  |   $5,000  |
-{{< /table >}}
 
 ## Contact Us
 Have Questions? Please contact our team at [{{< param team_email >}}](mailto:{{< param team_email >}}).
