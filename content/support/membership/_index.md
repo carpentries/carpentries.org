@@ -22,7 +22,7 @@ Partners gain access to a comprehensive suite of training programs, consultation
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>Hands-on, practice-based training in teaching and lesson development.</b> Receive priority access to our Instructor Training and Collaborative Lesson Development programs, which will empower high-quality lesson creation and instruction at your institution.</td>
+        <td><b>Hands-on, practice-based training in teaching and lesson development.</b> Receive priority access to our Instructor Training and Collaborative Lesson Development Training programs, which will empower high-quality lesson creation and instruction at your institution.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -43,15 +43,12 @@ Partners gain access to a comprehensive suite of training programs, consultation
 
 Our Partnership program is flexible to enable you to build the service package that works best for your team. 
 We offer four Partnership levels and encourage you to contact us to discuss more customisation options. 
-Annual Partnership fees are as listed below for high-income economies. 
-Institutions located in upper-middle, lower-middle, and low-income economies are eligible for 25%, 50%, or 75% reduced pricing, respectively.
-Economy classification is based on the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
 
 Each Partnership level comes with a set number of service options that can be mixed and matched from the following: 
 
 - one (1) workshop using one of our data science or computational skills curricula, or
 - two (2) seats in a certification program (Instructor Training or Collaborative Lesson Development Training), or
-- four (4) seats in our new Learner-Centered Teaching program, or
+- four (4) seats in our Learner-Centered Teaching program, or
 - sixteen (16) seats in one of our short-format professional development courses, or
 - any fractional combination of the above.
 
@@ -63,21 +60,26 @@ Partnership packages at the **Expand**, **Scale**, and **Transform** levels allo
 
 ### Launch Partnership
 
-Appropriate for organisations in the early stages of establishing a local community of practice around data science and computational research skills, a Launch Partnership can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing
-organisational investment. 
+Appropriate for organisations in the early stages of establishing a local community of practice around data science and computational research skills, a Launch Partnership can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing sustained organisational investment. 
 
 ### Expand Partnership
 
 For organisations ready to increase their training capacity, an Expand Partnership provides multiple options for skill development and community building. 
-Organisations at the Expand level may elect to train up to six individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve seats in our Learner-Centered Training program, or combine either of those paths with short-format professional development opportunities for their staff and students.
+Organisations at the Expand level may elect to train up to six individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
 
 ## Scale Partnership
 
-Designed for organisations seeking broad impact, a Scale Partnership enables coordinated delivery of training efforts across multiple departments and sustained programming for long-lasting growth of overall institutional capacity. 
+Designed for organisations seeking to broaden their impact, a Scale Partnership enables expanded programming for long-lasting growth of overall institutional capacity. 
+Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors or Lesson Developers. 
+They can also reward existing community members with additional professional development opportunities. 
 
 ### Transform Partnership
 
-Intended for organisations pursuing truly institution-wide change, a Transform Partnership enables large-scale capacity building and sustained, organisation-wide impact. 
+Intended for organisations pursuing truly institution-wide change, a Transform Partnership enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
+Transform level Partners can certify up to sixteen individuals as Carpentries Lesson Developers or Instructors, providing the person-power for extensive curriculum development and instructional efforts. 
+Alternatively, Transform Partners can standardise onboarding of cohorts of new educators (e.g. graduate teaching assistants) through our one-day Learner-Centered Teaching program. 
+
+No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
 
 ### In addition to the benefits above, all Partnerships include:
 
@@ -89,7 +91,7 @@ Intended for organisations pursuing truly institution-wide change, a Transform P
 * Quarterly reports on service usage and trainee progress towards certification.
 * Opportunity to submit a candidate for our Instructor Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply).
 * Unlimited self-organised workshops.
-* Recognition of the valuable service contributions made by your Organisational members to the global Carpentries community.
+* Recognition of the valuable service contributions made by your organisational members to the global Carpentries community.
 * Access to discounted pricing for additional services purchased during the Partnership year.
 
 [Become a Partner]({{< param partnership_form >}})
