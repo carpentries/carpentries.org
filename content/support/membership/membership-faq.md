@@ -142,9 +142,7 @@ will reply within 3-5 business days with the information we can provide.
 {{< /accordion >}}
 
 {{< accordion title="What if I do not use all of my Instructor Training seats before the end of my membership?" >}}
-The success of our program depends on accurately predicting our capacity needs, so we may not be able to accommodate all
-situations.  However, we know unexpected things can come up. If you are nearing the end of your membership term and have not used
-all your seats, please contact us at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+The success of our program depends on accurately predicting our capacity needs, so we may not be able to accommodate all situations. A reminder that benefits, including Instructor Training seats and Workshops, will be forfeited if they are not used before the end of the subscription.  Please contact us [{{< param membership_email >}}](mailto:{{< param membership_email >}}) if you have any questions.
 {{< /accordion >}}
 
 {{< accordion title="What if I want to train more people at my site than my agreement allows?" >}}
