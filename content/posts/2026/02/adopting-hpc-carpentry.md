@@ -5,7 +5,7 @@ teaser: "The HPC Carpentry Steering Committee and Carpentries Director of Curric
 title: "HPC Carpentry Approved as The Carpentries' Fourth Lesson Program"  
 date: 2026-02-26  
 time: "09:00:00"  
-tags: ["HPC Carpentry"]  
+tags: ["HPC Carpentry", "Merger"]  
 ---
 
 ![The HPC Carpentry logo alongside those of Data Carpentry, Library Carpentry, and Software Carpentry. HPC Carpentry will join these projects as a lesson program of The Carpentries.](/blog/2026/02/four-lesson-programs-row.png)
