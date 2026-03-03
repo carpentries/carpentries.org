@@ -10,7 +10,7 @@ tags: ["AMY", "Community", "Instructors", "Maintainers"]
 
 We have recently released some updates on AMY, our community data management software. We are calling on our Instructors, Instructor Trainers, Maintainers, and all other Carpentries community members with a profile on AMY to please take a few minutes to update your airport location and any other outdated information on your AMY profile.
 
-Active Carpentries community members can [log in to AMY via GitHub](https://amy.carpentries.org/). The [AMY Community User Guide](https://carpentries.github.io/amy/users_guide/community_index/) provides step-by-step instructions for logging in to AMY and updating your profile. 
+Active Carpentries community members can [log in to AMY via GitHub]({{< param amy_base >}}). The [AMY Community User Guide](https://carpentries.github.io/amy/users_guide/community_index/) provides step-by-step instructions for logging in to AMY and updating your profile. 
 
 If you have difficulty logging in, you can contact The Carpentries Core Team at team@carpentries.org. 
 
@@ -64,4 +64,5 @@ For community members unfamiliar with Mastodon, we co-produced a [Mastodon Quick
 Keeping your AMY profile up to date may feel like a small task, but it plays an important role in helping us understand who we are, where we are, and how we can best serve our community. Accurate data allows us to connect the right people to the right opportunities, strengthen regional support, recognise your contributions, and measure the real impact of our programs around the world.
 
 Our goal is to steward our community data with care so that we can continue making meaningful, measurable impact together. Thank you for all that you do and for taking a few minutes to ensure your information reflects the incredible work you are already leading.
+
 
