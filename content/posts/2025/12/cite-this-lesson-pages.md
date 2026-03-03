@@ -14,7 +14,7 @@ A new version of The Carpentries Workbench was released this month, and included
 
 [*Cite This Lesson* pages](https://carpentries.github.io/lesson-development-training/citation.html) will now be included in any lesson with a `CITATION.cff` file in the source repository. By displaying contributor information as a part of the lesson website, these pages will provide a lot more visibility to all the people who have made the lesson what it is. The Curriculum Team has been hoping to provide this kind of acknowledgement to lesson contributors for many years, and this is a major step towards the establishment of a regular release cycle for Carpentries lessons.
 
-![Screenshot of the Acknowledgements and Citations section of a lesson, with a Cite This Lesson page.](/blog/2025/12/cite-this-lesson.png)
+![Screenshot of the Acknowledgements and Citations section of a lesson, with a Cite This Lesson page.](cite-this-lesson.png)
 
 Maintainers of Data Carpentry, Library Carpentry, and Software Carpentry lessons will receive support from the Curriculum Team to populate a `CITATION.cff` in their lesson repository during the first months of 2026\. Community members using the Workbench to develop and maintain their own lessons (in the Incubator and elsewhere) can refer to the [documented recommendations for the contents of the citation file](https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable) when creating their own `CITATION.cff`.
 
