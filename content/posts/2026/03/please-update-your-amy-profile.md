@@ -12,7 +12,7 @@ We have recently released some updates on AMY, our community data management sof
 
 Active Carpentries community members can [log in to AMY via GitHub]({{< param amy_base >}}). The [AMY Community User Guide](https://carpentries.github.io/amy/users_guide/community_index/) provides step-by-step instructions for logging in to AMY and updating your profile. 
 
-If you have difficulty logging in, you can contact The Carpentries Core Team at team@carpentries.org. 
+If you have difficulty logging in, you can contact The Carpentries Core Team at {{< param team_email >}}. 
 
 ## Highlight Updates
 
@@ -42,9 +42,9 @@ Following last year’s [introduction of Cite This Lesson pages](/blog/2025/12/c
 
 ### Update email address and list of workshops taught 
 
-If you need to update your email address, please reach out to us at team@carpentries.org, and we will gladly assist you. You are not able to make this change on your own. Our team must manually update your email.  
+If you need to update your email address, please reach out to us at {{< param team_email >}}, and we will gladly assist you. You are not able to make this change on your own. Our team must manually update your email.  
 
-Your AMY profile contains a list of all the events you have participated in. If the list is inaccurate, please also let us know by contacting team@carpentries.org. If you have the workshop website available, the workshop slug or the workshop dates, please provide that information when you email us. 
+Your AMY profile contains a list of all the events you have participated in. If the list is inaccurate, please also let us know by contacting {{< param team_email >}}. If you have the workshop website available, the workshop slug or the workshop dates, please provide that information when you email us. 
 
 ### Option to remove X/Twitter profile and add your Bluesky and Mastodon profiles
 
@@ -54,8 +54,8 @@ Related to this, other community members have opted to remove their X/Twitter ha
 
 Follow and engage with us on Bluesky and Mastodon! 
 
-* Our Bluesky profile: https://bsky.app/profile/carpentries.carpentries.org 
-* Our Mastodon profile: https://hachyderm.io/@thecarpentries 
+* Our Bluesky profile: {{< param bluesky >}} 
+* Our Mastodon profile: {{< param mastodon >}}
 
 We would also like to remind the community that The Carpentries co-produced a [Mastodon Quick Start Guide](https://zenodo.org/records/14170125) with rOpenSci for our community members interested in adopting Mastodon as a social media platform. 
 
@@ -64,6 +64,7 @@ We would also like to remind the community that The Carpentries co-produced a [M
 Keeping your AMY profile up to date may feel like a small task, but it plays an important role in helping us understand who we are, where we are, and how we can best serve our community. Accurate data allows us to connect the right people to the right opportunities, strengthen regional support, recognise your contributions, and measure the real impact of our programs around the world.
 
 Our goal is to steward our community data with care so that we can continue making meaningful, measurable impact together. Thank you for all that you do and for taking a few minutes to ensure your information reflects the incredible work you are already leading.
+
 
 
 
