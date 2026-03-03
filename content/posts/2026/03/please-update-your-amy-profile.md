@@ -57,12 +57,13 @@ Follow and engage with us on Bluesky and Mastodon!
 * Our Bluesky profile: https://bsky.app/profile/carpentries.carpentries.org 
 * Our Mastodon profile: https://hachyderm.io/@thecarpentries 
 
-For community members unfamiliar with Mastodon, we co-produced a [Mastodon Quick Start Guide](https://zenodo.org/records/14170125) with rOpenSci. 
+We would also like to remind the community that The Carpentries co-produced a [Mastodon Quick Start Guide](https://zenodo.org/records/14170125) with rOpenSci for our community members interested in adopting Mastodon as a social media platform. 
 
 ## Thank You!
 
 Keeping your AMY profile up to date may feel like a small task, but it plays an important role in helping us understand who we are, where we are, and how we can best serve our community. Accurate data allows us to connect the right people to the right opportunities, strengthen regional support, recognise your contributions, and measure the real impact of our programs around the world.
 
 Our goal is to steward our community data with care so that we can continue making meaningful, measurable impact together. Thank you for all that you do and for taking a few minutes to ensure your information reflects the incredible work you are already leading.
+
 
 
