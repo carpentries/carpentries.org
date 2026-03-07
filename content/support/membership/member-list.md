@@ -9,4 +9,4 @@ aliases:
 - /partners/
 ---
 
-{{< partners >}}
+{{< members >}}
