@@ -94,12 +94,12 @@ No matter which level of Partnership you pursue, The Carpentries team with help 
 * Recognition of the valuable service contributions made by your organisational members to the global Carpentries community.
 * Access to discounted pricing for additional services purchased during the Partnership year.
 
-[Become a Partner]({{< param partnership_form >}})
+[Become a Partner]({{< param membership_form >}})
 {.button} 
 
 ## Contact Us
 
-Have Questions? Please consult our [Partnership FAQ](/support/membership/partnership-faq/) or contact our team at [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
+Have Questions? Please consult our [Partnership FAQ](/support/membership/partnership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 
 
 
