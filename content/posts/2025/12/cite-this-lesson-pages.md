@@ -36,3 +36,4 @@ Finally, although not in this release, major improvements are coming to the work
 
 
 The improvements will be worth the wait: they will bring major improvements to the stability of the infrastructure through the use of containers, and reduce the time it takes to build and deploy lessons when changes are made to the content. The availability of maintained containers for the Workbench will also provide an easy way for community members to install the infrastructure on their local system.
+
