@@ -6,8 +6,8 @@ blocks:
   options:
     - copy: Host a workshop
       url: /workshops/host-workshop/
-    - copy: Become a member organisation
-      url: /support/membership/
+    - copy: Become a Partner Organisation
+      url: /support/partnership/
     - copy: Become a volunteer
       url: /community/get-involved/
     - copy: Become an Instructor
@@ -39,7 +39,7 @@ blocks:
     url: '/workshops/upcoming-workshops/'
 - layout: logo-grid
   title: Our supporters
-  copy: We are supported by our member organisations, those who sponsor workshops, as well as grants and donations from various sources.
+  copy: We are supported by our Partner Organisations, those who sponsor workshops, as well as grants and donations from various sources.
   logos:
   - logo: sponsors/mellon.svg
     url: https://www.mellon.org/
@@ -58,7 +58,7 @@ blocks:
     url: /support/
 - layout: logo-grid
   title: Our Affiliations
-  copy: From time to time, The Carpentries collaborates with other open science organisations through partnerships, membership affiliations, reciprocal commitments, and by participating in the programs of affiliate organisations.
+  copy: From time to time, The Carpentries collaborates with other open science organisations through partnerships, reciprocal commitments, and by participating in the programs of affiliate organisations.
   logos:
   - logo: sponsors/us_rse.png
     url: https://us-rse.org/

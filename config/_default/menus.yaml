@@ -62,16 +62,16 @@ community:
 - name: Get Involved
   pageRef: /community/get-involved
   weight: 40
-# Membership tabbed menu
-membership:
-- name: Membership
-  pageRef: /support/membership
+# Partnership tabbed menu
+partnership:
+- name: Partnership
+  pageRef: /support/partnership
   weight: 10
-- name: Membership FAQ
-  pageRef: /support/membership/membership-faq
+- name: Partnership FAQ
+  pageRef: /support/partnership/partnership-faq
   weight: 20
-- name: Current Members
-  pageRef: /support/membership/member-list/
+- name: Current Partners
+  pageRef: /support/partnership/parter-list/
 # CLDT tabbed menu
 cldt:
 - name: Lesson Development
