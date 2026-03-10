@@ -1,7 +1,7 @@
 --- 
 layout: page  
 authors: ["SherAaron Hurt"]  
-Teaser: The Carpentries project, "Empowering Indigenous Research Through Open Science: Pedagogical Training at KBOCC," has received funding through the Catalytic Awards Program.  
+Teaser: The Carpentries project, Empowering Indigenous Research Through Open Science: Pedagogical Training at KBOCC, has received funding through the Catalytic Awards Program.  
 title: The Carpentries Receives a Catalytic Award for  Training at Keweenaw Bay Ojibwa Community College  
 date: 2026-03-12  
 time: "09:00:00"  
@@ -37,4 +37,5 @@ Importantly, this project is reciprocal. While KBOCC builds instructional capaci
 We are honoured to partner with KBOCC in this work and excited to observe the ripple effects that will emerge as new Instructors begin leading open science learning across their campus and beyond.
 
 Stay tuned for updates as we create a momentous partnership with KBOCC. 
+
 
