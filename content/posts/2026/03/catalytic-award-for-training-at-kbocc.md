@@ -7,6 +7,7 @@ date: 2026-03-12
 time: "09:00:00"  
 tags: ["Instructor Trainers", "Community", "Workshops", "Grants"]  
 ---  
+
 The Workshops and Instruction Team are thrilled to share that our project, **Empowering Indigenous Research Through Open Science: Pedagogical Training at KBOCC**, has received funding through the Catalytic Awards Program.
 
 This award supports a collaboration between The Carpentries and Keweenaw Bay Ojibwa Community College to strengthen open scholarship at a rural Tribal College and expand equitable access to research training within Indigenous communities.
@@ -37,5 +38,6 @@ Importantly, this project is reciprocal. While KBOCC builds instructional capaci
 We are honoured to partner with KBOCC in this work and excited to observe the ripple effects that will emerge as new Instructors begin leading open science learning across their campus and beyond.
 
 Stay tuned for updates as we create a momentous partnership with KBOCC. 
+
 
 
