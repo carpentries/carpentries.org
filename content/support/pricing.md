@@ -43,6 +43,23 @@ Available service options include:
 - sixteen (16) seats in one of our short-format professional development courses, or
 - any fractional combination of the above.
 
+### Service Discounts
+
+Our impact depends on continuing contributions from our community.
+To recognise those contributions, we offer discounts on Partnership packages to organisations with members actively contributing in the following roles.
+
+{{< table >}}
+| **Community Role**                      | **Discount** |
+| --------------------------------------- | -------------|
+| Instructor Trainer                      | 30%          |
+| Lesson Developer Trainer                | 30%          |
+| Code of Conduct Committee Member        | 10%          |
+| Centrally Organised Workshop Instructor | 5%           |
+{{< /table >}}
+
+Service requirements apply for each role and a maximum discount of 60% can be applied to any Partnership package. 
+Talk with us about how to ensure members of your organisation receive credit for their service to The Carpentries community.
+
 ## Add On and A la Carte Services
 
 Non-Partners can purchase services at the a la carte prices listed below. 
