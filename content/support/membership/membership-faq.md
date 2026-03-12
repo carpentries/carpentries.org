@@ -5,56 +5,52 @@ cascade:
   nav: membership
 aliases:
 - /member_faq/
+- /partnership_faq/
 ---
 
 ## Memberships
 
-{{< accordion title="What are the benefits of a Carpentries membership?" >}}
-- **Hands-on, practice-based training in teaching**. Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.
-- **Computational and data skills training**. Gain access to our pool of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across various disciplines.
-- **Values-driven community of practice**. Become part of our inclusive community, centred on building strength through diversity and empowering community collaboration through lifelong learning.
+{{< accordion title="What are the benefits of a Carpentries Partnership?" >}}
+- **Hands-on, practice-based training in teaching and lesson development.** Receive priority access to our Instructor Training and Collaborative Lesson Development Training programs, which will empower high-quality lesson creation and instruction at your institution.
+- **Computational and data skills training.** Gain access to our global network of thousands of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.
+- **Professional development.** Keep your team's skills relevant to the evolving digital workplace with short-format training in remote collaboration, effective meeting facilitation, and more.
+- **Values-driven community of practice.** Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.
 {{< /accordion >}}
 
-{{< accordion title="What are the standard membership packages you offer?" >}}
-We offer Bronze, Silver, and Gold membership packages, each with an allotted number of Centrally-Organised [workshops](/workshops).
-Silver and Gold memberships also include seats in our [Instructor Training](https://carpentries.github.io/instructor-training/)
-program. Platinum memberships include Instructor Training seats, but no Centrally-Organised workshops. All memberships include unlimited
-Self-Organised workshops and access to Member pricing for additional Centrally-Organised workshops and Instructor Training seats purchased during the membership year. Read more about the benefits and dues for each plan on our [membership](/membership) page.
+{{< accordion title="What are the standard Partnership packages you offer?" >}}
+We offer Launch, Expand, Scale, and Transform Partnership packages, each with an allotted number of service options that can be used across our programming. 
+No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
+Read more about the benefits for each plan on our [Partnership](/partnership) page.
 {{< /accordion >}}
 
-{{< accordion title="Which membership should I purchase?" >}}
-* <b>Bronze membership</b> is an excellent option for any organisation starting out with The Carpentries and wanting to quickly bring data and computational training to their community. The Bronze level is also great for introducing your local community to The Carpentries and building interest for Instructor Training.
-* <b>Silver and Gold memberships</b> are ideal for organisations wanting to quickly build capacity for training in their community.
-* <b>Platinum memberships</b> are best for organisations that would like to continue building capacity for training and already have a group of local Carpentries Instructors capable of running Self-Organised workshops.
-* <b>Titanium memberships</b> are suited for organisations who do not need coordinated workshops or Instructor Training seats but would
-like to maintain their membership status, financially support The Carpentries, and connect with other Members. To be eligible for
-Titanium membership, organisations must have at least one prior year of membership.<br><br>
+{{< accordion title="Which Partnership should I purchase?" >}}
+- **Launch Partnerships** are most appropriate for organisations in the early stages of establishing a local community of practice around data science and computational research skills. This Partnership level can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing sustained organisational investment.
+- **Expand Partnerships** are for organisations ready to increase their training capacity, and provides multiple options for skill development and community building.
+- **Scale Partnerships** are designed for organisations seeking to broaden their impact. This level enables expanded programming for long-lasting growth of overall institutional capacity.
+- **Transform Partnerships** are intended for organisations pursuing truly institution-wide change. This level enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
 {{< /accordion >}}
 
-{{< accordion title="What if those membership packages do not fit my institution’s needs?" >}}
-We would be happy to talk with you to learn more about your institution’s goals and create a custom plan that works for you.  Contact our membership team to schedule a meeting at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+{{< accordion title="What if those Partnership packages do not fit my organisations’s needs?" >}}
+We would be happy to talk with you to learn more about your organisation’s goals and create a custom plan that works for you.  Contact our Partnership team to schedule a meeting at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
-{{< accordion title="Do I need to renew my membership each year?" >}}
-Yes. The Carpentries memberships are annual memberships, extending for a period of one year. Renewing your membership in advance is a great way to avoid a lapse in membership.
+{{< accordion title="Do I need to renew my Partnership each year?" >}}
+Yes. The Carpentries Partnerships are annual subscriptions, extending for a period of one year. Renewing your Partnership in advance is a great way to avoid a lapse in services.
 {{< /accordion >}}
 
 {{< accordion title="Are any discounts available?" >}}
-Organisations supporting [Instructor Trainers]({{< param handbook_url >}}/handbooks/instructor_trainers.html#roles-and-responsibilities), who engage in
-service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount to their membership fee
-equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount or as added benefits.  This discount is available at any membership level, for each trainer who has participated in the following up to 1 year prior to renewal:
-* teach at least two (2) Instructor Training events for the global Carpentries community.
+Absolutely! Our impact depends on continuing contributions from our community. To recognise those contributions, we offer discounts on Partnership packages to organisations with members actively contributing in a variety of roles. Information about available discounts can be found on our [pricing page](https://carpentries.org/support/pricing/#service-discounts).
 {{< /accordion >}}
 
-{{< accordion title="How can I find out if my institution already has a membership?" >}}
-A list of our [current Member organisations](/members/) can be found on our website. If you would like
-help in making contact with the person in charge of your institutional membership, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+{{< accordion title="How can I find out if my institution already has a Partnership?" >}}
+A list of our [current Partner organisations](/partners/) can be found on our website. If you would like
+help in making contact with the person in charge of your institutional Partnership, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
-{{< accordion title="How do I get started with my membership?" >}}
+{{< accordion title="How do I get started with my Partnership?" >}}
 - [Review the Code of Conduct]({{< param handbook_url >}}/policies/coc/):  We are committed to fostering a welcoming and supportive environment for everyone. By participating in this community, you agree to uphold our Code of Conduct, which ensures respectful and inclusive engagement.
 
-- [Schedule an Onboarding Session](https://calendly.com/carpentries-membership/onboarding): Join a 30-minute onboarding session with a Core Team member to learn how to maximise your membership. This session provides valuable insights, tips, and an opportunity to ask questions.
+- [Schedule an Onboarding Session](https://calendly.com/carpentries-membership/onboarding): Join a 30-minute onboarding session with a Core Team member to learn how to maximise your Partnership. This session provides valuable insights, tips, and an opportunity to ask questions.
 {{< /accordion >}}
 
 ## Workshops
