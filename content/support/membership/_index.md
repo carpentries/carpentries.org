@@ -67,7 +67,7 @@ Appropriate for organisations in the early stages of establishing a local commun
 For organisations ready to increase their training capacity, an Expand Partnership provides multiple options for skill development and community building. 
 Organisations at the Expand level may elect to train up to six individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
 
-## Scale Partnership
+### Scale Partnership
 
 Designed for organisations seeking to broaden their impact, a Scale Partnership enables expanded programming for long-lasting growth of overall institutional capacity. 
 Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors or Lesson Developers. 
@@ -81,7 +81,7 @@ Alternatively, Transform Partners can standardise onboarding of cohorts of new e
 
 No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
 
-### In addition to the benefits above, all Partnerships include:
+## In addition to the benefits above, all Partnerships include:
 
 * Personalised consultation with a member of The Carpentries team to develop a customised training package that meets your organisation's goals.
 * Access to resources and support for establishing and maintaining a thriving local community around teaching and learning data science and computational skills.
