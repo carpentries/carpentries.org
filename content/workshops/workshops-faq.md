@@ -170,7 +170,7 @@ For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Te
 
 {{< accordion title="How do I get survey data/links for previous workshops?" >}}
 
-The Workshops and Instruction Team (WIT) can provide survey result links for past workshops (August 2018 - present) to Instructors and hosts affiliated with the workshop, or a member contact affiliated with the host organisation. To request survey results links, please send an email to WIT (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshops and Instruction Team (WIT) can provide survey result links for past workshops (August 2018 - present) to Instructors and hosts affiliated with the workshop, or a designated contact affiliated with the host organisation. To request survey results links, please send an email to WIT (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
 {{< /accordion >}}
 
 {{< accordion title="Can we restrict who participates in our workshops?" >}}
@@ -197,5 +197,5 @@ Hosting organisations are welcome to compensate Instructors directly, as The Car
 
 ## Further Resources
 
-Visit our [Membership FAQ page](/support/membership/membership-faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations.
+Visit our [Partnership FAQ page](/support/partnership/partnership-faq/) for frequently asked questions specifically relevant to Carpentries Partner Organisations.
 Visit our [Instructor Handbook FAQ]({{< param handbook_url >}}/handbooks/instructors.html#faq) for frequently asked questions about the Self-Organised workshops process and the Instructor role. 

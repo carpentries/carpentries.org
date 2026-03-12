@@ -1,29 +1,36 @@
 ---
-title: The Carpentries Memberships
+title: The Carpentries Partnerships
 layout: single
 cascade:
-  nav: membership
+  nav: partnership
 widgets:
 - newsletter
 aliases:
 - /membership/
+- /partnership/
 ---
 
-## Become A Member
+## Become A Partner
 
-Jump start your local data skills training efforts with a Carpentries Membership. First, we’ll begin with a series of engaging, hands-on workshops on your choice of topics from our 45+ lessons. Then, we’ll train a group of your community members to continue delivering data skills training far beyond your membership end date. Our highly-sought after Instructor Training program will upskill local leaders to lead effective, evidence-based learning experiences for your community. You will also join our global network of 100+ member organisations and connect with peers around challenges and opportunities in data skills training.
+Jump start your local data skills training efforts with a Carpentries Partnership. 
+By partnering with The Carpentries, organisations join a global, professional skill-building community dedicated to teaching foundational data and computational skills. 
+Partners gain access to a comprehensive suite of training programs, consultation services, community engagement opportunities, and resources, enabling them to grow local communities focused on teaching and learning data skills.
 
-## Why Membership?
+## Why Partnership?
 
 {{< table features >}}
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>Hands-on, practice-based training in teaching.</b> Receive priority access to our Instructor Training program, which will empower high-quality instruction at your institution and certify leaders in your community to teach Carpentries workshops.</td>
+        <td><b>Hands-on, practice-based training in teaching and lesson development.</b> Receive priority access to our Instructor Training and Collaborative Lesson Development Training programs, which will empower high-quality lesson creation and instruction at your institution.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
-        <td><b>Computational and data skills training.</b> Gain access to our pool of 3,400+ certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
+        <td><b>Computational and data skills training.</b> Gain access to our global network of thousands of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.</td>
+    </tr>
+    <tr>
+        <td>Has Feature</td>
+        <td><b>Professional development.</b> Keep your team's skills relevant to the evolving digital workplace with short-format training in remote collaboration, effective meeting facilitation, and more.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -32,60 +39,67 @@ Jump start your local data skills training efforts with a Carpentries Membership
    </table>
 {{< /table >}}
 
-## Membership Levels
+## Partnership Levels
 
-We offer five customisable membership levels based on the needs of your organisation. The annual membership fee for each membership level is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
+Our Partnership program is flexible to enable you to build the service package that works best for your team. 
+We offer four Partnership levels and encourage you to contact us to discuss more customisation options. 
 
-[View our current pricing tiers](/support/pricing/#membership-pricing).
+Each Partnership level comes with a set number of service options that can be mixed and matched from the following: 
+
+- one (1) workshop using one of our data science or computational skills curricula, or
+- two (2) seats in a certification program (Instructor Training or Collaborative Lesson Development Training), or
+- four (4) seats in our Learner-Centered Teaching program, or
+- sixteen (16) seats in one of our short-format professional development courses, or
+- any fractional combination of the above.
+
+Our **Launch** level subscription allows you to choose one of the above service options. 
+Partnership packages at the **Expand**, **Scale**, and **Transform** levels allow you to select three, five, and eight service options from the list above, respectively. Additional services can be added on to your Partnership at any time during the Partnership term. 
+
+[View our current pricing tiers](/support/pricing/#partnership-pricing).
 {.button} 
 
-### Bronze Membership
+### Launch Partnership
 
-- 2 workshops
-{.badges}
+Appropriate for organisations in the early stages of establishing a local community of practice around data science and computational research skills, a Launch Partnership can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing sustained organisational investment. 
 
-Appropriate for organisations that want to experience The Carpentries teaching model, but do not yet have organisational interest in building up a local Instructor pool.
+### Expand Partnership
 
-### Silver Membership
+For organisations ready to increase their training capacity, an Expand Partnership provides multiple options for skill development and community building. 
+Organisations at the Expand level may elect to train up to six individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
 
-- 2 workshops
-- 5 instructor training seats
-{.badges} 
+### Scale Partnership
 
-Our most popular level! Appropriate for organisations that are ready to start building their local Instructor community, but still want some support on workshop administration.
+Designed for organisations seeking to broaden their impact, a Scale Partnership enables expanded programming for long-lasting growth of overall institutional capacity. 
+Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors or Lesson Developers. 
+They can also reward existing community members with additional professional development opportunities. 
 
-### Gold Membership
+### Transform Partnership
 
-- 1 workshop
-- 14 instructor training seats
-{.badges} 
+Intended for organisations pursuing truly institution-wide change, a Transform Partnership enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
+Transform level Partners can certify up to sixteen individuals as Carpentries Lesson Developers or Instructors, providing the person-power for extensive curriculum development and instructional efforts. 
+Alternatively, Transform Partners can standardise onboarding of cohorts of new educators (e.g. graduate teaching assistants) through our one-day Learner-Centered Teaching program. 
 
-Best for organisations that are ready to scale up their local workshop offerings and start becoming independent of The Carpentries' administrative support.
+No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
 
-### Platinum Membership
+## In addition to the benefits above, all Partnerships include:
 
-- 15 instructor training seats
-{.badges}
-
-Ideal for organisations that run a lot of Self-Organised workshops and want to keep growing their local Instructor pool.
-
-### Titanium Membership
-
-An option for organisations that want to continue supporting The Carpentries financially, but don't need support with workshop organisation or Instructor Training.
-
-### In addition to the benefits above, all Memberships include:
-
-* Quarterly reports on benefit usage and trainee progress towards certification.
-* Opportunity to submit a candidate for our Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply).
+* Personalised consultation with a member of The Carpentries team to develop a customised training package that meets your organisation's goals.
+* Access to resources and support for establishing and maintaining a thriving local community around teaching and learning data science and computational skills.
+* Opportunities to connect with and contribute to our global community through:
+  * Sharing job postings, research projects, and training initiatives with our worldwide network.
+  * Participating in community calls, forums, and collaborative projects.
+* Quarterly reports on service usage and trainee progress towards certification.
+* Opportunity to submit a candidate for our Instructor Trainer Training course, through which individuals can become certified to teach our Instructor Training courses (additional fees apply).
 * Unlimited self-organised workshops.
-* Access to Member pricing for additional Centrally-Organised workshops, Instructor Training seats, and Collaborative Lesson Development Training seats purchased during the membership year.
+* Recognition of the valuable service contributions made by your organisational members to the global Carpentries community.
+* Access to discounted pricing for additional services purchased during the Partnership year.
 
-[Become a member]({{< param membership_form >}})
+[Become a Partner]({{< param membership_form >}})
 {.button} 
 
 ## Contact Us
 
-Have Questions? Please consult our [Membership FAQ](/support/membership/membership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+Have Questions? Please consult our [Partnership FAQ](/support/membership/partnership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 
 
 
