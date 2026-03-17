@@ -61,7 +61,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Register
 
-Registration link coming soon!
+Visit our [calendar](https://carpentries.github.io/instructor-training-lct/training_calendar.html) to register for an upcoming event.
 
 ## Request an Accommodation 
 
