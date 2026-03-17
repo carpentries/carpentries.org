@@ -61,7 +61,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Register
 
-<!-- Add registration information -->
+Registration link coming soon!
 
 ## Request an Accommodation 
 
