@@ -81,7 +81,9 @@ Alternatively, Transform Partners can standardise onboarding of cohorts of new e
 
 No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
 
-## In addition to the benefits above, all Partnerships include:
+## Additional Benefits
+
+In addition to the benefits above, all Partnerships include:
 
 * Personalised consultation with a member of The Carpentries team to develop a customised training package that meets your organisation's goals.
 * Access to resources and support for establishing and maintaining a thriving local community around teaching and learning data science and computational skills.
