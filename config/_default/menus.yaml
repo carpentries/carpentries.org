@@ -71,7 +71,7 @@ partnership:
   pageRef: /support/partnership/partnership-faq
   weight: 20
 - name: Current Partners
-  pageRef: /support/partnership/parter-list/
+  pageRef: /support/partnership/partner-list/
 # CLDT tabbed menu
 cldt:
 - name: Lesson Development
