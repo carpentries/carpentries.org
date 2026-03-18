@@ -96,7 +96,7 @@ It is particularly relevant for teams that are primarily remote and operate acro
 
 Participants will learn practices that support strong team collaboration, including:
 
-* Designing and using decision-making frameworks and role definitions
+* Designing and using decision-making frameworks and role definitions.
 * Establishing clear, inclusive communication norms for asynchronous work.
 * Promoting shared ownership, accountability, and psychological safety on distributed teams.
 
