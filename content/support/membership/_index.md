@@ -75,7 +75,7 @@ They can also reward existing community members with additional professional dev
 
 ### Transform Partnership
 
-Intended for organisations pursuing truly institution-wide change, a Transform Partnership enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
+Intended for organisations pursuing even broader institution-wide change, a Transform Partnership enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
 Transform level Partners can certify up to sixteen individuals as Carpentries Lesson Developers or Instructors, providing the person-power for extensive curriculum development and instructional efforts. 
 Alternatively, Transform Partners can standardise onboarding of cohorts of new educators (e.g. graduate teaching assistants) through our one-day Learner-Centered Teaching program. 
 
