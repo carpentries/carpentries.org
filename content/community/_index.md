@@ -15,7 +15,7 @@ aliases:
 
 The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, and research software development through building local and global communities of practice.
 
-We continue to be an organisation primarily supported by volunteers. Our work is made possible through the efforts of our amazing workshop hosts, organisers, community champions, [Partner organisations](/support/partnership/partner-list/), and our paid staff, the [Core Team](/about-us/team/).
+We continue to be an organisation primarily supported by volunteers. Our work is made possible through the efforts of our amazing workshop hosts, organisers, community champions, [Partner Organisations](/support/partnership/partner-list/), and our paid staff, the [Core Team](/about-us/team/).
 
 ## Our Volunteer Communities
 
