@@ -10,6 +10,7 @@ tags: ["Instructors", "Online Workshops", "Pilot Workshops", "Python"]
 
 At the end of 2025, we began exploring a partnership with [Instats](https://instats.org/about) to offer recorded Carpentries workshop sessions. Instats is a mission-driven organisation that focuses on delivering a diverse range of seminars that inspire high-quality, ethical, and impactful research.
 
+### Why are we partnering with Instats?```
 The goal of working with Instats is to create more opportunities for anyone who can't attend in-person or locally hosted workshops due to availability in their region, and circumstances such as time zone conflicts. An added benefit is the ability for all learners to engage with our lessons at their own pace. 
 
 Equally important, we hope this partnership with Instats will benefit the Instructor community by offering a new way to recognise and reward Instructor contributions. Teaching Carpentries workshops through Instats provides increased visibility and compensation opportunities, and creates another avenue to give back to the community members who support our mission.
