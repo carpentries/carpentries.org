@@ -53,7 +53,7 @@ Each Partnership level comes with a set number of service options that can be mi
 - any fractional combination of the above.
 
 Our **Launch** level subscription allows you to choose one (1) of the above service options. 
-Partnership packages at the **Expand**, **Scale**, and **Transform** levels allow you to select three, five, and eight service options from the list above, respectively. Additional services can be added on to your Partnership at any time during the Partnership term. 
+Partnership packages at the **Expand**, **Scale**, and **Transform** levels allow you to select three (3), five (5), and eight (8) service options from the list above, respectively. Additional services can be added on to your Partnership at any time during the Partnership term. 
 
 [View our current pricing tiers](/support/pricing/#partnership-pricing).
 {.button} 
