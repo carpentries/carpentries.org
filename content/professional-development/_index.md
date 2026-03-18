@@ -56,7 +56,7 @@ Whether leading regular team check-ins, hosting global community calls, or conve
 This course is intended for anyone responsible for organising and facilitating online meetings in their workplace or community. 
 It is particularly relevant for:
 
-* Team leads, project coordinators, and committee chairs.
+* Team leads, project coordinators, and committee chairs
 * Community organisers
 * Professionals and volunteers working in distributed or hybrid environments.
 
