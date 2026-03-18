@@ -8,7 +8,7 @@ aliases:
 - /partnership_faq/
 ---
 
-## Memberships
+## Partnerships
 
 {{< accordion title="What are the benefits of a Carpentries Partnership?" >}}
 - **Hands-on, practice-based training in teaching and lesson development.** Receive priority access to our Instructor Training and Collaborative Lesson Development Training programs, which will empower high-quality lesson creation and instruction at your institution.
