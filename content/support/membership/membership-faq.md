@@ -19,7 +19,7 @@ aliases:
 
 {{< accordion title="What are the standard Partnership packages you offer?" >}}
 We offer Launch, Expand, Scale, and Transform Partnership packages, each with an allotted number of service options that can be used across our programming. 
-No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
+No matter which level of Partnership you pursue, The Carpentries team will help you mix and match our service offerings to build the best training program for your team!
 Read more about the benefits for each plan on our [Partnership](/partnership) page.
 {{< /accordion >}}
 
