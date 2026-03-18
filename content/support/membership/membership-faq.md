@@ -27,7 +27,7 @@ Read more about the benefits for each plan on our [Partnership](/partnership) pa
 - **Launch Partnerships** are most appropriate for organisations in the early stages of establishing a local community of practice around data science and computational research skills. This Partnership level can be used to demonstrate the uniqueness and impact of The Carpentries teaching model, as a stepping-stone towards securing sustained organisational investment.
 - **Expand Partnerships** are for organisations ready to increase their training capacity, and provide multiple options for skill development and community building.
 - **Scale Partnerships** are designed for organisations seeking to broaden their impact. This level enables expanded programming for long-lasting growth of overall institutional capacity.
-- **Transform Partnerships** are intended for organisations pursuing truly institution-wide change. This level enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
+- **Transform Partnerships** are intended for organisations pursuing even broader institution-wide change. This level enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
 {{< /accordion >}}
 
 {{< accordion title="What if those Partnership packages do not fit my organisations’s needs?" >}}
