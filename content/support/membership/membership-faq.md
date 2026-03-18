@@ -43,7 +43,7 @@ Absolutely! Our impact depends on continuing contributions from our community. T
 {{< /accordion >}}
 
 {{< accordion title="How can I find out if my institution already has a Partnership?" >}}
-A list of our [current Partner organisations](/partners/) can be found on our website. If you would like
+A list of our [current Partner Organisations](/partners/) can be found on our website. If you would like
 help in making contact with the person in charge of your institutional Partnership, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
