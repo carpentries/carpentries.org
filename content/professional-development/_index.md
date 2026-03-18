@@ -57,7 +57,7 @@ This course is intended for anyone responsible for organising and facilitating o
 It is particularly relevant for:
 
 * Team leads, project coordinators, and committee chairs.
-* Community organisers.
+* Community organisers
 * Professionals and volunteers working in distributed or hybrid environments.
 
 No prior experience with facilitation or online platforms is required.
