@@ -101,7 +101,7 @@ In addition to the benefits above, all Partnerships include:
 
 ## Contact Us
 
-Have Questions? Please consult our [Partnership FAQ](/support/membership/partnership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+Have Questions? Please consult our [Partnership FAQ](/support/partnership/partnership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 
 
 
