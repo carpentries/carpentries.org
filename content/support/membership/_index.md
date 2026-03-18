@@ -16,7 +16,7 @@ Jump start your local data skills training efforts with a Carpentries Partnershi
 By partnering with The Carpentries, organisations join a global, professional skill-building community dedicated to teaching foundational data and computational skills. 
 Partners gain access to a comprehensive suite of training programs, consultation services, community engagement opportunities, and resources, enabling them to grow local communities focused on teaching and learning data skills.
 
-## Why Partnership?
+## Why a Partnership?
 
 {{< table features >}}
 <table>
