@@ -1,5 +1,5 @@
 ---
-title: Our current Partners and Members
+title: Our current Partners
 layout: single
 cascade:
   nav: partnership
