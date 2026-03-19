@@ -70,7 +70,7 @@ Organisations at the Expand level may elect to train up to six (6) individuals a
 ### Scale Partnership
 
 Designed for organisations seeking to broaden their impact, a Scale Partnership enables expanded programming for long-lasting growth of overall institutional capacity. 
-Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors or Lesson Developers. 
+Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty (20) seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors or Lesson Developers. 
 They can also reward existing community members with additional professional development opportunities. 
 
 ### Transform Partnership
