@@ -46,7 +46,7 @@ We offer four Partnership levels and encourage you to contact us to discuss more
 
 Each Partnership level comes with a set number of service options that can be mixed and matched from the following: 
 
-- one (1) workshop using one of our data science or computational skills curricula, or
+- one (1) workshop using one of our data science or computational skills courses, or
 - two (2) seats in a certification program (Instructor Training or Collaborative Lesson Development Training), or
 - four (4) seats in our Learner-Centered Teaching program, or
 - sixteen (16) seats in one of our short-format professional development courses, or
