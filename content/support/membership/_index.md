@@ -65,7 +65,7 @@ Appropriate for organisations in the early stages of establishing a local commun
 ### Expand Partnership
 
 For organisations ready to increase their training capacity, an Expand Partnership provides multiple options for skill development and community building. 
-Organisations at the Expand level may elect to train up to six individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
+Organisations at the Expand level may elect to train up to six (6) individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve (12) seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
 
 ### Scale Partnership
 
