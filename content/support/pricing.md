@@ -24,7 +24,7 @@ For more information about Partnership, visit our [Partnership page](/support/pa
 ### Partnership Packages
 
 {{< table >}}
-| **Tier**  | **Annual Subscription (USD)** | **Service Options** |
+| **Partnership Level**  | **Annual Subscription (USD)** | **Service Options** |
 | --------- | ------------------------------| ------------------- |
 | Launch    | $2,000                        | 1                   |
 | Expand    | $6,000                        | 3                   |
