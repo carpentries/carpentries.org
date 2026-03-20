@@ -1,5 +1,5 @@
 ---
-title: Membership FAQ
+title: Partnership FAQ
 layout: single
 cascade:
   nav: membership
