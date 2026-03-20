@@ -7,7 +7,6 @@ widgets:
 - newsletter
 aliases:
 - /support/membership/
-- /support/partnership/
 ---
 
 ## Become A Partner

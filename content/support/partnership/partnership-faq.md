@@ -5,7 +5,6 @@ cascade:
   nav: membership
 aliases:
 - /support/membership/membership-faq/
-- /support/partnership/partnership-faq/
 ---
 
 ## Partnerships
