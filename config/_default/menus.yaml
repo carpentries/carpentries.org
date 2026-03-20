@@ -194,9 +194,9 @@ main:
   url: "#"
   parent: null
   weight: 50
-- identifier: membership
-  name: Membership
-  url: "/support/membership"
+- identifier: partnership
+  name: Partnership
+  url: "/support/partnership"
   parent: support
   weight: 10
 - identifier: sponsorship
