@@ -6,8 +6,8 @@ cascade:
 widgets:
 - newsletter
 aliases:
-- /membership/
-- /partnership/
+- /support/membership/
+- /support/partnership/
 ---
 
 ## Become A Partner
