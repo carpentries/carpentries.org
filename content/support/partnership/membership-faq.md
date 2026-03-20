@@ -4,8 +4,8 @@ layout: single
 cascade:
   nav: membership
 aliases:
-- /member_faq/
-- /partnership_faq/
+- /support/membership/membership-faq/
+- /support/partnership/partnership-faq/
 ---
 
 ## Partnerships
