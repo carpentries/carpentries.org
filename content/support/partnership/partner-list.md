@@ -5,8 +5,7 @@ cascade:
   nav: partnership
 hideToc: true 
 aliases:
-- /members/
-- /partners/
+- /support/membership/member-list/
 ---
 
 {{< members >}}
