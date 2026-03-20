@@ -2,7 +2,7 @@
 title: Partnership FAQ
 layout: single
 cascade:
-  nav: membership
+  nav: partnership
 aliases:
 - /support/membership/membership-faq/
 ---
