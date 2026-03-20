@@ -8,4 +8,4 @@ aliases:
 - /support/membership/member-list/
 ---
 
-{{< members >}}
+{{< partners >}}
