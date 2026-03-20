@@ -295,26 +295,26 @@ footer:
   url: "/community/get-involved/"
   parent: community-footer
   weight: 40
-# Footer menu: Menu 3 (Membership)
-- identifier: membership-footer
-  name: Membership
+# Footer menu: Menu 3 (Partnership)
+- identifier: partnership-footer
+  name: Partnership
   url: "#"
   parent: null
   weight: 30
-- identifier: membership-faq
-  name: Membership FAQ
-  url: "/support/membership/membership-faq/"
-  parent: membership-footer
+- identifier: partnership-faq
+  name: Partnership FAQ
+  url: "/support/partnership/partnership-faq/"
+  parent: partnership-footer
   weight: 20
-- identifier: current-members
-  name: Current Members
-  url: "/support/membership/member-list/"
-  parent: membership-footer
+- identifier: current-partners
+  name: Current Partners
+  url: "/support/partnership/partner-list/"
+  parent: partnership-footer
   weight: 30
-- identifier: become-member
-  name: Become a Member
-  url: "/support/membership/"
-  parent: membership-footer
+- identifier: become-partner
+  name: Become a Partner
+  url: "/support/partnership/"
+  parent: partnership-footer
   weight: 40
 # Footer menu: Menu 4 (Workshops)
 - identifier: workshops-footer
