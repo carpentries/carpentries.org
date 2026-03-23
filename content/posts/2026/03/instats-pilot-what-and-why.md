@@ -27,12 +27,12 @@ The details for our remaining workshops will be announced as they become availab
 
 For our pilot workshops, we have two ways we are hoping that community members will get involved!
 
-* **Staying true to our Carpentries roots, we will need helpers to assist with these sessions.** The helper role is not paid but, as mentioned above, we hope that this pilot leads to more paid opportunities for Instructors in the future. If you are interested in being a helper for either session, please connect with us at [team@carpentries.org](mailto:team@carpentries.org).  
+* **Staying true to our Carpentries roots, we will need helpers to assist with these sessions.** The helper role is not paid but, as mentioned above, we hope that this pilot leads to more paid opportunities for Instructors in the future. If you are interested in being a helper for either session, please connect with us at [{{< param team_email >}}](mailto:{{< param team_email >}}).  
 * **Spread the word!** These learning opportunities are open to anyone and everyone. Please share within your networks using the following link: https://instats.org/seminar/plotting-and-programming-in-python.
 
 We are excited for this opportunity to increase our impact within the community and beyond! 
 
-Don't hesitate to let us know your questions at [team@carpentries.org](mailto:team@carpentries.org). 
+Don't hesitate to let us know your questions at [{{< param team_email >}}](mailto:{{< param team_email >}}). 
 
 We can't wait to connect with you!
 
