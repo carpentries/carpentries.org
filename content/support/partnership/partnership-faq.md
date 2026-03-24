@@ -38,7 +38,7 @@ Yes. The Carpentries Partnerships are annual subscriptions, extending for a peri
 {{< /accordion >}}
 
 {{< accordion title="Are any discounts available?" >}}
-Absolutely! Our impact depends on continuing contributions from our community. To recognise those contributions, we offer discounts on Partnership packages to organisations with members actively contributing in a variety of roles. Information about available discounts can be found on our [pricing page](https://carpentries.org/support/pricing/#service-discounts).
+Absolutely! Our impact depends on continuing contributions from our community. To recognise those contributions, we offer discounts on Partnership packages to organisations with members actively contributing in a variety of roles. Information about available discounts can be found on our [pricing page](/support/pricing/#service-discounts).
 {{< /accordion >}}
 
 {{< accordion title="How can I find out if my institution already has a Partnership?" >}}

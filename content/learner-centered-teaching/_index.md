@@ -39,7 +39,7 @@ Through a blend of short lessons and hands-on practice, participants develop the
 Learner-Centered teaching is intended for individuals who facilitate learning for adult learners in any capacity, but with a focus on those leading short-format trainings. 
 It is appropriate for both novice instructors seeking foundational skills and experienced educators aiming to enhance their practice with evidence-based, inclusive teaching strategies.
 It is **not** appropriate for individuals seeking to become certified Carpentries Instructors.
-For information about Instructor Training, visit our [Instructor Training page](https://carpentries.org/instructor-training/).
+For information about Instructor Training, visit our [Instructor Training page](/instructor-training/).
 
 ### What will you learn?
 Carpentries Learner-Centered Teaching Training has the following goals:
