@@ -95,7 +95,7 @@ In addition to the benefits above, all Partnerships include:
 * Recognition of the valuable service contributions made by your organisational members to the global Carpentries community.
 * Access to discounted pricing for additional services purchased during the Partnership year.
 
-[Become a Partner]({{< param membership_form >}})
+[Become a Partner]({{< param partnership_form >}})
 {.button} 
 
 ## Contact Us

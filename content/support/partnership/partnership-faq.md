@@ -49,7 +49,7 @@ help in making contact with the person in charge of your institutional Partnersh
 {{< accordion title="How do I get started with my Partnership?" >}}
 - [Review the Code of Conduct]({{< param handbook_url >}}/policies/coc/):  We are committed to fostering a welcoming and supportive environment for everyone. By participating in this community, you agree to uphold our Code of Conduct, which ensures respectful and inclusive engagement.
 
-- [Schedule an Onboarding Session](https://calendly.com/carpentries-partnership/onboarding): Join a 30-minute onboarding session with a Core Team member to learn how to maximise your Partnership. This session provides valuable insights, tips, and an opportunity to ask questions.
+- [Schedule an Onboarding Session]({{< param partnership_calendly >}}): Join a 30-minute onboarding session with a Core Team member to learn how to maximise your Partnership. This session provides valuable insights, tips, and an opportunity to ask questions.
 {{< /accordion >}}
 
 ## Workshops
