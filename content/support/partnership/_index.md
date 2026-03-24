@@ -9,6 +9,8 @@ aliases:
 - /support/membership/
 ---
 
+*On 2 April 2026, we implemented our new Partnership Program, replacing the previous Membership Program. Read more about the change in our [blog post](/blog/2026/01/new-partnership-program-is-launching-in-april/).*
+
 ## Become A Partner
 
 Jump start your local data skills training efforts with a Carpentries Partnership. 
