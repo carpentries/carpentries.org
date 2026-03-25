@@ -5,7 +5,7 @@ teaser: "Announcing the launch of a new Carpentries training program!"
 title: "Collaborative Lesson Development Training"
 date: 2023-10-16
 time: "09:00:00"
-tags: ["Curriculum", "Collaborative Lesson Development Training"]
+tags: ["Curriculum", "CLDT"]
 ---
 
 The Carpentries is launching a new program of Collaborative Lesson Development Training.
