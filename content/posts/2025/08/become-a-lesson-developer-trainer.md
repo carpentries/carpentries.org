@@ -5,7 +5,7 @@ teaser: "Join a growing group of community members teaching Collaborative Lesson
 title: "Become a Lesson Developer Trainer"  
 date: 2025-08-28  
 time: "09:00:00"  
-tags: ["Collaborative Lesson Development Training", "Curriculum"]  
+tags: ["CLDT", "Curriculum"]  
 ---
 
 Do you have experience in lesson/curriculum development? Want to share that expertise with others in The Carpentries community? Interested in helping to build the Carpentries Incubator community? If so, **[apply to join the upcoming round of Lesson Developer Trainer Training](https://docs.google.com/forms/d/e/1FAIpQLSc4v3qx7fj5t6tobCiEMGUp9uz3-9Fm5UgbToeVPInlOHuR_w/viewform)**!
