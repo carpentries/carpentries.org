@@ -60,26 +60,26 @@ For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Te
 {{< /accordion >}}
 
 {{< accordion title="How do your workshops run?" >}}
-For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Member contact to find
+For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Partner contact to find
 Instructors, set up and handle registration, support Instructor logistics, and coordinate and share assessment results with you.
-Instructor travel expenses are the responsibility of the Member and are not covered in membership fees.<br><br>
-Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#workshop-pricing) or added to an existing
-membership. If you would like to run a Centrally-Organised workshop in order to demonstrate the value of The Carpentries
-membership at your organisation, we will count the workshop fee towards a membership if purchased within twelve (12) months.<br><br>
+Instructor travel expenses are the responsibility of the Partner and are not covered in membership fees.<br><br>
+Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#add-on-and-a-la-carte-services) or added to an existing
+Partnership. If you would like to run a Centrally-Organised workshop in order to demonstrate the value of The Carpentries
+Partnership at your organisation, we will count the workshop fee towards a Partnership if purchased within twelve (12) months.<br><br>
 Workshops can cover curricula from any of our lesson programs: [Data Carpentry]({{< param dc-website >}}lessons), [Library Carpentry]({{< param dc-website >}}lessons), or [Software Carpentry]({{< param dc-website >}}lessons).  An overview of available workshops is located on our [curricula page](/lessons/curriculum-summary/). Contact us at [{{< param workshops_email >}}](mailto:{{< param workshops_email >}}) to learn more about our workshop operations.
 {{< /accordion >}}
 
-{{< accordion title="How soon after signing my membership can I get started with hosting workshops?" >}}
-Right away! You can request workshops as soon as your membership agreement is in place by completing [this form]({{< param amy_workshop_landing >}}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.
+{{< accordion title="How soon after signing my Partnership can I get started with hosting workshops?" >}}
+Right away! You can request workshops as soon as your Partnership agreement is in place by completing [this form]({{< param amy_workshop_landing >}}). To allow us time to recruit Instructors and give them time to plan the workshop with you, we generally require 2-3 months lead time to schedule a workshop.
 {{< /accordion >}}
 
 {{< accordion title="Can I run my own workshops without organisational support from The Carpentries?" >}}
-Yes! Once you start building a team of certified Instructors, you can work with them to run Self-Organised workshops. We ask that Instructors let us know when they are planning a Self-Organised workshop in advance by completing this [form]({{< param amy_workshop_landing >}}). This form initiates a process so that The Carpentries staff can support the workshop by providing survey links, tracking Instructor and Helper participation, and publicising the workshop on The Carpentries websites, if desired. As long as at least one Instructor is Carpentries-certified, and either the Data Carpentry, Library Carpentry, or Software Carpentry core content is taught, the workshop can be labeled a Carpentries workshop. Self-Organised workshops do not count against the number of workshops included in your membership agreement and there is no limit to the number of Self-Organised workshops you can run.
+Yes! Once you start building a team of certified Instructors, you can work with them to run Self-Organised workshops. We ask that Instructors let us know when they are planning a Self-Organised workshop in advance by completing this [form]({{< param amy_workshop_landing >}}). This form initiates a process so that The Carpentries staff can support the workshop by providing survey links, tracking Instructor and Helper participation, and publicising the workshop on The Carpentries websites, if desired. As long as at least one Instructor is Carpentries-certified, and either the Data Carpentry, Library Carpentry, or Software Carpentry core content is taught, the workshop can be labeled a Carpentries workshop. Self-Organised workshops do not count against the number of workshops included in your Partnership agreement and there is no limit to the number of Self-Organised workshops you can run.
 {{< /accordion >}}
 
 {{< accordion title="What if I want to run more Centrally-Organised workshops than my agreement allows?" >}}
-All members are eligible to purchase additional Centrally-Organised workshops at a discount.
-Our current [pricing is here](/support/pricing/#workshop-pricing).
+All Partners are eligible to purchase additional Centrally-Organised workshops at a discount.
+Our current [pricing is here](/support/pricing/#add-on-and-a-la-carte-services).
 {{< /accordion >}}
 
 {{< accordion title="How do I request a Centrally-Organised Workshop?" >}}
@@ -97,14 +97,14 @@ If you need to postpone your workshop, please email [{{< param workshops_email >
 {{< /accordion >}}
 
 {{< accordion title="How do I obtain survey data or links for previous workshops?" >}}
-The Workshops and Instruction Team (WIT) can provide survey result links for past workshops (August 2018 - present) to Instructors and hosts that either taught at, hosted the workshop, or a programmatic contact to a members organisation (see Membership Management). To request survey results links, please send an email to WIT (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshops and Instruction Team (WIT) can provide survey result links for past workshops (August 2018 - present) to Instructors and hosts that either taught at, hosted the workshop, or a programmatic contact for a Partner Organisation. To request survey results links, please send an email to WIT (via [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})) with your request and include a link to the workshop website(s) and/or slug(s).
 {{< /accordion >}}
 
 ## Instructor Training
 
 {{< accordion title="How do your Instructor Training events run?" >}}
 The Carpentries [Instructor Training](https://carpentries.github.io/instructor-training/) is a high-engagement, interactive,
-multi-day training, led by pedagogically trained community members (Trainers). Once your membership is in place, you will be
+multi-day training, led by pedagogically trained community members (Instructor Trainers). Once your Partnership is in place, you will be
 provided with a registration code which your selected trainees can use to register for an event of their choice from our
 [Instructor Training calendar](https://carpentries.github.io/instructor-training/training_calendar.html). Contact us at
 [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}) to learn more about our Instructor Training
@@ -112,23 +112,23 @@ program.
 {{< /accordion >}}
 
 {{< accordion title="How should I select individuals to be trained as Instructors?" >}}
-The choice of trainees is at the discretion of the Member. We recommend choosing trainees based on enthusiasm and
+The choice of trainees is at the discretion of the Partner Organisation. We recommend choosing trainees based on enthusiasm and
 commitment to teaching. There are no specific technical skills required to become a Carpentries Instructor, and we welcome
 individuals with a range of experiences and technical competencies. Trainees will be required to demonstrate their ability to
 teach one of our lessons, with options ranging from spreadsheet formatting to Python programming. Although we do not provide
-screening or selection of trainee candidates, Member organisations are welcome to make use of our
+screening or selection of trainee candidates, Partner Organisations are welcome to make use of our
 [application questions]({{< param amy_training >}}) and
 [rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating
-non-member affiliated trainees. For more information about selecting trainees, read our [Information for Member Organisations](/support/membership) page.
+non-Partner affiliated trainees. For more information about selecting trainees, read our [Information for Partner Organisations](/support/partnership) page.
 {{< /accordion >}}
 
-{{< accordion title="How soon after signing my membership can I get started with Instructor Training?" >}}
-In your 12 month membership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see our [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
+{{< accordion title="How soon after signing my Partnership can I get started with Instructor Training?" >}}
+In your 12 month Partnership period, we will be offering at least 6-8 online events scheduled across various timezones. To view a full list of upcoming training events please see our [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar). Your trainees are invited to join any event(s) that suits their schedule(s), either as a group or individually, along with new trainees from other parts of our community.<br>
 
-It is difficult to schedule events in every time zone, so your trainees are always welcome to join scheduled online events in adjacent time zones, given the times are reasonable for their schedule. However, knowing this may not be ideal for you, we will work with you to schedule an online event based on your needs and our Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance. Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
+It is difficult to schedule events in every time zone, so your trainees are always welcome to join scheduled online events in adjacent time zones, given the times are reasonable for their schedule. However, knowing this may not be ideal for you, we will work with you to schedule an online event based on your needs and our Instructor Trainers’ availability. To ensure that we can meet everyone’s needs, we generally like to schedule these events 2-3 months in advance. Once this event is scheduled, we may invite people from other sites to join as well, to begin to build community in your part of the world.<br>
 {{< /accordion >}}
 
-{{< accordion title="How do I find out if trainees at my site have completed Instructor Training or the certification process and how many seats remain available under my membership?" >}}
+{{< accordion title="How do I find out if trainees at my site have completed Instructor Training or the certification process and how many seats remain available under my Partnership?" >}}
 For best results, we recommend tracking this locally. Keeping in touch with trainees can have additional value in building your
 local community. Due to regional variation in privacy laws and delays in our registration workflows, not all information from our
 database is guaranteed to be available or fully up to date. You are welcome to email us at
@@ -136,18 +136,18 @@ database is guaranteed to be available or fully up to date. You are welcome to e
 will reply within 3-5 business days with the information we can provide.
 {{< /accordion >}}
 
-{{< accordion title="What if I do not use all of my Instructor Training seats before the end of my membership?" >}}
+{{< accordion title="What if I do not use all of my Instructor Training seats before the end of my Partnership?" >}}
 The success of our program depends on accurately predicting our capacity needs. Because of this, benefits, including Instructor Training seats and Workshops, will be forfeited if they are not used before the end of the subscription. Please contact us [{{< param membership_email >}}](mailto:{{< param membership_email >}}) if you have any questions.
 {{< /accordion >}}
 
 {{< accordion title="What if I want to train more people at my site than my agreement allows?" >}}
-All members are eligible to purchase additional Instructor Training seats at a discount.
-Our current [pricing is here](/support/pricing/#instructor-training-pricing).
+All Partners are eligible to purchase additional Instructor Training seats at a discount.
+Our current [pricing is here](/support/pricing/#add-on-and-a-la-carte-services).
 {{< /accordion >}}
 
-{{< accordion title="Can individuals get trained to become Instructors outside of the context of institutional membership?" >}}
-Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/support/pricing/#instructor-training-pricing)
-for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
+{{< accordion title="Can individuals get trained to become Instructors outside of the context of institutional Partnership?" >}}
+Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/support/pricing/#add-on-and-a-la-carte-services)
+for their region. Individuals purchasing seats a la carte will receive equal priority with Partners in scheduling.<br><br>
 {{< /accordion >}}
 
 {{< accordion title="What is the attendance policy for Instructor Training?" >}}
@@ -158,7 +158,7 @@ In the event of [partial absences]({{< param handbook_url >}}/handbooks/instruct
 [Ineligibility for Makeup Opportunities]({{< param handbook_url >}}/handbooks/instructors.html#ineligibility-for-makeup-opportunities): Trainees who miss an event **in full without cancelling within 7 days (no-show)** or who miss part of an event but **do not request a makeup opportunity within 7 days** are ineligible to register for a new training event using the same registration code. Trainees interested in completing training may contact [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}) to be advised on their options for re-admission.
 {{< /accordion >}}
 
-## Instructor Trainers in a Membership
+## Instructor Trainers in a Partnership
 
 {{< accordion title="What are Instructor Trainers?" >}}
 Instructor Trainers teach The Carpentries Instructor Training Events. They train new Instructors in the basics of educational psychology and evidence-based teaching practices. They also support and play a leadership role in overseeing the Instructor Training program.
@@ -167,12 +167,12 @@ Instructor Trainers teach The Carpentries Instructor Training Events. They train
 {{< /accordion >}}
 
 {{< accordion title="Are there any discounts available for Instructor Trainers?" >}}
-Organisations supporting [Instructor Trainers]({{< param handbook_url >}}/handbooks/instructor_trainers.html#roles-and-responsibilities), who engage in service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount on their membership fee equivalent to six (6) seats in Instructor Training per active Instructor Trainers. Members can choose whether they would like the Trainers discount applied as a monetary benefit or added to their account. This discount is available at any membership level, for each Instructor Trainer who has participated in the following, up to 1 year before renewal:
+Organisations supporting [Instructor Trainers]({{< param handbook_url >}}/handbooks/instructor_trainers.html#roles-and-responsibilities), who engage in service activities to teach and support newly trained Instructors across our global community, may be eligible for a 30% discount on their Partnership fee per active Instructor Trainer. This discount is available at any Partnership level, for each Instructor Trainer who has participated in the following, up to 1 year before renewal:
 - Teach at least two (2) Instructor Training events for the global Carpentries community.
 {{< /accordion >}}
 
 {{< accordion title="How do I purchase an Instructor Trainer Training seat?" >}}
-The Instructor Trainer Training seats can be added to your Membership package at any time—either during the initial agreement or afterwards. To request Instructor Trainer Training seats, please contact us at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+Instructor Trainer Training seats can be added to your Partnership package at any time—either during the initial agreement or afterwards. To request Instructor Trainer Training seats, please contact us at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
 {{< /accordion >}}
 
 
@@ -189,22 +189,22 @@ To attend Collaborative Lesson Development Training, email [{{< param membership
 
 ## Membership Management
 
-{{< accordion title="Who are the Programmatic member contacts?" >}}
-Programmatic member contacts are the primary liaisons for an organisation’s membership, ensuring seamless communication and effective management of membership benefits. They receive essential updates, coordinate membership activities, and facilitate engagement with The Carpentries community. We recommend having at least two Member Contacts per organisation to ensure continuity and shared responsibility.
+{{< accordion title="Who are Programmatic Partner contacts?" >}}
+Programmatic Partner contacts are the primary liaisons for an organisation’s Partnership, ensuring seamless communication and effective management of Partnership benefits. They receive essential updates, coordinate Partnership activities, and facilitate engagement with The Carpentries community. We recommend having at least two Partner Contacts per organisation to ensure continuity and shared responsibility.
 {{< /accordion >}}
 
-{{< accordion title="How do I update Member Contacts?" >}}
+{{< accordion title="How do I update Partner Contacts?" >}}
 Email [{{< param membership_email >}}](mailto:{{< param membership_email >}}) to update your contacts.
 {{< /accordion >}}
 
-{{< accordion title="What is the Membership Mailing List?" >}}
-Programmatic member contacts are added to this mailing list for quarterly updates and announcements.
+{{< accordion title="What is the Partnership Mailing List?" >}}
+Programmatic Partner contacts are added to this mailing list for quarterly updates and announcements.
 {{< /accordion >}}
 
-## Member Engagement
+## Partner Engagement
 
-{{< accordion title="What are Quarterly Membership Updates?" >}}
-Every three months, Programmatic member contacts receive a detailed email outlining membership usage and trainee progress, helping them track engagement and maximise the benefits of their organisation’s membership.
+{{< accordion title="What are Quarterly Partnership Updates?" >}}
+Every three months, Programmatic Partner contacts receive a detailed email outlining Partnership usage and trainee progress, helping them track engagement and maximise the benefits of their organisation’s Partnership.
 {{< /accordion >}}
 
 {{< accordion title="What are Community Development Program Calls?" >}}
@@ -214,7 +214,7 @@ These [calls](https://pad.carpentries.org/community-development-program) take pl
 ## Contact us
 *Who do I talk to about...*
 
- * General membership questions: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
+ * General Partnership questions: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
  * Workshops: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
  * Instructor Training:  [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
  * Collaborative Lesson Development Training: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
