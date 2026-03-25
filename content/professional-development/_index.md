@@ -114,7 +114,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 Registration link coming soon!
 
-## Request an Accommodation 
+## Request Accessibility Support
 
 {{< accessibility >}}
 
