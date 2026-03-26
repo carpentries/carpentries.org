@@ -27,7 +27,7 @@ and good practices for designing and developing a lesson as an open source proje
 
 ### Target audience
 
-Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. The training focuses on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.  Trainees join in teams of two to five people, and at least one member of each team should have attended [Instructor Training](/instructor-training/).
+Collaborative Lesson Development Training is aimed at Carpentries community members who have an idea for a new lesson and want to begin developing it into an open source lesson website, in collaboration with others. The training focuses on lessons for short-format training (e.g. two-day workshops), but most of the skills and principles taught apply to all curriculum designs.  Trainees join in teams of two to five people, and at least one member of each team should have attended [Instructor Training](/instructor-training/) or [Learner-Centered Teaching](/learner-centered-teaching/).
 
 ### What will you learn?
 Collaborative Lesson Development Training teaches fundamental concepts, skills, and good practice in three key areas:
@@ -67,7 +67,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 Collaborative Lesson Development Training events are regularly scheduled throughout the year. Send an email to [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}) to register your interest in joining Collaborative Lesson Development Training.
 
-## Request an Accommodation 
+## Request Accessibility Support
 
 {{< accessibility >}}
 
