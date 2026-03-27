@@ -22,7 +22,7 @@ Before we get into details, please note that all the relevant pages of our websi
 * [Partnership FAQ page](/support/partnership/partnership-faq/)
 * [Pricing page](/support/pricing/)
 
-Should you have any questions about the information in these pages or any other query regarding the Partnership program, please connect with us at [partnership@carpentries.org](mailto: partnership@carpentries.org) or [schedule a meeting with our team](https://calendly.com/carpentries-partnership).
+Should you have any questions about the information in these pages or any other query regarding the Partnership program, please connect with us at [partnership@carpentries.org](mailto:partnership@carpentries.org) or [schedule a meeting with our team](https://calendly.com/carpentries-partnership).
 
 ## Key Features of the Partnership Program
 
