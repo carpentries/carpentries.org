@@ -40,7 +40,7 @@ Each Partnership package comes with a set number of service options, which can b
 
 The **Launch** service level allows a Partner to choose one of the above service options. **Expand**, **Scale**, and **Transform** Partnership packages include three, five, and eight service options, respectively. 
 
-![A graphic representing the four Carpentries Partnership Tiers, Launch, Expand, Scale, and Transform.](/blog/2026/02/04/partnership-tiers_short-version-50.png)
+![A graphic representing the four Carpentries Partnership Tiers, Launch, Expand, Scale, and Transform.](/blog/2026/02/04/partnership-tiers_short-version-65.png)
 ### More benefit options
 
 The Partnership program also offers a wider variety of benefit options. In addition to Partners having access to our workshops and certified training programs, the new Partnership program introduces additional service offerings: 
