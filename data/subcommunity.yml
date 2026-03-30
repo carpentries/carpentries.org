@@ -903,11 +903,14 @@ subcommunities:
 - name: Carpentries US-Northeast
   type: regional
   member:  
-  description: The US-Northeast Carpentries subcommunity convenes for semi-regular, informal get-togethers and mentoring opportunities. 
+  description: The US-Northeast Carpentries Community is open to anyone associated with the Carpentries and consists of faculty, 
+  librarians, researchers, research support staff, and students from across the United States Northeast. The US-Northeast Carpentries 
+  Community convenes monthly to discuss Carpentries pedagogy, lessons, workshops, mentoring, and all things related to data science 
+  education and the Carpentries.
   activities: 
-    - carpentry_connect: true
+    - carpentry_connect: 
     - communication: true
-    - prof_dev: 
+    - prof_dev: true
     - sow: true
     - fundraising: 
     - student_programs: 
@@ -918,10 +921,10 @@ subcommunities:
   logo:
   location: Boston
   country: USA
-  website: 
+  website: https://pad.carpentries.org/northeastcarpentries
   tags:
     - assessment:
-    - carpentry_connect: true
+    - carpentry_connect: 
     - communication: true
     - community_discussion: true
     - curriculum: 
@@ -938,11 +941,11 @@ subcommunities:
     - other: 
   contact:
     - email: 
-      - "nrrome@berklee.edu"
+      - "sp277@buffalo.edu & berika.williams@tufts.edu"
     - slack: "Carpentries workspace, #local-us-northeast"
-    - mailing_list: 
+    - mailing_list: https://carpentries.topicbox.com/groups/local-us-northeast
     - contact_form: 
-    - contact_person: Rachel Rome
+    - contact_person: Scott Peterson and Berika Williams
   social_media: 
     - twitter: 
     - mastodon: 
