@@ -903,7 +903,7 @@ subcommunities:
 - name: Carpentries US-Northeast
   type: regional
   member:  
-  description: The US-Northeast Carpentries Community is open to anyone associated with the Carpentries and consists of faculty, librarians, researchers, research support staff, and students from across the United States Northeast. The US-Northeast Carpentries Community convenes monthly to discuss Carpentries pedagogy, lessons, workshops, mentoring, and all things related to data science education and the Carpentries.
+  description: The US-Northeast Carpentries Community is open to anyone associated with the Carpentries and consists of faculty, librarians, researchers, research support staff and students from across the United States Northeast. The US-Northeast Carpentries Community convenes monthly to discuss Carpentries pedagogy, lessons, workshops, mentoring, and all things related to data science education and the Carpentries.
   activities: 
     - carpentry_connect: 
     - communication: true
