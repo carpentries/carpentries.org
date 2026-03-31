@@ -14,7 +14,7 @@ This year, we are also onboarding Maintainers for our newest Lesson Program, HPC
 
 ## Who can be a Maintainer?
 
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They endeavor to be welcoming and supportive of contributions from all members of the community. More detailed information about what Maintainers do can be found in the [Maintainers Handbook](https://docs.carpentries.org/handbooks/maintainers.html#roles-and-responsibilities).
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They endeavor to be welcoming and supportive of contributions from all members of the community. More detailed information about what Maintainers do can be found in the [Maintainers Handbook]({{< param handbook_url >}}/handbooks/maintainers.html#roles-and-responsibilities).
 
 You do not need to be a Git expert to be a Maintainer. 
 If you are familiar with the current [Library Carpentry](https://librarycarpentry.github.io/lc-git/) or [Software Carpentry Git materials](https://swcarpentry.github.io/git-novice/), you will have the foundation and support to learn the skills you will need as a Maintainer. 
@@ -30,7 +30,7 @@ The onboarding, skill-ups, and regular opportunities to connect with and learn f
 We are recruiting Maintainers for all of our official lessons, including both English and Spanish language materials. 
 Although Maintainer Onboarding will be held in English, we strongly encourage applications from folks who are interested in maintaining one of the four official Carpentries lessons currently offered in Spanish.
 
-This will be the first cohort to include new Maintainers for HPC Carpentry, which was [approved as our fourth Lesson Program in February](https://carpentries.org/blog/2026/02/adopting-hpc-carpentry/). We are calling for volunteers to get involved with the maintenance of these lessons as we prepare for the official launch of the new program in September. HPC Carpentry Maintainers will benefit from some prior experience of working in a shared computing environment and familiarity with a job scheduler. These lesson repositories also include some extended templating functionality, to allow for lessons to be customised for local conditions. The HPC Carpentry community provides documentation for this additional templating and will support new Maintainers as they learn to work with it. 
+This will be the first cohort to include new Maintainers for HPC Carpentry, which was [approved as our fourth Lesson Program in February](/blog/2026/02/adopting-hpc-carpentry/). We are calling for volunteers to get involved with the maintenance of these lessons as we prepare for the official launch of the new program in September. HPC Carpentry Maintainers will benefit from some prior experience of working in a shared computing environment and familiarity with a job scheduler. These lesson repositories also include some extended templating functionality, to allow for lessons to be customised for local conditions. The HPC Carpentry community provides documentation for this additional templating and will support new Maintainers as they learn to work with it. 
 
 We are particularly in need of Maintainers for the following lessons:
 
