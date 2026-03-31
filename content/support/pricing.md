@@ -3,6 +3,8 @@ title: Pricing
 layout: single
 cascade:
   nav: host
+aliases:
+- /pricing/
 ---
 
 ## Overview
