@@ -25,14 +25,14 @@ We recently launched our **new Partnership Program**, designed to provide organi
 ### Upcoming Information Sessions
 
 **Session 1**
-Tuesday, 21 April, 2026
-16:30 UTC
-Check your local time and [register here](https://pretix.carpentries.org/community-events/community-sessions/745/)
+
+* Tuesday, 21 April, 2026 at 16:30 UTC
+* Check your local time and [register here](https://pretix.carpentries.org/community-events/community-sessions/745/).
 
 **Session 2**
-Wednesday, 22 April, 2026
-09:00 UTC
-Check your local time and [register  here](https://pretix.carpentries.org/community-events/community-sessions/746/)
+
+* Wednesday, 22 April, 2026 at 09:00 UTC
+* Check your local time and [register  here](https://pretix.carpentries.org/community-events/community-sessions/746/).
 
 These sessions are geared toward individuals who coordinate their organisation's Partnership with The Carpentries, or who aspire to do so in the future. 
 
