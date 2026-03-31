@@ -14,7 +14,7 @@ The impact of The Carpentries has always been rooted in people.
 
 Across universities, research institutes, libraries, and organisations around the world, community members are working together to build capacity for teaching foundational data and computational skills. At the center of this work are the people who teach, maintain, and build community around the programs that make our workshops possible. They then go on to introduce The Carpentries to other individuals at their institutions and empower them with the same skills. This is where the multiplier effect begins -  one of the main benefits of an institutional Partnership with the Carpentries.  
 
-This month, we are highlighting two groups whose contributions power make possible the global reach of The Carpentries: **Instructor Trainers** and **Lesson Maintainers and Developers**. Together, these community members create a multiplier effect that allows skills, knowledge, and teaching expertise to spread across institutions and communities worldwide.
+This month, we are highlighting two groups whose contributions power the global reach of The Carpentries: **Instructor Trainers** and **Lesson Maintainers and Developers**. Together, these community members create a multiplier effect that allows skills, knowledge, and teaching expertise to spread across institutions and communities worldwide.
 
 If your organisation is interested in benefiting from the impact of The Carpentries community, and becoming part of the cycle of building sustainable training capacity, we invite you to learn more about our new Partnership Programme. 
 
