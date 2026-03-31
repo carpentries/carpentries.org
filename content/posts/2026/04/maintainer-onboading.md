@@ -14,7 +14,7 @@ This year, we are also onboarding Maintainers for our newest Lesson Program, HPC
 
 ## Who can be a Maintainer?
 
-The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They endeavor to be welcoming and supportive of contributions from all members of the community. More detailed information about what Maintainers do can be found [in our Handbook](https://docs.carpentries.org/handbooks/maintainers.html#roles-and-responsibilities).
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They endeavor to be welcoming and supportive of contributions from all members of the community. More detailed information about what Maintainers do can be found in the [Maintainers Handbook](https://docs.carpentries.org/handbooks/maintainers.html#roles-and-responsibilities).
 
 You do not need to be a Git expert to be a Maintainer. 
 If you are familiar with the current [Library Carpentry](https://librarycarpentry.github.io/lc-git/) or [Software Carpentry Git materials](https://swcarpentry.github.io/git-novice/), you will have the foundation and support to learn the skills you will need as a Maintainer. 
