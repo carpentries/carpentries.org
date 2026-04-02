@@ -30,7 +30,7 @@ Read more about the benefits for each plan on our [Partnership](/partnership) pa
 {{< /accordion >}}
 
 {{< accordion title="What if those Partnership packages do not fit my organisations’s needs?" >}}
-We would be happy to talk with you to learn more about your organisation’s goals and create a custom plan that works for you.  Contact our Partnership team to schedule a meeting at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+We would be happy to talk with you to learn more about your organisation’s goals and create a custom plan that works for you.  Contact our Partnership team to schedule a meeting at [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
 {{< /accordion >}}
 
 {{< accordion title="Do I need to renew my Partnership each year?" >}}
@@ -43,7 +43,7 @@ Absolutely! Our impact depends on continuing contributions from our community. T
 
 {{< accordion title="How can I find out if my institution already has a Partnership?" >}}
 A list of our [current Partner Organisations](/partners/) can be found on our website. If you would like
-help in making contact with the person in charge of your institutional Partnership, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+help in making contact with the person in charge of your institutional Partnership, email [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
 {{< /accordion >}}
 
 {{< accordion title="How do I get started with my Partnership?" >}}
@@ -137,7 +137,7 @@ will reply within 3-5 business days with the information we can provide.
 {{< /accordion >}}
 
 {{< accordion title="What if I do not use all of my Instructor Training seats before the end of my Partnership?" >}}
-The success of our program depends on accurately predicting our capacity needs. Because of this, benefits, including Instructor Training seats and Workshops, will be forfeited if they are not used before the end of the subscription. Please contact us [{{< param membership_email >}}](mailto:{{< param membership_email >}}) if you have any questions.
+The success of our program depends on accurately predicting our capacity needs. Because of this, benefits, including Instructor Training seats and Workshops, will be forfeited if they are not used before the end of the subscription. Please contact us [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}) if you have any questions.
 {{< /accordion >}}
 
 {{< accordion title="What if I want to train more people at my site than my agreement allows?" >}}
@@ -172,7 +172,7 @@ Organisations supporting [Instructor Trainers]({{< param handbook_url >}}/handbo
 {{< /accordion >}}
 
 {{< accordion title="How do I purchase an Instructor Trainer Training seat?" >}}
-Instructor Trainer Training seats can be added to your Partnership package at any time—either during the initial agreement or afterwards. To request Instructor Trainer Training seats, please contact us at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+Instructor Trainer Training seats can be added to your Partnership package at any time—either during the initial agreement or afterwards. To request Instructor Trainer Training seats, please contact us at [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
 {{< /accordion >}}
 
 
@@ -183,7 +183,7 @@ Instructor Trainer Training seats can be added to your Partnership package at an
 {{< /accordion >}}
 
 {{< accordion title="How do I purchase Collaborative Lesson Development Training seats?" >}}
-To attend Collaborative Lesson Development Training, email [{{< param membership_email >}}](mailto:{{< param membership_email >}}). 
+To attend Collaborative Lesson Development Training, email [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}). 
 {{< /accordion >}}
 
 
@@ -194,7 +194,7 @@ Programmatic Partner contacts are the primary liaisons for an organisation’s P
 {{< /accordion >}}
 
 {{< accordion title="How do I update Partner Contacts?" >}}
-Email [{{< param membership_email >}}](mailto:{{< param membership_email >}}) to update your contacts.
+Email [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}) to update your contacts.
 {{< /accordion >}}
 
 {{< accordion title="What is the Partnership Mailing List?" >}}
@@ -214,7 +214,7 @@ These [calls](https://pad.carpentries.org/community-development-program) take pl
 ## Contact us
 *Who do I talk to about...*
 
- * General Partnership questions: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
+ * General Partnership questions: [{{< param partnership_email >}}](mailto:{{< param partnership_email >}})
  * Workshops: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
  * Instructor Training:  [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
  * Collaborative Lesson Development Training: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})

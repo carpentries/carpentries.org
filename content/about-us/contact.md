@@ -33,7 +33,7 @@ If you would like to ask us anything about The Carpentries, its community, and i
 
 * General enquiries: [{{< param team_email >}}](mailto:{{< param team_email >}})
 * Workshop enquiries: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
-* Partnership enquiries: [{{< param membership_email >}}](mailto:{{< param membership_email >}})
+* Partnership enquiries: [{{< param partnership_email >}}](mailto:{{< param partnership_email >}})
 * Instructor Training enquiries: [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
 * Curriculum enquiries: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
 * Code of Conduct Committee enquiries: [{{< param coc_email >}}](mailto:{{< param coc_email >}})

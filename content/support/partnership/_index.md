@@ -7,6 +7,8 @@ widgets:
 - newsletter
 aliases:
 - /support/membership/
+- /membership/
+- /partnership/
 ---
 
 *On 2 April 2026, we implemented our new Partnership program, replacing the previous Membership program. Read more about the change in our [blog post](/blog/2026/01/new-partnership-program-is-launching-in-april/).*
@@ -102,7 +104,7 @@ In addition to the benefits above, all Partnerships include:
 
 ## Contact Us
 
-Have Questions? Please consult our [Partnership FAQ](/support/partnership/partnership-faq/) or contact our team at [{{< param membership_email >}}](mailto:{{< param membership_email >}}).
+Have Questions? Please consult our [Partnership FAQ](/support/partnership/partnership-faq/) or contact our team at [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
 
 
 
