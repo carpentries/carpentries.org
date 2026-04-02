@@ -23,7 +23,8 @@ git_repo: https://github.com/carpentries/new-website
 # General email addresses
 #############################################
 team_email: team@carpentries.org
-membership_email: membership@carpentries.org
+membership_email: membership@carpentries.org # keep active just in case 
+partnership_email: partnership@carpentries.org
 workshops_email: workshops@carpentries.org
 instructor_training_email: instructor.training@carpentries.org
 community_email: community@carpentries.org
