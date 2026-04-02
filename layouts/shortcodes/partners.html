@@ -1,0 +1,24 @@
+{{ $all_members := dict }}
+
+{{ $url := "https://feeds.carpentries.org/all_public_memberships.json" }}
+
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $all_members = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
+
+{{ $all_members := sort $all_members "name" }}
+
+<ul>
+    {{ range $all_members }}
+    <li style="margin: 0;">
+        <a href="https://{{ .domain }}">{{ .name }}</a> 
+        <img width="24" src="/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block">
+    </li>
+    {{ end }}
+</ul>
