@@ -62,7 +62,7 @@ For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Te
 {{< accordion title="How do your workshops run?" >}}
 For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Partner contact to find
 Instructors, set up and handle registration, support Instructor logistics, and coordinate and share assessment results with you.
-Instructor travel expenses are the responsibility of the Partner and are not covered in membership fees.<br><br>
+Instructor travel expenses are the responsibility of the Partner and are not covered in partnership fees.<br><br>
 Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#add-on-and-a-la-carte-services) or added to an existing
 Partnership. If you would like to run a Centrally-Organised workshop in order to demonstrate the value of The Carpentries
 Partnership at your organisation, we will count the workshop fee towards a Partnership if purchased within twelve (12) months.<br><br>
@@ -187,7 +187,7 @@ To attend Collaborative Lesson Development Training, email [{{< param partnershi
 {{< /accordion >}}
 
 
-## Membership Management
+## Partnership Management
 
 {{< accordion title="Who are Programmatic Partner contacts?" >}}
 Programmatic Partner contacts are the primary liaisons for an organisation’s Partnership, ensuring seamless communication and effective management of Partnership benefits. They receive essential updates, coordinate Partnership activities, and facilitate engagement with The Carpentries community. We recommend having at least two Partner Contacts per organisation to ensure continuity and shared responsibility.
