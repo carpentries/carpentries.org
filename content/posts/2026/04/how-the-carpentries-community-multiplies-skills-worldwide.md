@@ -3,7 +3,7 @@ layout: page
 authors: ["Erin Becker"]
 teaser: "Join an upcoming Partnership Program info session to learn about the multiplier effect that helps organisations build sustainable training capacity."
 title: "Our People, Our Impact: How The Carpentries Community Multiplies Skills Worldwide"
-date: 2026-04-06
+date: 2026-04-07
 time: "09:00:00"
 tags: ["Partnerships", "Instructor Trainers", "Maintainers"]
 ---
