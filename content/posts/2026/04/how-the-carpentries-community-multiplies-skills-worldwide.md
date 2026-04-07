@@ -20,7 +20,7 @@ If your organisation is interested in benefiting from the impact of The Carpentr
 
 ## Learn More About the New Carpentries Partnership Program
 
-We recently launched our **new Partnership Program**, designed to provide organisations with greater flexibility and more ways to engage with The Carpentries community. If you coordinate your organisation’s partnership with The Carpentries, or are interested in doing so in the future, we invite you to join one of our upcoming information sessions.
+[We recently launched our **new Partnership Program**](https://carpentries.org/blog/2026/04/carpentries-partnership-program-is-now-live/), designed to provide organisations with greater flexibility and more ways to engage with The Carpentries community. If you coordinate your organisation’s partnership with The Carpentries, or are interested in doing so in the future, we invite you to join one of our upcoming information sessions.
 
 ### Upcoming Information Sessions
 
