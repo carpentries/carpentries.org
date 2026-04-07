@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt"]
 title: "South Africa's North-West University Becomes Software and Data Carpentry’s first African Partner"
 date: 2017-01-20
 time: "19:00:00"
-tags: ["Partnerships", "South Africa", "Software Carpentry"]
+tags: ["Partnership", "South Africa", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

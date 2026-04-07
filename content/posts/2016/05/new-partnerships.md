@@ -4,7 +4,7 @@ authors: ["Tracy Teal", "Jonah Duckles"]
 title: "New Joint Partnerships with Data Carpentry"
 date: 2016-05-02
 time: "15:25:00"
-tags: ["Partnerships", "Software Carpentry"]
+tags: ["Partnership", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

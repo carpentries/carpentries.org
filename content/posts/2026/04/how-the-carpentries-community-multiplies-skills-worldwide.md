@@ -5,7 +5,7 @@ teaser: "Join an upcoming Partnership Program info session to learn about the mu
 title: "Our People, Our Impact: How The Carpentries Community Multiplies Skills Worldwide"
 date: 2026-04-07
 time: "09:00:00"
-tags: ["Partnerships", "Instructor Trainers", "Maintainers"]
+tags: ["Partnership", "Instructor Trainers", "Maintainers"]
 ---
 
 ## Our People, Our Impact
