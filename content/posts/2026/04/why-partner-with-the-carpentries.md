@@ -27,7 +27,7 @@ Today, the global community includes:
 - **185 Instructor Trainers** preparing the next generation of Instructors  
 - **4,960 workshops** delivered to learners around the world.  
 
-![A graphic showing the global spread of Carpentries workshops, and then disks with the number of workshops delivered, Instructors and and Instructor Trainers trained, and countries in which these activities took place.](/blog/2026/04/our-impact-april-2026-67.png)
+![A graphic showing the global spread of Carpentries workshops, and then disks with the number of workshops delivered, Instructors and and Instructor Trainers trained, and countries in which these activities took place.](/blog/2026/04/our-impact-april-2026-60.png)
 
 These numbers reflect more than participation. They represent a global network of people working together to support open science, reproducible research, and inclusive training practices.
 
@@ -58,6 +58,7 @@ Workshops focus on practical skills such as:
 Partners frequently report that these workshops help participants become more confident in their work with data while also improving collaboration within research teams.
 
 > "Partnering with The Carpentries has transformed Virginia Tech's data education program from a handful of library faculty throwing together workshops as best we can on our own to a campus-wide collaboration that also equips classroom teachers and has a reputation for consistent, timely, high-value instruction. The best testimony I ever received was a graduate student in biosciences who told me the first thing senior students tell new graduate students in their lab is they need to take a Carpentries workshop ASAP."
+> 
 _Dr. Nathaniel D. Porter, Associate Professor and Data Education Coordinator, Virginia Tech University Libraries_
 
 ## Strengthening Collaborative Curriculum
