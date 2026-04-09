@@ -39,7 +39,8 @@ Through Instructor Training, partners can prepare staff, researchers, and educat
 
 This approach allows partners to move from occasional training events to a sustainable model where skills development becomes embedded within their institution.
 
-> "Partnering with The Carpentries has been foundational to our organization’s approach to training. Their instructor training, globally maintained lesson materials, and collaborative community have enabled us to build a robust pedagogical framework and confidently scale the delivery of high-quality technical workshops. We would highly recommend The Carpentries to any organization looking to strengthen and expand their training programs." 
+> Partnering with The Carpentries has been foundational to our organization’s approach to training. Their instructor training, globally maintained lesson materials, and collaborative community have enabled us to build a robust pedagogical framework and confidently scale the delivery of high-quality technical workshops. We would highly recommend The Carpentries to any organization looking to strengthen and expand their training programs.
+>  
 > _Grace Fishbein, Manager, Training and Development, ACENET_ 
 
 In many cases, organisations also collaborate with nearby institutions or regional networks to expand training opportunities and share expertise.
@@ -57,9 +58,9 @@ Workshops focus on practical skills such as:
 
 Partners frequently report that these workshops help participants become more confident in their work with data while also improving collaboration within research teams.
 
-> "Partnering with The Carpentries has transformed Virginia Tech's data education program from a handful of library faculty throwing together workshops as best we can on our own to a campus-wide collaboration that also equips classroom teachers and has a reputation for consistent, timely, high-value instruction. The best testimony I ever received was a graduate student in biosciences who told me the first thing senior students tell new graduate students in their lab is they need to take a Carpentries workshop ASAP."
-> 
-_Dr. Nathaniel D. Porter, Associate Professor and Data Education Coordinator, Virginia Tech University Libraries_
+> Partnering with The Carpentries has transformed Virginia Tech's data education program from a handful of library faculty throwing together workshops as best we can on our own to a campus-wide collaboration that also equips classroom teachers and has a reputation for consistent, timely, high-value instruction. The best testimony I ever received was a graduate student in biosciences who told me the first thing senior students tell new graduate students in their lab is they need to take a Carpentries workshop ASAP.
+>
+> _Dr. Nathaniel D. Porter, Associate Professor and Data Education Coordinator, Virginia Tech University Libraries_
 
 ## Strengthening Collaborative Curriculum
 
@@ -69,7 +70,8 @@ Carpentries lessons are developed collaboratively by Maintainers and contributor
 
 Many partners encourage staff to participate in lesson maintenance or join **[Collaborative Lesson Development Training](https://carpentries.org/lesson-development/)**, where they learn how to design and develop lessons using open-source workflows. This collaboration helps ensure that the curriculum reflects the evolving needs of researchers and educators.
 
-> "Being part of the Carpentries helps QCIF deliver training that’s not just high‑quality, but genuinely useful for researchers. It gives us access to shared, peer‑reviewed lessons, which means our workshops stay practical, current, and grounded in approaches that actually work for learners."
+> Being part of the Carpentries helps QCIF deliver training that’s not just high‑quality, but genuinely useful for researchers. It gives us access to shared, peer‑reviewed lessons, which means our workshops stay practical, current, and grounded in approaches that actually work for learners.
+> 
 > _Rachel McKay, Skills Development Coordinator, QCIF Digital Research_
 
 ## Connecting with a Global Network
