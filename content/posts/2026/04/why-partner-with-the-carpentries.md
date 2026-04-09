@@ -27,7 +27,7 @@ Today, the global community includes:
 - **185 Instructor Trainers** preparing the next generation of Instructors  
 - **4,960 workshops** delivered to learners around the world.  
 
-![A graphic showing the global spread of Carpentries workshops, and then disks with the number of workshops delivered, Instructors and and Instructor Trainers trained, and countries in which these activities took place.](/blog/2026/04/our-impact-april-2026-60.png)
+![A graphic showing the global spread of Carpentries workshops, and then disks with the number of workshops delivered, Instructors and and Instructor Trainers trained, and countries in which these activities took place.](/blog/2026/04/our-impact-april-2026-40.png)
 
 These numbers reflect more than participation. They represent a global network of people working together to support open science, reproducible research, and inclusive training practices.
 
