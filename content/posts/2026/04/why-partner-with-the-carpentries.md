@@ -5,7 +5,7 @@ teaser: "From universities to research institutes and library consortia, partner
 title: "Why Partner with The Carpentries? Building Skills, Community, and Global Impact"
 date: 2026-04-13
 time: "09:00:00"
-tags: ["Partnerships"]
+tags: ["Partnership"]
 ---
 
 ## Why Partner with The Carpentries
