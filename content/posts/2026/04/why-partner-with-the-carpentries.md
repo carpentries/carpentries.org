@@ -68,7 +68,7 @@ Another important aspect of partnering with The Carpentries is the opportunity t
 
 Carpentries lessons are developed collaboratively by Maintainers and contributors across the global community. This open model allows partners to help shape the curriculum while ensuring that lessons remain current and relevant.
 
-Many partners encourage staff to participate in lesson maintenance or join **[Collaborative Lesson Development Training](https://carpentries.org/lesson-development/)**, where they learn how to design and develop lessons using open-source workflows. This collaboration helps ensure that the curriculum reflects the evolving needs of researchers and educators.
+Many partners encourage staff to participate in lesson maintenance or join **[Collaborative Lesson Development Training](/lesson-development/)**, where they learn how to design and develop lessons using open-source workflows. This collaboration helps ensure that the curriculum reflects the evolving needs of researchers and educators.
 
 > Being part of the Carpentries helps QCIF deliver training that’s not just high‑quality, but genuinely useful for researchers. It gives us access to shared, peer‑reviewed lessons, which means our workshops stay practical, current, and grounded in approaches that actually work for learners.
 > 
@@ -84,7 +84,7 @@ For many organisations, this connection to a broader community becomes one of th
 
 ## Learn More About the Carpentries Partnership program
 
-[The Carpentries Partnership program](https://carpentries.org/support/partnership/) offers flexible options that allow organisations to tailor their engagement based on their goals.
+[The Carpentries Partnership program](/support/partnership/) offers flexible options that allow organisations to tailor their engagement based on their goals.
 
 Partnerships can include combinations of:
 
@@ -96,4 +96,4 @@ Partnerships can include combinations of:
 
 Whether your organisation is just beginning to explore data and computational skills training or is ready to expand an existing program, partnering with The Carpentries provides a pathway to sustainable capacity building.
 
-If you are interested in learning more about becoming a Partner, visit our [Partnership page](/support/partnership/) or contact our [team](mailto:partnership@carpentries.org) to start the conversation.
+If you are interested in learning more about becoming a Partner, visit our [Partnership page](/support/partnership/) or contact our [team](mailto:{{< param partnership_email >}}) to start the conversation.
