@@ -91,7 +91,7 @@ Partnerships can include combinations of:
 - access to workshops covering a wide range of curricula ranging from introductory programming skills to working with specialised data types
 - Instructor Training seats
 - Collaborative Lesson Development training seats
-- professional development courses aimed, for at example, at developing practical digital skill
+- professional development courses aimed, for example, at developing practical digital skills
 - consultation and support for building local communities of practice.
 
 Whether your organisation is just beginning to explore data and computational skills training or is ready to expand an existing program, partnering with The Carpentries provides a pathway to sustainable capacity building.
