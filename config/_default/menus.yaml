@@ -136,7 +136,7 @@ main:
   name: Learn
   url: "#"
   parent: null
-  weight: 20
+  weight: 10
 - identifier: workshops
   name: Workshops
   pageRef: "/workshops/"
@@ -147,21 +147,31 @@ main:
   pageRef: "/lessons/"
   parent: learn
   weight: 20
+- identifier: professional-development
+  name: Professional Development Sessions
+  url: "/professional-development/"
+  parent: learn
+  weight: 30
+- identifier: learner-centered-teaching
+  name: Learner-Centered Teaching
+  url: "/learner-centered-teaching/"
+  parent: learn
+  weight: 40
 - identifier: instructor-training
   name: Instructor Training
   pageRef: "/instructor-training/"
   parent: learn
-  weight: 30
+  weight: 50
 - identifier: trainer-training
   name: Instructor Trainer Training
   pageRef: "/instructor-trainer-training/"
   parent: learn
-  weight: 40
+  weight: 60
 - identifier: lesson-development
   name: Lesson Development Training
   pageRef: "/lesson-development/"
   parent: learn
-  weight: 50
+  weight: 70
 # Volunteer menu
 - identifier: volunteer
   name: Volunteer
