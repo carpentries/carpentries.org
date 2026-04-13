@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Instructor Trainers", "Community", "Workshops", "Grants"]  
 ---  
 
-The Workshops and Instruction Team is thrilled to share that our project, **[[Empowering Indigenous Research Through Open Science: Pedagogical Training at KBOCC](https://static1.squarespace.com/static/6595a243340c432bfd033707/t/69cd4e8fb787b5000116ec05/1775062672974/ORCA+CAP+Round+2+Recipients.pdf)**, has received 15,000 USD in funding in the the second round of the 2026 [Open Scholarship Catalytic Awards Program](https://www.orcaopen.org/work/cap).
+The Workshops and Instruction Team is thrilled to share that our project, **[Empowering Indigenous Research Through Open Science: Pedagogical Training at KBOCC](https://static1.squarespace.com/static/6595a243340c432bfd033707/t/69cd4e8fb787b5000116ec05/1775062672974/ORCA+CAP+Round+2+Recipients.pdf)**, has received 15,000 USD in funding in the the second round of the 2026 [Open Scholarship Catalytic Awards Program](https://www.orcaopen.org/work/cap).
 
 This award supports a collaboration between The Carpentries and Keweenaw Bay Ojibwa Community College (KBOCC) to strengthen open scholarship at a rural Tribal College and expand equitable access to research training within Indigenous communities.
 
