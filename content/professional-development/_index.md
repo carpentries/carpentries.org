@@ -112,7 +112,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Register
 
-Registration link coming soon!
+Click here to [register](https://pretix.carpentries.org/professional-development/courses/)
 
 ## Request Accessibility Support
 
