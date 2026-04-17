@@ -67,7 +67,7 @@ blocks:
     - quote: I went from a learner to an Instructor and completely changed the trajectory of my career. It helped me find my people. ❤️
       image: testimonials/saranya_canchi_testimonial.jpg
       name: Saranya Canchi
-      copy: Computational Lead, University of Michigan
+      copy: Data Engineer - Bioinformatics, Howard Hughes Medical Institute
     - quote: I'm pretty sure I wouldn’t be a gainfully employed climate scientist without The Carpentries. 
       image: testimonials/damien_irving_testimonial.jpg
       name: Damien Irving
