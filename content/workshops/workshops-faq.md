@@ -66,7 +66,7 @@ The Carpentries is not responsible for selecting helpers. This is the responsibi
 The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of two to three months lead time to organise the workshop. If a request is less than two months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalised. 
 {{< /accordion >}}
 
-{{< accordion title="My currency is not USD, will I get invoiced in USD or my local currency?" >}}
+{{< accordion title="My currency is not USD. Will I get invoiced in USD or my local currency?" >}}
 
 If your organisation does not accept invoices in USD, please let us know. The Workshops and Instruction Team will connect you with the Management Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
 {{< /accordion >}}
