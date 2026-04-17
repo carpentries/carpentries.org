@@ -8,6 +8,6 @@ aliases:
 
 Maintainers are responsible for the day-to-day upkeep of our lessons - making sure they stay accurate, up-to-date, functional, and cohesive.
 
-This page lists our previous Maintainers. Current Maintainers are listed on our [Maintainer](/community/maintainers) page. You can learn more about the Maintainer role, and how to become a Maintainer in our Maintainer Handbook.
+This page lists our previous Maintainers. Current Maintainers are listed on our [Maintainer](/community/maintainers) page. You can learn more about the Maintainer role, and how to become a Maintainer in our [Maintainer Handbook]({{< param handbook_url >}}/handbooks/maintainers.html).
 
 {{< persons feed="https://feeds.carpentries.org/all_maintainers.json" where="active_status,Inactive" >}}
