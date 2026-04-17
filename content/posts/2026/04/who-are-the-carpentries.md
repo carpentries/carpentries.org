@@ -20,9 +20,9 @@ Today, the community includes:
 
 But these numbers only tell part of the story.
 
-The real impact of The Carpentries comes from the people who teach, learn, and collaborate through our programs. Through our **Partnership program**, organisations [join a global network focused on building local capacity for teaching data skills](https://carpentries.org/blog/2026/04/why-partner-with-the-carpentries/).
+The real impact of The Carpentries comes from the people who teach, learn, and collaborate through our programs. Through our **Partnership program**, organisations [join a global network focused on building local capacity for teaching data skills](/blog/2026/04/why-partner-with-the-carpentries/).
 
-Rather than relying on one-time training events, partners use these programs to [build sustainable communities of practice around data skills and open science](https://carpentries.org/blog/2026/04/how-the-carpentries-community-multiplies-skills-worldwide/).
+Rather than relying on one-time training events, partners use these programs to [build sustainable communities of practice around data skills and open science](/blog/2026/04/how-the-carpentries-community-multiplies-skills-worldwide/).
 
 ## Why the Carpentries Approach Works for Science
 
@@ -90,7 +90,7 @@ Whether your organisation is just beginning to explore skills training or alread
 
 ## Learn More About Partnering with The Carpentries
 
-If you’re interested in learning more about your organisation can partner with The Carpentries, we invite you to join us at one of our upcoming information sessions, or [schedule an individual conversation with us](https://calendly.com/carpentries-partnership/30-minutes). 
+If you’re interested in learning more about your organisation can partner with The Carpentries, we invite you to join us at one of our upcoming information sessions, or [schedule an individual conversation with us]({{< param partnership_calendly >}}). 
 
 **Session 1**
 
