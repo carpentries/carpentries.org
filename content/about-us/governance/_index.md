@@ -29,7 +29,7 @@ The Board uses standing Committees as a practical way to manage the work and eng
 
 ## Contact the Board of Directors
 
-Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by [filling in this form](https://docs.google.com/document/d/1xXVQIfUz0hV6I2VKUawXro2n7ioN5tBFbW0FBTZ8FiU/edit).
+Contact the Board by [sending an email](mailto:{{< param board_email >}}) or by [filling in this form](https://docs.google.com/forms/d/e/1FAIpQLSeo6ZHol64szpfd2xPNHh9fGig-HftARFW18xftaWRlbV7hnw/viewform).
 
 ## Past Governance Members
 
