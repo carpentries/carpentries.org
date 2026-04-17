@@ -75,7 +75,7 @@ Participants attend workshops to learn new skills. Some then become Instructors 
 
 As one community member described it:
 
-> “I’ve watched a prospective instructor build their confidence and teach with more impact than I had ever seen.”
+> “I’ve watched a prospective instructor build their confidence and teach with more impact than I had ever seen.”  
 — Jonah Duckles, Co-Founder, Organizational Mycology
 
 This progression helps institutions move beyond individual training events toward sustained skill development.
