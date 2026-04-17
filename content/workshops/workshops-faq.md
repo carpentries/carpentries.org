@@ -183,7 +183,7 @@ Yes, it is up to the workshop organisers to decide who can attend a workshop. Yo
 We have compiled several [email templates]({{< param handbook_url >}}/resources/workshops/email_templates.html) to help you respond to various groups: participants, Instructors, and helpers.
 {{< /accordion >}}
 
-{{< accordion title="Can I charge Learners a fee to attend a workshop I host?" >}}
+{{< accordion title="Can I charge learners a fee to attend a workshop I host?" >}}
 
 Yes, you can charge learners a fee to attend a workshop. Often a nominal fee of $20 reduces the number of no-shows. Many workshops have a waitlist, so it is best to be able to offer open seats due to no-shows to people on the waitlist instead of having an empty seat.
 {{< /accordion >}}
