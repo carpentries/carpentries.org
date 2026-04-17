@@ -15,14 +15,14 @@ To be the leading inclusive community teaching computing and data skills.
 
 **Mission**
 
-The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of Learners and Instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
+The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and Instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
 
 ## Strategic Goals and Objectives
 
 
 For the purposes of this page, we define the following terms:
 
-- **Community**: Individuals and committees who are a part of our operations, including, but not limited to: Learners, Instructors, Helpers, Maintainers, Trainers, Regional Coordinators, Workshop Hosts, Member Site Contacts, Community Champions, Curriculum Advisors, Local and Regional Community Leaders, and all Committee and Task Force Members.
+- **Community**: Individuals and committees who are a part of our operations, including, but not limited to: learners, Instructors, Helpers, Maintainers, Trainers, Regional Coordinators, Workshop Hosts, Member Site Contacts, Community Champions, Curriculum Advisors, Local and Regional Community Leaders, and all Committee and Task Force Members.
 - **Core Team**: Individuals whose primary professional focus is to support the overall mission of The Carpentries on a daily basis. The Core Team may include staff (individuals on salary or hourly pay), contractors, and individuals who work in-kind with The Carpentries. These individuals are fully integrated into The Carpentries operational systems, attend Core Team meetings, and function as part of programmatic teams.
 
 ### GOAL 1:
@@ -58,7 +58,7 @@ As an international community, we value inclusivity and want to continue to find
 - Improve mechanisms for participation and contribution to our community by investigating ways to support more languages, better understanding the needs of signing and non-signing members of the Deaf and hard of hearing community, and enabling more ways to participate that are not dependent on stable internet access.
 - Create a roadmap for improving the accessibility of our lessons, lesson infrastructure, online resources, and sign-up workflows for teaching workshops.
 - Enhance our Instructor Training materials through the inclusion of information about Culturally Responsive Teaching and the development of an instructor resource guide about equity, inclusion, and accessibility.
-- Develop a workflow for responding to accessibility information and feedback to improve accommodations for Instructors and Learners.
+- Develop a workflow for responding to accessibility information and feedback to improve accommodations for Instructors and learners.
 
 ### GOAL 3:
 
