@@ -29,7 +29,7 @@ Read more about the benefits for each plan on our [Partnership](/partnership) pa
 - **Transform Partnerships** are intended for organisations pursuing even broader institution-wide change. This level enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
 {{< /accordion >}}
 
-{{< accordion title="What if those Partnership packages do not fit my organisations’s needs?" >}}
+{{< accordion title="What if those Partnership packages do not fit my organisation’s needs?" >}}
 We would be happy to talk with you to learn more about your organisation’s goals and create a custom plan that works for you.  Contact our Partnership team to schedule a meeting at [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
 {{< /accordion >}}
 
