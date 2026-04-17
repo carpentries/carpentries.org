@@ -8,7 +8,7 @@ aliases:
 
 ## Pre-Workshop Questions
 
-{{< accordion title="When planning a workshop, how closely does the workshop have to stick to the Carpentries lesson plans??" >}}
+{{< accordion title="When planning a workshop, how closely does the workshop have to stick to the Carpentries lesson plans?" >}}
 
 Centrally-Organised workshops must teach the Core Curriculum of a lesson plan. Visit our [Curricula Overview page](/lessons/curriculum-summary/) to learn more about what we have to offer!
 {{< /accordion >}}
