@@ -82,7 +82,7 @@ Intended for organisations pursuing even broader institution-wide change, a Tran
 Transform level Partners can certify up to sixteen (16) individuals as Carpentries Lesson Developers or Instructors, providing the person-power for extensive curriculum development and instructional efforts. 
 Alternatively, Transform Partners can standardise onboarding of cohorts of new educators (e.g. graduate teaching assistants) through our one-day Learner-Centered Teaching program. 
 
-No matter which level of Partnership you pursue, The Carpentries team with help you mix and match our service offerings to build the best training program for your team!
+No matter which level of Partnership you pursue, The Carpentries team will help you mix and match our service offerings to build the best training program for your team!
 
 ## Additional Benefits
 
