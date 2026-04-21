@@ -109,7 +109,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 
 ## Online Workshops
 
-{{< accordion title="I have never hosted an online workshop, where should I begin?" >}}
+{{< accordion title="I have never hosted an online workshop. Where should I begin?" >}}
 
 Hosting an online workshop for the first time can be daunting. We have many great blog posts written by the community that you can reference to help with planning. 
 [The Software Sustainability Institute's Guidance for Running Online Training](/blog/2020/07/software-sustainability-institute-online-training-guidance/) has 
