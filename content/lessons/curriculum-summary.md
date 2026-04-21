@@ -11,7 +11,7 @@ efficiently study the ever-growing datasets developed in modern astronomy.
 In particular,
 this curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and
 to create publication-quality data visualisations.
-The workshop uses two large astronomical datasets: data from the Gaia sattelite and the Pan-STARRS prohotmetric survey.
+The workshop uses two large astronomical datasets: data from the Gaia satellite and the Pan-STARRS photometric survey.
 Data Carpentry: Astronomy has more prerequisites than most of our workshops,
 requiring learners to have some familiarity with astronomical concepts
 and the Python programming language.
