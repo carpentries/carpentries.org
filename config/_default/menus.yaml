@@ -209,11 +209,6 @@ main:
   url: "/support/partnership"
   parent: support
   weight: 10
-- identifier: sponsorship
-  name: Sponsorship
-  url: "/support/sponsorship"
-  parent: support
-  weight: 20
 - identifier: pricing
   name: Pricing
   url: /support/pricing
