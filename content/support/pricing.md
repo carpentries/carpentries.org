@@ -14,7 +14,7 @@ Fees listed below are for organisations in high-income economies.
 Institutions located in upper-middle, lower-middle, and low-income economies are eligible for 25%, 50%, or 75% reduced pricing, respectively.
 
 Prices listed below are applicable to non-profit, academic, and government organisations. 
-For corporate pricing, contact us at [partnership@carpentries.org](mailto:partnership@carpentries.org).
+For corporate pricing, contact us at [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}).
 
 ## Partnership Pricing
 
