@@ -14,7 +14,7 @@ as they progress through the training.
 Participants join Collaborative Lesson Development Training in teams of two to five people, collaborating together on a single lesson.
 
 ## Is Instructor Training a prerequisite for Collaborative Lesson Development Training?
-At least one person in the lesson team must have attended The Carpentries Instructor Training before the group can participate in Collaborative Lesson Development Training.
+At least one person in the lesson team must have attended The Carpentries [Instructor Training](/instructor-training/) or [Learner-Centered Teaching](/learner-centered-teaching/) before the group can participate in Collaborative Lesson Development Training.
 
 ## How important is it for multiple people to join Collaborative Lesson Development Training as a team?
 Efforts have been made to make the Collaborative Lesson Development Training curriculum suitable for individuals who want to develop a lesson alone. However, we believe that the lesson development process is likely to be more successful (and more enjoyable!) when it is a collaborative effort among multiple contributors. We encourage those interested in joining the training to find at least one other person to join the training with them. This is reflected in the pricing of the training.
