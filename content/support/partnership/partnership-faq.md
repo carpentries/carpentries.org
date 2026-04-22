@@ -207,8 +207,8 @@ Programmatic Partner contacts are added to this mailing list for quarterly updat
 Every three months, Programmatic Partner contacts receive a detailed email outlining Partnership usage and trainee progress, helping them track engagement and maximise the benefits of their organisation’s Partnership.
 {{< /accordion >}}
 
-{{< accordion title="What are Community Development Program Calls?" >}}
-These [calls](https://pad.carpentries.org/community-development-program) take place every three months and offer valuable opportunities for networking, sharing updates, and fostering community growth.
+{{< accordion title="What are Partnership Quarterly Newsletters" >}}
+These newsletters are distributed quarterly to keep Partner Organisations informed about the latest developments at The Carpentries.
 {{< /accordion >}}
 
 ## Contact us
