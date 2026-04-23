@@ -74,7 +74,7 @@ Join the [Carpentries Partnership program](https://carpentries.org/support/partn
 Continue your organisation’s engagement and expand the impact of your local Carpentries community.
 
 **Schedule a Consultation**  
-[Meet with a member of the Carpentries team](https://calendly.com/carpentries-partnership/onboarding) to discuss how a partnership can support your organisation’s training and capacity-building goals.
+[Meet with a member of The Carpentries team](https://calendly.com/carpentries-partnership/30-minutes) to discuss how a partnership can support your organisation’s training and capacity-building goals.
 
 ## Start the Conversation
 
