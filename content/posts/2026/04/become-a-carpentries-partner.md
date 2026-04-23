@@ -82,4 +82,4 @@ The Carpentries Partnership program is designed to be flexible so that organisat
 
 If you are interested in becoming a Partner, renewing your partnership, or learning more about how the program works, we invite you to connect with us.
 
-Learn more and [schedule a consultation](mailto:membership@carpentries.org).
+Learn more and [schedule a consultation](mailto:partnership@carpentries.org).
