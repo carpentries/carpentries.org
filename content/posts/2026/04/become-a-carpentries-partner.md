@@ -80,6 +80,6 @@ Continue your organisation’s engagement and expand the impact of your local Ca
 
 The Carpentries Partnership program is designed to be flexible so that organisations can build the combination of services that best supports their community.
 
-If you are interested in becoming a Partner, renewing your partnership, or learning more about how the program works, we invite you to connect with us.
+If you are interested in becoming a Partner, renewing your partnership, or learning more about how the Partnership program works, we invite you to connect with us.
 
 Learn more and [schedule a consultation](mailto:partnership@carpentries.org).
