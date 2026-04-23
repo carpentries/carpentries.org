@@ -36,7 +36,7 @@ Many Partners begin their engagement with a single workshop or training cohort a
 
 ## What a Carpentries Partnership Provides
 
-The Carpentries Partnership Program is designed to help organisations grow sustainable training capacity while connecting to a global community of educators and researchers.
+The Carpentries Partnership program is designed to help organisations grow sustainable training capacity while connecting to a global community of educators and researchers.
 
 Partnerships can include combinations of:
 
