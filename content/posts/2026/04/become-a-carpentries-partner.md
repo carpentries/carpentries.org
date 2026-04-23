@@ -50,7 +50,7 @@ Rather than relying on external training, our Partners use these programs to dev
 
 ## A Global Community of Educators and Researchers
 
-Beyond the training programmes themselves, partnering with The Carpentries [connects organisations to a global network](https://carpentries.org/blog/2026/04/why-partner-with-the-carpentries/) of Instructors, Maintainers, Instructor Trainers, and community leaders.
+Beyond the training programmes themselves, partnering with The Carpentries [connects organisations to a global network](/blog/2026/04/why-partner-with-the-carpentries/) of Instructors, Maintainers, Instructor Trainers, and community leaders.
 
 This network shares teaching practices, develops open lesson materials, and collaborates across institutions and disciplines to support better research and learning.
 
@@ -59,7 +59,7 @@ As one community member shared:
 > “I went from a learner to Instructor and completely changed the trajectory of my career. It helped me find my people.”  
 — Dr. Saranya Canchi, Data Engineer - Bioinformatics, Howard Hughes Medical Institute
 
-[Such stories from The Carpentries community](https://carpentries.org/blog/2026/04/who-are-the-carpentries/) illustrate how technical skills training can also foster belonging, confidence, and collaboration.
+[Such stories from The Carpentries community](/blog/2026/04/who-are-the-carpentries/) illustrate how technical skills training can also foster belonging, confidence, and collaboration.
 
 ## Take the Next Step
 
@@ -68,7 +68,7 @@ Whether your organisation is exploring a partnership for the first time or looki
 You can:
 
 **Become a Partner**  
-Join the [Carpentries Partnership program](https://carpentries.org/support/partnership/) and begin building data and computational skills within your organisation.
+Join the [Carpentries Partnership program](/support/partnership/) and begin building data and computational skills within your organisation.
 
 **Renew Your Partnership**  
 Continue your organisation’s engagement and expand the impact of your local Carpentries community.
