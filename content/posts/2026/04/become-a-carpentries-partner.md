@@ -41,7 +41,7 @@ The Carpentries Partnership program is designed to help organisations grow susta
 Partnerships can include combinations of:
 
 - **Centrally-Organised workshops** using Carpentries data and computational skills curricula  
-- **Instructor Training** to prepare new instructors in evidence-based teaching practices  
+- **Instructor Training** to prepare new Instructors in evidence-based teaching practices  
 - **Collaborative Lesson Development Training** for teams building open educational resources  
 - **Professional development short courses** to build timely skills for the modern digital workforce  
 - **Consultation and support** for building local communities of practice.  
