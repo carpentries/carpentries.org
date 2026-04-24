@@ -117,9 +117,7 @@ commitment to teaching. There are no specific technical skills required to becom
 individuals with a range of experiences and technical competencies. Trainees will be required to demonstrate their ability to
 teach one of our lessons, with options ranging from spreadsheet formatting to Python programming. Although we do not provide
 screening or selection of trainee candidates, Partner Organisations are welcome to make use of our
-[application questions]({{< param amy_training >}}) and
-[rubric](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), which we use for evaluating
-non-Partner affiliated trainees. For more information about selecting trainees, read our [Information for Partner Organisations](/support/partnership) page.
+[application questions]({{< param amy_training >}}). For more information about selecting trainees, read our [Information for Partner Organisations](/support/partnership) page.
 {{< /accordion >}}
 
 {{< accordion title="How soon after signing my Partnership can I get started with Instructor Training?" >}}
