@@ -16,7 +16,7 @@ Our lessons are built using [The Carpentries Workbench](/workbench), a custom op
 
 ## Search lessons
 
-Our lesson collection is extensive. Use the search bar to find a particular lesson (e.g. The Unix Shell) or lessons related to a general topic (e.g. data organisation). Use the filtering options to narrow down your results or browse lessons by category.  Clear filters before performing a new search.
+Our lesson collection is extensive. Use the search options to the right to find a particular lesson (e.g. The Unix Shell) or lessons related to a general topic (e.g. data organisation). Use the filtering options to narrow down your results or browse lessons by category.  Clear filters before performing a new search.
 
 ## Request acccessibility support
 
