@@ -3,7 +3,7 @@ layout: page
 authors: ["SherAaron Hurt", "Erin Becker"]
 teaser: "Do you want to teach others to develop skills and confidence as Carpentries Instructors? Become an Instructor Trainer!"
 title: "Applications Now Open for Carpentries Instructor Trainer Training Starting July 2026"
-date: 2026-05-30
+date: 2026-04-30
 time: "00:00:00"
 tags: ["Instructor Development", "Instructor Trainers", “Trainer Training”]
 ---
