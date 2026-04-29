@@ -19,13 +19,13 @@ If any of these describe you, consider joining our vibrant community of Instruct
 ## What is an Instructor Trainer?
 
 ![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.](/blog/2020/07/instructor-training-program.png)
-<br/>_A flow chart of our Instructor Training program, from Instructor Trainers to Instructors to Learners._
+<br/>_A flow chart of our Instructor Training programme, from Instructor Trainers to Instructors to Learners._
 
 **Instructor Trainer Training** is the process by which we onboard new Instructor Trainers. **Instructor Trainers co-teach Instructor Training events** to bring on new Instructors.  **Instructors** teach Carpentries workshops (Data Carpentry, Library Carpentry, and Software Carpentry) to learners worldwide.
 
 ## What is involved in Instructor Trainer Training?
 
-Instructor Trainer Training consists of 10 weekly 1-hour meetings. This cohort will start meetings in July on the earliest date available for all.
+Instructor Trainer Training consists of 10 weekly one (1) hour meetings. This cohort will start meetings in July on the earliest date available for all.
 
 In addition to the weekly meetings, trainees are asked to sit in on part of an online Instructor Training event, observe a Teaching Demonstration session, and complete [weekly reading and homework assignments](https://carpentries.github.io/trainer-training/) from [The Carpentries Instructor Training Curriculum](https://carpentries.github.io/instructor-training/) as well as our text, [How Learning Works: Eight Research-Based Principles for Smart Teaching (2nd edition)](https://www.wiley.com/en-us/How+Learning+Works%3A+Eight+Research-Based+Principles+for+Smart+Teaching%2C+2nd+Edition-p-9781119861690) by Norman et al. Trainees will need to purchase or borrow a copy of the text to use during the training. 
 
@@ -33,7 +33,7 @@ For more details, have a look at the [Becoming an Instructor Trainer section in 
 
 ## How do I apply?
 
-We are so happy you want to join us as an Instructor Trainer! The application is [here](https://docs.google.com/forms/d/e/1FAIpQLSdKYIPowtUcYL64fgPxSXcBeBVX23_8CUARxZ0utYciykKajw/viewform). Please apply by the end of [15 May 2026 Anytime on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Trainer+Training+Application+Deadline&iso=20260515T235959&p1=3399).
+We are so happy you want to join us as an Instructor Trainer! To apply, please use the [Instructor Trainer Application form](https://docs.google.com/forms/d/e/1FAIpQLSdKYIPowtUcYL64fgPxSXcBeBVX23_8CUARxZ0utYciykKajw/viewform). Please apply by the end of [15 May 2026 Anytime on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Instructor+Trainer+Training+Application+Deadline&iso=20260515T235959&p1=3399).
 
 ## Selection Priorities
 
