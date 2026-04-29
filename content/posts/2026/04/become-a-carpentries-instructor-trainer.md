@@ -3,7 +3,7 @@ layout: page
 authors: ["SherAaron Hurt", "Erin Becker"]
 teaser: "Do you want to teach others to develop skills and confidence as Carpentries Instructors? Become an Instructor Trainer!"
 title: "Applications Now Open for Carpentries Instructor Trainer Training Starting July 2026"
-date: 2026-05-01
+date: 2026-05-30
 time: "00:00:00"
 tags: ["Instructor Development", "Instructor Trainers", “Trainer Training”]
 ---
@@ -14,11 +14,11 @@ Do you want to help people learn to be more effective teachers, while continuing
 
 Maybe you are looking for another way to get involved and give back to The Carpentries community. 
 
-If any of these describe you, consider joining our vibrant community of Instructor Trainers! We are pleased to announce that applications are now open for anyone wishing to become a [Carpentries Instructor Trainer](https://carpentries.org/trainers/)!
+If any of these describe you, consider joining our vibrant community of Instructor Trainers. We are pleased to announce that applications are now open for anyone wishing to become a [Carpentries Instructor Trainer](/trainers/)!
 
 ## What is an Instructor Trainer?
 
-![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.]({{ site.urlimg }}/blog/2020/07/instructor-training-program.png)
+![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.](/blog/2020/07/instructor-training-program.png)
 <br/>_A flow chart of our Instructor Training program, from Instructor Trainers to Instructors to Learners._
 
 **Instructor Trainer Training** is the process by which we onboard new Instructor Trainers. **Instructor Trainers co-teach Instructor Training events** to bring on new Instructors.  **Instructors** teach Carpentries workshops (Data Carpentry, Library Carpentry, and Software Carpentry) to learners worldwide.
@@ -41,7 +41,7 @@ All are welcome to apply for Instructor Trainer Training. Several factors can in
 
 ### Purchased vs. Sponsored Seats
 
-We have two tiers for admission to this programme. We offer seats for purchase through [Partnership](https://carpentries.org/partnership/) as well as Carpentries-sponsored admission with no cost (other than textbook purchase) to trainees. Applicants for purchased seats are still subject to review and must be approved by our panel of current Instructor Trainers.
+We have two tiers for admission to this programme. We offer seats for purchase through [Partnership](/partnership/) as well as Carpentries-sponsored admission with no cost (other than textbook purchase) to trainees. Applicants for purchased seats are still subject to review and must be approved by our panel of current Instructor Trainers.
 
 All applicants must meet our basic expectations for Instructor Trainers with regard to **philosophy and skill in training and community-based work**. Teaching new Instructors about The Carpentries approach to training and community plays a vital role that shapes the character and culture of our global community. For this reason, we aim to select applicants who will model our practices with care and engage thoughtfully with our growing community of Instructor Trainers as we continue to develop this programme. Your application will help our panelists get to know you and appreciate the ways in which you are prepared to support our programme.
 
