@@ -27,9 +27,9 @@ If any of these describe you, consider joining our vibrant community of Instruct
 
 Instructor Trainer Training consists of 10 weekly one (1) hour meetings. This cohort will start meetings in July on the earliest date available for all.
 
-In addition to the weekly meetings, trainees are asked to sit in on part of an online Instructor Training event, observe a Teaching Demonstration session, and complete [weekly reading and homework assignments](https://carpentries.github.io/trainer-training/) from [The Carpentries Instructor Training Curriculum](https://carpentries.github.io/instructor-training/) as well as our text, [How Learning Works: Eight Research-Based Principles for Smart Teaching (2nd edition)](https://www.wiley.com/en-us/How+Learning+Works%3A+Eight+Research-Based+Principles+for+Smart+Teaching%2C+2nd+Edition-p-9781119861690) by Norman et al. Trainees will need to purchase or borrow a copy of the text to use during the training. 
+In addition to the weekly meetings, trainees are asked to sit in on part of an online Instructor Training event, observe a Teaching Demonstration session, and complete [weekly reading and homework assignments](https://carpentries.github.io/trainer-training/) from [The Carpentries Instructor Training Curriculum]({{< param instructor_training_curriculum >}}) as well as our text, [How Learning Works: Eight Research-Based Principles for Smart Teaching (2nd edition)](https://www.wiley.com/en-us/How+Learning+Works%3A+Eight+Research-Based+Principles+for+Smart+Teaching%2C+2nd+Edition-p-9781119861690) by Norman et al. Trainees will need to purchase or borrow a copy of the text to use during the training. 
 
-For more details, have a look at the [Becoming an Instructor Trainer section in The Carpentries Handbook](https://docs.carpentries.org/handbooks/instructor_trainers.html#instructor-trainer-training-program).
+For more details, have a look at the [Becoming an Instructor Trainer section in The Carpentries Handbook]({{< param handbook_url >}}/handbooks/instructor_trainers.html#instructor-trainer-training-program).
 
 ## How do I apply?
 
@@ -75,7 +75,7 @@ Instructor Trainers are asked to:
 - attend at least four Instructor Trainer community meetings.
 - respond to four quarterly scheduling polls.
 
-Instructor Trainers are asked to renew their certification annually by participating in the community as outlined above, and may choose to take leave from their role if they are not able to remain active. Expectations and certification renewal procedures are determined by the Instructor Trainer community and updates are supported by the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md). For more details on current expectations, see the [participation expectations in our Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#participation-expectations-for-active-instructor-trainers).
+Instructor Trainers are asked to renew their certification annually by participating in the community as outlined above, and may choose to take leave from their role if they are not able to remain active. Expectations and certification renewal procedures are determined by the Instructor Trainer community and updates are supported by the [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md). For more details on current expectations, see the [participation expectations in our Handbook]({{< param handbook_url >}}/handbooks/instructor_trainers.html#roles-and-responsibilities).
 
 **What impact will I have as an Instructor Trainer?**
 
@@ -85,7 +85,7 @@ Instructor Trainers often also lead within their home communities, spearheading 
 
 **Any questions?**
 
-We want to hear from you! Please send your questions to The Carpentries Instructor Training Team at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+We want to hear from you! Please send your questions to The Carpentries Instructor Training Team at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).
 
 ## Help us spread the word!
 
