@@ -46,7 +46,7 @@ Please visit our [pricing page](/support/pricing) for more information.
 
 {{< accordion title="Do Instructors pay for travel?" >}}
 
-Our Instructors are volunteers and are not paid for their time teaching. Therefore, we ask the host to cover travel and accommodation costs for Instructors assigned to teach at your institution. We work to find local Instructors but suggest that you estimate about $3000 total ($1500 per Instructor) for the travel, food, and accommodation of the Instructors. **Note travel and accommodation costs might vary globally.**
+Our Instructors are volunteers and are not paid for their time teaching. Therefore, we ask the host to cover travel and accommodation costs for Instructors assigned to teach at your institution. We work to find local Instructors but suggest that you estimate about US$3000 total (US$1500 per Instructor), or your local equivalent, for the travel, food, and accommodation of the Instructors. **Note travel and accommodation costs might vary globally.**
 
 The details of how you will manage the Instructors’ travel is discussed once the Instructors are confirmed and introduced to the host. *The Carpentries is not involved in this process.*
 {{< /accordion >}}
@@ -185,7 +185,7 @@ We have compiled several [email templates]({{< param handbook_url >}}/resources/
 
 {{< accordion title="Can I charge learners a fee to attend a workshop I host?" >}}
 
-Yes, you can charge learners a fee to attend a workshop. Often a nominal fee of $20 reduces the number of no-shows. Many workshops have a waitlist, so it is best to be able to offer open seats due to no-shows to people on the waitlist instead of having an empty seat.
+Yes, you can charge learners a fee to attend a workshop. Often a nominal fee of US $20 (or your local equivalent) reduces the number of no-shows. Many workshops have a waitlist, so it is best to be able to offer open seats due to no-shows to people on the waitlist instead of having an empty seat.
 {{< /accordion >}}
 
 {{< accordion title="Can I pay Instructors a stipend?" >}}
