@@ -1,0 +1,100 @@
+{{ define "main" }}
+  <div class="container px-5 pb-10 mx-auto">
+    {{ partial "breadcrumbs" . }}
+      <h1 class="text-[2rem] leading-[2.8125rem] font-semibold">{{ .Title }}</h1>
+    <div
+      x-data="{
+        currentSection: 0,
+        currentSectionTitle: 'First'
+      }"
+    class="relative grid grid-cols-1 gap-8 md:grid-cols-12">
+      <div class="pb-16 md:col-span-9 md:pr-20">
+        <div class="prose h2-wrap max-w-none">
+
+
+
+<article class="person-profile">
+
+        <p>Everything here is proof of concept - that we can pull data from AMY and display it on this page.  Styling clearly needs a lot of work.</p>
+
+        {{ with .Params.github }}
+        <p><img src="https://avatars.githubusercontent.com/{{ . }}" alt="Avatar"></p>
+        <div class="profile-details">
+        {{ end }}          
+
+        <p><b>If we added a long text field like "bio" to AMY person profiles,
+          then we could give people the option to display a short bio about themselves
+          here.  Technology part of that is easy but we may want to consider if we want this as we can't control the message here.
+        </b>  Cotton candy gingerbread cookie pie sweet pudding fruitcake chocolate bar muffin. Cake marshmallow jelly cheesecake dessert donut muffin. Cheesecake wafer icing pie oat cake bonbon tiramisu topping. Soufflé gummies sugar plum chocolate bar bonbon powder toffee macaroon biscuit. Pie cheesecake dragée chocolate sweet sugar plum oat cake wafer sweet roll.  </p>
+        
+        <p>We could also add in stats like "Instructor since 15 February 2015" or "15 workshops taught".</p>
+
+        <p>We may also want to consider a new consent as we are now displaying information in a new way.</p>
+
+
+        <p><strong>Country:</strong> {{ .Params.country }}</p>
+
+        <h2>Find Me</h2>
+        <p><strong>GitHub:</strong> 
+        <a href="https://github.com/{{ .Params.github }}">@{{ .Params.github }}</a>
+        </p>
+        <p><strong>Website:</strong> <a href="{{ .Params.url }}">{{ .Params.url }}</a></p>
+        <p><strong>ORCID:</strong> {{ .Params.orcid }}</p>
+        <p><strong>Bluesky:</strong>{{ .Params.bluesky }}</p>
+        {{ with .Params.twitter }}
+        <p><strong>Twitter:</strong><a href="https://twitter.com/{{ . }}">@{{ . }}</a>  </p>
+        {{ end }}
+
+        <h2>My Badges</h2>
+        <p>Instructor/Trainer/etc. below refer to the badge, not the active role. As we develop "active status" definitions/systems, we can add in both badge and role. </p>
+        <p><strong>Badges:</strong> {{ .Params.badges }}</p>
+        <p><strong>Maintainer:</strong> {{ .Params.maintainer }}</p>
+        <p><strong>Instructor:</strong> {{ .Params.instructor }}</p>
+        <p><strong>Instructor Trainer:</strong> {{ .Params.trainer }}</p>
+        <p><strong>Curriculum Development Trainer:</strong> {{ .Params.cldt }}</p>
+
+
+        <h2>My Teaching Activity</h2>
+
+        <p>We need a better way to display this, as slugs are generally meaningless outside of our internal systems.  We could display workshop lesson program/curriculum, host site, etc.</p>
+
+        <p>We will also need to consider workshops where the host has asked the workshop not be publicly listed.</p>
+
+        <p><strong>Workshops (Instructor):</strong>     
+          {{ with .Params.instructor_act }}
+          <p>{{ len . }} {{ cond (eq (len .) 1) "workshop" "workshops" }}</p>
+
+              <ul>
+                {{ range . }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </p>
+
+
+        <p><strong>Workshops (Helper):</strong>
+
+          {{ with .Params.helper_act }}
+          <p>{{ len . }} {{ cond  (eq (len .) 0) "none" (cond (eq (len .) 1) "workshop" "workshops") }}</p>
+
+              <ul>
+
+                {{ range . }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </p>
+        </article>
+        </div>
+      </div>
+      <div class="relative md:col-span-3">
+        <div class="sticky top-10 sidebar" x-data="{ selected: null }">
+          {{ .Render "sidebar" }} 
+       </div>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
