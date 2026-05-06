@@ -65,7 +65,7 @@ Consult our [pricing page](/support/pricing) for our current fee structure.
 
 ## Register
 
-Collaborative Lesson Development Training events are regularly scheduled throughout the year. Send an email to [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}) to register your interest in joining Collaborative Lesson Development Training.
+Collaborative Lesson Development Training events are scheduled quarterly. [Visit our Training Calendar](https://carpentries.github.io/lesson-development-training/training-calendar.html) for a list of upcoming events and send an email to [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}) to register your interest in joining a Collaborative Lesson Development Training event.
 
 ## Request Accessibility Support
 
