@@ -5,7 +5,7 @@ teaser: "Do you want to teach others to develop skills and confidence as Carpent
 title: "Applications Now Open for Carpentries Instructor Trainer Training Starting July 2026"
 date: 2026-04-30
 time: "00:00:00"
-tags: ["Instructor Development", "Instructor Trainers", “Trainer Training”]
+tags: ["Instructor Development", "Instructor Trainers", "Trainer Training"]
 ---
 
 Do you look back fondly on your Carpentries Instructor Training and think, "I would love to teach that!"? 
