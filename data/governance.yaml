@@ -1,15 +1,5 @@
 people:
 
-- person_name: Yo Yehudi
-  github: 
-  twitter: 
-  mastodon: 
-  linkedin: 
-  pic: avatar.png
-  country: GB
-  active: true
-  term: Appointed 2025
-
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
   github: 	yabellini
@@ -121,7 +111,6 @@ committees:
   chair: Phil Brooks 
   members:
     - Nisha Ghatak (Chair-Elect)
-    - Yo Yehudi (Secretary)
     - François Michonneau (Treasurer)
 
 
@@ -145,7 +134,6 @@ committees:
 - committee_name: "Finance Committee"
   chair: Paola Corrales
   members:
-    - Yo Yehudi
     - Stephanie Pulford
     - Mark Crowe
     - François Michonneau
