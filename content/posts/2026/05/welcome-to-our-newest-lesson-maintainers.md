@@ -82,7 +82,6 @@ We also thank the following alumni Maintainers, who stepped out of the role this
 - Julika Mimkes
 - Junaid Mir
 - Kaitlin Newson
-- Katherine Taylor
 - Kathleen Chappell
 - Kellie Templeman
 - Kendra Oudyk
