@@ -2,7 +2,7 @@
 layout: page  
 authors: ["Divya Joseph", "Ronda Zelezny-Green", "Erin Becker", "Kari L. Jordan"]  
 teaser: "datocracy AI and The Carpentries form a partnership to turn their shared values into shared impact."  
-title: "The Carpentries Forms a Strategic Partnership with datocracy AI."  
+title: "The Carpentries Forms a Strategic Partnership with datocracy AI"  
 date: 2026-05-14  
 time: "09:00:00"  
 tags: ["Artificial Intelligence", "Communications", "Strategic Plan"]  
