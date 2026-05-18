@@ -1,21 +1,38 @@
 {{ $all_members := dict }}
+{{ $members_url := "https://feeds.carpentries.org/all_public_memberships.json" }}
 
-{{ $url := "https://feeds.carpentries.org/all_public_memberships.json" }}
-
-{{ with resources.GetRemote $url }}
+{{ with resources.GetRemote $members_url }}
   {{ with .Err }}
     {{ errorf "%s" . }}
   {{ else }}
     {{ $all_members = . | transform.Unmarshal }}
   {{ end }}
 {{ else }}
-  {{ errorf "Unable to get remote resource %q" $url }}
+  {{ errorf "Unable to get remote resource %q" $members_url }}
 {{ end }}
 
-{{ $all_members := sort $all_members "name" }}
+
+
+{{ $all_partners := dict }}
+{{ $partners_url := "https://feeds.carpentries.org/all_public_partnerships.json" }}
+
+{{ with resources.GetRemote $partners_url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $all_partners = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $partners_url }}
+{{ end }}
+
+
+{{ $members_and_partners  := $all_members | append $all_partners }}
+{{ $members_and_partners := sort $members_and_partners "name" }}
+
 
 <ul>
-    {{ range $all_members }}
+    {{ range $members_and_partners }}
     <li style="margin: 0;">
         <a href="https://{{ .domain }}">{{ .name }}</a> 
         <img width="24" src="/flags_24/{{ lower .country }}.png" style="border: none; padding: 0; margin: 0; display:inline-block">
