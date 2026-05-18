@@ -1136,7 +1136,7 @@ subcommunities:
     - mentoring:
     - online_workshops: true
     - teaching: true
-    - other: Connection to other event/communities: UC Love Data Week, UC OSPO
+    - other: "Connection to other event/communities:UC Love Data Week, UC OSPO"
   contact:
     - email: 
       - "tdennis@library.ucla.edu"
