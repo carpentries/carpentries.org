@@ -5,7 +5,7 @@ teaser: "Organisations around the world partner with The Carpentries to build su
 title: "Build Data Skills in Your Community: Become a Carpentries Partner"
 date: 2026-04-27
 time: "09:00:00"
-tags:  ["Partnerships"]
+tags:  ["Partnership"]
 ---
 ## Build Data Skills Where You Work
 

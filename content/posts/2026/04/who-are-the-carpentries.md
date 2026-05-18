@@ -5,7 +5,7 @@ teaser: "For over two decades, The Carpentries has helped researchers, educators
 title: "Stories from The Carpentries Community: Why Skill-Building, Teaching, and Community Matter for Open Science"
 date: 2026-04-20
 time: "09:00:00"
-tags:  ["Partnerships", "Community", "Maintainers"]
+tags:  ["Partnership", "Community", "Maintainers"]
 ---
 
 ## A Community Teaching Data Skills for Open Science
