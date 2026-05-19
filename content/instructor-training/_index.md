@@ -49,9 +49,6 @@ Carpentries Instructor Training provides strategies to teach coding and data wor
 </table>
 {{< /table >}}
 
-[Apply for Instructor Training]({{< param amy_training >}})
-{.button}
-
 ## How To Become An Instructor
 
 The Carpentries workshops are taught by trained and certified volunteer Instructors. This is how you can become a Certified Instructor:
