@@ -1099,4 +1099,54 @@ subcommunities:
     - mastodon: 
     - instagram: 
     - facebook: 
-    - linkedin:  
+    - linkedin: 
+
+- name: UC Carpentries 
+  type: local 
+  member: false 
+  description: The UC Carpentries is a collaborative network across the University of California system that provides free, online workshops on foundational computing and data science skills for researchers.
+  activities:
+    - carpentry_connect: 
+    - communication: true
+    - prof_dev: 
+    - sow: true 
+    - fundraising:  
+    - student_programs:
+    - translation: 
+    - mentoring: true
+    - other: 
+  volunteers: true
+  logo:
+  location: California
+  country: USA
+  website: 
+  tags:
+    - assessment:
+    - carpentry_connect: 
+    - communication: true
+    - community_discussion: 
+    - curriculum: 
+    - events: true
+    - governance: 
+    - inperson_workshops:
+    - instructor_development:
+    - instructor_training: 
+    - internationalisation:  
+    - membership:
+    - mentoring:
+    - online_workshops: true
+    - teaching: true
+    - other: "Connection to other event/communities:UC Love Data Week, UC OSPO"
+  contact:
+    - email: 
+      - "tdennis@library.ucla.edu"
+    - slack: "Carpentries workspace, #uc-workshop-series"
+    - mailing_list: https://groups.google.com/a/ucsd.edu/g/uc-carpentries-instructors-g
+    - contact_form: https://groups.google.com/u/1/a/ucsd.edu/g/uc-carpentries-instructors-g 
+    - contact_person: Tim Dennis
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: 
