@@ -10,7 +10,7 @@ tags: ["Software Carpentry", "Governance"]
 
 ## Expanding the Official Curriculum
 
-The many years of running  Software Carpentry workshops have shown that this workshop is an excellent start for beginners to
+The many years of running  Software Carpentry workshops have shown that these workshops are an excellent start for beginners to
 get into scientific programming and manage their own data. However, a common question afterwards is what *workshop can we take
 next?* The Software Carpentry Governance Committee aims to address this question by adding at least one intermediate programming
 workshop to the [SWC curriculum](https://software-carpentry.org/lessons/) in 2026. 
@@ -20,11 +20,10 @@ At present, two courses from the [Carpentries Incubator](https://carpentries-inc
 * [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/)
 * [Intermediate Research Software Development](https://carpentries-incubator.github.io/python-intermediate-development/)
   
-Both courses address the *What next?* question and are under beta testing. They've been [spotlighted in the community](https://carpentries.org/blog/2022/03/incubator-lesson-spotlight-intermediate-research-software-development-in-python) and have been improved [over a few workshops](https://carpentries.org/blog/2025/08/building-better-beta-pilots). Participants learn how to deal with larger and more complex programming problems by being introduced to the software life cycle
+Both courses address the *What next?* question and are under beta testing. They have been [spotlighted in the community](https://carpentries.org/blog/2022/03/incubator-lesson-spotlight-intermediate-research-software-development-in-python) and have been improved [over a few workshops](https://carpentries.org/blog/2025/08/building-better-beta-pilots). Participants learn how to deal with larger and more complex programming problems by being introduced to the software life cycle
 including planning, testing, and releasing software, as well as collaborative development.
 
-While assessing which courses to add to the official curriculum, the SWC Governance Committee will document and publish this process. This will allow us to push some more of the excellent courses from the
-incubator to official curriculum.
+While assessing which courses to add to the official curriculum, the SWC Governance Committee will document and publish this process. This will allow us to push some more of the excellent courses from the Incubator to official curriculum.
 
 If you have any comments regarding the above selection or have suggestions for new courses that would be good contenders, please reach out to the committee at: [swc-governors@lists.carpentries.org](mailto:swc-governors@lists.carpentries.org)
 
