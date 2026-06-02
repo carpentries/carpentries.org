@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Grants", "Equity and Inclusion", "Strategic Plan", "Communications"]  
 ---
 
-Five leading open science organisations – [The Carpentries](https://carpentries.org/), [OLS](https://we-are-ols.org/), [rOpenSci](https://ropensci.org/), [pyOpenSci](https://www.pyopensci.org/), and [PREreview](https://prereview.org/) – are seeking an external consultant or group to facilitate several activities over the second half of 2026. Selected consultants will continue the organisational alignment and collaboration work [previously announced in late 2025](https://carpentries.org/blog/2025/09/convening-to-reclaim-and-sustain-open-science-communities/).
+Five leading open science organisations – [The Carpentries](https://carpentries.org/), [OLS](https://we-are-ols.org/), [rOpenSci](https://ropensci.org/), [pyOpenSci](https://www.pyopensci.org/), and [PREreview](https://prereview.org/) – are seeking an external consultant or group to facilitate several activities over the second half of 2026. Selected consultants will continue the organisational alignment and collaboration work [previously announced in late 2025](/blog/2025/09/convening-to-reclaim-and-sustain-open-science-communities/).
 
 This work has three strands:
 
