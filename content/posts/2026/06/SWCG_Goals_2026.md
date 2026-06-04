@@ -20,7 +20,7 @@ At present, two courses from the [Carpentries Incubator](https://carpentries-inc
 * [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/)
 * [Intermediate Research Software Development](https://carpentries-incubator.github.io/python-intermediate-development/)
   
-Both courses address the *What next?* question and are under beta testing. They have been [spotlighted in the community](https://carpentries.org/blog/2022/03/incubator-lesson-spotlight-intermediate-research-software-development-in-python) and have been improved [over a few workshops](https://carpentries.org/blog/2025/08/building-better-beta-pilots). Participants learn how to deal with larger and more complex programming problems by being introduced to the software life cycle
+Both courses address the *What next?* question and are under beta testing. They have been [spotlighted in the community](/blog/2022/03/incubator-lesson-spotlight-intermediate-research-software-development-in-python) and have been improved [over a few workshops](/blog/2025/08/building-better-beta-pilots). Participants learn how to deal with larger and more complex programming problems by being introduced to the software life cycle
 including planning, testing, and releasing software, as well as collaborative development.
 
 While assessing which courses to add to the official curriculum, the SWC Governance Committee will document and publish this process. This will allow us to push some more of the excellent courses from the Incubator to official curriculum.
