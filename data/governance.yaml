@@ -74,16 +74,6 @@ people:
   active: true
   term: Appointed 2025
 
-- person_name: Jannetta Steyn
-  github: jsteyn
-  twitter: jannettas
-  mastodon: https://sciencemastodon.com/@jannettas
-  linkedin: jannetta
-  pic: jannetta_steyn.jpg
-  country: GB
-  active: true
-  term: Elected 2024
-
 - person_name: François Michonneau
   github: fmichonneau
   twitter: 
@@ -110,6 +100,7 @@ committees:
   members:
     - Nisha Ghatak (Chair-Elect)
     - François Michonneau (Treasurer)
+    - Luke Corbin (Secretary)
 
 
 - committee_name: "Audit Committee"
@@ -125,7 +116,6 @@ committees:
     - Luke Corbin
     - Phil Brooks
     - Nisha Ghatak
-    - Jannetta Steyn
     - François Michonneau
     - Eboni Dotson
 
@@ -146,10 +136,8 @@ committees:
     - Paola Corrales
     - Phil Brooks
     - Luke Corbin
-    - Jannetta Steyn
-
 
 - committee_name: "Code of Conduct Committee Liaison"
   members: 
-    - Jannetta Steyn
+    - François Michonneau
  
