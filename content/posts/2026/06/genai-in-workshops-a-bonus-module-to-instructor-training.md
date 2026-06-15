@@ -29,4 +29,4 @@ After participating in the bonus module, Instructors will be able to
 The bonus module will be delivered in six-hour sessions, led by some of our most experienced Instructor Trainers. Referring to the foundational principles of the Instructor Training program, the curriculum leads participants through a series of exercises and discussions to explore effective strategies to maximise learning in the presence of AI tools. 
 
 ## What's next? 
-These bonus module sessions are now open for registration through July and August. [Learn more about the cost of participation in the module on the pricing page](https://carpentries.org/support/pricing/), and [get in touch with us](mailto:team@carpentries.org) when you are ready to register.
+These bonus module sessions are now open for registration through July and August. [Learn more about the cost of participation in the module on the pricing page](/support/pricing/), and [get in touch with us](mailto:team@carpentries.org) when you are ready to register.
