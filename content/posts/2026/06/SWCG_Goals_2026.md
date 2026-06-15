@@ -19,9 +19,9 @@ We are looking for a couple of members to join the team, as several of this year
 The many years of running  Software Carpentry workshops have shown that these workshops are an excellent start for beginners to
 get into scientific programming and manage their own data. However, a common question afterwards is what *workshop can we take
 next?* The Software Carpentry Governance Committee aims to address this question by adding at least one intermediate programming
-workshop to the [SWC curriculum](https://software-carpentry.org/lessons/) in 2026. 
+workshop to the [SWC curriculum]({{< param swc-website >}}lessons/) in 2026. 
 
-At present, two courses from the [Carpentries Incubator](https://carpentries-incubator.org/) are contenders:
+At present, two courses from the [Carpentries Incubator]({{< param incubator_link >}}) are contenders:
 
 * [Building Better Research Software](https://carpentries-incubator.github.io/better-research-software/)
 * [Intermediate Research Software Development](https://carpentries-incubator.github.io/python-intermediate-development/)
