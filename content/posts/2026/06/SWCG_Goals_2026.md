@@ -1,12 +1,18 @@
 ---  
 layout: page  
-authors: ["Aman Goel"]  
+authors: ["Aman Goel", "Magnus Hagdorn", "Sarah Stevens"]  
 teaser: "What is next?"  
 title: "Software Carpentry Governance Committee - Goals for 2026"  
 date: 2026-06-05  
 time: "09:00:00"  
 tags: ["Software Carpentry", "Governance"]  
 ---
+
+## Looking for New Committee Members!
+
+The Software Carpentry Governance Committee is excited to share our plans for this year below.
+
+We are looking for a couple of members to join the team, as several of this year's committee members had to step away due to other commitments. If you are excited about helping to shape the future of the Software Carpentry lesson program and would like to participate, [please fill in the application form](https://forms.gle/kodUZ7YdNiVMtH1F9), or send an email to [Toby Hodges](mailto:tobyhodges@carpentries.org) to indicate your interest or ask questions.
 
 ## Expanding the Official Curriculum
 
