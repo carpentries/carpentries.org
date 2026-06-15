@@ -3,7 +3,7 @@ layout: page
 authors: ["Aman Goel", "Magnus Hagdorn", "Sarah Stevens"]  
 teaser: "What is next?"  
 title: "Software Carpentry Governance Committee - Goals for 2026"  
-date: 2026-06-05  
+date: 2026-06-15  
 time: "09:00:00"  
 tags: ["Software Carpentry", "Governance"]  
 ---
