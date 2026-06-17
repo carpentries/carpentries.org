@@ -41,7 +41,7 @@ Available service options include:
 
 - one (1) workshop using one of our data science or computational skills curricula, or
 - two (2) seats in a certification program (Instructor Training or Collaborative Lesson Development Training), or
-- four (4) seats in our Learner-Centered Teaching program, or
+- four (4) seats in a one-day professional development course (Learner-Centered Teaching or GenAI in Workshops), or
 - sixteen (16) seats in one of our short-format professional development courses, or
 - any fractional combination of the above.
 
@@ -74,6 +74,7 @@ Partner organisations can add services to their existing Partnership package at 
 | **Certification Programs** | **Instructor Training** <br> An interactive introduction to the fundamentals of educational psychology and evidence-based teaching practices. For more information, visit our [Instructor Training page](/instructor-training/). | Two days | $1,600 / seat | $1,200 / seat |
 |                            | **Collaborative Lesson Development Training** <br> Teaches essential skills and good practices for designing and developing a lesson as an open source project. For more information, visit our [Collaborative Lesson Development Training page](/lesson-development/). | Two days | $1,600 / seat | $1,200 / seat |
 | **Professional Development Courses** | **Learner-Centered Teaching** <br> Equips participants with the strategies and tools necessary to use effective, hands-on teaching practices in short-format trainings. For more information, visit our [Learner-Centered Teaching page](/learner-centered-teaching).| One day | $800 / seat | $600 / seat |
+|                                      | **GenAI in Workshops** <br> A supplement to Instructor Training and Learner-Centered Teaching that empowers instructors to account for learners' use of generative AI chatbot tools in their workshops. For more information, visit our [Instructor Training page](/instructor-training/#genai-in-workshops-bonus-module).| One day | $800 / seat | $600 / seat |
 |                                      | **Short-Format Professional Development** <br> Learning sessions on specific competencies, knowledge, or skills. For more information, visit our [Professional Development page](/professional-development/). | 2-3 hours | $200 / seat | $150 / seat |
 {{< /table >}}
 
