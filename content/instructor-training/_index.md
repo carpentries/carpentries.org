@@ -68,7 +68,7 @@ This standalone, one-day training bonus module was developed in response to the 
 Referring to the foundational principles of Instructor Training, participants are led by expert Trainers through a series of exercises and discussions to explore effective strategies to maximise learning in the presence of AI tools.
 The bonus module is perfect for anyone preparing to deliver workshops and other training to novice learners who are making regular use of chatbot tools like ChatGPT, Claude and Gemini.
 
-Previous participation in Instructor Training or [Learner-Centered Teaching](/learner-centered-teaching) is a prerequisite for this bonus module.
+Previous participation in [Instructor Training](/instructor-training/) or [Learner-Centered Teaching](/learner-centered-teaching) is a prerequisite for this bonus module.
 Bonus module sessions take place separately from Instructor Training events and separate registration is required.
 
 ## Contact Us
