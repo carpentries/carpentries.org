@@ -1,9 +1,9 @@
 ---  
 layout: page  
 authors: ["Aleksandra Nenadic", "Aman Goel"]  
-teaser: "The UK community has also been responsible for pioneering a few Carpentries activities such as translations, CarpentriesOffline and expansion of the Carpentries curriculum through lessons such as the Intermediate Research Software Development, and those in the HPC Carpentry and Library Carpentry programmes."  
+teaser: "The UK Carpentries community has been responsible for pioneering a number of Carpentries activities "  
 title: "Subcommunity Spotlight: UK Carpentry Community"  
-date: 2026-06-10  
+date: 2026-06-23  
 time: "09:00:00"  
 tags: ["UK", "Community"]  
 ---
@@ -12,23 +12,24 @@ tags: ["UK", "Community"]
 
 The UK Carpentries community brings together people involved in teaching computational research skills, including Carpentry Instructors, helpers, and workshop coordinators.
 
-The community has long-standing links with the Software Sustainability Institute, the well-developed UK RSE landscape, and several RSE groups with a strong interest in training, including the large groups that support the national supercomputing service and organisations like the Met Office. While the first trainer-training workshop for the UK community was hosted in 2014, the UK Carpentries was formalised in 2021.
+The community has long-standing links with the Software Sustainability Institute, the well-developed UK RSE landscape, and several RSE groups with a strong interest in training, including the large groups that support the national supercomputing service and organisations like the Met Office. While the first Instructor Trainer Training workshop for the UK community was hosted in 2014, the UK Carpentries was formalised in 2021.
 
 The UK community has also been responsible for pioneering a few Carpentries activities, such as translations, CarpentriesOffline and expansion of the Carpentries curriculum through lessons such as the Intermediate Research Software Development, and those in the HPC Carpentry and Library Carpentry programmes. More recently, the community has expanded its scope to focus on training for digital research technical professionals (dRTPs).
 
-## Mission and Vision
+## Aims and scope
 
-- get to know each other better and encourage collaboration
-- share news from the Carpentry community and training news from the UK and worldwide
-- get the community's questions answered around lesson development, delivering workshops, instructor training checkout, etc.
-- help the community in the UK with organising workshops and finding instructors/helpers
-- organise and run other events together, e.g. the annual UK training community Day
+The UK Carpentries subcommunity has the following aims: 
+- get to know each other better and encourage collaboration.
+- share news from the Carpentry community and training news from the UK and worldwide.
+- get the community's questions answered around lesson development, delivering workshops, Instructor training checkout, etc.
+- help the community in the UK with organising workshops and finding Instructors/helpers
+- organise and run other events together, e.g. the annual UK Training Community Day
 - provide a welcoming and inclusive environment for the community to share their experience, explore topics of interest, find collaborators for training-related projects and network.
 
 
 ## How It Started
 
-The community held its inaugural meeting in February 2021, led by the [UK Software Sustainability Institute’s (SSI)](https://www.software.ac.uk/) research software training lead Aleks Nenadic, bringing together over 30 UK Carpentries Instructors, helpers, and workshop coordinators from across the UK. The community was established as a space for UK Carpentry Instructors, helpers and workshop coordinators to get to know each other, encourage collaboration, get questions answered, and help with organising workshops and finding Instructors and helpers. However, the community brings together all people involved in teaching skills for computational research, not just those from the UK. 
+The community held its inaugural meeting in February 2021, led by the [UK Software Sustainability Institute’s (SSI)](https://www.software.ac.uk/) research software training lead Aleks Nenadic, bringing together over 30 UK Carpentries Instructors, helpers, and workshop coordinators from across the UK. The community was established as a space for UK Carpentry community members to get to know each other, encourage collaboration, get questions answered, and help with organising workshops and finding Instructors and helpers. However, the community brings together all people involved in teaching skills for computational research, not just those from the UK. 
 
 ## Regular Activities
 
@@ -38,10 +39,10 @@ Monthly community calls have been held consistently since February 2021, with we
 
 Each meeting typically features: 
 
-- sign-in, introductions, and an icebreaker
-- a guest speaker or presentation on a topic of interest
-- news, workshop updates and announcements from members
-- a slot for Carpentries Instructor Training checkout (allowing new Instructors to fulfil their [Get Involved](https://carpentries.github.io/instructor-training/checkout.html#getinvolved) checkout requirement)
+- sign-in, introductions, and an icebreaker.
+- a guest speaker or presentation on a topic of interest.
+- news, workshop updates and announcements from members.
+- a slot for Carpentries Instructor Training checkout (allowing new Instructors to fulfil their [Get Involved](https://carpentries.github.io/instructor-training/checkout.html#getinvolved) checkout requirement).
 
 ## Key Topics and Themes Over the Years
 
@@ -67,7 +68,7 @@ A CarpentryConnect event was previously hosted in Manchester in 2019, organised 
 
 ### Collaborative Lesson Development Training
 
-The Carpentries launched a collaborative lesson-development training programme in late 2023, alongside instructor training and focused on curriculum design, open-source collaboration, and GitHub-based good practices — receiving very strong early feedback. 
+The Carpentries launched the [Collaborative Lesson Development Training programme](/lesson-development/) in late 2023, alongside Instructor Training and focused on curriculum design, open-source collaboration, and GitHub-based good practices — receiving very strong early feedback from UK Carpentry community members.
 
 ### CarpentriesOffline / miniHPC
 
@@ -87,12 +88,12 @@ In January 2026, the community discussed moving away from Zoom (the community's 
 
 ## Key Achievements
 
-- Community built from scratch: grew from a first meeting of ~30 people in February 2021 to a sustained, active monthly community spanning dozens of UK universities and research institutions.
-- Sustained instructor pipeline: The monthly checkout sessions have helped many new Carpentries Instructors complete their certification.
-- Lesson development and translation supported through advice, sharing experiences and supporting members in taking on these activities - a significant contribution to global open education.
-- Networking and collaboration: members have coordinated joint workshops, shared Instructors and helpers across institutions, and built lasting professional relationships across the UK RSE and research training community.
-- Contribution to the wider Carpentries: UK community members have contributed to global Carpentries governance, curriculum development, and events such as CarpentryConnect.
-- SSI Fellows pipeline: multiple members of the community were named SSI Fellows, and vice versa - many SSI Fellows get introduced to the Carpentries community and become actively involved in Carpentries work as part of their Fellowships.
+- **Community built from scratch**: The subcommunity grew from a first meeting of ~30 people in February 2021 to a sustained, active monthly community spanning dozens of UK universities and research institutions.
+- **Sustained Instructor pipeline**: The monthly checkout sessions have helped many new Carpentries Instructors complete their certification.
+- **Lesson development and translation**: Contributions have been supported through advice, sharing experiences and supporting members in taking on these activities - a significant contribution to global open education.
+- **Networking and collaboration**: Members have coordinated joint workshops, shared Instructors and helpers across institutions, and built lasting professional relationships across the UK RSE and research training community.
+- **Contribution to the wider Carpentries**: UK community members have contributed to global Carpentries governance, curriculum development, and events such as CarpentryConnect.
+- **SSI Fellows pipeline**: multiple members of the community were named SSI Fellows, and vice versa - many SSI Fellows get introduced to the Carpentries community and become actively involved in The Carpentries work as part of their fellowships.
 
 ## Contact details and Social Media
 
