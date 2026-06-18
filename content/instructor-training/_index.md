@@ -63,6 +63,14 @@ The Carpentries workshops are taught by trained and certified volunteer Instruct
 
 {{< accessibility >}}
 
+## GenAI in Workshops Bonus Module
+This standalone, one-day training bonus module was developed in response to the growing numbers of reports we have received from Instructors who have observed frequent chatbot use among their learners.
+Referring to the foundational principles of Instructor Training, participants are led by expert Trainers through a series of exercises and discussions to explore effective strategies to maximise learning in the presence of AI tools.
+The bonus module is perfect for anyone preparing to deliver workshops and other training to novice learners who are making regular use of chatbot tools like ChatGPT, Claude and Gemini.
+
+Previous participation in [Instructor Training](/instructor-training/) or [Learner-Centered Teaching](/learner-centered-teaching) is a prerequisite for this bonus module.
+Bonus module sessions take place separately from Instructor Training events and separate registration is required.
+
 ## Contact Us
 
 Have Questions? Please contact our team at [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}}).
