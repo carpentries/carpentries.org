@@ -80,7 +80,7 @@ The community has engaged with the RSE Competencies Toolkit and the DIRECT skill
 
 ### Software Carpentry Curriculum Governance
 
-In early 2026, community members, including Aman Goel, were involved in the Software Carpentries Governance Committee, considering new courses for the curriculum, such as ["Building Better Research Software"](https://github.com/carpentries-incubator/better-research-software), intermediate Python development, and ["Byte-sized RSE"](https://carpentries-incubator.github.io/byte-sized-rse-overview/), shorter teaching sessions, as well as reviewing and updating existing materials on Git. [Learn more about the Sofware Carpentry Curriculum Governance goals for 2026](https://carpentries.org/blog/2026/06/swcg_goals_2026/).
+In early 2026, community members, including Aman Goel, were involved in the Software Carpentries Governance Committee, considering new courses for the curriculum, such as ["Building Better Research Software"](https://github.com/carpentries-incubator/better-research-software), intermediate Python development, and ["Byte-sized RSE"](https://carpentries-incubator.github.io/byte-sized-rse-overview/), shorter teaching sessions, as well as reviewing and updating existing materials on Git. [Learn more about the Software Carpentry Curriculum Governance goals for 2026](https://carpentries.org/blog/2026/06/swcg_goals_2026/).
 
 ### Infrastructure and Meeting Tools
 
