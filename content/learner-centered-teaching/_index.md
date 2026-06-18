@@ -57,7 +57,7 @@ After attending this training, participants will be able to:
 
 ## Pricing
 
-Consult our [pricing page](/support/pricing) for our current fee structure.
+Consult our [pricing page](/support/pricing) for our current fee structure. To purchase a seat, contact [partnership@carpentries.org](mailto:partnership@carpentries.org)
 
 ## Register
 
