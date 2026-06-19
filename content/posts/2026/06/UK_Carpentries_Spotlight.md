@@ -5,7 +5,7 @@ teaser: "The UK Carpentries community has been responsible for pioneering a numb
 title: "Subcommunity Spotlight: UK Carpentry Community"  
 date: 2026-06-24  
 time: "09:00:00"  
-tags: ["UK", "Community"]  
+tags: ["UK", "Community", "Internationalisation"]  
 ---
 
 ## Subcommunity Profile
