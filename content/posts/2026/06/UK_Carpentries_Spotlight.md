@@ -3,7 +3,7 @@ layout: page
 authors: ["Aleksandra Nenadic", "Aman Goel"]  
 teaser: "The UK Carpentries community has been responsible for pioneering a number of Carpentries activities "  
 title: "Subcommunity Spotlight: UK Carpentry Community"  
-date: 2026-06-23  
+date: 2026-06-24  
 time: "09:00:00"  
 tags: ["UK", "Community"]  
 ---
