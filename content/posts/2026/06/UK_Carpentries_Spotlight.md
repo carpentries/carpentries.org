@@ -56,7 +56,7 @@ A recurring theme has been developing and improving Carpentries lesson materials
 
 ### Lesson Language Translation
 
-Olexandr Konovalov, a UK-based Instructor, established and coordinates the [Ukrainian Carpentries Community](https://ukrainian-carpentries.github.io/en/). Originally, plans were to translate the Unix shell, Git, Python, and also the Carpentries Incubator GAP lesson using the Transifex platform — following a similar infrastructure previously used for Spanish translations. Since 2024, the translation infrastructure has been migrated to [Crowdin](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian). Various lessons are being translated, with their status reported [here](https://ukrainian-carpentries.github.io/en/). 
+Olexandr Konovalov, a UK-based Instructor, established and coordinates the [Ukrainian Carpentries Community](https://ukrainian-carpentries.github.io/en/). Originally, plans were to translate the Unix shell, Git, Python, and also the Carpentries Incubator GAP lesson using the Transifex platform — following a similar infrastructure previously used for Spanish translations. Since 2024, the translation infrastructure has been migrated to [Crowdin](/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian). Various lessons are being translated, with their status reported [here](https://ukrainian-carpentries.github.io/en/). 
 
 Olexandr Konovalov, together with other Ukrainian Carpentries Community members, also ran 6 pilot training events in Ukrainian for Git during 2023-2025 and the first full [2-day online workshop in Ukraine](https://olexandr-konovalov.github.io/posts/2026/02/24/resilient-carpentries) in January 2026, making Ukraine the 72nd country in the world to host The Carpentries workshops.
 
@@ -68,7 +68,9 @@ At CarpentryConnect Heidelberg 2024, Matthew Bluteau and Aleks Nenadic led a hac
 
 ### CarpentryConnect and Community Event
 
-A CarpentryConnect event was previously hosted in Manchester in 2019, organised by Aleks Nenadic and others, with around 100 attendees covering teaching discussions, skill-up sessions, lightning talks, and breakouts. The community participated in CarpentryConnect Heidelberg in November 2024, hosted at the European Molecular Biology Centre. Apart from CarpentryConnect, the community has spearheaded a few events, including specialist training days at RSECon 2023 and 2025, both of which featured The Carpentries prominently. At Collaborations Workshop 2023, we organised a demo teaching session to encourage Instructors to return to teaching and in-person teaching.
+A CarpentryConnect event was previously hosted in Manchester in 2019, organised by Aleks Nenadic and others, with around 100 attendees covering teaching discussions, skill-up sessions, lightning talks, and breakouts. The community participated in CarpentryConnect Heidelberg in November 2024, hosted at the European Molecular Biology Centre. 
+
+Apart from CarpentryConnect, the community has spearheaded a few events, including specialist training days at RSECon 2023 and 2025, both of which featured The Carpentries prominently. At Collaborations Workshop 2023, we organised a demo teaching session to encourage Instructors to return to teaching and in-person teaching.
 
 ### Collaborative Lesson Development Training
 
@@ -84,7 +86,7 @@ The community has engaged with the RSE Competencies Toolkit and the DIRECT skill
 
 ### Software Carpentry Curriculum Governance
 
-In early 2026, community members, including Aman Goel, were involved in the Software Carpentries Governance Committee, considering new courses for the curriculum, such as ["Building Better Research Software"](https://github.com/carpentries-incubator/better-research-software), intermediate Python development, and ["Byte-sized RSE"](https://carpentries-incubator.github.io/byte-sized-rse-overview/), shorter teaching sessions, as well as reviewing and updating existing materials on Git. [Learn more about the Software Carpentry Curriculum Governance goals for 2026](https://carpentries.org/blog/2026/06/swcg_goals_2026/).
+In early 2026, community members, including Aman Goel, were involved in the Software Carpentries Governance Committee, considering new courses for the curriculum, such as ["Building Better Research Software"](https://github.com/carpentries-incubator/better-research-software), intermediate Python development, and ["Byte-sized RSE"](https://carpentries-incubator.github.io/byte-sized-rse-overview/), shorter teaching sessions, as well as reviewing and updating existing materials on Git. [Learn more about the Software Carpentry Curriculum Governance goals for 2026](/blog/2026/06/swcg_goals_2026/).
 
 ### Infrastructure and Meeting Tools
 
@@ -111,7 +113,7 @@ In January 2026, the community discussed moving away from Zoom (the community's 
 ## Past CarpentryConnect Events
 
 - [CarpentryConnect 2019](https://www.software.ac.uk/Events/carpentryconnect-manchester-2019-ccmcr19) 
-- [CarpentryConnect 2019highlights blog post](https://carpentries.org/blog/2019/07/ccmcr2019-highlights/)
+- [CarpentryConnect 2019highlights blog post](/blog/2019/07/ccmcr2019-highlights/)
 
 ![Carpentries community members in a group selfie](/blog/2019/09/ccmcr2019-group-selfie.png)
   *Carpentries community members in a group selfie at CarpentryConnect in Manchester*
