@@ -9,7 +9,7 @@ aliases:
 
 ## Overview 
 
-Carpentries Instructor Training provides strategies to teach coding and data workshops. Our 16-hour interactive training teaches the basics of educational psychology and evidence-based teaching practices. During the training, you will practise these new skills while getting to know others who share your interests. After the training, you can become a Certified Carpentries Instructor by completing three “checkout” steps. Certified Instructors can volunteer to teach our “Centrally-Organised workshops” with our global community virtually or in-person. Additionally, they can organise Carpentries workshops for their local community.
+Carpentries Instructor Training provides strategies to teach coding and data workshops. Our 16-hour interactive training teaches the basics of educational psychology and evidence-based teaching practices. During the training, you will practise these new skills while getting to know others who share your interests. After the training, you can become a Certified Carpentries Instructor by completing [three “checkout” steps]({{< param checkout_instructions >}}). [Certified Instructors](/community/instructors/) can volunteer to teach our “Centrally-Organised workshops” with our global community virtually or in-person. Additionally, they can organise Carpentries workshops for their local community.
 
 ## Why Instructor Training?
 
@@ -51,7 +51,7 @@ Carpentries Instructor Training provides strategies to teach coding and data wor
 
 ## How To Become An Instructor
 
-The Carpentries workshops are taught by trained and certified volunteer Instructors. This is how you can become a Certified Instructor:
+The Carpentries workshops are taught by trained and certified [volunteer Instructors](/community/instructors/). This is how you can become a Certified Instructor:
 
 1. **[Attend an Instructor Training event](https://carpentries.github.io/instructor-training/training_calendar.html):** The training runs over two full days or four half days and covers the basics of educational psychology, evidence-based classroom practices, and how to apply both to teaching workshops for The Carpentries. There are two ways to access Instructor Training. 
     - You may receive an invitation via email from a Partner organisation or other group that has arranged for training.
