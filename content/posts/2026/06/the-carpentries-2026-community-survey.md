@@ -3,7 +3,7 @@ layout: page
 authors: ["Kari L. Jordan", "Angelique Trusler", "Oscar Masinyana"]
 teaser: "Share your experience by July 10th to help shape the future of The Carpentries."
 title: "Share Your Feedback in The Carpentries 2026 Community Survey"
-date: 2026-06-30
+date: 2026-06-29
 time: "18:00:00"
 tags: ["Community", "Assessment"]
 ---
