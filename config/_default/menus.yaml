@@ -164,7 +164,7 @@ main:
   weight: 50
 - identifier: genai-bonus
   name: GenAI in Workshops Bonus Module
-  url: "/instructor-training/#genai-in-workshops-bonus-module"
+  url: "/genai"
   parent: learn
   weight: 55
 - identifier: trainer-training
