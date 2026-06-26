@@ -16,7 +16,7 @@ We welcome feedback from all members of our community, including learners, Instr
 
 The survey takes approximately 5 minutes to complete, depending on how much feedback you would like to provide.
 
-[Complete the Survey Now](https://docs.google.com/forms/d/e1FAIpQLSc8jl8LZP8rkY7itF7qVvn94_8pw2PziaKFi5t65yDAppPksA/viewform)
+[Complete the Survey Now](https://forms.gle/WvFhKpvuYZRspxLH7)
 {.button}
 
 ## Why We Conduct Community Surveys
