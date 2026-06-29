@@ -25,7 +25,10 @@ blocks:
     - "**{{< feed_value key=\"trainers\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Trainers"
     - "**{{< feed_value key=\"workshops\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Workshops"
     - "**{{< feed_value key=\"workshop countries\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Countries"
- 
+- layout: youtube
+  youtube_id: '56Ewvt8hGPU'
+  title: "Here is title text we can have about this video"
+  subtitle: "Subtext for this video" 
   cta:
     copy: Join our community
     url: '/community/'
