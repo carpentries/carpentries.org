@@ -25,7 +25,10 @@ blocks:
     - "**{{< feed_value key=\"trainers\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Trainers"
     - "**{{< feed_value key=\"workshops\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Workshops"
     - "**{{< feed_value key=\"workshop countries\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Countries"
- 
+- layout: youtube
+  youtube_id: '56Ewvt8hGPU'
+  title: "Celebrating the global impact of The Carpentries"
+  subtitle: "featuring Lyrric Jackson, a Carpentries Instructor." 
   cta:
     copy: Join our community
     url: '/community/'
