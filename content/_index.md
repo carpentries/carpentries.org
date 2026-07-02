@@ -27,8 +27,8 @@ blocks:
     - "**{{< feed_value key=\"workshop countries\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Countries"
 - layout: youtube
   youtube_id: '56Ewvt8hGPU'
-  title: "Here is title text we can have about this video"
-  subtitle: "Subtext for this video" 
+  title: "Celebrating the global impact of The Carpentries"
+  subtitle: "featuring Lyrric Jackson, a Carpentries Instructor." 
   cta:
     copy: Join our community
     url: '/community/'
