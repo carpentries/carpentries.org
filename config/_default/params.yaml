@@ -66,13 +66,15 @@ trainer_training_curriculum: https://carpentries.github.io/trainer-training/
 # Donate and sponsor
 #############################################
 sponsor_form: https://carpentries.typeform.com/to/EQdv1Qx4
-# donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website
 donate_url: /support/donate-form
+zeffy_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website
+
 
 # Partnership links
 #############################################
 partnership_form: https://carpentries.typeform.com/to/Hmfe6L
 partnership_calendly: https://calendly.com/carpentries-partnership/onboarding
+
 
 # Curriculum/lesson links
 #############################################
@@ -93,9 +95,11 @@ swc-website: https://software-carpentry.org/
 #############################################
 handbook_url: https://docs.carpentries.org
 
+
 # Other forms
 #############################################
 accommodation_request: https://carpentries.typeform.com/to/B2OSYaD0
+
 
 # Technical parameters
 #############################################
