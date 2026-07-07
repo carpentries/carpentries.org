@@ -1,9 +1,12 @@
 ---
-title: Donate
+title: Thank you for Donating to The Carpentries!
 layout: no-sidebar
 ---
 
-This is the new test donate page.  Watch this video and hear from this person the impact The Carpentries has had on their work.  **For now this is a placeholder video and text; we can update this as we want.** Apple pie pastry marzipan danish powder sweet roll cupcake cheesecake. Marzipan sesame snaps bonbon carrot cake macaroon cheesecake icing jelly.
+We are grateful to the individual donors and [Partner organisations](https://carpentries.org/support/partnership/) who provide financial support to The Carpentries.
+By supporting our work, you help us create positive change in the data and software communities.
+
+Please scroll to the bottom of this page to make your contribution today.
 
 {{< youtube pCnTuFykT9w >}}
 
