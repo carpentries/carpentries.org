@@ -10,6 +10,7 @@ Curriculum Advisors provide oversight and guidance on the development and mainte
 Curriculum Advisors are listed on the respective lesson program pages:
 
 * [Data Carpentry]({{< param dc-website >}}about-us/curriculum-advisors/)
+* [HPC Carpentry]({{< param hpcc-website >}})about-us/curriculum-advisors/)
 * [Library Carpentry]({{< param lc-website >}}about-us/curriculum-advisors/)
 * [Software Carpentry]({{< param swc-website >}}about-us/curriculum-advisors/)
 
