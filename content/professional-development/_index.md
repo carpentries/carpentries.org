@@ -81,7 +81,7 @@ After attending this training, participants will be able to:
 * Document meetings in ways that support transparency and continuity.
 * Cultivate a culture of respect, accountability, and shared ownership in virtual spaces.
 
-## [Coming soon!] Effective Collaboration for Remote Teams
+## Effective Collaboration for Remote Teams - Coming Soon!
 
 Effective Collaboration on Remote Teams introduces tools and strategies for working productively and inclusively in distributed environments. 
 This training focuses on building clarity, trust, and efficiency within remote teams through intentional decision-making, clear zones of responsibility, and thoughtful communication norms. 
