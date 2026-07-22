@@ -20,5 +20,6 @@ In these exercises, you work through the same scenario as the original Carpentri
 
 Whether you're a Carpentries instructor, learner, or just curious, please [give it a try](https://sandbox.bio/tutorials/carpentries-python-inflammation) and let me know what you think. I'd love feedback on what worked, what didn't, and what would make it more useful for future workshops. 
 
-Thanks to Danielle Sieh and SherAaron Hurt at The Carpentries for the collaboration, and for the work you all do making research computing more accessible to everyone.
+## Thank You
+Thank you to Danielle Sieh and SherAaron Hurt at The Carpentries for the collaboration, and for the work you all do making research computing more accessible to everyone.
 
