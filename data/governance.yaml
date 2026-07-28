@@ -75,14 +75,6 @@ people:
   active: true
   term: Appointed 2025
 
-- person_name: Eboni Dotson
-  pic: eboni_dotson.jpg
-  country: US
-  linkedin: drebonidotson
-  active: true
-  term: Appointed 2024
-
-
 committees:
 
 - committee_name: "Board of Directors Officers"
@@ -97,7 +89,6 @@ committees:
   chair: Mark Crowe
   members:
     - Samantha Ahern
-    - Eboni Dotson
 
 
 - committee_name: "Governance and Personnel Committee"
@@ -107,12 +98,10 @@ committees:
     - Phil Brooks
     - Nisha Ghatak
     - François Michonneau
-    - Eboni Dotson
 
 - committee_name: "Finance Committee"
   chair: Paola Corrales
   members:
-    - Stephanie Pulford
     - Mark Crowe
     - François Michonneau
 
@@ -121,7 +110,6 @@ committees:
   chair: Samantha Ahern
   members:
     - Yanina Bellini Saibene
-    - Stephanie Pulford
     - Nisha Ghatak
     - Paola Corrales
     - Phil Brooks
