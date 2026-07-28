@@ -112,7 +112,6 @@ committees:
 - committee_name: "Finance Committee"
   chair: Paola Corrales
   members:
-    - Stephanie Pulford
     - Mark Crowe
     - François Michonneau
 
@@ -121,7 +120,6 @@ committees:
   chair: Samantha Ahern
   members:
     - Yanina Bellini Saibene
-    - Stephanie Pulford
     - Nisha Ghatak
     - Paola Corrales
     - Phil Brooks
