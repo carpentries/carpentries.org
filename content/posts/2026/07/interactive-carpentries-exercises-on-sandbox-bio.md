@@ -3,7 +3,7 @@ layout: page
 authors: ["Robert Aboukhalil"]  
 teaser: "Sandbox.bio is releasing an interactive companion to the exercises in The Carpentries' Programming with Python workshop."  
 title: "Interactive Carpentries exercises on sandbox.bio"  
-date: 2026-07-27  
+date: 2026-07-30  
 time: "09:00:00"  
 tags: ["Instructors", "Teaching", "Workshops"]  
 ---
