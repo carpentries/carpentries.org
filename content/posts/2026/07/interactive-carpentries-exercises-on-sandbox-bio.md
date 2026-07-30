@@ -18,7 +18,7 @@ Here's a debugging exercise in action:
 
 In these exercises, you work through the same scenario as the original Carpentries lesson, which is to analyse mock clinical trial data using Python. More than just syntax, the exercises help you develop an intuition for problem solving, and how to approach debugging issues in your programs.
 
-Whether you're a Carpentries instructor, learner, or just curious, please [give it a try](https://sandbox.bio/tutorials/carpentries-python-inflammation) and let me know what you think. I'd love feedback on what worked, what didn't, and what would make it more useful for future workshops. Please let me know your thoughts using the Interactive Carpentries exercises [feedback form](https://tally.so/r/2EzeWe).
+Whether you're a Carpentries Instructor, learner, or just curious, please [give it a try](https://sandbox.bio/tutorials/carpentries-python-inflammation) and let me know what you think. I'd love feedback on what worked, what didn't, and what would make it more useful for future workshops. Please let me know your thoughts using the Interactive Carpentries exercises [feedback form](https://tally.so/r/2EzeWe).
 
 ## Thank You
 Thank you to Danielle Sieh and SherAaron Hurt at The Carpentries for the collaboration with testing, and for the work you all do making research computing more accessible to everyone.
