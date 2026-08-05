@@ -18,7 +18,7 @@ This lesson has been moved from Alpha to Beta status, meaning that it has been d
 
 _**To cite the lesson please use the following text**_:
 
-* Konrad Förstner , Rabea Müller, Till Sauerwein  (2018). Library Carpentry: Wikidata. Version [unversioned]. [https://librarycarpentry.github.io/lc-wikidata/](https://librarycarpentry.github.io/lc-wikidata/) 
+* Konrad Förstner, Rabea Müller, Till Sauerwein (2018). Library Carpentry: Wikidata. Version [unversioned]. [https://librarycarpentry.github.io/lc-wikidata/](https://librarycarpentry.github.io/lc-wikidata/) 
 
   
 
