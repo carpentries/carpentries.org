@@ -46,7 +46,7 @@ After attending this training, participants will be able to:
 
 ## Running Effective Online Meetings
 
-Our [Running Effective Online Meetings course](https://carpentries-incubator.github.io/meetings-rse/) provides practical strategies for facilitating engaging, productive, and inclusive virtual meetings. 
+Our [Running Effective Online Meetings course](https://carpentries-incubator.github.io/effective-meetings/) provides practical strategies for facilitating engaging, productive, and inclusive virtual meetings. 
 As online collaboration becomes increasingly common across research, education, non-profit, and professional settings, the ability to plan and run meetings that foster participation and drive progress is an essential skill.
 This training offers tools for meeting preparation, facilitation, follow-up, and accessibility, emphasising approaches that centre equity and shared leadership. 
 Whether leading regular team check-ins, hosting global community calls, or convening ad hoc project groups, this training will help you create virtual spaces that support meaningful collaborations.
