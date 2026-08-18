@@ -26,7 +26,7 @@ Erin has [served The Carpentries as Associate Director from May 2016](https://ca
 
 This transition comes at a challenging time for The Carpentries and many organisations working across research, higher education, and open science. Demand for Carpentries training remains strong. At the same time, reductions in university funding have eliminated or reduced the training budgets of several long-standing institutional partners, and anticipated gap funding was not secured.
 
-Following careful consideration of the organisation's financial position, Kari and Erin determined that stepping down was the most responsible decision for The Carpentries' long-term sustainability. Their departures are part of a broader restructuring that will significantly reduce operating costs and allow the organisation to continue its essential work with a smaller Core Team and a more focused programme portfolio.
+After carefully considering the organisation's financial position, Kari and Erin determined that stepping down was the most responsible decision for The Carpentries' long-term sustainability. Their departures are part of a broader restructuring that will significantly reduce operating costs and allow the organisation to continue its essential work with a smaller Core Team and a more focused programme portfolio.
 
 Some Core Team positions and working hours will also be affected by the restructuring. We will share more details about these changes on our blog this week. We recognise the significant personal impact of these decisions and are committed to treating every affected team member with dignity, care and respect. 
 
