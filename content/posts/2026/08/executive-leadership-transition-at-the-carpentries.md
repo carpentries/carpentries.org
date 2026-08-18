@@ -58,4 +58,4 @@ We extend our deep appreciation to Kari and Erin for their leadership and servic
 
 The Carpentries' next chapter will require intention, creativity and partnership. We remain committed to navigating it with transparency, responsibility and care.
 
-*Dr. Phil Brooks (Chair of the Board), Dr. Kari L. Jordan (Executive Director/CEO), and Dr. Erin Becker (Associate Director/COO)*
+*Dr Phil Brooks (Chair of the Board), Dr Kari L. Jordan (Executive Director/CEO), and Dr Erin Becker (Associate Director/COO)*
