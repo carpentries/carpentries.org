@@ -4,7 +4,7 @@ authors: ["Phil Brooks", "Kari L. Jordan", "Erin Becker"]
 teaser: "We extend our deep appreciation to Kari and Erin for their leadership and service, to the Core Team members whose work has strengthened this organisation, and to the global Carpentries community for continuing to teach, learn, contribute and care for one another."  
 title: "Executive Leadership Transition at The Carpentries"  
 date: 2026-08-19  
-time: "18:00:00"  
+time: "09:00:00"  
 tags: ["Carpentries Core Team", "Board of Directors"]  
 --- 
  
