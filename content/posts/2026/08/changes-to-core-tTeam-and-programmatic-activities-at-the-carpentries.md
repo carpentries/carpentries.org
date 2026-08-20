@@ -30,7 +30,7 @@ During a major transition, Maneesha stepped into a leadership gap, supporting wo
 
 Maneesha has been a generous colleague and mentor, regularly helping others understand our systems, improve their workflows, and build their own technical skills. We are deeply grateful for the care, reliability, and extraordinary breadth of knowledge she has shared with The Carpentries.
 
-Check out the [blog posts authored by Maneesha Sane](blog/author/maneesha-sane/). 
+Check out the [blog posts authored by Maneesha Sane](/blog/author/maneesha-sane/). 
 
 ### Oscar Masinyana, Communications Manager 
 
