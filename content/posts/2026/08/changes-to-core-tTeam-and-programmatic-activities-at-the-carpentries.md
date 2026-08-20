@@ -10,15 +10,15 @@ tags: ["Carpentries Core Team", "Community", "Gratitudes"]
 
 ## Announcing Change and Continuity 
 
-Yesterday we announced [an executive leadership transition at The Carpentries](/blog/2026/08/executive-leadership-transition-at-the-carpentries/). On 1 September 2026, Dr Kari L. Jordan will step down as Executive Director, and Associate Director Dr Erin Becker will also step down. Dr SherAaron Hurt, currently Director of Workshops and Training, has been appointed by The Carpentries Board of Directors to serve as Interim Executive Director for six months, beginning 2 September 2026\.
+Yesterday we announced [an executive leadership transition at The Carpentries](/blog/2026/08/executive-leadership-transition-at-the-carpentries/). On 1 September 2026, Dr Kari L. Jordan will step down as Executive Director, and Associate Director Dr Erin Becker will also step down. Dr SherAaron Hurt, currently Director of Workshops and Training, has been appointed by The Carpentries Board of Directors to serve as Interim Executive Director for six months, beginning 2 September 2026.
 
-We also announced that the transition includes changes across the Core Team and affects the programmatic activities of The Carpentries. These changes are part of a broader effort to align The Carpentries' staffing structure and activities with our current financial resources and to position the organisation for greater long-term sustainability. Throughout this transition, our priority is to maintain continuity in the programs and services most central to our mission, while ensuring our commitments reflect the capacity of our continuing team. 
+We also announced that the transition includes changes across the [Core Team](/about-us/team/) and affects the programmatic activities of The Carpentries. These changes are part of a broader effort to align The Carpentries' staffing structure and activities with our current financial resources and to position the organisation for greater long-term sustainability. Throughout this transition, our priority is to maintain continuity in the programs and services most central to our mission, while ensuring our commitments reflect the capacity of our continuing team. 
 
 Below, we recognise and celebrate our colleagues who will be departing, introduce the Core Team moving forward, and explain what these staffing changes mean for our programs, services, and community.
 
 ## Celebrating Departing Core Team Members
 
-As part of the restructure, we announce the departure of two Core Team members: our Associate Director of Technology, Maneesha Sane, and our Communications Manager, Oscar Masinyana. 
+As part of the restructure, we announce the departure of two more Core Team members: our Associate Director of Technology, Maneesha Sane, and our Communications Manager, Oscar Masinyana. 
 
 ### Maneesha Sane, Associate Director of Technology
 
