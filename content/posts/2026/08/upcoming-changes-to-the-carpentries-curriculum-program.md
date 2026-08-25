@@ -5,7 +5,7 @@ teaser: "Our Director of Curriculum shares details of the planned adjustments to
 title: "Upcoming Changes to The Carpentries' Curriculum Program"  
 date: 2026-08-25  
 time: "10:00:00"  
-tags: ["Curriculum", "The Carpentries Lab", "Artificial Intelligence"]  
+tags: ["Curriculum", "Carpentries Lab", "Artificial Intelligence"]  
 ---  
 
 Following last week's news about [changes in the capacity of the Core Team](/blog/2026/08/changes-to-core-team-and-programmatic-activities-at-the-carpentries/), and yesterday's announcement of the [Board of Directors' resolution on the Strategic Renewal of The Carpentries Curriculum Portfolio](/blog/2026/08/strategic-renewal-of-the-carpentries-curriculum-portfolio/), this post provides an outlook for The Carpentries curriculum program. It includes more details about the planned renewal of our core curricula and the adjustments to other elements of the program necessary in the current circumstances and foreseeable future.
