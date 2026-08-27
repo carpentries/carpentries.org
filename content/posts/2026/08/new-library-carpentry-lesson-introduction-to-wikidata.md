@@ -3,7 +3,7 @@ layout: page
 authors: ["Rabea Müller, Nicky Garland"]  
 teaser: "The Library Carpentry Governance Committee has approved an addition to our extended curriculum."  
 title: "New Library Carpentry Lesson: Introduction to Wikidata"  
-date: 2026-08-11  
+date: 2026-08-27  
 time: "09:00:00"  
 tags: ["Instructors", "Lessons", "Incubator", "Pilot Workshops", "Library Carpentry"]  
 ---
@@ -62,4 +62,4 @@ Rabea leads the Data Science and Data Literacy Training department at ZB MED. Sh
 
 Till works as a Bioinformatician at ZB MED and is involved in the NFDI Base Service Knowledge Graph Infrastructure. He is a Carpentries Instructor and Maintainer and has been teaching for 10 years.
 
-Konrad is a Professor for Data and Information Literacy at ZB MED - Information Center for Life Sciences and TH Köln. He is a Carpentries Instructor and Lesson Maintainer.
+Konrad is a Professor for Data and Information Literacy at ZB MED - Information Center for Life Sciences and TH Köln. He is a Carpentries Instructor and Maintainer, and previously served as a member of The Carpentries Board of Directors.
