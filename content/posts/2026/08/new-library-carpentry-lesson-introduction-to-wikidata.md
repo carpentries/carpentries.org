@@ -61,3 +61,5 @@ We invite Carpentries Instructors to teach the new lesson and provide feedback v
 Rabea leads the Data Science and Data Literacy Training department at ZB MED. She has been a Carpentries Instructor and Maintainer since 2020, a Carpentries Trainer since 2021, and serves as a Carpentries Community Coordinator for the DACH region.
 
 Till works as a Bioinformatician at ZB MED and is involved in the NFDI Base Service Knowledge Graph Infrastructure. He is a Carpentries Instructor and Maintainer and has been teaching for 10 years.
+
+Konrad is a Professor for Data and Information Literacy at ZB MED - Information Center for Life Sciences and TH Köln. He is a Carpentries Instructor and Lesson Maintainer.
