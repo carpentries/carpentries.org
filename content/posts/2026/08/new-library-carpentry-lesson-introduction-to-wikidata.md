@@ -14,7 +14,7 @@ We are excited to announce that the Library Carpentry Governance Committee has a
 
 This lesson provides an introduction to Wikidata for Librarians, covering the underlying structure of Wikidata; its interface and connection to other Wiki projects, as well as how to create, edit, and search Wikidata objects.
 
-This lesson has been moved from Alpha to Beta status, meaning that it has been developed and tested by the lesson authors and it is now ready to be taught by other Carpentries Instructors. For further information about what the different status of lessons are please read [The Life Cycle of Lessons pages](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html) in the Carpentries handbook.
+This lesson has been moved from Alpha to Beta status, meaning that it has been developed and tested by the lesson authors and it is now ready to be taught by other Carpentries Instructors. For further information about what the different status of lessons are please read [The Life Cycle of Lessons pages]({{< param handbook_url >}}/resources/curriculum/lesson-life-cycle.html) in the Carpentries handbook.
 
 _**To cite the lesson please use the following text**_:
 
@@ -54,7 +54,7 @@ Since then, the lesson has been taught in pilot workshops, migrated to The Carpe
 
 ## Call to Action
 
-We invite Carpentries Instructors to teach the new lesson and provide feedback via the repositories [Issues page](https://github.com/LibraryCarpentry/lc-wikidata/issues). For those who are new to contributing to Carpentries lessons, please read the [contribution guide](https://github.com/LibraryCarpentry/lc-wikidata/blob/main/CONTRIBUTING.md). We are also actively seeking additional Maintainers for the Wikidata Lesson - if you are interested in actively contributing and maintaining this lesson, please contact the repository Maintainers, who are listed in the [lesson repository](https://github.com/LibraryCarpentry/lc-wikidata). If you have any other ideas about designing future Wikidata lessons for Library Carpentry, including what modules should be included, please get in contact with the [Library Carpentry Governance Committee.](https://librarycarpentry.org/about-us/governance/) We would be happy to engage with you!
+We invite Carpentries Instructors to teach the new lesson and provide feedback via the repositories [Issues page](https://github.com/LibraryCarpentry/lc-wikidata/issues). For those who are new to contributing to Carpentries lessons, please read the [contribution guide](https://github.com/LibraryCarpentry/lc-wikidata/blob/main/CONTRIBUTING.md). We are also actively seeking additional Maintainers for the Wikidata Lesson - if you are interested in actively contributing and maintaining this lesson, please contact the repository Maintainers, who are listed in the [lesson repository](https://github.com/LibraryCarpentry/lc-wikidata). If you have any other ideas about designing future Wikidata lessons for Library Carpentry, including what modules should be included, please get in contact with the [Library Carpentry Governance Committee]({{< param lc-website >}}about-us/governance/). We would be happy to engage with you!
 
 ## Lesson Author Biographies
 
