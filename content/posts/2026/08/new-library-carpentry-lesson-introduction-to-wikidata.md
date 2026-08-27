@@ -12,7 +12,7 @@ tags: ["Instructors", "Lessons", "Incubator", "Pilot Workshops", "Library Carpen
 
 We are excited to announce that the Library Carpentry Governance Committee has approved an addition to our extended curriculum: [*Library Carpentry Wikidata.*](https://github.com/LibraryCarpentry/lc-wikidata)
 
-This lesson provides an introduction to Wikidata for Librarians, covering the underlying of Wikidata; its interface and connection to other Wiki projects, as well as how to create, edit, and search Wikidata objects.
+This lesson provides an introduction to Wikidata for Librarians, covering the underlying structure of Wikidata; its interface and connection to other Wiki projects, as well as how to create, edit, and search Wikidata objects.
 
 This lesson has been moved from Alpha to Beta status, meaning that it has been developed and tested by the lesson authors and it is now ready to be taught by other Carpentries Instructors. For further information about what the different status of lessons are please read [The Life Cycle of Lessons pages](https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html) in the Carpentries handbook.
 
