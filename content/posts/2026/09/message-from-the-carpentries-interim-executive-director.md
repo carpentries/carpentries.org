@@ -12,7 +12,7 @@ Today I officially step into the role of Interim Executive Director of The Carpe
 
 I have been quite comfortable serving The Carpentries as a Team Lead and Director of Workshops and Instruction, doing work that I love alongside people I care deeply about. But because this organisation means so much to me, I step into the role of Interim Executive Director with great joy and gratitude.
 
-This has already been a year of transition. We launched [our new Partnership Program](/support/partnership/), welcomed new partners, launched our [Gen AI in Workshops bonus module](/genai/), and continued finding new ways to serve our community. And with four months still left in the year, who knows what else 2026 has in store for us!
+This has already been a year of transition. We launched [our new Partnership Program](/support/partnership/), welcomed new Partners, launched our [Gen AI in Workshops bonus module](/genai/), and continued finding new ways to serve our community. And with four months still left in the year, who knows what else 2026 has in store for us!
 
 Over the next six months, I look forward to continuing the work we started and fulfilling our commitments to our existing and new Partners. **My goal during this interim period is to provide continuity and stability while working closely with our Board of Directors to establish the trajectory for the next iteration of The Carpentries.** This is an opportunity to honour what we have built while thoughtfully considering where we go next.
 
