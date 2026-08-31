@@ -15,9 +15,9 @@ Carpentries leaders are needed! Do you have:
 * A desire and willingness to advise and represent the entire organisation?  
 * Knowledge and experience that will assist The Carpentries Board of Directors in strategically leading and guiding the organisation?
 
-If yes, then The Carpentries needs YOU!
+If yes, then **The Carpentries needs YOU**!
 
-In the search for qualified candidates to serve on [The Carpentries Board of Directors](/governance/), every member of The Carpentries community is invited to participate in the process by nominating themselves for one of the seats coming up for election. 
+In the search for qualified candidates to serve on [The Carpentries Board of Directors](/governance/), every member of The Carpentries community is invited to participate in the process by nominating themselves for one of the seats coming up for election. Nominations close on **9 October, 2026, Anywhere on Earth (AoE)**. 
 
 The Board of Directors is the governance body for The Carpentries, and is responsible for strategic and organisational planning. 
 
@@ -38,7 +38,7 @@ As The Carpentries continues to evolve, we are looking to strengthen the Board w
 
 We welcome candidates who bring experiences and perspectives that can strengthen the Board and help guide The Carpentries into the future. Above all, we are looking for candidates whose values align with [the core values of The Carpentries](https://carpentries.org/about-us/\#our-values) and who are committed to supporting its mission and long-term sustainability.
 
-Nominations for Community-elected positions close on **9 October, 2026, Anywhere on Earth (AoE).
+Nominations for Community-elected positions close on **9 October, 2026, Anywhere on Earth (AoE)**.
 
 [Self-nominate for a Community-elected position](https://docs.google.com/forms/d/e/1FAIpQLSd5qO1xXp38GMdCUCgFQREIBpxIjuGKwMweaRTAASyHfZamMg/viewform?usp=header)
 {.button}
@@ -113,3 +113,6 @@ Community and Board elections occur during consecutive years and help to stagger
 * If you are unsure if you are a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) to see if the records show you are eligible based on the criteria above.   
 * If you need records updated, help logging into AMY, or have any questions, please email [team@carpentries.org](mailto:team@carpentries.org).   
 * If you have taught workshops that are not registered, please include a link to the workshop website(s) in your email to [team@carpentries.org](mailto:team@carpentries.org). We will also email each Instructor their status before voting opens.
+
+[Self-nominate for a Community-elected position](https://docs.google.com/forms/d/e/1FAIpQLSd5qO1xXp38GMdCUCgFQREIBpxIjuGKwMweaRTAASyHfZamMg/viewform?usp=header)
+{.button}
