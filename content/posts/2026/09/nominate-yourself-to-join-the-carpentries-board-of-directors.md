@@ -49,11 +49,11 @@ Nominations for Community-elected positions close on **9 October, 2026, Anywhere
 
 The Carpentries Board of Directors election process is determined by [The Carpentries Bylaws](https://carpentries.org/about-us/governance/\#carpentries-bylaws-and-policies). Below are several frequently asked questions that will help you understand the process.
 
-#### 1. What does the Carpentries Board of Directors do?
+### 1. What does the Carpentries Board of Directors do?
 
 The Carpentries Board of Directors is the governance body of The Carpentries organisation. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries' public image. Members of the Board also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation's reputation and fundraising. The Board carries out these responsibilities through quarterly meetings, regular correspondence, and collaboration via email and online platforms.
 
-#### 2. What expertise does the Board of Directors need?
+### 2. What expertise does the Board of Directors need?
 
 In general, Board of Directors members possess some of the following characteristics:
 
@@ -66,19 +66,19 @@ In general, Board of Directors members possess some of the following characteris
 * Time to participate fully in Board and other Carpentries activities  
 * Previous experience on a Board of Directors
 
-#### 3. How long is the Board term, and when does it start?
+### 3. How long is the Board term, and when does it start?
 
 The first term for community-elected Board members is three (3) years, with new terms beginning on February 1st, following the election. Terms are staggered so that community members are elected every three years.
 
-#### 4. How much time would I need to commit to serving on the Board of Directors?
+### 4. How much time would I need to commit to serving on the Board of Directors?
 
 The Board meets online at least four (4) times per year—usually once a quarter—for 60-90 minutes. Members are expected to attend at least 75% of these meetings. The Board typically meets face-to-face once a year, and members must make themselves available to travel to this event. Standing Committees meet monthly—for 30-60 minutes—in addition to this, and individuals are responsible for taking on work between meetings (e.g. pre-reading meeting materials, writing and editing documents, and organising meetings and discussion sessions for the board and for the community). Board Officers and Standing Committee Chairs have an extra monthly meeting with the Executive Team—for 30-60 minutes—and spend considerable additional time on Carpentries matters. 
 
-#### 5. Are Board members compensated?
+### 5. Are Board members compensated?
 
 Board members are not compensated for their contributions to The Carpentries, except for travel and accommodation costs related to their Board duties. This generally covers the one in-person meeting per year, but does not cover travel to CarpentryConnects or other Carpentries-related events.
 
-#### 6. How do I know if I am a voting member?
+### 6. How do I know if I am a voting member?
 
 Only voting members of The Carpentries can vote in the election and self-nominate for community-elected positions. To be a voting member, you must meet one of the following conditions as outlined in Article V Section 5.04 of [The Carpentries Bylaws](https://carpentries.org/about-us/governance/\#carpentries-bylaws-and-policies): 
 Individual Community Members meeting one of the following conditions are eligible to nominate and elect At-Large Directors to the Board and to vote for At-Large Directors (Section 6.03) in all Board elections.
@@ -90,7 +90,7 @@ Individual Community Members meeting one of the following conditions are eligibl
 
 Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution to any Lesson Program or The Carpentries organisation in the past year is also considered active in the community and is welcome to apply for Voting Membership by completing the [application for voting membership](https://forms.gle/7Cj3VyrNEd5DR64L8). 
 
-#### 7. What is the timeline for the elections?
+### 7. What is the timeline for the elections?
 
 * September 6: Nominations open  
 * October 9: Nominations close  
@@ -100,7 +100,7 @@ Any individual who has participated on a committee, served as a mentor or mainta
 * November 2-13: Voting is open for community-elected positions  
 * November 18: Election results confirmed by Board of Directors
 
-#### 8. What is the difference between community elections and Board elections?
+### 8. What is the difference between community elections and Board elections?
 
 For community elections: members of the community nominate themselves and are voted in by a majority of Individual Community Members during a public voting period. 
 
