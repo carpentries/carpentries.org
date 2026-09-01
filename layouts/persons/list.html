@@ -1,0 +1,23 @@
+{{ define "main" }}
+ <div class="container px-5 mx-auto">
+    {{ partial "breadcrumbs" . }}
+    <h1 class="text-[2rem] leading-[2.8125rem] font-semibold mb-6">{{ .Title }}</h1>
+    <div class="relative grid gap-8 md:grid-cols-12">
+      <div class="col-span-8 pb-16 pro">
+<ul class="persons-list">
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+      </div>
+
+    </div>
+
+  </div>
+
+{{ end }}
+
+
+
