@@ -1,26 +1,14 @@
-- name: Kari L. Jordan, PhD
-  pronouns: she/ella
-  pic: karijordan.jpg
-  position: Executive Director / CEO
-  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
-  github: kariljordan
-  twitter: drkariljordan
-  calendly: kariljordan
+- name: SherAaron Hurt, DBA
+  pic: sheraaronhurt.jpg
+  pronouns: she/her
+  position: Interim Executive Director/CEO
+  lead: Workshops Team Lead
+  jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
+  email:  sheraaron@carpentries.org
+  github: sheraaronhurt
+  calendly: sheraaron
   et: true
-  alt_text: Headshot of Kari Jordan
-  mastodon: https://mastodon.social/@drkariljordan
-
-- name: Erin Becker, PhD
-  pronouns: she/her/hers
-  pic: erinbecker.jpg
-  position: Associate Director / COO
-  jobplan: https://docs.google.com/document/d/1E6-36D6JqtLxnuHRARVulYs8vpQFYfEdGiRcAZZnjfQ/edit
-  email: ebecker@carpentries.org
-  github: erinbecker
-  twitter: ErinSBecker
-  calendly: ebecker-1
-  et: true
-  alt_text: Headshot of Erin Becker
+  alt_text: Headshot of SherAaron Hurt 
 
 - name: Toby Hodges, PhD
   pronouns:  he/him/his
@@ -33,18 +21,6 @@
   et: false
   bluesky: tobyhodges.bsky.social
   alt_text: Headshot of Toby Hodges
-
-- name: SherAaron Hurt, DBA
-  pic: sheraaronhurt.jpg
-  pronouns: she/her
-  position: Director of Workshops and Training
-  lead: Workshops Team Lead
-  jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
-  email:  sheraaron@carpentries.org
-  github: sheraaronhurt
-  calendly: sheraaron
-  et: false
-  alt_text: Headshot of SherAaron Hurt 
 
 - name: Robert Davey, PhD
   pic: robertdavey.jpg
@@ -62,20 +38,6 @@
   alt_text: Headshot of Robert Davey
   mastodon: https://mstdn.science/@froggleston
   bluesky: froggleston.carpentries.org
-
-- name: Oscar Masinyana
-  pic: oscarmasinyana.jpg
-  pronouns: he/him/they/them
-  position: Communications Manager
-  email: oscar.masinyana@carpentries.org
-  github: OscarSiba
-  twitter: oscarsibabalwe
-  linkedin: oscar-masinyana
-  calendly: oscar-masinyana-carpentries
-  orcid: 0009-0006-9624-3278
-  et: false
-  alt_text: African male with short dreadlocked hair, wearing reading glasses and smiling.
-  mastodon: https://mastodon.social/@oscarsibabalwe
 
 - name: Maneesha Sane
   pronouns: Any pronouns will do
