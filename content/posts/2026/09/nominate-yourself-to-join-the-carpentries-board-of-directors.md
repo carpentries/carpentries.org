@@ -23,7 +23,7 @@ The Board of Directors is the governance body for The Carpentries, and is respon
 
 ## Community-elected Members
 
-The Carpentries community will elect **up to four** individuals to the Board of Directors to serve a three-year term. Candidates for the election must self-nominate, and must already be voting members in The Carpentries [as outlined in Article V Section 5.04 of The Carpentries bylaws](https://carpentries.org/about-us/governance/\#carpentries-bylaws-and-policies). Any candidates who are not elected may be automatically considered for one of the Board-elected positions next year. 
+The Carpentries community will elect **up to four** individuals to the Board of Directors to serve a three-year term. Candidates for the election must self-nominate, and must already be voting members in The Carpentries [as outlined in Article V Section 5.04 of The Carpentries bylaws](/about-us/governance/\#carpentries-bylaws-and-policies). Any candidates who are not elected may be automatically considered for one of the Board-elected positions next year. 
 
 Nominate yourself for a community-elected position using [The Carpentries Board of Directors: Community-Elected Positions  form](https://docs.google.com/forms/d/e/1FAIpQLSd5qO1xXp38GMdCUCgFQREIBpxIjuGKwMweaRTAASyHfZamMg/viewform?usp=header). Your answers will be used in a blog post announcing the candidates for the community election. You can view examples of past nomination posts in [the list of previous candidates](/blog/tag/governance/).  
 
@@ -36,7 +36,7 @@ As The Carpentries continues to evolve, we are looking to strengthen the Board w
 * **Partnerships and professional development**, including building cross-sector partnerships and identifying training and growth opportunities for the Core Team.  
 * **Global perspectives and diverse contexts**, including experience working across different geographic, cultural, and funding contexts.
 
-We welcome candidates who bring experiences and perspectives that can strengthen the Board and help guide The Carpentries into the future. Above all, we are looking for candidates whose values align with [the core values of The Carpentries](https://carpentries.org/about-us/\#our-values) and who are committed to supporting its mission and long-term sustainability.
+We welcome candidates who bring experiences and perspectives that can strengthen the Board and help guide The Carpentries into the future. Above all, we are looking for candidates whose values align with [the core values of The Carpentries](/about-us/\#our-values) and who are committed to supporting its mission and long-term sustainability.
 
 Nominations for Community-elected positions close on **9 October, 2026, Anywhere on Earth (AoE)**.
 
@@ -47,7 +47,7 @@ Nominations for Community-elected positions close on **9 October, 2026, Anywhere
 
 ## The Carpentries Board of Directors Election FAQ
 
-The Carpentries Board of Directors election process is determined by [The Carpentries Bylaws](https://carpentries.org/about-us/governance/\#carpentries-bylaws-and-policies). Below are several frequently asked questions that will help you understand the process.
+The Carpentries Board of Directors election process is determined by [The Carpentries Bylaws](/about-us/governance/\#carpentries-bylaws-and-policies). Below are several frequently asked questions that will help you understand the process.
 
 ### 1. What does the Carpentries Board of Directors do?
 
@@ -80,7 +80,7 @@ Board members are not compensated for their contributions to The Carpentries, ex
 
 ### 6. How do I know if I am a voting member?
 
-Only voting members of The Carpentries can vote in the election and self-nominate for community-elected positions. To be a voting member, you must meet one of the following conditions as outlined in Article V Section 5.04 of [The Carpentries Bylaws](https://carpentries.org/about-us/governance/\#carpentries-bylaws-and-policies): 
+Only voting members of The Carpentries can vote in the election and self-nominate for community-elected positions. To be a voting member, you must meet one of the following conditions as outlined in Article V Section 5.04 of [The Carpentries Bylaws](/about-us/governance/\#carpentries-bylaws-and-policies): 
 Individual Community Members meeting one of the following conditions are eligible to nominate and elect At-Large Directors to the Board and to vote for At-Large Directors (Section 6.03) in all Board elections.
 
 * Every individual who has completed Instructor or Trainer certification in the past year  
@@ -106,13 +106,13 @@ For community elections: members of the community nominate themselves and are vo
 
 For Board elections: an individual is nominated by a member of the Board and elected by a majority of the Board at a quarterly meeting. 
 
-Community and Board elections occur during consecutive years and help to stagger Board Directors' terms of office. More information about elections can be found in [The Carpentries Bylaws](https://carpentries.org/governance/carpentries\_inc\_bylaws.pdf).
+Community and Board elections occur during consecutive years and help to stagger Board Directors' terms of office. More information about elections can be found in [The Carpentries Bylaws](/governance/carpentries\_inc\_bylaws.pdf).
 
 ## Need Help?
 
-* If you are unsure if you are a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) to see if the records show you are eligible based on the criteria above.   
+* If you are unsure if you are a voting-eligible member, log in to [AMY]({{< param amy_base >}}) to see if the records show you are eligible based on the criteria above.   
 * If you need records updated, help logging into AMY, or have any questions, please email [team@carpentries.org](mailto:team@carpentries.org).   
-* If you have taught workshops that are not registered, please include a link to the workshop website(s) in your email to [team@carpentries.org](mailto:team@carpentries.org). We will also email each Instructor their status before voting opens.
+* If you have taught workshops that are not registered, please include a link to the workshop website(s) in your email to [{{< param team_email >}}](mailto:{{< param team_email >}}). We will also email each Instructor their status before voting opens.
 
 [Self-nominate for a Community-elected position](https://docs.google.com/forms/d/e/1FAIpQLSd5qO1xXp38GMdCUCgFQREIBpxIjuGKwMweaRTAASyHfZamMg/viewform?usp=header)
 {.button}
