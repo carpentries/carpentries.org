@@ -3,7 +3,7 @@ layout: page
 authors: ["SherAaron Hurt", "Phil Brooks", "Yanina Bellini Saibene"]  
 teaser: "Nominations are now open for community-elected positions on the Carpentries Board of Directors."  
 title: "Nominate Yourself to Join The Carpentries Board of Directors"  
-date: 2026-09-07  
+date: 2026-09-06  
 time: "09:00:00"  
 tags: ["Governance", "Board of Directors", "Community"]  
 ---
