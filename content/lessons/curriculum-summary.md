@@ -59,6 +59,12 @@ interview data. The data used for this workshop is a set of interview responses 
 Africa about their agricultural practices and household resources. This workshop uses restricted-response data and does not cover
 qualitative data analysis or analysis of free-text responses.
 
+## HPC Carpentry
+This [workshop][hpcc] provides researchers and other individuals working with large volumes of data with a guided introduction to working on the shared, distributed computers often referred to as High-Performance Computing (HPC) clusters.
+We explore what it means to work on a cluster, how to connect to these remote systems, and how to manage work tasks executed on them.
+We also teach the skills and understanding required to combine multiple tasks into coordinated workflows that can improve efficiency and reproducibility of processing and analysis carried out on an HPC cluster.
+The workshop empowers learners to make appropriate use of the large-scale computer resources available to them, helping them scale up and accellerate their projects.
+
 ## Library Carpentry
 This [workshop][lc] is intended for people working in libraries and the information sciences. It introduces terms, phrases, and concepts in
 software development and data science, how to best work with data structures, and use regular expressions in searches. We introduce the
@@ -127,5 +133,6 @@ please take the time to provide feedback on your experience to the authors.
 [dc-geospatial]: https://datacarpentry.org/lessons/#geospatial
 [dc-image]: https://datacarpentry.org/lessons/#image-processing
 [dc-socialsci]: https://datacarpentry.org/lessons/#social-science
+[hpcc]: https://hpc-carpentry.org/lessons/
 [lc]: https://librarycarpentry.org/lessons/
 [swc-all]: https://software-carpentry.org/lessons/

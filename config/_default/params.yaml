@@ -87,6 +87,7 @@ workbench_link: https://carpentries.github.io/workbench/
 # Lesson programs
 #############################################
 dc-website: https://datacarpentry.org/
+hpcc-website: https://hpc-carpentry.org/
 lc-website:  https://librarycarpentry.org/
 swc-website: https://software-carpentry.org/
 
