@@ -25,7 +25,7 @@ The Board of Directors is the governance body for The Carpentries, and is respon
 
 The Carpentries community will elect **up to four** individuals to the Board of Directors to serve a three-year term. Candidates for the election must self-nominate, and must already be voting members in The Carpentries [as outlined in Article V Section 5.04 of The Carpentries bylaws](/about-us/governance/\#carpentries-bylaws-and-policies). Any candidates who are not elected may be automatically considered for one of the Board-elected positions next year. 
 
-Nominate yourself for a community-elected position using [The Carpentries Board of Directors: Community-Elected Positions  form](https://docs.google.com/forms/d/e/1FAIpQLSd5qO1xXp38GMdCUCgFQREIBpxIjuGKwMweaRTAASyHfZamMg/viewform?usp=header). Your answers will be used in a blog post announcing the candidates for the community election. You can view examples of past nomination posts in [the list of previous candidates](/blog/tag/governance/).  
+Nominate yourself for a community-elected position using [The Carpentries Board of Directors: Community-Elected Positions  form](https://docs.google.com/forms/d/e/1FAIpQLSd5qO1xXp38GMdCUCgFQREIBpxIjuGKwMweaRTAASyHfZamMg/viewform?usp=header). Your answers will be used in a blog post announcing the candidates for the community election. You can view an example of a [past nomination post](blog/2023/11/election-nominees-for-the-2024-board-of-directors/).  
 
 ## What expertise are we looking for?
 
