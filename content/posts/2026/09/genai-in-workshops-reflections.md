@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Instructor Training", "Artificial Intelligence"]  
 ---
 
-As with most Carpentries workshops, [the _GenAI in Workshops_ bonus module to Instructor Training](https://carpentries.org/genai) began with a series of icebreaker questions for participants. 
+As with most Carpentries workshops, [the _GenAI in Workshops_ bonus module to Instructor Training](/genai) began with a series of icebreaker questions for participants. 
 
 > **"*How helpful or unhelpful do you think genAI tools are for novices learning to code?*"**
 
