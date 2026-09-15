@@ -27,7 +27,7 @@ Partners gain access to a comprehensive suite of training programs, consultation
 <table>
     <tr>
         <td>Has Feature</td>
-        <td><b>Hands-on, practice-based training in teaching and lesson development.</b> Receive priority access to our Instructor Training and Collaborative Lesson Development Training programs, which will empower high-quality lesson creation and instruction at your institution.</td>
+        <td><b>Hands-on, practice-based training in teaching.</b> Receive priority access to our Instructor Training, which will empower high-quality lesson creation and instruction at your institution.</td>
     </tr>
     <tr>
         <td>Has Feature</td>
@@ -52,7 +52,7 @@ We offer four Partnership levels and encourage you to contact us to discuss more
 Each Partnership level comes with a set number of service options that can be mixed and matched from the following: 
 
 - one (1) workshop using one of our data science or computational skills courses, or
-- two (2) seats in a certification program (Instructor Training or Collaborative Lesson Development Training), or
+- two (2) seats in a certification program (Instructor Training), or
 - four (4) seats in our Learner-Centered Teaching program, or
 - sixteen (16) seats in one of our short-format professional development courses, or
 - any fractional combination of the above.
@@ -70,18 +70,18 @@ Appropriate for organisations in the early stages of establishing a local commun
 ### Expand Partnership
 
 For organisations ready to increase their training capacity, an Expand Partnership provides multiple options for skill development and community building. 
-Organisations at the Expand level may elect to train up to six (6) individuals as certified Carpentries Instructors or Lesson Developers, spread evidence-based teaching practices more broadly across their departments with up to twelve (12) seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
+Organisations at the Expand level may elect to train up to six (6) individuals as certified Carpentries Instructors, spread evidence-based teaching practices more broadly across their departments with up to twelve (12) seats in our Learner-Centered Teaching program, or combine either of these paths with short-format professional development opportunities for their staff and students.
 
 ### Scale Partnership
 
 Designed for organisations seeking to broaden their impact, a Scale Partnership enables expanded programming for long-lasting growth of overall institutional capacity. 
-Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty (20) seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors or Lesson Developers. 
+Partners at the Scale level can embed The Carpentries philosophy of teaching and learning broadly throughout their organisation with up to twenty (20) seats in our Learner-Centered Teaching program, or choose to concentrate on certification of up to ten individuals as Carpentries Instructors. 
 They can also reward existing community members with additional professional development opportunities. 
 
 ### Transform Partnership
 
 Intended for organisations pursuing even broader institution-wide change, a Transform Partnership enables accelerated large-scale capacity growth and sustained, organisation-wide impact. 
-Transform level Partners can certify up to sixteen (16) individuals as Carpentries Lesson Developers or Instructors, providing the person-power for extensive curriculum development and instructional efforts. 
+Transform level Partners can certify up to sixteen (16) individuals as Carpentries Instructors, providing the person-power for extensive curriculum development and instructional efforts. 
 Alternatively, Transform Partners can standardise onboarding of cohorts of new educators (e.g. graduate teaching assistants) through our one-day Learner-Centered Teaching program. 
 
 No matter which level of Partnership you pursue, The Carpentries team will help you mix and match our service offerings to build the best training program for your team!
