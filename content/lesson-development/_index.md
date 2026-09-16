@@ -15,17 +15,19 @@ aliases:
 
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). 
 
-The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The Carpentries Collaborative Lesson Development Training provides our community members with the expertise they need to co-create a high-quality curriculum.
+The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills.
 
-The Lesson Developer Handbook provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
+## Lesson Developer Handbook
 
+[The Lesson Developer Handbook](https://docs.carpentries.org/handbooks/lesson_developers.html) provides detailed information, resources, and other documentation for community members who want to get involved with curriculum development.
 
 ## Collaborative Lesson Development Training
 
 Collaborative Lesson Development Training teaches essential skills
-and good practices for designing and developing a lesson as an open source project. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
+and good practices for designing and developing a lesson as an open source project. The training guides you through the design process and initial development of a new lesson, prepares you to work with the infrastructure we use to build accessible, open-source lesson websites, and provides some advice and techniques for effective collaboration on the project.
 
-[Visit the training curriculum]({{< param cldt_curriculum >}}).
+**The Collaborative Lesson Development Training program is currently paused** but [the training curriculum]({{< param cldt_curriculum >}}) remains available as a valuable reference for lesson developers.
+Further details about the training are provided below, to help you decide whether the training curriculum will be a helpful resource for you.
 
 ### Target audience
 
@@ -38,7 +40,7 @@ Collaborative Lesson Development Training teaches fundamental concepts, skills, 
 * Collaboration.
 * Using The Carpentries lesson infrastructure.
 
-After attending this training, participants will be able to:
+After following this training, participants will be able to:
 
 - collaboratively develop and publish lessons using The Carpentries lesson infrastructure.
 - identify and characterise the target audience for a lesson.
@@ -50,28 +52,6 @@ After attending this training, participants will be able to:
 - identify and correct accessibility issues in a lesson built on The Carpentries lesson infrastructure.
 - use feedback and reflection from teaching to update and improve lesson material.
 - review and provide constructive feedback on lessons.
-
-### Training structure
-
-<img alt="The structure of Collaborative Lesson Development Training" src="images/cldt-checkout.svg">
-
-During the training, trainees will learn about backward lesson design, including techniques for the development of effective exercises and accessible lesson content. They will define the target audience and intended learning outcomes of their lesson, produce an outline of the lesson content and narrative, and prepare exercises and examples for a chosen section. They will also be introduced to [The Carpentries Workbench]({{< param workbench_link >}}), the infrastructure that the community uses to create lessons. Applying these skills as they learn, trainees will begin building their new material into an open source lesson website.
-
-Trainees are encouraged to trial part of their new lesson after the training, using this opportunity to gather vital feedback on their lesson design. To complete their certification, they are required to participate in a debrief session, hosted by a Lesson Developer Trainer, where they reflect on the experience of trying out their new lesson and plan next steps for the completion and improvement of the new curriculum.
-
-Trainees are also eligible to join an optional _GitHub Skill-up_ session, included in the price of the training. These skill-up sessions are recommended for any trainees who are not already using GitHub for collaborative development on a regular basis.
-
-## Pricing
-
-Consult our [pricing page](/support/pricing) for our current fee structure.
-
-## Register
-
-Collaborative Lesson Development Training events are scheduled quarterly. [Visit our Training Calendar](https://carpentries.github.io/lesson-development-training/training-calendar.html) for a list of upcoming events and send an email to [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}}) to register your interest in joining a Collaborative Lesson Development Training event.
-
-## Request Accessibility Support
-
-{{< accessibility >}}
 
 ## Contact Us
 
