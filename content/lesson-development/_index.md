@@ -11,6 +11,8 @@ aliases:
 
 <img src="images/CLDT-hex-sticker.png" alt="CLDT hex sticker" style="float:left; margin: 15px">
 
+**Currently inactive: the Collaborative Lesson Development Training program is paused and we are not scheduling any new training events at this time.**
+
 The Carpentries hosts a thriving curriculum development community. Lesson developers collaborate on new lessons in [The Carpentries Incubator]({{< param incubator_link >}}). Mature lessons can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}) and/or may be adopted by one of our lesson programs.
 
 The successful design and collaborative development of a new lesson or curriculum requires specialised knowledge and skills. The Carpentries Collaborative Lesson Development Training provides our community members with the expertise they need to co-create a high-quality curriculum.
