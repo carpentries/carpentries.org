@@ -10,7 +10,7 @@ aliases:
 ## Partnerships
 
 {{< accordion title="What are the benefits of a Carpentries Partnership?" >}}
-- **Hands-on, practice-based training in teaching.** Receive priority access to our Instructor Training, which will empower high-quality lesson creation and instruction at your institution.
+- **Hands-on, practice-based training in teaching.** Receive priority access to our Instructor Training, which will empower high-quality instruction at your institution.
 - **Computational and data skills training.** Gain access to our global network of thousands of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.
 - **Professional development.** Keep your team's skills relevant to the evolving digital workplace with short-format training in remote collaboration, effective meeting facilitation, and more.
 - **Values-driven community of practice.** Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.
