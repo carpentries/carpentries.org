@@ -3,6 +3,10 @@ title: Collaborative Lesson Development FAQ
 layout: single
 ---
 
+## When will the Collaborative Lesson Development Training program restart?
+The Collaborative Lesson Development Training program was paused in September 2026 in response to a reduction in the capacity of the Curriculum Team.
+We will periodically explore whether Curriculum Team capacity is available again for the administration and delivery of the program.
+If and when that capacity returns, whether through an increase in the overall capacity of the team or a decrease in other strategic priorities, the program will be restarted.
 
 ## Who teaches Collaborative Lesson Development Training?
 Our Lesson Developer Trainers are experts in curriculum development drawn from The Carpentries community. They have a wealth of experience in design, development, and maintenance of lessons gathered from activities both within and outside The Carpentries. The majority of Lesson Developer Trainers are volunteers and all have been certified through a multi-week program of Lesson Developer Trainer Training coordinated by the Curriculum Team.
@@ -20,4 +24,4 @@ At least one person in the lesson team must have attended The Carpentries [Instr
 Efforts have been made to make the Collaborative Lesson Development Training curriculum suitable for individuals who want to develop a lesson alone. However, we believe that the lesson development process is likely to be more successful (and more enjoyable!) when it is a collaborative effort among multiple contributors. We encourage those interested in joining the training to find at least one other person to join the training with them. This is reflected in the pricing of the training.
 
 ## What options exist for a lesson after the training?
-Participants will leave the training with the foundations of a lesson and a plan for how to continue developing it. [The Carpentries Incubator]({{< param incubator_link >}}) provides a platform for collaborative curriculum development supported by the community and the Curriculum Team. Mature lessons from the Incubator can be submitted for open peer review in [The Carpentries Lab]({{< param lab_link >}}), with the option of publication in [The Journal of Open Source Education](https://jose.theoj.org/) upon acceptance. Lessons from the Incubator can also be submitted for adoption into one of The Carpentries existing lesson programs, or, more rarely for [consideration as a new lesson program]({{< param handbook_url >}}/resources/curriculum/lesson-programs.html#lesson-program-incubation-roadmap).
+Participants will leave the training with the foundations of a lesson and a plan for how to continue developing it. [The Carpentries Incubator]({{< param incubator_link >}}) provides a platform for collaborative curriculum development supported by the community and the Curriculum Team. Lessons from the Incubator can be submitted for adoption into one of The Carpentries existing lesson programs, or, more rarely for [consideration as a new lesson program]({{< param handbook_url >}}/resources/curriculum/lesson-programs.html#lesson-program-incubation-roadmap).

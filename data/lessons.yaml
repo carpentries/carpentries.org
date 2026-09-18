@@ -190,15 +190,6 @@
     url: https://librarycarpentry.org/lc-r/
 -
     program: DC
-    name: Foundations of Astronomical Data Science
-    description: An introduction to core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum is aimed at researchers and others, who want to perform database operations (SQL queries, joins, filtering) and to create publication-quality visualisations with astronomy data.
-    tool: Python; SQL
-    skill: Data visualisation; Accessing data; Programming
-    language: English
-    domain: Astronomy
-    url: https://datacarpentry.org/astronomy-python/
--
-    program: DC
     name: Ecology Workshop Overview
     description: A lesson to introduce the Data Carpentry Ecology curriculum.
     tool:
@@ -314,42 +305,6 @@
     language: English
     domain: Genomics
     url: https://datacarpentry.org/genomics-r-intro/
--
-    program: DC
-    name: Geospatial Workshop Overview
-    description: A lesson to introduce the Data Carpentry Geospatial curriculum.
-    tool:
-    skill:
-    language: English
-    domain: Geospatial
-    url: https://datacarpentry.org/geospatial-workshop/
--
-    program: DC
-    name: Introduction to Geospatial Concepts
-    description: An overview of the core concepts of geospatial data, for researchers who want to start working with raster or vector data.
-    tool:
-    skill: Data organisation
-    language: English
-    domain: Geospatial
-    url: https://datacarpentry.org/organization-geospatial/
--
-    program: DC
-    name: Introduction to R for Geospatial Data
-    description: An introduction to using R for novice programmers who want to use the language to load and manipulate tabular data.
-    tool: R
-    skill: Programming
-    language: English
-    domain: Geospatial
-    url: https://datacarpentry.org/r-intro-geospatial
--
-    program: DC
-    name: Introduction to Geospatial Raster and Vector Data with R
-    description: An introduction to working with spatial data in R, for researchers and others who want to open, process, summarise, and plot vector and raster-format spatial data.
-    tool: R
-    skill: Data visualisation; Programming
-    language: English
-    domain: Geospatial
-    url: https://datacarpentry.org/r-raster-vector-geospatial
 -
     program: DC
     name: Social Science Workshop Overview
