@@ -10,7 +10,7 @@ aliases:
 ## Partnerships
 
 {{< accordion title="What are the benefits of a Carpentries Partnership?" >}}
-- **Hands-on, practice-based training in teaching and lesson development.** Receive priority access to our Instructor Training and Collaborative Lesson Development Training programs, which will empower high-quality lesson creation and instruction at your institution.
+- **Hands-on, practice-based training in teaching.** Receive priority access to our Instructor Training, which will empower high-quality instruction at your institution.
 - **Computational and data skills training.** Gain access to our global network of thousands of certified Instructors, who will deliver a hands-on learning experience targeting novice learners across a broad range of disciplines.
 - **Professional development.** Keep your team's skills relevant to the evolving digital workplace with short-format training in remote collaboration, effective meeting facilitation, and more.
 - **Values-driven community of practice.** Become part of our inclusive community, centered on building strength through diversity and empowering community collaboration through lifelong learning.
@@ -172,17 +172,6 @@ Instructor Trainer Training seats can be added to your Partnership package at an
 {{< /accordion >}}
 
 
-## Collaborative Lesson Development Training
-
-{{< accordion title="What is Collaborative Lesson Development Training?" >}}
-[Collaborative Lesson Development Training](/lesson-development/) teaches essential skills and best practices for designing and developing lessons as open-source projects. The training will guide you through the design process and initial development of a new lesson, prepare you to work with the infrastructure we use to build accessible, open-source lesson websites, and provide some advice and techniques for effective collaboration on the project.
-{{< /accordion >}}
-
-{{< accordion title="How do I purchase Collaborative Lesson Development Training seats?" >}}
-To attend Collaborative Lesson Development Training, email [{{< param partnership_email >}}](mailto:{{< param partnership_email >}}). 
-{{< /accordion >}}
-
-
 ## Partnership Management
 
 {{< accordion title="Who are Programmatic Partner contacts?" >}}
@@ -213,5 +202,4 @@ These newsletters are distributed quarterly to keep Partner Organisations inform
  * General Partnership questions: [{{< param partnership_email >}}](mailto:{{< param partnership_email >}})
  * Workshops: [{{< param workshops_email >}}](mailto:{{< param workshops_email >}})
  * Instructor Training:  [{{< param instructor_training_email >}}](mailto:{{< param instructor_training_email >}})
- * Collaborative Lesson Development Training: [{{< param curriculum_email >}}](mailto:{{< param curriculum_email >}})
  * Legal or financial questions: [{{< param finance_email >}}](mailto:{{< param finance_email >}})
