@@ -38,8 +38,9 @@ Only Self-Organised workshops offer flexibility to customize lessons, as long as
 * In-person workshops are two eight-hour days and online workshops can be broken up over two to four days.
 * Please plan for 16 hours total for two and four-day workshops and 15 hours for three-day workshops.
 * Breaks are included in the schedule for all workshops.
-* Please request your workshop at least 10 weeks before your proposed workshop dates.
-* If we cannot accommodate your preferred dates, we will provide additional options that are as close as possible to your original preference.
+* For our Partners, please request your workshop at least 10 weeks before your proposed workshop dates.
+* For all other requests, workshops cannot be scheduled until a workshop agreement is signed and complete. Please learn more about planning a Centrally-Organised workshop in our [Workshops FAQ](https://carpentries.org/workshops/workshops-faq/#centrally-organised-workshops). 
+* If we cannot accommodate preferred workshop dates, we will provide additional options that are as close as possible to the original preference.
 
 [Request a workshop]({{< param amy_workshop_landing >}})
 {.button}
