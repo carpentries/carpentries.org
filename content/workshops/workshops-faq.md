@@ -64,6 +64,8 @@ The Carpentries is not responsible for selecting helpers. This is the responsibi
 {{< accordion title="How soon can I request a Carpentries workshop?" >}}
 
 The Carpentries workshops are offered on-demand, not on a set schedule. We ask for a minimum of two to three months lead time to organise the workshop. If a request is less than two months, there will be no guarantee that we will be able to provide Instructors for your workshop. Please be advised that a workshop will not be scheduled until it has been confirmed by the host and The Carpentries Workshop Administrator. Our workshops are organised based on the order the Workshop Request Form is received and finalised. 
+
+Organisations that are not current partners and are requesting a Centrally-Organised workshop must first complete the workshop agreement process with CxORE (The Carpentries back-office support team) before finalizing workshop dates. The Carpentries Workshop Administrator you are working with will connect you with CxORE to get the process started. Dates will not be confirmed until the workshop agreement is completed and signed.
 {{< /accordion >}}
 
 {{< accordion title="My currency is not USD. Will I get invoiced in USD or my local currency?" >}}
