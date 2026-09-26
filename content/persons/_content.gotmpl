@@ -1,0 +1,45 @@
+{{ $persons := .Site.Data.people }}
+
+{{ range $persons }}
+  {{ if and .person_name (ne .person_name "") }}
+
+   {{ $instructor_activity_array := slice }}
+   {{ if .instructor_activity_list }}
+      {{ $instructor_activity_array = split .instructor_activity_list "," }}
+   {{ end }}
+
+   {{ $helper_activity_array := slice }}
+   {{ if .helper_activity_list }}
+      {{ $helper_activity_array = split .helper_activity_list "," }}
+   {{ end }}
+
+
+    {{ $content := dict
+      "path" (.person_name | urlize)
+      "title" .person_name
+      "params" (dict
+        "person_name" .person_name
+        "github" .github
+        "family" .family
+        "personal" .personal
+        "country" .country
+        "twitter" .twitter
+        "instructor_activity_list" .instructor_activity_list
+        "instructor_act" $instructor_activity_array
+        "helper_act" $helper_activity_array
+        "helper_activity_list" .helper_activity_list
+        "badges" .badges 
+        "maintainer" (string .maintainer)
+        "instructor" (string .instructor)
+        "trainer" (string .trainer)
+        "cldt" (string .cldt)
+        "url" .url
+        "orcid" .orcid
+        "bluesky" .bluesky
+      )
+    }}
+    {{ $.AddPage $content }}
+  {{ else }}
+    {{ warnf "Missing data: %v" . }}
+  {{ end }}
+{{ end }}
