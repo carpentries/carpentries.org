@@ -16,7 +16,7 @@ Becoming an Instructor Trainer is more than earning a new certification. These c
 
 We are incredibly proud of all they have accomplished and excited to welcome them into The Carpentries Instructor Trainer community.
 
-# Meet Our 2026 Instructor Trainers
+## Meet Our 2026 Instructor Trainers
 
 ### Allie Tatarian
 Allie Tatarian (they/them) is a librarian at Tufts University in Boston. They first became interested in Carpentries when they used the SC lesson to learn Git for a job. Today, Allie leads the Carpentries program at Tufts, and has served as a host, instructor, helper, and maintainer for the Carpentries.
