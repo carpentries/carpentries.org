@@ -31,7 +31,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation: true 
-    - membership:
+    - partnership:
     - mentoring:
     - online_workshops: true 
     - teaching:
@@ -80,7 +80,7 @@ subcommunities:
     - instructor_development: true 
     - instructor_training: true 
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true 
     - online_workshops: true 
     - teaching:
@@ -130,7 +130,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true 
     - online_workshops: true 
     - teaching:
@@ -179,7 +179,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring:  
     - online_workshops:  
     - teaching: true 
@@ -228,7 +228,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training: true
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring:  
     - online_workshops: true  
     - teaching: true
@@ -277,7 +277,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training: true
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true  
     - online_workshops: true  
     - teaching: true
@@ -326,7 +326,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true  
     - online_workshops:  
     - teaching:
@@ -377,7 +377,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training: true
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true  
     - online_workshops: true  
     - teaching: true
@@ -430,7 +430,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation:
-    - membership: true
+    - partnership: true
     - mentoring:  
     - online_workshops:  
     - teaching:
@@ -480,7 +480,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring:  
     - online_workshops:  
     - teaching:
@@ -531,7 +531,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training: true
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring:  
     - online_workshops: true  
     - teaching: true
@@ -581,7 +581,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training: true
     - internationalisation: true
-    - membership:
+    - partnership:
     - mentoring: true
     - online_workshops: true
     - teaching: true
@@ -631,7 +631,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation: true
-    - membership:
+    - partnership:
     - mentoring:  
     - online_workshops: true
     - teaching: true
@@ -681,7 +681,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true
     - online_workshops:  
     - teaching: true
@@ -732,7 +732,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training: true
     - internationalisation:  true
-    - membership:
+    - partnership:
     - mentoring: true
     - online_workshops: true
     - teaching: true
@@ -781,7 +781,7 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring:  
     - online_workshops:  
     - teaching:
@@ -831,7 +831,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true
     - online_workshops: true 
     - teaching: true
@@ -881,7 +881,7 @@ subcommunities:
     - instructor_development: 
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: 
     - online_workshops: true 
     - teaching: true
@@ -931,7 +931,7 @@ subcommunities:
     - instructor_development: 
     - instructor_training:
     - internationalisation:
-    - membership:
+    - partnership:
     - mentoring: true
     - online_workshops: true 
     - teaching: true
@@ -981,7 +981,7 @@ subcommunities:
     - instructor_development: 
     - instructor_training:
     - internationalisation: true
-    - membership:
+    - partnership:
     - mentoring: 
     - online_workshops: true 
     - teaching: 
@@ -1032,7 +1032,7 @@ subcommunities:
     - instructor_development: true
     - instructor_training:
     - internationalisation: 
-    - membership:
+    - partnership:
     - mentoring: 
     - online_workshops: 
     - teaching: 
@@ -1054,7 +1054,7 @@ subcommunities:
 - name: UK Carpentries Community
   type: regional 
   member: false 
-  description: The UK Carpentries Community is a supportive and inclusive space for Instructors, helpers, and workshop coordinators involved in teaching technical skills to researchers. It facilitates collaboration, knowledge sharing, and networking while assisting with workshop organisation, technical queries, and institutional membership.
+  description: The UK Carpentries Community is a supportive and inclusive space for Instructors, helpers, and workshop coordinators involved in teaching technical skills to researchers. It facilitates collaboration, knowledge sharing, and networking while assisting with workshop organisation, technical queries, and institutional partnership.
   activities:
     - carpentry_connect: true
     - communication: true
@@ -1082,7 +1082,7 @@ subcommunities:
     - instructor_development:
     - instructor_training: 
     - internationalisation:  
-    - membership:
+    - partnership:
     - mentoring:
     - online_workshops: true
     - teaching: true
@@ -1132,7 +1132,7 @@ subcommunities:
     - instructor_development:
     - instructor_training: 
     - internationalisation:  
-    - membership:
+    - partnership:
     - mentoring:
     - online_workshops: true
     - teaching: true
@@ -1144,6 +1144,58 @@ subcommunities:
     - mailing_list: https://groups.google.com/a/ucsd.edu/g/uc-carpentries-instructors-g
     - contact_form: https://groups.google.com/u/1/a/ucsd.edu/g/uc-carpentries-instructors-g 
     - contact_person: Tim Dennis
+  social_media: 
+    - twitter: 
+    - mastodon: 
+    - instagram: 
+    - facebook: 
+    - linkedin: 
+
+- name: NL Carpentries Community
+  type: regional 
+  member: true 
+  description: The Carpentries in the Netherlands are represented by the NL Carpentries Coordinators group - a group consisting of training programme coordinators from across Dutch academic institutes with a Carpentries partnership and/or Carpentry Instructors
+  activities:
+    - carpentry_connect: 
+    - communication: true
+    - prof_dev: true
+    - sow:  
+    - fundraising: true
+    - student_programs:
+    - translation: 
+    - mentoring: true
+    - other: 
+  volunteers: true
+  logo:
+  location: 
+  country: Netherlands
+  website: https://researchsoftwaretraining.nl/the-carpentries/
+  tags:
+    - assessment:
+    - carpentry_connect: 
+    - communication: true
+    - community_discussion: true
+    - curriculum: true
+    - events: true
+    - governance: true
+    - inperson_workshops:
+    - instructor_development: true
+    - instructor_training: true
+    - internationalisation:  
+    - partnership: true
+    - mentoring:
+    - online_workshops: true
+    - teaching: true
+    - other: "Please feel welcome to reach out to us at rstnl@esciencecenter.nl. We welcome you to become a member of RST-NL: the organisation for research software training & support, offering train-the-trainer and networking activities."
+  contact:
+    - email: 
+      - "rstnl@esciencecenter.nl"
+      - "f.riemslagh@esciencecenter.nl"
+      - "e.lekkerkerker@esciencecenter.nl"
+    - slack: "Carpentries workspace, #local-netherlands"
+    - mailing_list: https://carpentries.topicbox.com/groups/local-netherlands
+    - contact_form: https://researchsoftwaretraining.nl/become-a-member/
+    - contact_person: Fenne Riemslagh and Eva Lekkerkerker
   social_media: 
     - twitter: 
     - mastodon: 
