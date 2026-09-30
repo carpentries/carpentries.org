@@ -3,7 +3,7 @@ layout: page
 authors: ["SherAaron Hurt"]
 teaser: "We are incredibly proud of all they have accomplished and excited to welcome them into The Carpentries Instructor Trainer community."
 title: "Building the Future of Instructor Training"
-date: 2026-10-03
+date: 2026-10-08
 time: "12:00:00"
 tags: ["Instructor Training", "Instructor Development", "Trainer Training"]
 ---
