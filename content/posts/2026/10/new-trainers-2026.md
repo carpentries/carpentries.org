@@ -68,7 +68,7 @@ I am a Research Support Specialist at Research and Education Advanced Network Ne
 
 ### Other Carpentries Instructor Trainers
 
-Tannia Chevez from ACENET and Aman Goel from the Institute for Research Software also joined the The Carpentries Instructor Trainer community.
+Tannia Chevez from ACENET and Aman Goel from the Institute for Research Software also joined The Carpentries Instructor Trainer community.
 
 
 
