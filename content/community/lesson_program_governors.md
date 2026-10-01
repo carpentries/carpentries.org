@@ -10,5 +10,6 @@ A Lesson Program Governance Committee will typically have 3-5 members, including
 Lesson Program Governors are listed on the respective lesson program pages:
 
 * [Data Carpentry]({{< param dc-website >}}about-us/governance/)
+* [HPC Carpentry]({{< param hpcc-website >}}about-us/governance/)
 * [Library Carpentry]({{< param lc-website >}}about-us/governance/)
 * [Software Carpentry]({{< param swc-website >}}about-us/governance/)
