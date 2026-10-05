@@ -951,7 +951,7 @@ subcommunities:
     - linkedin: 
  
 - name: Carpentries Ukraine
-  type: interest
+  type: regional
   member:  
   description: Ukrainian Carpentries is a subcommunity translating the Carpentries teaching materials into Ukrainian language.
   activities: 
