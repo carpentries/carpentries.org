@@ -62,7 +62,7 @@ For a Centrally-Organised workshop, The Carpentries Workshops and Instruction Te
 {{< accordion title="How do your workshops run?" >}}
 For [Centrally-Organised workshops](/workshops/#workshop-organising), we will work with a designated Partner contact to find
 Instructors, set up and handle registration, support Instructor logistics, and coordinate and share assessment results with you.
-The Partner is responsible for instructor travel expenses, which are not covered in partnership fees.<br><br>
+The Partner is responsible for Instructor travel expenses, which are not covered in partnership fees.<br><br>
 Centrally-Organised workshops can also be purchased [a la carte](/support/pricing/#add-on-and-a-la-carte-services) or added to an existing
 Partnership. If you would like to run a Centrally-Organised workshop in order to demonstrate the value of The Carpentries
 Partnership at your organisation, we will count the workshop fee towards a Partnership if purchased within twelve (12) months.<br><br>
