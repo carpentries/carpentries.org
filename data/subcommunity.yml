@@ -968,7 +968,7 @@ subcommunities:
   logo:
   location: 
   country: 
-  website: 
+  website: https://ukrainian-carpentries.github.io/
   tags:
     - assessment:
     - carpentry_connect: 
@@ -999,7 +999,7 @@ subcommunities:
     - instagram: 
     - facebook: 
     - linkedin: 
-    - github: https://ukrainian-carpentries.github.io/ 
+    - github: 
 
 - name: Carpentries-Israel
   type: regional
