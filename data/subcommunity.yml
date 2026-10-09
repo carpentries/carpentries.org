@@ -742,7 +742,7 @@ subcommunities:
     - slack: "Carpentries workspace, #local-africa" 
     - mailing_list: https://carpentries.topicbox.com/groups/local-africa
     - contact_form:
-    - contact_person: Ouso Daniel
+    - contact_person: "Ouso Daniel"
   social_media: 
     - twitter: 
     - mastodon: 
