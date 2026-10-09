@@ -951,10 +951,10 @@ subcommunities:
     - facebook: 
     - linkedin: 
  
-- name: Carpentries Ukraine
-  type: interest
+- name: Ukrainian Carpentries Community
+  type: regional
   member:  
-  description: Ukrainian Carpentries is a subcommunity translating the Carpentries teaching materials into Ukrainian language.
+  description: The Ukrainian Carpentries Community is a subcommunity that translates and teaches Carpentries lessons in Ukrainian.
   activities: 
     - carpentry_connect: 
     - communication: true
@@ -969,7 +969,7 @@ subcommunities:
   logo:
   location: 
   country: 
-  website: 
+  website: https://ukrainian-carpentries.github.io/
   tags:
     - assessment:
     - carpentry_connect: 
@@ -1000,7 +1000,7 @@ subcommunities:
     - instagram: 
     - facebook: 
     - linkedin: 
-    - github: https://github.com/ukrainian-carpentries 
+    - github: 
 
 - name: Carpentries-Israel
   type: regional
