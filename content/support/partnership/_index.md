@@ -53,7 +53,7 @@ Each Partnership level comes with a set number of service options that can be mi
 
 - one (1) workshop using one of our data science or computational skills courses, or
 - two (2) seats in a certification program (Instructor Training), or
-- four (4) seats in our Learner-Centered Teaching program, or
+- four (4) seats in our Learner-Centered Teaching or GenAI in Workshops, or
 - sixteen (16) seats in one of our short-format professional development courses, or
 - any fractional combination of the above.
 
