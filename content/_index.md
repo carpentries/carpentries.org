@@ -13,7 +13,7 @@ blocks:
     - copy: Become an Instructor
       url: /instructor-training/
     - copy: Donate to The Carpentries
-      url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=website"
+      url: /support/donate-form/
 - layout: hero
   title: The Carpentries teaches foundational coding and data science skills to researchers worldwide.
   image: /images/hero-background.jpg
@@ -25,7 +25,10 @@ blocks:
     - "**{{< feed_value key=\"trainers\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Trainers"
     - "**{{< feed_value key=\"workshops\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Workshops"
     - "**{{< feed_value key=\"workshop countries\" feed=\"https://feeds.carpentries.org/website_stats.json\" >}}** Countries"
- 
+- layout: youtube
+  youtube_id: '56Ewvt8hGPU'
+  title: "The global impact of The Carpentries"
+  subtitle: "featuring Lyrric Jackson, a Carpentries Instructor." 
   cta:
     copy: Join our community
     url: '/community/'
