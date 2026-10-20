@@ -14,7 +14,7 @@ tags: ["Community", "Board of Directors"]
 
 Eligible Voting Members will receive an email from The Carpentries Core Team with the subject “Confirming eligibility to vote in The Carpentries 2027 Board of Directors Election”. If you do not receive the email but feel you have contributed sufficiently to the Carpentries community, please complete the [Application for Voting Membership](https://docs.google.com/forms/d/e/1FAIpQLScR4m-NQw7QFo0YN9Gx1pCVcmdPDxPkjEvZxBezeLX-CwRSGw/viewform) before October 30, 2026.
 
-All eligible Voting Members will receive a personal ballot and voting instructions from The Carpentries via ElectionBuddy by November 2, 2026. For more information about the Board of Directors and the election process, read our blog post on the [Call for Candidates for The Carpentries Board of Directors](https://carpentries.org/blog/2026/09/nominate-yourself-to-join-the-carpentries-board-of-directors/). Please email questions or concerns about the election process to the Board of Directors at board@carpentries.org.
+All eligible Voting Members will receive a personal ballot and voting instructions from The Carpentries via ElectionBuddy by November 2, 2026. For more information about the Board of Directors and the election process, read our blog post on the [Call for Candidates for The Carpentries Board of Directors](https://carpentries.org/blog/2026/09/nominate-yourself-to-join-the-carpentries-board-of-directors/). Please email questions or concerns about the election process to team@carpentries.org.
 
 # Meet the Candidates
 
