@@ -368,4 +368,21 @@
     language: English
     domain: Imaging
     url: https://datacarpentry.org/image-processing/
-
+-
+    program: HPCC
+    name: Using High-Performance Computing Systems
+    description: An introduction to connecting to a remote, shared, high-performance computing system and using a job scheduler to submit tasks for execution on the system.
+    tool: Shell
+    skill: Distributed computing
+    language: English
+    domain: General
+    url: https://hpc-carpentry.github.io/hpc-intro/
+-
+    program: HPCC
+    name: Building HPC Workflows with Snakemake
+    description: An introduction to combining computing tasks into workflows for orchestrated execution on a high-performance computing system.
+    tool: Snakemake
+    skill: Distributed computing; Workflow management
+    language: English
+    domain: General
+    url: https://hpc-carpentry.github.io/hpc-workflows/
