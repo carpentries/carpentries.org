@@ -16,7 +16,7 @@ Two participants in the first round of sessions shared [their reflections in an 
 
 Reflecting on the outcomes of the sessions run in August, we concluded that we need to make it easier for more members of our Instructor community to join this training and ensure that the workshops they deliver remain as impactful as possible. 
 So I am pleased to announce that [we have **halved** the price of participation](https://carpentries.org/support/pricing/) in the GenAI in Workshops program. 
-I hope you can join one of the upcoming sessions but, if none of the scheduled events are a good fit for you dd not worry! 
+I hope you can join one of the upcoming sessions but, if none of the scheduled events are a good fit for you do not worry! 
 Further training sessions will be added to the calendar from April 2027.
 
 ## Key themes from the sessions so far
