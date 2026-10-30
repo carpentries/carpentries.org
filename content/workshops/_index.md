@@ -39,7 +39,7 @@ The Carpentries teaches workshops around the world on the foundational skills to
 ## Workshop Curriculum
 
 * [Data Carpentry workshops]({{< param dc-website >}}lessons) are for people who work with data in their research and want to learn how to code and organise their projects to work more effectively and reproducibly with data. 
-* [High-performance Computing (HPC) Carpentry workshops]({{< param hpcc-website >}}lessons) are for people who want to scale up their work by connecting to remote, shared computing systems and execute tasks on them to advance their projects.
+* [High-Performance Computing (HPC) Carpentry workshops]({{< param hpcc-website >}}lessons) are for people who want to scale up their work by connecting to remote, shared computing systems and execute tasks on them to advance their projects.
 * [Library Carpentry workshops]({{< param lc-website >}}lessons) are for people working in library- and information-related roles to build software and data skills. The workshops are domain-agnostic, though the datasets used will be familiar to library staff. 
 * [Software Carpentry workshops]({{< param swc-website >}}lessons) are for people who are learning to develop software or want to learn best-practices in software development. Lessons are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git. 
 
