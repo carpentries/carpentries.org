@@ -28,7 +28,7 @@ _Topic_: Brief update on Findable, Accessible, Interoperable, and Reusable ([FAI
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20180820T20&p1=1440&ah=1)
 
 **24 September @ 20:00 UTC**  
-[Tara Vancil](https://twitter.com/taravancil), In charge of words, product, website at [Beaker](https://beakerbrowser.com/), a browser for the peer to peer web  
+[Tara Vancil](https://twitter.com/taravancil), In charge of words, product, website at [Beaker](https://web.archive.org/web/20250201002303/https://beakerbrowser.com/), a browser for the peer to peer web  
 _Topic:_ Peer to peer web for librarians  
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20180924T20&ah=1)
 
